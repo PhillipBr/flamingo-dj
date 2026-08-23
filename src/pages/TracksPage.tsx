@@ -2,11 +2,13 @@ import {
   Filter,
   Music2,
   Search,
+  Sparkles,
 } from "lucide-react";
 
 import {
   useEffect,
   useMemo,
+  useRef,
   useState,
   type MouseEvent,
 } from "react";
@@ -19,6 +21,7 @@ import BulkActionsBar from "../components/tracks/BulkActionsBar";
 import ColumnManager from "../components/tracks/ColumnManager";
 import TrackContextMenu from "../components/tracks/TrackContextMenu";
 import TrackDetailsPanel from "../components/tracks/TrackDetailsPanel";
+import MatchSongsPanel from "../components/tracks/MatchSongsPanel";
 import TrackFiltersPanel from "../components/tracks/TrackFiltersPanel";
 
 import TracksTable, {
@@ -33,6 +36,7 @@ import {
 } from "../config/trackColumns";
 
 import type { Playlist } from "../types/playlist";
+import type { CurrentSet } from "../types/setlist";
 import type { Track } from "../types/track";
 import type { TrackColumnId } from "../types/trackColumn";
 
@@ -53,6 +57,12 @@ import {
   loadTracks,
   saveTracks,
 } from "../utils/trackStorage";
+
+import {
+  createCurrentSetItem,
+  loadCurrentSet,
+  saveCurrentSet,
+} from "../utils/currentSetStorage";
 
 import {
   sanitizeTrackFilters,
@@ -190,13 +200,6 @@ function getComparableValue(
   );
 }
 
-function normalizeKeyword(
-  value: string,
-): string {
-  return value
-    .trim()
-    .toLowerCase();
-}
 
 export default function TracksPage() {
   const [
@@ -251,6 +254,32 @@ export default function TracksPage() {
   );
 
   const [
+    matchTrackId,
+    setMatchTrackId,
+  ] = useState<string | null>(
+    null,
+  );
+
+  const [
+    spotifyTrackId,
+    setSpotifyTrackId,
+  ] = useState<string | null>(
+    null,
+  );
+
+  const spotifyWindowRef =
+    useRef<Window | null>(
+      null,
+    );
+
+  const [
+    currentSet,
+    setCurrentSet,
+  ] = useState<CurrentSet>(
+    loadCurrentSet,
+  );
+
+  const [
     contextMenu,
     setContextMenu,
   ] =
@@ -293,7 +322,7 @@ export default function TracksPage() {
     tracks,
     setTracks,
     visibleColumns,
-    detailTrackId: detailsTrackId,
+    detailTrackId: detailsTrackId ?? spotifyTrackId,
     genreFilter,
     advancedFilters,
     searchTerm,
@@ -306,14 +335,58 @@ export default function TracksPage() {
         detailsTrackId,
     ) ?? null;
 
-  const selectedTrackIdSet =
-    useMemo(
-      () =>
-        new Set(
-          selectedTrackIds,
-        ),
-      [selectedTrackIds],
-    );
+  const selectedMatchTrack =
+    tracks.find(
+      (track) =>
+        track.id ===
+        matchTrackId,
+    ) ?? null;
+
+  useEffect(() => {
+    if (!spotifyTrackId) {
+      return;
+    }
+
+    const spotifyTrack =
+      tracks.find(
+        (track) =>
+          track.id ===
+          spotifyTrackId,
+      );
+
+    if (
+      !spotifyTrack ||
+      !spotifyTrack.spotifyUrl
+    ) {
+      return;
+    }
+
+    const pendingWindow =
+      spotifyWindowRef.current;
+
+    if (
+      pendingWindow &&
+      !pendingWindow.closed
+    ) {
+      pendingWindow.location.href =
+        spotifyTrack.spotifyUrl;
+    } else {
+      window.open(
+        spotifyTrack.spotifyUrl,
+        "_blank",
+        "noopener,noreferrer",
+      );
+    }
+
+    spotifyWindowRef.current =
+      null;
+    setSpotifyTrackId(null);
+  }, [
+    spotifyTrackId,
+    tracks,
+  ]);
+
+
 
   useEffect(() => {
     saveTracks(tracks);
@@ -322,6 +395,12 @@ export default function TracksPage() {
   useEffect(() => {
     savePlaylists(playlists);
   }, [playlists]);
+
+  useEffect(() => {
+    saveCurrentSet(
+      currentSet,
+    );
+  }, [currentSet]);
 
   useEffect(() => {
     localStorage.setItem(
@@ -357,6 +436,19 @@ export default function TracksPage() {
 
       setContextMenu(null);
       setDetailsTrackId(null);
+      setMatchTrackId(null);
+      setSpotifyTrackId(null);
+
+      if (
+        spotifyWindowRef.current &&
+        !spotifyWindowRef.current.closed
+      ) {
+        spotifyWindowRef.current.close();
+      }
+
+      spotifyWindowRef.current =
+        null;
+
       setTransferMode(null);
     }
 
@@ -420,7 +512,25 @@ export default function TracksPage() {
     ) {
       setDetailsTrackId(null);
     }
-  }, [detailsTrackId, tracks]);
+
+    if (
+      matchTrackId &&
+      !existingTrackIds.has(
+        matchTrackId,
+      )
+    ) {
+      setMatchTrackId(null);
+    }
+
+    if (
+      spotifyTrackId &&
+      !existingTrackIds.has(
+        spotifyTrackId,
+      )
+    ) {
+      setSpotifyTrackId(null);
+    }
+  }, [detailsTrackId, matchTrackId, spotifyTrackId, tracks]);
 
   const availableGenres =
     useMemo(() => {
@@ -582,116 +692,6 @@ export default function TracksPage() {
       sortField,
       tracks,
     ]);
-
-  function updateSelectedTracks(
-    updater: (
-      track: Track,
-    ) => Track,
-  ) {
-    setTracks(
-      (currentTracks) =>
-        currentTracks.map(
-          (track) =>
-            selectedTrackIdSet.has(
-              track.id,
-            )
-              ? updater(track)
-              : track,
-        ),
-    );
-  }
-
-  function handleBulkSetFolder(
-    folder: string | null,
-  ) {
-    updateSelectedTracks(
-      (track) => ({
-        ...track,
-        folder,
-      }),
-    );
-  }
-
-  function handleBulkAddKeyword(
-    keyword: string,
-  ) {
-    const normalizedNewKeyword =
-      normalizeKeyword(
-        keyword,
-      );
-
-    updateSelectedTracks(
-      (track) => {
-        const keywordExists =
-          track.keywords.some(
-            (currentKeyword) =>
-              normalizeKeyword(
-                currentKeyword,
-              ) ===
-              normalizedNewKeyword,
-          );
-
-        if (keywordExists) {
-          return track;
-        }
-
-        return {
-          ...track,
-
-          keywords: [
-            ...track.keywords,
-            keyword,
-          ],
-        };
-      },
-    );
-  }
-
-  function handleBulkRemoveKeyword(
-    keyword: string,
-  ) {
-    const normalizedKeywordToRemove =
-      normalizeKeyword(
-        keyword,
-      );
-
-    updateSelectedTracks(
-      (track) => ({
-        ...track,
-
-        keywords:
-          track.keywords.filter(
-            (currentKeyword) =>
-              normalizeKeyword(
-                currentKeyword,
-              ) !==
-              normalizedKeywordToRemove,
-          ),
-      }),
-    );
-  }
-
-  function handleBulkSetRating(
-    rating: number | null,
-  ) {
-    updateSelectedTracks(
-      (track) => ({
-        ...track,
-        rating,
-      }),
-    );
-  }
-
-  function handleBulkSetEnergy(
-    energy: number | null,
-  ) {
-    updateSelectedTracks(
-      (track) => ({
-        ...track,
-        energy,
-      }),
-    );
-  }
 
   function removeTracksFromCatalog(
     trackIdsToRemove: string[],
@@ -1215,6 +1215,151 @@ export default function TracksPage() {
     });
   }
 
+  function handleOpenTrackDetails(
+    trackId: string,
+  ) {
+    setMatchTrackId(null);
+    setContextMenu(null);
+
+    setDetailsTrackId(
+      trackId,
+    );
+  }
+
+  function handleOpenMatchPanel() {
+    if (
+      selectedTrackIds.length !==
+      1
+    ) {
+      return;
+    }
+
+    setDetailsTrackId(null);
+    setContextMenu(null);
+
+    setMatchTrackId(
+      selectedTrackIds[0],
+    );
+  }
+
+  function handleEditSelectedTrack() {
+    if (
+      selectedTrackIds.length !==
+      1
+    ) {
+      return;
+    }
+
+    handleOpenTrackDetails(
+      selectedTrackIds[0],
+    );
+  }
+
+  function handleOpenSelectedSpotify() {
+    if (
+      selectedTrackIds.length !==
+      1
+    ) {
+      return;
+    }
+
+    const trackId =
+      selectedTrackIds[0];
+
+    const selectedTrack =
+      tracks.find(
+        (track) =>
+          track.id === trackId,
+      );
+
+    if (!selectedTrack) {
+      return;
+    }
+
+    if (selectedTrack.spotifyUrl) {
+      window.open(
+        selectedTrack.spotifyUrl,
+        "_blank",
+        "noopener,noreferrer",
+      );
+
+      return;
+    }
+
+    const pendingWindow =
+      window.open(
+        "",
+        "_blank",
+      );
+
+    spotifyWindowRef.current =
+      pendingWindow;
+
+    if (pendingWindow) {
+      try {
+        pendingWindow.document.title =
+          `Opening ${selectedTrack.title} in Spotify...`;
+
+        pendingWindow.document.body.innerHTML =
+          "<p style='font-family:system-ui;padding:24px'>Loading Spotify track…</p>";
+      } catch {
+        // Browser security settings may prevent document access.
+      }
+    }
+
+    setSpotifyTrackId(
+      trackId,
+    );
+  }
+
+  function handleAddTrackToCurrentSet(
+    trackId: string,
+  ) {
+    setCurrentSet(
+      (currentValue) => {
+        if (
+          currentValue.items.some(
+            (item) =>
+              item.trackId ===
+              trackId,
+          )
+        ) {
+          return currentValue;
+        }
+
+        return {
+          ...currentValue,
+          items: [
+            ...currentValue.items,
+            createCurrentSetItem(
+              trackId,
+            ),
+          ],
+          updatedAt:
+            new Date().toISOString(),
+        };
+      },
+    );
+  }
+
+  function handleRemoveTrackFromCurrentSet(
+    trackId: string,
+  ) {
+    setCurrentSet(
+      (currentValue) => ({
+        ...currentValue,
+        items:
+          currentValue.items.filter(
+            (item) =>
+              item.trackId !==
+              trackId,
+          ),
+        updatedAt:
+          new Date().toISOString(),
+      }),
+    );
+  }
+
   function handleSaveTrack(
     trackId: string,
     changes: Partial<Track>,
@@ -1295,6 +1440,13 @@ export default function TracksPage() {
       setDetailsTrackId(null);
     }
 
+    if (
+      matchTrackId ===
+      trackId
+    ) {
+      setMatchTrackId(null);
+    }
+
     setContextMenu(null);
   }
 
@@ -1302,7 +1454,8 @@ export default function TracksPage() {
     <>
       <section
         className={`page tracks-page ${
-          selectedDetailsTrack
+          selectedDetailsTrack ||
+          selectedMatchTrack
             ? "tracks-page--panel-open"
             : ""
         }`}
@@ -1384,6 +1537,27 @@ export default function TracksPage() {
             </label>
 
 
+            <button
+              className="tracks-toolbar__match-button"
+              type="button"
+              disabled={
+                selectedTrackIds.length !==
+                1
+              }
+              title={
+                selectedTrackIds.length ===
+                1
+                  ? "Find compatible tracks"
+                  : "Select exactly one track to use Match"
+              }
+              onClick={
+                handleOpenMatchPanel
+              }
+            >
+              <Sparkles size={16} />
+              MATCH
+            </button>
+
             <TrackFiltersPanel
               tracks={tracks}
               filters={
@@ -1415,30 +1589,24 @@ export default function TracksPage() {
           selectedCount={
             selectedTrackIds.length
           }
-          onCopySelected={() =>
-            setTransferMode(
-              "copy",
-            )
+          onMatchSelected={
+            handleOpenMatchPanel
+          }
+          onEditSelected={
+            handleEditSelectedTrack
           }
           onMoveSelected={() =>
             setTransferMode(
               "move",
             )
           }
-          onSetFolder={
-            handleBulkSetFolder
+          onAddSelected={() =>
+            setTransferMode(
+              "copy",
+            )
           }
-          onAddKeyword={
-            handleBulkAddKeyword
-          }
-          onRemoveKeyword={
-            handleBulkRemoveKeyword
-          }
-          onSetRating={
-            handleBulkSetRating
-          }
-          onSetEnergy={
-            handleBulkSetEnergy
+          onOpenSpotifySelected={
+            handleOpenSelectedSpotify
           }
           onDeleteSelected={
             handleDeleteSelected
@@ -1471,7 +1639,7 @@ export default function TracksPage() {
               handleToggleAllVisible
             }
             onOpenTrackDetails={
-              setDetailsTrackId
+              handleOpenTrackDetails
             }
             onSort={handleSort}
             onOpenContextMenu={
@@ -1511,6 +1679,32 @@ export default function TracksPage() {
         }
       />
 
+      <MatchSongsPanel
+        track={
+          selectedMatchTrack
+        }
+        tracks={
+          tracks
+        }
+        onClose={() =>
+          setMatchTrackId(
+            null,
+          )
+        }
+        onOpenTrackDetails={
+          handleOpenTrackDetails
+        }
+        onAddToSet={
+          handleAddTrackToCurrentSet
+        }
+        currentSetTrackIds={
+          currentSet.items.map(
+            (item) =>
+              item.trackId,
+          )
+        }
+      />
+
       {contextMenu && (
         <TrackContextMenu
           track={
@@ -1518,8 +1712,37 @@ export default function TracksPage() {
           }
           x={contextMenu.x}
           y={contextMenu.y}
+          isInCurrentSet={
+            currentSet.items.some(
+              (item) =>
+                item.trackId ===
+                contextMenu.track.id,
+            )
+          }
           onEdit={() => {
-            setDetailsTrackId(
+            handleOpenTrackDetails(
+              contextMenu.track.id,
+            );
+
+            setContextMenu(null);
+          }}
+          onMatch={() => {
+            setDetailsTrackId(null);
+            setMatchTrackId(
+              contextMenu.track.id,
+            );
+
+            setContextMenu(null);
+          }}
+          onAddToCurrentSet={() => {
+            handleAddTrackToCurrentSet(
+              contextMenu.track.id,
+            );
+
+            setContextMenu(null);
+          }}
+          onRemoveFromCurrentSet={() => {
+            handleRemoveTrackFromCurrentSet(
               contextMenu.track.id,
             );
 
