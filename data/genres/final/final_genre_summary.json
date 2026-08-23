@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-07-30T14:51:13",
+  "project_root": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT",
+  "input_graph": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\refined\\genre_graph_refined.json",
+  "input_profiles": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\refined\\genre_match_profiles.json",
+  "overrides_file": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\config\\genre_overrides.json",
+  "output_directory": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\final",
+  "statistics": {
+    "source_genres": 4170,
+    "final_genres": 4170,
+    "applied_overrides": 14,
+    "rejected_overrides": 0,
+    "aliases_created": 0,
+    "unresolved_genres": 3149,
+    "genres_without_family": 2085,
+    "genres_with_multiple_families": 312,
+    "genres_with_related_styles": 2083,
+    "genres_with_transition_styles": 1422,
+    "family_counts": {
+      "hip_hop": 469,
+      "pop": 445,
+      "rock": 359,
+      "country_folk": 156,
+      "metal": 122,
+      "electronic": 105,
+      "jazz_blues": 94,
+      "house": 72,
+      "caribbean": 68,
+      "world_asian": 58,
+      "rnb_soul": 56,
+      "latin_tropical": 54,
+      "middle_eastern": 51,
+      "brazilian": 45,
+      "gospel_spiritual": 42,
+      "classical": 39,
+      "african": 34,
+      "regional_mexican": 28,
+      "soundtrack_stage": 26,
+      "trance": 26,
+      "latin_urban": 25,
+      "bass_music": 24,
+      "techno": 19
+    },
+    "confidence_counts": {
+      "fallback": 1116,
+      "suffix": 1113,
+      "manual": 74,
+      "prefix": 71,
+      "exact": 43
+    }
+  },
+  "output_files": {
+    "genre_graph_final": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\final\\genre_graph_final.json",
+    "genre_match_profiles_final": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\final\\genre_match_profiles_final.json",
+    "unresolved_genres": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\final\\unresolved_genres.csv",
+    "applied_overrides": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\final\\applied_overrides.csv",
+    "rejected_overrides": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\final\\rejected_overrides.csv"
+  }
+}

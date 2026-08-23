@@ -109,3 +109,182 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+
+/* =========================================================
+   FLAMINGOAPP DJ
+   TRACK TABLE ARTWORK SIZE FIX
+   ========================================================= */
+
+/*
+ * Altura fija de cada fila.
+ */
+.tracks-table tbody tr {
+  height: 56px !important;
+  min-height: 56px !important;
+  max-height: 56px !important;
+}
+
+/*
+ * Evita que cualquier contenido aumente la altura de la fila.
+ */
+.tracks-table tbody td {
+  height: 56px !important;
+  max-height: 56px !important;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+/*
+ * Ancho fijo de la columna Artwork.
+ */
+.tracks-table__artwork-column,
+.tracks-table__artwork-cell {
+  width: 58px !important;
+  min-width: 58px !important;
+  max-width: 58px !important;
+}
+
+/*
+ * Celda que contiene la portada.
+ */
+.tracks-table__artwork-cell {
+  box-sizing: border-box;
+  height: 56px !important;
+  min-height: 56px !important;
+  max-height: 56px !important;
+  padding: 7px 9px !important;
+  overflow: hidden !important;
+  vertical-align: middle !important;
+}
+
+/*
+ * Contenedor cuadrado de la portada.
+ */
+.tracks-table__artwork-wrapper {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+
+  box-sizing: border-box;
+
+  width: 40px !important;
+  min-width: 40px !important;
+  max-width: 40px !important;
+
+  height: 40px !important;
+  min-height: 40px !important;
+  max-height: 40px !important;
+
+  flex: 0 0 40px !important;
+
+  overflow: hidden !important;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/*
+ * Imagen real de la portada.
+ */
+.tracks-table__artwork-image {
+  display: block !important;
+
+  box-sizing: border-box;
+
+  width: 40px !important;
+  min-width: 40px !important;
+  max-width: 40px !important;
+
+  height: 40px !important;
+  min-height: 40px !important;
+  max-height: 40px !important;
+
+  object-fit: cover !important;
+  object-position: center !important;
+
+  border-radius: 5px;
+}
+
+/*
+ * Regla de seguridad:
+ * limita cualquier imagen ubicada en la celda Artwork,
+ * aunque otra clase global aplique width: 100%.
+ */
+.tracks-table__artwork-cell img {
+  display: block !important;
+
+  width: 40px !important;
+  min-width: 40px !important;
+  max-width: 40px !important;
+
+  height: 40px !important;
+  min-height: 40px !important;
+  max-height: 40px !important;
+
+  object-fit: cover !important;
+  object-position: center !important;
+
+  border-radius: 5px;
+}
+
+/*
+ * Neutraliza la clase anterior utilizada por la portada.
+ */
+.tracks-table__artwork-cell .track-cover-placeholder {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+
+  width: 40px !important;
+  min-width: 40px !important;
+  max-width: 40px !important;
+
+  height: 40px !important;
+  min-height: 40px !important;
+  max-height: 40px !important;
+
+  padding: 0 !important;
+  margin: 0 !important;
+
+  overflow: hidden !important;
+  border-radius: 5px;
+}
+
+/*
+ * También limita una imagen que todavía esté dentro
+ * del contenedor antiguo.
+ */
+.tracks-table__artwork-cell .track-cover-placeholder img {
+  display: block !important;
+
+  width: 40px !important;
+  min-width: 40px !important;
+  max-width: 40px !important;
+
+  height: 40px !important;
+  min-height: 40px !important;
+  max-height: 40px !important;
+
+  object-fit: cover !important;
+  object-position: center !important;
+
+  border-radius: 5px;
+}
+
+/*
+ * Evita que estilos globales para img agranden
+ * las portadas dentro de la tabla.
+ */
+.tracks-table img {
+  max-width: 40px !important;
+  max-height: 40px !important;
+}
+
+/*
+ * Mantiene centradas verticalmente las columnas.
+ */
+.tracks-table td,
+.tracks-table th {
+  vertical-align: middle;
+}

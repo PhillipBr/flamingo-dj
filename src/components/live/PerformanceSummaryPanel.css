@@ -1,0 +1,387 @@
+.performance-summary-panel {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  overflow-y: auto;
+  background: #0f1115;
+  color: #f4f5f7;
+}
+
+.performance-summary-panel__header {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 18px 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  background: #0f1115;
+}
+
+.performance-summary-panel__header p {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 0;
+  color: #ff6b9e;
+  font-size: 9px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.performance-summary-panel__header h2 {
+  margin: 4px 0 0;
+  font-size: 19px;
+}
+
+.performance-summary-panel__header > button {
+  display: grid;
+  width: 34px;
+  height: 34px;
+  place-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.025);
+  color: inherit;
+  cursor: pointer;
+}
+
+.performance-summary-panel__layout {
+  display: grid;
+  grid-template-columns: 230px minmax(0, 1fr);
+  min-height: calc(100vh - 75px);
+}
+
+.performance-history-list {
+  padding: 12px;
+  border-right: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.performance-history-list > header {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 8px;
+  color: #848790;
+  font-size: 8px;
+}
+
+.performance-history-list > header span {
+  margin-left: auto;
+}
+
+.performance-history-item {
+  display: grid;
+  width: 100%;
+  gap: 3px;
+  margin-bottom: 5px;
+  padding: 9px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.014);
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.performance-history-item--active {
+  border-color: rgba(255, 93, 143, 0.3);
+  background: rgba(255, 93, 143, 0.055);
+}
+
+.performance-history-item strong {
+  font-size: 8px;
+}
+
+.performance-history-item span,
+.performance-history-item small {
+  color: #747780;
+  font-size: 6.5px;
+}
+
+.performance-history-list__empty {
+  padding: 12px;
+  color: #73767e;
+  font-size: 7px;
+  line-height: 1.5;
+}
+
+.performance-summary-content {
+  padding: 16px;
+}
+
+.performance-summary-content__empty {
+  display: grid;
+  min-height: 440px;
+  place-items: center;
+  align-content: center;
+  gap: 8px;
+  color: #747780;
+  text-align: center;
+}
+
+.performance-summary-content__empty strong {
+  color: #e0e1e5;
+}
+
+.performance-summary-content__empty p {
+  max-width: 360px;
+  margin: 0;
+  font-size: 8px;
+}
+
+.performance-summary-hero {
+  display: grid;
+  grid-template-columns: 135px minmax(0, 1fr);
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.performance-summary-hero > div:first-child {
+  display: grid;
+  min-height: 120px;
+  place-items: center;
+  align-content: center;
+  border: 1px solid rgba(255, 93, 143, 0.22);
+  border-radius: 10px;
+  background: rgba(255, 93, 143, 0.045);
+}
+
+.performance-summary-hero > div:first-child span,
+.performance-summary-hero > div:first-child small {
+  color: #ff84aa;
+  font-size: 7px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.performance-summary-hero > div:first-child strong {
+  font-size: 38px;
+}
+
+.performance-summary-hero > div:last-child {
+  padding: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.055);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.016);
+}
+
+.performance-summary-hero h3 {
+  margin: 0;
+  font-size: 17px;
+}
+
+.performance-summary-hero p {
+  color: #7f828a;
+  font-size: 8px;
+}
+
+.performance-summary-hero button {
+  display: inline-flex;
+  min-height: 28px;
+  align-items: center;
+  gap: 5px;
+  padding: 0 8px;
+  border: 1px solid rgba(255, 99, 119, 0.2);
+  border-radius: 6px;
+  background: rgba(255, 99, 119, 0.04);
+  color: #ff7b8c;
+  font: inherit;
+  font-size: 7px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.performance-summary-facts,
+.performance-score-grid,
+.performance-audience-summary > div {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.performance-summary-facts article,
+.performance-score-grid article,
+.performance-audience-summary article {
+  padding: 9px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.014);
+}
+
+.performance-summary-facts span,
+.performance-score-grid span,
+.performance-audience-summary span {
+  display: block;
+  color: #777a83;
+  font-size: 6.5px;
+  text-transform: uppercase;
+}
+
+.performance-summary-facts strong,
+.performance-score-grid strong,
+.performance-audience-summary strong {
+  display: block;
+  margin-top: 3px;
+  font-size: 10px;
+}
+
+.performance-score-grid article > div {
+  height: 4px;
+  margin-top: 7px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.performance-score-grid article i {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: #ff6b9e;
+}
+
+.performance-audience-summary,
+.performance-observations,
+.performance-played-tracks {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.055);
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.014);
+}
+
+.performance-audience-summary > header,
+.performance-observations > header,
+.performance-played-tracks > header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  color: #83868e;
+  font-size: 7px;
+  text-transform: uppercase;
+}
+
+.performance-audience-summary > div {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin: 0;
+}
+
+.performance-observations {
+  display: grid;
+  gap: 6px;
+}
+
+.performance-observation {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 7px;
+  padding: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.045);
+  border-left-width: 3px;
+  border-radius: 6px;
+}
+
+.performance-observation--positive {
+  border-left-color: #5fc88c;
+}
+
+.performance-observation--warning {
+  border-left-color: #f0ba5f;
+}
+
+.performance-observation--info {
+  border-left-color: #65b0ff;
+}
+
+.performance-observation strong {
+  font-size: 8px;
+}
+
+.performance-observation p {
+  margin: 3px 0 0;
+  color: #747780;
+  font-size: 7px;
+}
+
+.performance-played-tracks > div {
+  display: grid;
+  gap: 4px;
+}
+
+.performance-played-tracks article {
+  display: grid;
+  grid-template-columns: 24px minmax(0, 1fr) 65px 70px 90px;
+  gap: 6px;
+  align-items: center;
+  padding: 6px;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.014);
+}
+
+.performance-played-tracks article > span {
+  color: #676a72;
+  font-size: 7px;
+  text-align: center;
+}
+
+.performance-played-tracks strong,
+.performance-played-tracks small {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.performance-played-tracks strong {
+  font-size: 8px;
+}
+
+.performance-played-tracks small {
+  color: #747780;
+  font-size: 6.5px;
+}
+
+@media (max-width: 850px) {
+  .performance-summary-panel__layout {
+    grid-template-columns: 1fr;
+  }
+
+  .performance-history-list {
+    border-right: 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+  }
+
+  .performance-summary-facts,
+  .performance-score-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+
+/* ==========================================================
+   PERFORMANCE HISTORY V2
+   ========================================================== */
+
+.performance-summary-content {
+  min-width: 0;
+}
+
+
+/* ==========================================================
+   VENUE-SPECIFIC DJ COACH V2
+   ========================================================== */
+
+.performance-summary-content {
+  min-width: 0;
+}
+
+
+/* ADVANCED VENUE / TIME-OF-NIGHT LEARNING V1 */
+.performance-summary-content {
+  min-width: 0;
+}

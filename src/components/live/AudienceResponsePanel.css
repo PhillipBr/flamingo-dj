@@ -1,0 +1,228 @@
+.audience-response-panel {
+  display: grid;
+  gap: 11px;
+  padding: 14px;
+  border: 1px solid rgba(255, 193, 93, 0.17);
+  border-radius: 11px;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 193, 93, 0.045),
+    rgba(255, 93, 143, 0.025)
+  );
+}
+
+.audience-response-panel > header,
+.audience-response-panel > header > div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.audience-response-panel > header {
+  justify-content: space-between;
+}
+
+.audience-response-panel > header span,
+.audience-response-panel__candidates > header span {
+  display: block;
+  color: #f0ba5f;
+  font-size: 8px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.audience-response-panel > header h2 {
+  margin: 1px 0 0;
+  font-size: 14px;
+}
+
+.audience-response-panel > header > strong {
+  color: #f0ba5f;
+  font-size: 10px;
+}
+
+.audience-response-panel__buttons {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.audience-response-button {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.065);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.018);
+  color: #91949c;
+  font: inherit;
+  font-size: 8px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.audience-response-button--active {
+  border-color: rgba(255, 193, 93, 0.42);
+  background: rgba(255, 193, 93, 0.08);
+  color: #f0ba5f;
+}
+
+.audience-response-button--danger {
+  border-color: rgba(255, 99, 119, 0.18);
+}
+
+.audience-response-button--danger.audience-response-button--active {
+  border-color: rgba(255, 99, 119, 0.45);
+  background: rgba(255, 99, 119, 0.08);
+  color: #ff7b8c;
+}
+
+.audience-response-panel__decision {
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.audience-response-panel__decision > div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.audience-response-panel__decision span,
+.audience-response-panel__decision strong {
+  display: block;
+}
+
+.audience-response-panel__decision span {
+  color: #777a83;
+  font-size: 7px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.audience-response-panel__decision strong {
+  margin-top: 2px;
+  font-size: 11px;
+}
+
+.audience-response-panel__decision p {
+  margin: 7px 0 0;
+  color: #91949c;
+  font-size: 8px;
+  line-height: 1.5;
+}
+
+.audience-response-panel__candidates {
+  display: grid;
+  gap: 5px;
+}
+
+.audience-response-panel__candidates > header > div {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.audience-response-panel__candidates > header strong {
+  display: block;
+  margin-top: 2px;
+  font-size: 10px;
+}
+
+.audience-response-panel__candidates > article {
+  display: grid;
+  grid-template-columns: 22px minmax(0, 1fr) auto;
+  gap: 7px;
+  align-items: center;
+  padding: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.015);
+}
+
+.audience-response-panel__candidates > article > span {
+  color: #686b73;
+  font-size: 7px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.audience-response-panel__track {
+  min-width: 0;
+}
+
+.audience-response-panel__track strong,
+.audience-response-panel__track small {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.audience-response-panel__track strong {
+  font-size: 9px;
+}
+
+.audience-response-panel__track small {
+  margin-top: 2px;
+  color: #777a83;
+  font-size: 6.5px;
+}
+
+.audience-response-panel__reason,
+.audience-response-panel__candidates > article > b {
+  color: #f0ba5f !important;
+}
+
+.audience-response-panel__actions {
+  grid-column: 2 / -1;
+  display: flex;
+  gap: 5px;
+}
+
+.audience-response-panel__actions button {
+  display: inline-flex;
+  min-height: 27px;
+  align-items: center;
+  gap: 5px;
+  padding: 0 8px;
+  border: 1px solid rgba(255, 193, 93, 0.22);
+  border-radius: 6px;
+  background: rgba(255, 193, 93, 0.045);
+  color: #f0ba5f;
+  font: inherit;
+  font-size: 7.5px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.audience-response-panel__empty {
+  padding: 12px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.014);
+  color: #73767e;
+  font-size: 7.5px;
+  text-align: center;
+}
+
+.audience-response-panel > footer {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #777a83;
+  font-size: 7px;
+}
+
+.audience-response-panel > footer strong {
+  color: #f0ba5f;
+}
+
+@media (max-width: 800px) {
+  .audience-response-panel__buttons {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

@@ -2,7 +2,6 @@ import { Navigate, Route, Routes } from "react-router-dom";
 
 import AppLayout from "../components/layout/AppLayout";
 import DashboardPage from "../pages/DashboardPage";
-import ImportPage from "../pages/ImportPage";
 import PlaylistDetailPage from "../pages/PlaylistDetailPage";
 import PlaylistsPage from "../pages/PlaylistsPage";
 import SettingsPage from "../pages/SettingsPage";
@@ -37,11 +36,7 @@ export default function AppRouter() {
           element={<TracksPage />}
         />
 
-        <Route
-          path="/import"
-          element={<ImportPage />}
-        />
-
+ 
         <Route
           path="/settings"
           element={<SettingsPage />}

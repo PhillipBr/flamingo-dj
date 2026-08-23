@@ -1,0 +1,226 @@
+.pre-event-brief {
+  display: grid;
+  gap: 9px;
+  padding: 11px;
+  border: 1px solid rgba(255, 93, 143, 0.14);
+  border-radius: 9px;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 93, 143, 0.035),
+    rgba(101, 176, 255, 0.02)
+  );
+}
+
+.pre-event-brief > header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.pre-event-brief > header > div {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.pre-event-brief > header span,
+.pre-event-brief > header strong {
+  display: block;
+}
+
+.pre-event-brief > header span {
+  color: #ff84aa;
+  font-size: 7px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.pre-event-brief > header strong {
+  margin-top: 2px;
+  font-size: 11px;
+}
+
+.pre-event-brief > header > b {
+  color: #84c2ff;
+  font-size: 10px;
+}
+
+.pre-event-brief__facts {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.pre-event-brief__facts article,
+.pre-event-brief__genres article,
+.pre-event-brief__track-groups section {
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.014);
+}
+
+.pre-event-brief__facts article {
+  padding: 8px;
+}
+
+.pre-event-brief__facts span,
+.pre-event-brief__facts strong {
+  display: block;
+}
+
+.pre-event-brief__facts span {
+  margin-top: 4px;
+  color: #747780;
+  font-size: 6.5px;
+  text-transform: uppercase;
+}
+
+.pre-event-brief__facts strong {
+  margin-top: 2px;
+  font-size: 9px;
+}
+
+.pre-event-brief__genres > header,
+.pre-event-brief__track-groups section > header {
+  color: #777a83;
+  font-size: 7px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.pre-event-brief__genres > div {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 5px;
+  margin-top: 6px;
+}
+
+.pre-event-brief__genres article {
+  padding: 7px;
+}
+
+.pre-event-brief__genres strong,
+.pre-event-brief__genres span,
+.pre-event-brief__genres small {
+  display: block;
+}
+
+.pre-event-brief__genres strong {
+  overflow: hidden;
+  font-size: 8px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.pre-event-brief__genres span {
+  margin-top: 3px;
+  color: #ff84aa;
+  font-size: 8px;
+  font-weight: 800;
+}
+
+.pre-event-brief__genres small {
+  margin-top: 3px;
+  color: #686b73;
+  font-size: 6px;
+}
+
+.pre-event-brief__track-groups {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 7px;
+}
+
+.pre-event-brief__track-groups section {
+  padding: 8px;
+}
+
+.pre-event-brief__track-groups section > header {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 6px;
+}
+
+.pre-event-brief__track-groups article {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 6px;
+  align-items: center;
+  padding: 5px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.035);
+}
+
+.pre-event-brief__track-groups article:last-child {
+  border-bottom: 0;
+}
+
+.pre-event-brief__track-groups strong,
+.pre-event-brief__track-groups small {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.pre-event-brief__track-groups strong {
+  font-size: 8px;
+}
+
+.pre-event-brief__track-groups small {
+  margin-top: 2px;
+  color: #6d7078;
+  font-size: 6px;
+}
+
+.pre-event-brief__track-groups b {
+  color: #84c2ff;
+  font-size: 7px;
+}
+
+.pre-event-brief__track-groups p,
+.pre-event-brief > footer p {
+  margin: 0;
+  color: #72757d;
+  font-size: 7px;
+  line-height: 1.45;
+}
+
+.pre-event-brief > footer {
+  display: grid;
+  gap: 4px;
+  padding-top: 7px;
+  border-top: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+@media (max-width: 800px) {
+  .pre-event-brief__facts,
+  .pre-event-brief__genres > div,
+  .pre-event-brief__track-groups {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+.pre-event-brief__generator-button {
+  display: inline-flex;
+  min-height: 34px;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 0 10px;
+  border: 1px solid rgba(255, 93, 143, 0.28);
+  border-radius: 7px;
+  background: rgba(255, 93, 143, 0.06);
+  color: #ff84aa;
+  font: inherit;
+  font-size: 8px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.pre-event-brief__generator-button:hover {
+  border-color: rgba(255, 93, 143, 0.45);
+  background: rgba(255, 93, 143, 0.09);
+}

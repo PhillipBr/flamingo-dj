@@ -1,0 +1,159 @@
+.save-current-set-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 96;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: rgba(0, 0, 0, 0.68);
+  backdrop-filter: blur(5px);
+}
+
+.save-current-set-modal {
+  width: min(470px, 95vw);
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.11);
+  border-radius: 13px;
+  background: #121419;
+  box-shadow: 0 28px 80px rgba(0, 0, 0, 0.5);
+  color: #f4f5f7;
+}
+
+.save-current-set-modal__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 19px 20px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.save-current-set-modal__header p {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 0;
+  color: #ff6c9e;
+  font-size: 10px;
+  font-weight: 850;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.save-current-set-modal__header h2 {
+  margin: 4px 0 0;
+  font-size: 20px;
+}
+
+.save-current-set-modal__header > button {
+  display: grid;
+  width: 33px;
+  height: 33px;
+  place-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.035);
+  color: inherit;
+  cursor: pointer;
+}
+
+.save-current-set-modal__body {
+  display: grid;
+  gap: 13px;
+  padding: 18px 20px;
+}
+
+.save-current-set-modal__summary {
+  display: flex;
+  align-items: baseline;
+  gap: 7px;
+  padding: 10px 11px;
+  border: 1px solid rgba(101, 176, 255, 0.22);
+  border-radius: 8px;
+  background: rgba(101, 176, 255, 0.06);
+}
+
+.save-current-set-modal__summary strong {
+  font-size: 17px;
+}
+
+.save-current-set-modal__summary span {
+  color: #9599a2;
+  font-size: 10px;
+}
+
+.save-current-set-modal label {
+  display: grid;
+  gap: 6px;
+}
+
+.save-current-set-modal label > span {
+  color: #9da0a9;
+  font-size: 10px;
+  font-weight: 750;
+}
+
+.save-current-set-modal input,
+.save-current-set-modal textarea {
+  box-sizing: border-box;
+  width: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 7px;
+  background: #191b20;
+  color: #f2f3f5;
+  font: inherit;
+  font-size: 12px;
+  outline: none;
+}
+
+.save-current-set-modal input {
+  min-height: 38px;
+  padding: 0 10px;
+}
+
+.save-current-set-modal textarea {
+  resize: vertical;
+  min-height: 86px;
+  padding: 9px 10px;
+}
+
+.save-current-set-modal input:focus,
+.save-current-set-modal textarea:focus {
+  border-color: rgba(255, 93, 143, 0.48);
+}
+
+.save-current-set-modal__footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  padding: 14px 20px 18px;
+  border-top: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.save-current-set-modal__footer button {
+  display: inline-flex;
+  min-height: 36px;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 0 12px;
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.035);
+  color: #c8cbd2;
+  font: inherit;
+  font-size: 11px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.save-current-set-modal__footer .save-current-set-modal__save {
+  border-color: rgba(255, 93, 143, 0.38);
+  background: rgba(255, 93, 143, 0.11);
+  color: #fff;
+}
+
+.save-current-set-modal__footer button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}

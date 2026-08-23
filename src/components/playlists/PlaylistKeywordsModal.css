@@ -1,0 +1,26 @@
+.playlist-keywords-backdrop{position:fixed;inset:0;z-index:4200;display:grid;place-items:center;padding:22px;background:rgba(0,0,0,.64);backdrop-filter:blur(3px)}
+.playlist-keywords-modal{width:min(720px,calc(100vw - 32px));max-height:calc(100vh - 40px);overflow-x:hidden;overflow-y:auto;overscroll-behavior:contain;scrollbar-gutter:stable;border:1px solid #303642;border-radius:14px;background:#15181f;box-shadow:0 24px 70px rgba(0,0,0,.5)}
+.playlist-keywords-header{display:flex;justify-content:space-between;gap:16px;padding:20px}.playlist-keywords-header span{color:#ff3d82;font-size:10px;font-weight:800;letter-spacing:.14em}.playlist-keywords-header h2{margin:4px 0 2px;color:#f7f9fc;font-size:20px}.playlist-keywords-header p{margin:0;color:#8d96a5;font-size:12px}
+.playlist-keywords-header>button{width:34px;height:34px;display:grid;place-items:center;border:1px solid #303642;border-radius:8px;color:#aab1bd;background:transparent;cursor:pointer}
+.playlist-keywords-selected,.playlist-keywords-custom,.playlist-keywords-library{padding:0 20px 18px}.playlist-keywords-chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:9px;min-height:30px}.playlist-keywords-chips button{display:flex;align-items:center;gap:5px;padding:6px 8px;border:1px solid #5a3655;border-radius:999px;color:#ff89b0;background:#251a25;cursor:pointer}.playlist-keywords-empty{color:#7f8897;font-size:11px}
+.playlist-keywords-groups{display:grid;gap:12px;padding:0 20px 18px}.playlist-keywords-group{padding:12px;border:1px solid #2d333e;border-radius:10px;background:#11141a}.playlist-keywords-group>div:first-child{display:flex;flex-direction:column;gap:2px}.playlist-keywords-group strong{color:#e6eaf0;font-size:12px}.playlist-keywords-group span{color:#777f8d;font-size:10px}
+.playlist-keywords-options{display:flex;flex-wrap:wrap;gap:7px;margin-top:9px}.playlist-keyword-option{padding:6px 9px;border:1px solid #343b47;border-radius:999px;color:#bcc4d0;background:#1b1f27;cursor:pointer;font-size:11px}.playlist-keyword-option:hover{border-color:#ff4f8c}.playlist-keyword-option--selected{border-color:#ff4f8c;color:#fff;background:#9f254f}
+.playlist-keywords-custom label{display:flex;flex-direction:column;gap:7px;color:#dfe4ec;font-size:12px;font-weight:700}.playlist-keywords-custom label>div{display:flex;gap:8px}.playlist-keywords-custom input{flex:1;padding:10px 11px;border:1px solid #333a47;border-radius:8px;outline:0;color:#f1f4f8;background:#101319}.playlist-keywords-custom button{display:flex;align-items:center;gap:6px;padding:0 13px;border:1px solid #ff4f8c;border-radius:8px;color:#fff;background:#c52b5e;cursor:pointer}.playlist-keywords-custom button:disabled{opacity:.45}
+.playlist-keywords-library{border-top:1px solid #292e38;padding-top:16px}.playlist-keywords-library-header{display:flex;align-items:end;justify-content:space-between;gap:12px}.playlist-keywords-library-header>div:first-child{display:flex;flex-direction:column;gap:2px}.playlist-keywords-library-header span{color:#7f8897;font-size:10px}.playlist-keywords-search{display:flex;align-items:center;gap:6px;width:190px;padding:0 8px;border:1px solid #303642;border-radius:7px;color:#7f8897;background:#101319}.playlist-keywords-search input{width:100%;padding:7px 0;border:0;outline:0;color:#e7eaf0;background:transparent}
+.playlist-keywords-library-list{display:flex;flex-wrap:wrap;gap:7px;margin-top:10px}.playlist-keywords-library-list button{display:flex;align-items:center;gap:5px;padding:6px 8px;border:1px solid #343b47;border-radius:7px;color:#cad1db;background:#1b1f27;cursor:pointer}.playlist-keywords-library-list small{padding:2px 5px;border-radius:999px;background:#292e38;color:#9ba4b2}
+.playlist-keywords-footer{display:flex;justify-content:flex-end;gap:8px;padding:14px 20px 20px;border-top:1px solid #292e38}.playlist-keywords-footer button{padding:9px 13px;border:1px solid #333a47;border-radius:8px;color:#dce1e8;background:#1a1e26;cursor:pointer}.playlist-keywords-footer .playlist-keywords-save{border-color:#ff4f8c;color:#fff;background:#c52b5e}
+
+
+.playlist-keywords-header {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: #15181f;
+}
+
+.playlist-keywords-footer {
+  position: sticky;
+  bottom: 0;
+  z-index: 5;
+  background: #15181f;
+}

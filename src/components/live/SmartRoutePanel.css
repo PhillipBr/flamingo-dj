@@ -1,0 +1,225 @@
+.smart-route-panel {
+  display: grid;
+  gap: 11px;
+  padding: 14px;
+  border: 1px solid rgba(101, 176, 255, 0.16);
+  border-radius: 11px;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(101, 176, 255, 0.045),
+      rgba(255, 93, 143, 0.025)
+    );
+}
+
+.smart-route-panel > header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.smart-route-panel > header > div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.smart-route-panel > header span {
+  display: block;
+  color: #66afff;
+  font-size: 8px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.smart-route-panel > header h2 {
+  margin: 1px 0 0;
+  font-size: 14px;
+}
+
+.smart-route-panel > header small {
+  color: #777a83;
+  font-size: 8px;
+}
+
+.smart-route-panel__routes {
+  display: grid;
+  grid-template-columns:
+    repeat(
+      3,
+      minmax(0, 1fr)
+    );
+  gap: 9px;
+}
+
+.smart-route-card {
+  display: grid;
+  min-width: 0;
+  gap: 8px;
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.065);
+  border-radius: 9px;
+  background: rgba(0, 0, 0, 0.12);
+}
+
+.smart-route-card > header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.smart-route-card > header span,
+.smart-route-card > header strong {
+  display: block;
+}
+
+.smart-route-card > header span {
+  color: #777a83;
+  font-size: 7px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.smart-route-card > header strong {
+  margin-top: 2px;
+  font-size: 11px;
+}
+
+.smart-route-card > header b {
+  color: #66afff;
+  font-size: 12px;
+}
+
+.smart-route-card > p {
+  min-height: 39px;
+  margin: 0;
+  color: #888b93;
+  font-size: 8px;
+  line-height: 1.55;
+}
+
+.smart-route-card__summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px 8px;
+}
+
+.smart-route-card__summary span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: #7e8189;
+  font-size: 7px;
+}
+
+.smart-route-card__steps {
+  display: grid;
+  gap: 4px;
+}
+
+.smart-route-step {
+  display: grid;
+  grid-template-columns:
+    18px
+    minmax(0, 1fr)
+    auto;
+  gap: 5px;
+  align-items: center;
+  padding: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.045);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.014);
+}
+
+.smart-route-step__position {
+  color: #666a72;
+  font-size: 7px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.smart-route-step__track {
+  min-width: 0;
+}
+
+.smart-route-step__track strong,
+.smart-route-step__track small {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.smart-route-step__track strong {
+  font-size: 8px;
+}
+
+.smart-route-step__track small {
+  margin-top: 2px;
+  color: #73767e;
+  font-size: 6.5px;
+}
+
+.smart-route-step > b {
+  color: #66afff;
+  font-size: 7px;
+}
+
+.smart-route-card__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 2px;
+}
+
+.smart-route-card__actions button {
+  display: inline-flex;
+  min-height: 28px;
+  align-items: center;
+  gap: 5px;
+  padding: 0 8px;
+  border: 1px solid rgba(101, 176, 255, 0.24);
+  border-radius: 6px;
+  background: rgba(101, 176, 255, 0.055);
+  color: #84c2ff;
+  font: inherit;
+  font-size: 7.5px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.smart-route-card__actions button:first-child {
+  border-color: rgba(255, 93, 143, 0.27);
+  background: rgba(255, 93, 143, 0.055);
+  color: #ff8caf;
+}
+
+.smart-route-panel__empty {
+  display: grid;
+  min-height: 150px;
+  place-items: center;
+  align-content: center;
+  gap: 7px;
+  color: #777a83;
+  text-align: center;
+}
+
+.smart-route-panel__empty strong {
+  color: #d8dae0;
+  font-size: 10px;
+}
+
+.smart-route-panel__empty p {
+  max-width: 310px;
+  margin: 0;
+  font-size: 8px;
+  line-height: 1.5;
+}
+
+@media (max-width: 1200px) {
+  .smart-route-panel__routes {
+    grid-template-columns: 1fr;
+  }
+}

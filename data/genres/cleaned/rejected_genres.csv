@@ -1,0 +1,311 @@
+﻿RejectedValue,Reason,OccurrenceCount,RawExample,Source,SongIDExample,TitleExample,ArtistExample
+english,known_non_genre,12695,english,ARTIST_FEATURES,2,Lovin On Me,Jack Harlow
+american,known_non_genre,8858,american,ARTIST_FEATURES,40,Rich Baby Daddy,"Drake, Sexyy Red, SZA"
+singer-songwriter,known_non_genre,8152,singer-songwriter,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+2010s,year_tag,7726,2010s,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+british,known_non_genre,6572,british,ARTIST_FEATURES,34,LADY GAGA,"Peso Pluma, Gabito Ballesteros, Junior H"
+2020s,year_tag,5539,2020s,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+singer,known_non_genre,4109,singer,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+2000s,year_tag,3947,2000s,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+relic inn,editorial_or_comment_tag,3779,relic inn,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+composer,known_non_genre,3475,composer,ARTIST_FEATURES,34,LADY GAGA,"Peso Pluma, Gabito Ballesteros, Junior H"
+stop using this for artist credits you are to lazy to look-up,too_many_words,3402,stop using this for artist credits you are to lazy to look-up,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+fixme,editorial_or_comment_tag,3145,fixme,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+songwriter,known_non_genre,2918,songwriter,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+soundtrack,known_non_genre,2455,soundtrack,ARTIST_FEATURES,357,Un Finde | CROSSOVER #2,Big One
+various artists,known_non_genre,2273,[various artists],ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+rapper,attribute_not_genre,2082,rapper,ARTIST_FEATURES,30,Surround Sound,JID
+spanish,known_non_genre,1939,spanish,ARTIST_FEATURES,15,PERRO NEGRO,Bad Bunny
+special purpose artist,known_non_genre,1869,special purpose artist,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+meta artist,known_non_genre,1802,meta artist,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+unknown,known_non_genre,1682,unknown,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+fix tags,editorial_or_comment_tag,1681,fix tags,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+1990s,year_tag,1673,1990s,ARTIST_FEATURES,113,All I Want for Christmas Is You,Mariah Carey
+live,known_non_genre,1659,live,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+espanol,known_non_genre,1461,espanol,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+1980s,year_tag,1317,1980s,ARTIST_FEATURES,114,Take on Me,a-ha
+christmas music,known_non_genre,1288,christmas music,ARTIST_FEATURES,113,All I Want for Christmas Is You,Mariah Carey
+cover,known_non_genre,1269,cover,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+popular,known_non_genre,1173,popular,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+tag spam,editorial_or_comment_tag,1160,tag spam,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+artist,known_non_genre,1151,artist,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+label as artist,known_non_genre,1140,label as artist,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+fix me,editorial_or_comment_tag,1136,fix me,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+to the guy that keeps downvoting *every* tag on the va artist,too_many_words,1136,to the guy that keeps downvoting *every* tag on the va artist,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+va-we were first-180 hits in their original versions (2014,too_many_words,1136,va-we were first-180 hits in their original versions (2014),ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+5099265803,numeric_value,1135,5099265803,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+bring up on-par with the other spas and put this in brackets,too_many_words,1135,bring up on-par with the other spas and put this in brackets,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+compilation,known_non_genre,1135,compilation,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+do not using this for artist credits,editorial_or_comment_tag,1135,do not using this for artist credits,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+dont tag or rate the various artist,editorial_or_comment_tag,1135,dont tag or rate the various artist,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+every-time you and others downvote. it registers in your tags. then i remove my vote. presto! youre the only one keeping it here!,too_long,1135,every-time you and others downvote. it registers in your tags. then i remove my vote. presto! youre the only one keeping it here!,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+f to the i to the x to the m to the e,too_many_words,1135,f to the i to the x to the m to the e,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+i give up on the immature people in the tags here.,too_many_words,1135,i give up on the immature people in the tags here.,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+kindly fix,editorial_or_comment_tag,1135,kindly fix,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+kindly fixme,editorial_or_comment_tag,1135,kindly fixme,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+oldest artist rowid,editorial_or_comment_tag,1135,oldest artist rowid,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+please consider not using this for artist credits,too_many_words,1135,please consider not using this for artist credits,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+please rename to [various artists,editorial_or_comment_tag,1135,please rename to [various artists],ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+make. srsly,editorial_or_comment_tag,1135,make. srsly,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+tagmess,editorial_or_comment_tag,1135,tagmess,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+tagsmess,editorial_or_comment_tag,1135,tagsmess,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+ultimate love songs greatest love of all disc 1,too_many_words,1135,ultimate love songs greatest love of all disc 1,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+various artist,known_non_genre,1135,various artist,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+you do realise that every time you downvote a fixme-tag below 0 i unvote it and that tag now permanently stays in the expanded list?,too_long,1135,you do realise that every time you downvote a fixme-tag below 0 i unvote it and that tag now permanently stays in the expanded list?,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+1 16 217528 150 13231 25894 39556 62358 75112 86121 96491 108473 122788 134485 144086 155376 166189 186497 197822,numeric_value,1134,1 16 217528 150 13231 25894 39556 62358 75112 86121 96491 108473 122788 134485 144086 155376 166189 186497 197822,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+2014,numeric_value,1134,2014,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+2017,numeric_value,1134,2017,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+alternative pop ballad club dance electro france chanson german trance hip-hop rnb rock music soul vocal house,too_long,1134,alternative pop ballad club dance electro france chanson german trance hip-hop rnb rock music soul vocal house,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+apparently people are unable to comprehend what various artists is,too_many_words,1134,apparently people are unable to comprehend what various artists is,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+don t tag the va artist (yes i am aware of this irony,too_many_words,1134,don t tag the va artist (yes i am aware of this irony),ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+don t use this for artist credits you are to lazy to look-up,too_many_words,1134,don t use this for artist credits you are to lazy to look-up,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+dont rate the va artist,editorial_or_comment_tag,1134,dont rate the va artist,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+dont rate the va artist ffs what,editorial_or_comment_tag,1134,dont rate the va artist ffs what,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+dont tag the va artist,editorial_or_comment_tag,1134,dont tag the va artist,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+dont tag the va artist wtf,editorial_or_comment_tag,1134,dont tag the va artist wtf,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+dont use this for artist credits you are to lazy to look-up,too_many_words,1134,dont use this for artist credits you are to lazy to look-up,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+faaaaaail,editorial_or_comment_tag,1134,faaaaaail,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+fail tags,editorial_or_comment_tag,1134,fail tags,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+failtags,editorial_or_comment_tag,1134,failtags,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+fix mess,editorial_or_comment_tag,1134,fix mess,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+fix your tags,editorial_or_comment_tag,1134,fix your tags,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+full of fail tags,editorial_or_comment_tag,1134,full of fail tags,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+greatest ever! punk & new wave: the definitive collection,too_many_words,1134,greatest ever! punk & new wave: the definitive collection,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+http musicbrainz org release-group b2aa521d-001b-34ad-a5e9-ca310e55b254 html,too_long,1134,http musicbrainz org release-group b2aa521d-001b-34ad-a5e9-ca310e55b254 html,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+www.musik-sammler.de,url_or_domain,1134,www.musik-sammler.de,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+734500,numeric_value,1134,734500,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+734011.jpg,file_reference,1134,734011.jpg,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+loosers that downvote fixmetags are ...,editorial_or_comment_tag,1134,loosers that downvote fixmetags are ...,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+megafixme,editorial_or_comment_tag,1134,megafixme,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+mess mess,editorial_or_comment_tag,1134,mess mess,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+mess mess mess,editorial_or_comment_tag,1134,mess mess mess,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+messy tags,editorial_or_comment_tag,1134,messy tags,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+musica,known_non_genre,1134,musica,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+no matter how long you keep voting down the fixme tag i will fight you. this should be fixed,too_long,1134,no matter how long you keep voting down the fixme tag i will fight you. this should be fixed,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+no this is still a mess,editorial_or_comment_tag,1134,no this is still a mess,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+ost,known_non_genre,1134,ost,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+please fix,editorial_or_comment_tag,1134,please fix,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+release,known_non_genre,1134,release,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+rename into [various artists,editorial_or_comment_tag,1134,rename into [various artists],ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+still a mess,editorial_or_comment_tag,1134,still a mess,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+stop using this for artist credits period!,editorial_or_comment_tag,1134,stop using this for artist credits period!,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+make. ffs!,editorial_or_comment_tag,1134,make. ffs!,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+we ll never stop living this way a ghostly primer,too_many_words,1134,we ll never stop living this way a ghostly primer,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+why are you downvoting the mess tag? it is a mess!,too_many_words,1134,why are you downvoting the mess tag? it is a mess!,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+why are you voting down tags that explain stuff,too_many_words,1134,why are you voting down tags that explain stuff,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+you *should* fix your tags,editorial_or_comment_tag,1134,you *should* fix your tags,ARTIST_FEATURES,129,Rich Men North Of Richmond,Oliver Anthony Music
+female vocals,known_non_genre,1119,female vocals,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+englisch,known_non_genre,1113,englisch,ARTIST_FEATURES,7,What Was I Made For?,Billie Eilish
+producer,known_non_genre,1111,producer,ARTIST_FEATURES,195,Those Eyes,New West
+fixme label mess,editorial_or_comment_tag,1076,fixme label mess,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+1970s,year_tag,1057,1970s,ARTIST_FEATURES,236,Dancing Queen,ABBA
+grammy winner,known_non_genre,1049,grammy winner,ARTIST_FEATURES,195,Those Eyes,New West
+icon,known_non_genre,1030,icon,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+fascist,attribute_not_genre,990,fascist,ARTIST_FEATURES,195,Those Eyes,New West
+seen live,known_non_genre,949,seen live,ARTIST_FEATURES,56,Baby Don't Hurt Me,"David Guetta, Anne-Marie, Coi Leray"
+canadian,known_non_genre,908,canadian,ARTIST_FEATURES,241,Break from Toronto,PARTYNEXTDOOR
+cultural icon,known_non_genre,786,cultural icon,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+pianist,known_non_genre,769,pianist,ARTIST_FEATURES,232,Let Me Down Slowly,"Alec Benjamin, Alessia Cara"
+christian,attribute_not_genre,642,christian,ARTIST_FEATURES,5034,Feel Invincible,Skillet
+cotm,editorial_or_comment_tag,620,cotm,ARTIST_FEATURES,357,Un Finde | CROSSOVER #2,Big One
+cotm candidate,editorial_or_comment_tag,601,cotm candidate,ARTIST_FEATURES,36,Meltdown,"Travis Scott, Drake"
+vocalist,known_non_genre,601,vocalist,ARTIST_FEATURES,232,Let Me Down Slowly,"Alec Benjamin, Alessia Cara"
+1960s,year_tag,583,1960s,ARTIST_FEATURES,774,Rock and A Hard Place,Bailey Zimmerman
+lesbian,attribute_not_genre,574,lesbian,ARTIST_FEATURES,36,Meltdown,"Travis Scott, Drake"
+pedophilia,attribute_not_genre,573,pedophilia,ARTIST_FEATURES,36,Meltdown,"Travis Scott, Drake"
+spanisch,known_non_genre,553,spanisch,ARTIST_FEATURES,221,Baila Baila Baila,"Ozuna, Daddy Yankee, J Balvin, Farruko, Anuel AA"
+1 10 188043 183 17153 34783 54830 72970 97673 116825 128263 157073 171433,numeric_value,547,1 10 188043 183 17153 34783 54830 72970 97673 116825 128263 157073 171433,ARTIST_FEATURES,357,Un Finde | CROSSOVER #2,Big One
+bing crosby fank sinatra louis armstorng nat king cole doris day,too_many_words,547,bing crosby fank sinatra louis armstorng nat king cole doris day,ARTIST_FEATURES,357,Un Finde | CROSSOVER #2,Big One
+dont rate the [unknown] artist,editorial_or_comment_tag,547,dont rate the [unknown] artist,ARTIST_FEATURES,357,Un Finde | CROSSOVER #2,Big One
+fixme [spa] mess,editorial_or_comment_tag,547,fixme [spa] mess,ARTIST_FEATURES,357,Un Finde | CROSSOVER #2,Big One
+fixme or cleanup,editorial_or_comment_tag,547,fixme or cleanup,ARTIST_FEATURES,357,Un Finde | CROSSOVER #2,Big One
+fixme-probably not a real artist,editorial_or_comment_tag,547,fixme-probably not a real artist,ARTIST_FEATURES,357,Un Finde | CROSSOVER #2,Big One
+merge all the unrighteous fellows are all unpardonable!,too_many_words,547,merge all the unrighteous fellows are all unpardonable!,ARTIST_FEATURES,357,Un Finde | CROSSOVER #2,Big One
+merge into [anonymous] or [traditional,excessive_punctuation,547,merge into [anonymous] or [traditional],ARTIST_FEATURES,357,Un Finde | CROSSOVER #2,Big One
+stop merging crap so my tags get fucked up,too_many_words,547,stop merging crap so my tags get fucked up,ARTIST_FEATURES,357,Un Finde | CROSSOVER #2,Big One
+top 40,known_non_genre,532,top 40,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+pro trump,attribute_not_genre,519,pro trump,ARTIST_FEATURES,195,Those Eyes,New West
+actress,known_non_genre,473,actress,ARTIST_FEATURES,336,CUFF IT,Beyoncé
+awful,attribute_not_genre,444,awful,ARTIST_FEATURES,10,"yes, and?",Ariana Grande
+abuser,attribute_not_genre,392,abuser,ARTIST_FEATURES,170,Under The Influence,Chris Brown
+tumblr,attribute_not_genre,389,tumblr,ARTIST_FEATURES,37,I Wanna Be Yours,Arctic Monkeys
+philanthropist,known_non_genre,380,philanthropist,ARTIST_FEATURES,336,CUFF IT,Beyoncé
+artist of the decade,known_non_genre,359,artist of the decade,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+loves planes,editorial_or_comment_tag,359,loves planes,ARTIST_FEATURES,1,Cruel Summer,Taylor Swift
+dancer,known_non_genre,337,dancer,ARTIST_FEATURES,336,CUFF IT,Beyoncé
+corean,attribute_not_genre,324,corean,ARTIST_FEATURES,348,Take Two,BTS
+album,known_non_genre,324,album,ARTIST_FEATURES,774,Rock and A Hard Place,Bailey Zimmerman
+nazi,attribute_not_genre,321,nazi,ARTIST_FEATURES,195,Those Eyes,New West
+anti vax,attribute_not_genre,314,anti vax,ARTIST_FEATURES,170,Under The Influence,Chris Brown
+remix,known_non_genre,313,remix,ARTIST_FEATURES,125,Say Yes To Heaven,Lana Del Rey
+director,known_non_genre,311,director,ARTIST_FEATURES,336,CUFF IT,Beyoncé
+antisemite,attribute_not_genre,309,antisemite,ARTIST_FEATURES,195,Those Eyes,New West
+businesswoman,known_non_genre,309,businesswoman,ARTIST_FEATURES,336,CUFF IT,Beyoncé
+talent show,known_non_genre,298,talent show,TS,977,Only Love Can Hurt Like This,Paloma Faith
+1 13 165900 150 7672 22647 34612 48720 59280 74602 87545 95495 107182 131087 141522 153710,numeric_value,261,1 13 165900 150 7672 22647 34612 48720 59280 74602 87545 95495 107182 131087 141522 153710,ARTIST_FEATURES,774,Rock and A Hard Place,Bailey Zimmerman
+blacklist,attribute_not_genre,256,blacklist,ARTIST_FEATURES,170,Under The Influence,Chris Brown
+2000,numeric_value,255,2000,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+doom underground. their recordings circulate digitally via bandcamp and streaming platforms,too_long,247,doom underground. their recordings circulate digitally via bandcamp and streaming platforms,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+and their influence continues to be cited by later generations of extreme bands. disambiguation: this is mugwart (virginia beach,too_long,247,and their influence continues to be cited by later generations of extreme bands. disambiguation: this is mugwart (virginia beach,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+mugwart (has nothing to do with (“mugwort”,excessive_punctuation,247,mugwart (has nothing to do with (“mugwort”),ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+singer songwriter,attribute_not_genre,246,singer songwriter,ARTIST_FEATURES,1625,Come Together - Remastered 2009,The Beatles
+2002,numeric_value,246,2002,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+2004,numeric_value,246,2004,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+2001,numeric_value,246,2001,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+active 1998-2002. emerging from the tidewater crust‐punk,number_sequence,246,active 1998-2002. emerging from the tidewater crust‐punk,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+the group combined punk urgency and hardcore aggression with downtuned sludge heaviness and doom atmosphere. their raw,too_long,246,the group combined punk urgency and hardcore aggression with downtuned sludge heaviness and doom atmosphere. their raw,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+abrasive sound placed them firmly within the late‐1990s,too_many_words,246,abrasive sound placed them firmly within the late‐1990s,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+while maintaining a distinctly punk ethos. the band's definitive release is discography (this dark reign recordings,too_long,246,while maintaining a distinctly punk ethos. the band’s definitive release is discography (this dark reign recordings,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+which compiles studio material from 1999-2002. tracks were originally issued (or intended) across several small‐label documents: “before you,number_sequence,246,which compiles studio material from 1999-2002. tracks were originally issued (or intended) across several small‐label documents: “before you,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+fallen”-acrude records (crude‐01,excessive_punctuation,246,fallen”-acrude records (crude‐01,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+7′′ single. because sometimes two are better than one-split with fistula,too_long,246,7′′ single. because sometimes two are better than one-split with fistula,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+3′′ cd. south of hell-14 songs from the new south-berserker records (ber‐005,too_long,246,3′′ cd. south of hell-14 songs from the new south-berserker records (ber‐005,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+compilation. crushers killers destroyers!-shifty records (sh08,sentence_or_comment,246,compilation. crushers killers destroyers!-shifty records (sh08,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+compilation. doomed-this dark reign recordings (tdr‐001,excessive_punctuation,246,compilation. doomed-this dark reign recordings (tdr‐001,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+compilation. mugwart performed throughout virginia and the surrounding region,too_long,246,compilation. mugwart performed throughout virginia and the surrounding region,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+uk extreme‐metal band dragged into sunlight selected mugwart's track “fallen” for a curated mixtape in terrorizer magazine (issue #285,too_long,246,uk extreme‐metal band dragged into sunlight selected mugwart’s track “fallen” for a curated mixtape in terrorizer magazine (issue #285),ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+highlighting the group's ongoing resonance nearly a decade after disbanding. legacy: though short‐lived,too_long,246,highlighting the group’s ongoing resonance nearly a decade after disbanding. legacy: though short‐lived,ARTIST_FEATURES,81339,La Disco La Parte En Dos,aLee DJ
+wifebeater,attribute_not_genre,242,wifebeater,ARTIST_FEATURES,170,Under The Influence,Chris Brown
+1036,numeric_value,237,1036,ARTIST_FEATURES,1743,Don't Go Insane,DPR IAN
+misogynist,attribute_not_genre,230,misogynist,ARTIST_FEATURES,170,Under The Influence,Chris Brown
+ya man aint me (produced by the.mp3,file_reference,230,ya man aint me (produced by the.mp3,ARTIST_FEATURES,170,Under The Influence,Chris Brown
+ed sheeran does not make sillyname tracks ಠ ಠ,too_many_words,212,ed sheeran does not make sillyname tracks ಠ ಠ,ARTIST_FEATURES,106,Perfect,Ed Sheeran
+gay,attribute_not_genre,197,gay,ARTIST_FEATURES,399,Let Me Love You,"DJ Snake, Justin Bieber"
+1991,numeric_value,197,1991,ARTIST_FEATURES,4849,Lifestyle,Rich Gang
+amazing,attribute_not_genre,196,amazing,ARTIST_FEATURES,399,Let Me Love You,"DJ Snake, Justin Bieber"
+terrible,attribute_not_genre,196,terrible,ARTIST_FEATURES,399,Let Me Love You,"DJ Snake, Justin Bieber"
+1,numeric_value,187,1,ARTIST_FEATURES,1625,Come Together - Remastered 2009,The Beatles
+female vocalist,attribute_not_genre,178,female vocalist,ARTIST_FEATURES,3618,Control,Zoe Wees
+racist,attribute_not_genre,174,racist,ARTIST_FEATURES,176,Last Night,Morgan Wallen
+920.023,numeric_value,169,920.023,ARTIST_FEATURES,11276,Nunca Me Amo,Jon Z
+meme,known_non_genre,168,meme,TS,1782,Mathematical Disrespect,Lil Mabu
+karen,attribute_not_genre,164,karen,ARTIST_FEATURES,125,Say Yes To Heaven,Lana Del Rey
+question for the culture,editorial_or_comment_tag,164,question for the culture,ARTIST_FEATURES,125,Say Yes To Heaven,Lana Del Rey
+strictly stereo 1964-1969,number_sequence,150,strictly stereo 1964-1969,ARTIST_FEATURES,433,"Paint It, Black",The Rolling Stones
+006,numeric_value,132,006,ARTIST_FEATURES,47550,Hecho Por Mi,Drei
+5099995588322,numeric_value,131,5099995588322,ARTIST_FEATURES,1416,Mr. Blue Sky,Electric Light Orchestra
+killed by 2016!,sentence_or_comment,113,killed by 2016!,ARTIST_FEATURES,13281,Ashes to Ashes,David Bowie
+tha12gaugeminx@yahoo.com dot,url_or_domain,111,tha12gaugeminx@yahoo.com dot,ARTIST_FEATURES,174,The Color Violet,Tory Lanez
+music,known_non_genre,104,music,ARTIST_FEATURES,1729,Linda,Marka Akme
+male vocalist,attribute_not_genre,104,male vocalist,ARTIST_FEATURES,17574,Chúng Ta Của Hiện Tại,Sơn Tùng M-TP
+r2625216,number_sequence,99,[r2625216],ARTIST_FEATURES,2102,Fuera del mercado,Danny Ocean
+1950s,year_tag,95,1950s,ARTIST_FEATURES,3639,Heather On The Hill,Nathan Evans
+movie tunes,known_non_genre,91,movie tunes,TS,3462,Let It Go,Idina Menzel
+singer and songwriter,attribute_not_genre,82,singer and songwriter,ARTIST_FEATURES,12129,Suzanne,Leonard Cohen
+2007,numeric_value,76,2007,ARTIST_FEATURES,37,I Wanna Be Yours,Arctic Monkeys
+sped up,known_non_genre,74,sped up,TS,493,GMFU (w/ 6arelyhuman),Odetari
+female,attribute_not_genre,73,female,ARTIST_FEATURES,13346,Dancing On My Own,Robyn
+1992-1998,numeric_value,70,1992-1998,ARTIST_FEATURES,182,Creep,Radiohead
+2240665859492,numeric_value,69,2240665859492,ARTIST_FEATURES,520,Basket Case,Green Day
+previa,known_non_genre,64,previa,TS,825,Ni Una Ni Dos,BM
+hollywood,known_non_genre,64,hollywood,TS,1042,I'm Just Ken,Ryan Gosling
+her expression is like shes thinking something dumb,too_many_words,61,her expression is like shes thinking something dumb,ARTIST_FEATURES,1611,Con Calma,"Daddy Yankee, Katy Perry, Snow"
+lolol trap?,sentence_or_comment,61,lolol trap?,ARTIST_FEATURES,1611,Con Calma,"Daddy Yankee, Katy Perry, Snow"
+srsly im gay if i am shut up,too_many_words,61,srsly im gay if i am shut up,ARTIST_FEATURES,1611,Con Calma,"Daddy Yankee, Katy Perry, Snow"
+whats wrong with being gay? gay,sentence_or_comment,61,whats wrong with being gay? gay,ARTIST_FEATURES,1611,Con Calma,"Daddy Yankee, Katy Perry, Snow"
+r12065312,number_sequence,61,[r12065312],ARTIST_FEATURES,2110,How Do I Say Goodbye,Dean Lewis
+3356571013121,numeric_value,54,3356571013121,ARTIST_FEATURES,775,Buy Dirt,Jordan Davis
+deep purple live in berlin 1973 dvd video,too_many_words,53,deep purple live in berlin 1973 dvd video,ARTIST_FEATURES,13345,In Bloom,Neck Deep
+1980,numeric_value,51,1980,ARTIST_FEATURES,3186,One,U2
+4d49e67b-1746-48ac-9eac-9ebabc595486,number_sequence,50,4d49e67b-1746-48ac-9eac-9ebabc595486,ARTIST_FEATURES,3633,my ex's best friend,mgk
+english singer,attribute_not_genre,49,english singer,ARTIST_FEATURES,793,Easy On Me,Adele
+barcode:0602507159085,number_sequence,43,barcode:0602507159085,ARTIST_FEATURES,475,I'm Still Standing,Elton John
+lflores077@gmail.com,url_or_domain,41,lflores077@gmail.com,ARTIST_FEATURES,2215,Heaven,Niall Horan
+#djramon #edm #trap #dubstep #futurebass #electrohouse #deephouse,excessive_punctuation,41,#djramon #edm #trap #dubstep #futurebass #electrohouse #deephouse,ARTIST_FEATURES,4203,bli,Ramón
+spanish singer,attribute_not_genre,41,spanish singer,ARTIST_FEATURES,62150,Que voy a hacer,Angela Leiva
+#rapper #love #chill,excessive_punctuation,39,#rapper #love #chill,ARTIST_FEATURES,197759,Yêu 5,Rhymastic
+90,numeric_value,38,90,ARTIST_FEATURES,811,Smells Like Teen Spirit,Nirvana
+male,attribute_not_genre,30,male,ARTIST_FEATURES,1944,Supermassive Black Hole,Muse
+fixme japanese capitalization,editorial_or_comment_tag,30,fixme japanese capitalization,ARTIST_FEATURES,173742,Dumpert Anthem,Dumpert Anthem
+1976,numeric_value,29,1976,ARTIST_FEATURES,10947,Wish You Were Mine,Philip George
+deia-sa fonda august 1998-and a once for the hp sauce,too_many_words,28,deia-sa fonda august 1998-and a once for the hp sauce,ARTIST_FEATURES,14535,Somewhere Only We Know,Lily Allen
+merge?,sentence_or_comment,28,merge?,ARTIST_FEATURES,56566,Manon,De Jeugd Van Tegenwoordig
+female singer,attribute_not_genre,27,female singer,ARTIST_FEATURES,125247,Smooth Operator - Single Version,Sade
+743219675026,numeric_value,26,743219675026,ARTIST_FEATURES,1493,Complicated,Avril Lavigne
+artists,known_non_genre,24,artists,ARTIST_FEATURES,179439,MAPA,SB19
+p-pop idol group filipino songwriters original dancer pinoy pop boy band opm,too_long,24,p-pop idol group filipino songwriters original dancer pinoy pop boy band opm,ARTIST_FEATURES,179439,MAPA,SB19
+pop singir-songwriter filipino opm p-pop pinoy ppop idol group original rapper edm ppopidol group,too_long,24,pop singir-songwriter filipino opm p-pop pinoy ppop idol group original rapper edm ppopidol group,ARTIST_FEATURES,179439,MAPA,SB19
+vocalist and dancer,attribute_not_genre,24,vocalist and dancer,ARTIST_FEATURES,179439,MAPA,SB19
+60,numeric_value,22,60,ARTIST_FEATURES,74573,Don't Say Love,Leigh-Anne
+www.allmusic.com,url_or_domain,21,www.allmusic.com,ARTIST_FEATURES,5207,X Gon' Give It To Ya,DMX
+flesh-of-my-flesh-blood-of-my-blood-mw0000046117,number_sequence,21,flesh-of-my-flesh-blood-of-my-blood-mw0000046117,ARTIST_FEATURES,5207,X Gon' Give It To Ya,DMX
+moose!,sentence_or_comment,19,moose!,ARTIST_FEATURES,152305,In Greece We Trap,Moose
+20 48,numeric_value,18,20 48,ARTIST_FEATURES,1274803000,25/8,Miero YIC
+split or merge to “the wailers” (keeping ac,too_many_words,17,split or merge to “the wailers” (keeping ac),ARTIST_FEATURES,571,Could You Be Loved,Bob Marley & The Wailers
+825646222902,numeric_value,17,825646222902,ARTIST_FEATURES,24240,The Writing on the Wall,Iron Maiden
+!hyperfocus,sentence_or_comment,15,!hyperfocus,ARTIST_FEATURES,134905,Fy Faen,Hkeem
+bob dylan-where are you now my blue eyed son,too_many_words,14,bob dylan-where are you now my blue eyed son,ARTIST_FEATURES,193981,All My Friends,Dylan Kelly
+gorillaz graham coxon coxon song 2 woo hoo,too_many_words,13,gorillaz graham coxon coxon song 2 woo hoo,ARTIST_FEATURES,50791,Lonesome Street,Blur
+*england→north east→wallsend,excessive_punctuation,12,*england→north east→wallsend,ARTIST_FEATURES,14811,What Could Have Been feat. Ray Chen (from the series Arcane League of Legends),Sting
+add named after (yung lain maybe?,sentence_or_comment,11,add named after (yung lain maybe?),ARTIST_FEATURES,7028,Ginseng Strip 2002,Yung Lean
+carlos baute colgando en tus manos nada se compara a ti,too_many_words,11,carlos baute colgando en tus manos nada se compara a ti,ARTIST_FEATURES,34499,Ando buscando,Carlos Baute
+2005,numeric_value,10,2005,ARTIST_FEATURES,10010,Breathe,The Prodigy
+0255746405,numeric_value,9,0255746405,ARTIST_FEATURES,2139,Sweet Caroline,Neil Diamond
+7567826842,numeric_value,9,7567826842,ARTIST_FEATURES,122456,Désirée,Yes*
+mario939393,number_sequence,9,mario939393,ARTIST_FEATURES,122456,Désirée,Yes*
+1998,numeric_value,9,1998,ARTIST_FEATURES,154167,Dear Mama,Fatboy
+fixme incorrectly merged releases,editorial_or_comment_tag,9,fixme incorrectly merged releases,ARTIST_FEATURES,156201,Fokkt á klúbbnum,Big Sexy
+00289 479 0056,numeric_value,8,00289 479 0056,ARTIST_FEATURES,43447,The Break,Mister Claude
+80 s fresh new drammen linea dale pop kent cato sundberg norway peter michelsen nrk,too_long,8,80 s fresh new drammen linea dale pop kent cato sundberg norway peter michelsen nrk,ARTIST_FEATURES,73101,Downtown,Donkeyboy
+1933,numeric_value,8,1933,ARTIST_FEATURES,85970,Give Me The Knife,Billie
+fix artist credits,editorial_or_comment_tag,8,fix artist credits,ARTIST_FEATURES,1267216,Somebody's Else's Guy,Jocelyn Brown
+aa0003000,number_sequence,7,aa0003000,ARTIST_FEATURES,1737,What A Wonderful World,Louis Armstrong
+gbarl1500704,number_sequence,7,gbarl1500704,ARTIST_FEATURES,24683,On My Mind,Disciples
+male vocals,known_non_genre,7,male vocals,ARTIST_FEATURES,52813,Wide Awake,Eric Saade
+ハロー!フロシェクト,sentence_or_comment,7,ハロー!フロシェクト,ARTIST_FEATURES,53108,Let Love Be Love,Juice
+meow!,sentence_or_comment,7,meow!,ARTIST_FEATURES,54612,Flying Hirsch,Peter Power
+311,numeric_value,6,311,ARTIST_FEATURES,14525,Walk On Water,Thirty Seconds To Mars
+48,numeric_value,6,48,ARTIST_FEATURES,158929,Rapsodi,JKT48
+fixme-trad,editorial_or_comment_tag,6,fixme-trad,ARTIST_FEATURES,200233,We Wish You a Merry Christmas / End Title - Voice,Traditional
+4029759205272,numeric_value,5,4029759205272,ARTIST_FEATURES,1409,I Want To Know What Love Is,Foreigner
+oi!,sentence_or_comment,5,oi!,ARTIST_FEATURES,7331,I'm Shipping Up To Boston,Dropkick Murphys
+skeeeptisk?,sentence_or_comment,5,skeeeptisk?,ARTIST_FEATURES,31490,A Traves del Vaso (Bachata Version),Grupo Extra
+lead singer of the girl and the dreamcatcher,too_many_words,4,lead singer of the girl and the dreamcatcher,ARTIST_FEATURES,1362,Boyfriend,Dove Cameron
+http musicbrainz org show tag tag fiorella 20mannoia show artist,too_many_words,4,http musicbrainz org show tag tag fiorella 20mannoia show artist,ARTIST_FEATURES,7110,Mariposa,Fiorella Mannoia
+fixme everything,editorial_or_comment_tag,4,fixme everything,ARTIST_FEATURES,60394,I Don't Wanna Go To Bed,Simple Plan
+1960,numeric_value,4,1960,ARTIST_FEATURES,74573,Don't Say Love,Leigh-Anne
+what is this shit.png,file_reference,4,what is this shit.png,ARTIST_FEATURES,158180,Death Row,Ninja
+christian artist,attribute_not_genre,4,christian artist,ARTIST_FEATURES,1281083,Reaalne,Arg Part
+fixme label disaster,editorial_or_comment_tag,4,fixme label disaster,ARTIST_FEATURES,1289917,ハニカミ,Hey! Say! JUMP
+qb qurat-ul-ain balouch quratulain balouch pakistani singer humsafar,too_many_words,3,qb qurat-ul-ain balouch quratulain balouch pakistani singer humsafar,ARTIST_FEATURES,178401,Faasle,Kaavish and Quratulain Balouch
+#nimino #electro #music #spotify,excessive_punctuation,3,#nimino #electro #music #spotify,ARTIST_FEATURES,538935,I Only Smoke When I Drink,nimino
+#katyperry #toddterry #dukedumont #spinninrecords #defectedrecords #deleterecords #housemusic #fatboyslim #greysanatomy #runningonsunshine #jesusjackson #techno #southstreetplayer #strictlyrhthm #inhouserecords,too_long,3,#katyperry #toddterry #dukedumont #spinninrecords #defectedrecords #deleterecords #housemusic #fatboyslim #greysanatomy #runningonsunshine #jesusjackson #techno #southstreetplayer #strictlyrhthm #inhouserecords,ARTIST_FEATURES,1267692,Children,Roland Clark
+2006,numeric_value,2,2006,ARTIST_FEATURES,244,Je te laisserai des mots,Patrick Watson
+1984,numeric_value,2,1984,ARTIST_FEATURES,24656,Pucaj Mi U Srce,Edita
+s6.postimg.org,url_or_domain,2,s6.postimg.org,ARTIST_FEATURES,45452,Juntos,Paula Fernandes
+paula fernandes ao vivo frente.jpg,file_reference,2,paula fernandes ao vivo frente.jpg,ARTIST_FEATURES,45452,Juntos,Paula Fernandes
+2019,numeric_value,2,2019,ARTIST_FEATURES,69389,sad girls always finish first,Alaina Castillo
+www.lisastansfield.net,url_or_domain,2,www.lisastansfield.net,ARTIST_FEATURES,130675,All Around the World - Remastered,Lisa Stansfield
+<:uniqua:776299932167962654>,number_sequence,2,<:uniqua:776299932167962654>,ARTIST_FEATURES,131144,Castaways,The Backyardigans
+2020,numeric_value,2,2020,ARTIST_FEATURES,150093,Pizza,Antilopen Gang
+1970,numeric_value,2,1970,ARTIST_FEATURES,212617,مع السلامة للي عايز يمشي,أوشا الصغير
+46,numeric_value,2,46,ARTIST_FEATURES,251794,曾经你说,赵乃吉
+musicbrainz.org,url_or_domain,2,musicbrainz.org,ARTIST_FEATURES,1267956,A Little Less Conversation (JXL Radio Edit Remix),Elvis vs JXL
+01809552-4f87-45b0-afff-2c6f0730a3be,number_sequence,2,01809552-4f87-45b0-afff-2c6f0730a3be,ARTIST_FEATURES,1267956,A Little Less Conversation (JXL Radio Edit Remix),Elvis vs JXL
+37474939 remove wikidata children,number_sequence,2,37474939 remove wikidata children,ARTIST_FEATURES,1274827047,Esprit de Dieu,Pasteur Yves Castanou
+17,numeric_value,2,17,ARTIST_FEATURES,1274836338,"Piano Concerto No. 1 in E Minor, Op. 11: II. Romance. Larghetto","Frédéric Chopin, Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal"
+3111-35,numeric_value,2,3111-35,ARTIST_FEATURES,1274836338,"Piano Concerto No. 1 in E Minor, Op. 11: II. Romance. Larghetto","Frédéric Chopin, Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal"
+fixme 2012,editorial_or_comment_tag,1,fixme 2012,ARTIST_FEATURES,165302,Secret Base -Kimiga Kureta mono-,ZONE
+5071,numeric_value,1,5071,ARTIST_FEATURES,176035,Gikk I Bakken,Dårlig Vane
+fixme fictional,editorial_or_comment_tag,1,fixme fictional,ARTIST_FEATURES,185728,SpongeBob SquarePants Theme Song,Spongebob Squarepants
+nothing but...,excessive_punctuation,1,nothing but...,ARTIST_FEATURES,238134,No Mistakes - Extended Version,Dave Steward
+female artist,attribute_not_genre,1,female artist,ARTIST_FEATURES,264151,All About That Day,Nene鄭乃馨
+fixme screwed recordings,editorial_or_comment_tag,1,fixme screwed recordings,ARTIST_FEATURES,265472,戀愛的幸運餅乾,AKB48
+u.m.u × bemani,excessive_punctuation,1,u.m.u × bemani,ARTIST_FEATURES,1137125,Kaali Activa - Pind De Gerhe,Rupinder Handa
+1987,numeric_value,1,1987,ARTIST_FEATURES,1248647,اعوف الدنيا,محمد السالم
+fixme artist credits,editorial_or_comment_tag,1,fixme artist credits,ARTIST_FEATURES,1267863,Calabria 2007 (Radio Mix),Enur
+billboard,known_non_genre,1,billboard,ARTIST_FEATURES,1290039,Ge dig hela världen,Ravo
+song,known_non_genre,1,song,ARTIST_FEATURES,1274815716,Fel,"5Lan, Chiwawa"
+track,known_non_genre,1,track,ARTIST_FEATURES,1274815716,Fel,"5Lan, Chiwawa"
+single,known_non_genre,1,single,ARTIST_FEATURES,1274815716,Fel,"5Lan, Chiwawa"
+f802f6ae-7133-41d6-b0bb-c7acafb22636,number_sequence,1,f802f6ae-7133-41d6-b0bb-c7acafb22636,ARTIST_FEATURES,1274815792,Jeová Jireh,Aline Barros
+alarma!,sentence_or_comment,1,alarma!,ARTIST_FEATURES,1274823503,Down Dey,"Gbmnutron, DJ Spider"
+apekatt recordings fixme,editorial_or_comment_tag,1,apekatt recordings fixme,ARTIST_FEATURES,1274825860,Sunday Shoutin',Johnny Corporate
+fixme recordings merge,editorial_or_comment_tag,1,fixme recordings merge,ARTIST_FEATURES,1274828329,"Pop, Lock & Drop It",Huey
+s.u.c.,excessive_punctuation,1,s.u.c.,ARTIST_FEATURES,1274831567,Believer,Ro
+www.wasuremonomusic.com,url_or_domain,1,www.wasuremonomusic.com,ARTIST_FEATURES,1274835667,Are You OK?,Wasuremono
+2011-09-03,numeric_value,1,2011-09-03,ARTIST_FEATURES,1274838733,one4u,DJ_Dave
+none,known_non_genre,1,none,ARTIST_FEATURES,1274840502,Viva l'amour,Sabina Sciubba
+hammad djhammad egyptian dja nd producer محمد حماد hammad remix hammad tracks hammad music,too_long,1,hammad djhammad egyptian dja nd producer محمد حماد hammad remix hammad tracks hammad music,ARTIST_FEATURES,1274841333,"Gaafar El Omda Theme 11, Vol. 1",Khaled Hammad
+2002-05-10 werk ii,number_sequence,1,2002-05-10 werk ii,ARTIST_FEATURES,1274846410,nepyk,mésh
+traavis jeverson traavis sempiternal traavis jever jeverson traavis,too_many_words,1,traavis jeverson traavis sempiternal traavis jever jeverson traavis,ARTIST_FEATURES,1274849093,Thank You,Jeverson

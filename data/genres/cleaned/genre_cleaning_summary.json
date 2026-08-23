@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-07-30T14:19:01",
+  "project_root": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT",
+  "input_file": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\audit\\track_genre_assignments.csv",
+  "output_directory": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\cleaned",
+  "statistics": {
+    "total_rows": 212100,
+    "tracks_with_clean_genres": 195825,
+    "tracks_without_clean_genres": 16275,
+    "genre_sources": {
+      "track": 143096,
+      "artist_fallback": 52729,
+      "unresolved": 16275
+    },
+    "unique_clean_genres": 7913,
+    "total_rejected_occurrences": 216720,
+    "unique_rejected_values": 310,
+    "total_alias_occurrences": 44665,
+    "unique_alias_pairs": 21
+  },
+  "rules": {
+    "max_genre_length": 70,
+    "max_genre_words": 7,
+    "ts_has_priority": true,
+    "artist_features_used_as_fallback": true
+  },
+  "output_files": {
+    "clean_track_genre_assignments": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\cleaned\\clean_track_genre_assignments.csv",
+    "clean_genres": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\cleaned\\clean_genres.csv",
+    "rejected_genres": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\cleaned\\rejected_genres.csv",
+    "genre_aliases_detected": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\cleaned\\genre_aliases_detected.csv",
+    "genre_taxonomy_seed": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\cleaned\\genre_taxonomy_seed.json"
+  }
+}

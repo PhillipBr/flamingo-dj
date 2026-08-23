@@ -1,0 +1,15 @@
+﻿Genre,Action,PrimaryFamily,SecondaryFamilies,Target,Notes
+funk,replace_families,rnb_soul,jazz_blues,,Funk debe tener familia propia relacionada con soul y jazz.
+indie,replace_families,rock,pop,,Etiqueta amplia; mantener con confianza moderada.
+hardcore hip hop,replace_families,hip_hop,,,No debe heredar metal automáticamente.
+tropical house,replace_families,house,electronic,,Eliminar latin_tropical como familia heredada.
+contemporary r&b,replace_families,rnb_soul,,,
+alternative r&b,replace_families,rnb_soul,,,
+soul,replace_families,rnb_soul,,,
+pop urbaine,replace_families,pop,hip_hop,,
+latin,replace_families,latin_tropical,latin_urban,,Etiqueta demasiado amplia; mantener con peso moderado.
+ambient,replace_families,electronic,,,
+arrocha,replace_families,brazilian,,,
+filmi,replace_families,world_asian,soundtrack_stage,,
+sierreno,replace_families,regional_mexican,,,
+norteno,replace_families,regional_mexican,,,

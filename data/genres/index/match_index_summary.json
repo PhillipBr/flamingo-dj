@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-07-30T14:58:34",
+  "project_root": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT",
+  "inputs": {
+    "graph": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\final\\genre_graph_final.json",
+    "profiles": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\final\\genre_match_profiles_final.json",
+    "unresolved": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\final\\unresolved_genres.csv"
+  },
+  "settings": {
+    "minimum_primary_weight": 0.65,
+    "minimum_confidence_score": 0.65,
+    "minimum_same_style_score": 0.36,
+    "minimum_cross_style_score": 0.4,
+    "max_same_style_results": 12,
+    "max_cross_style_results": 10
+  },
+  "statistics": {
+    "source_genres": 4170,
+    "included_genres": 1279,
+    "excluded_genres": 2891,
+    "aliases": 26,
+    "families": 23,
+    "same_style_profiles": 1279,
+    "cross_style_profiles": 1279,
+    "profiles_without_cross_style": 24,
+    "exclusion_reasons": {
+      "no_primary_family": 2085,
+      "untrusted_fallback": 806
+    }
+  },
+  "react_files": {
+    "genreIndex": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\src\\data\\genres\\genreIndex.json",
+    "genreAliases": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\src\\data\\genres\\genreAliases.json",
+    "genreFamilies": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\src\\data\\genres\\genreFamilies.json",
+    "genreSameStyle": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\src\\data\\genres\\genreSameStyle.json",
+    "genreCrossStyle": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\src\\data\\genres\\genreCrossStyle.json",
+    "genreMetadata": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\src\\data\\genres\\genreMetadata.json"
+  },
+  "audit_files": {
+    "excludedGenres": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\index\\excluded_genres.csv",
+    "reviewQueue": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\index\\index_review_queue.csv"
+  }
+}

@@ -1,15 +1,38 @@
+import { Bell, Search } from "lucide-react";
+
 export default function Topbar() {
   return (
     <header className="topbar">
-      <div>
-        <strong>DJ Library</strong>
+      <div className="topbar__search">
+        <Search size={18} aria-hidden="true" />
+
+        <input
+          type="search"
+          placeholder="Search title, artist, album or keyword..."
+          aria-label="Search music library"
+        />
+
+        <kbd>Ctrl K</kbd>
       </div>
 
-      <input
-        type="search"
-        placeholder="Search tracks..."
-        aria-label="Search tracks"
-      />
+      <div className="topbar__actions">
+        <button
+          className="topbar__icon-button"
+          type="button"
+          aria-label="Notifications"
+        >
+          <Bell size={19} />
+        </button>
+
+        <div className="topbar__user">
+          <div className="topbar__avatar">FB</div>
+
+          <div className="topbar__user-info">
+            <strong>Felipe</strong>
+            <span>Administrator</span>
+          </div>
+        </div>
+      </div>
     </header>
   );
 }

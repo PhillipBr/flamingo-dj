@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-07-30T14:26:51",
+  "project_root": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT",
+  "input_file": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\cleaned\\clean_genres.csv",
+  "output_directory": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\taxonomy",
+  "statistics": {
+    "input_genre_rows": 8926,
+    "accepted_genres": 4215,
+    "rejected_genres": 4699,
+    "unmapped_genres": 2100,
+    "genres_with_parent": 1009,
+    "genres_with_related_styles": 2115,
+    "genres_with_transition_styles": 1435,
+    "family_counts": {
+      "hip_hop": 472,
+      "pop": 450,
+      "rock": 365,
+      "country_folk": 158,
+      "metal": 124,
+      "electronic": 100,
+      "jazz_blues": 95,
+      "house": 72,
+      "caribbean": 68,
+      "world_asian": 58,
+      "rnb_soul": 55,
+      "middle_eastern": 54,
+      "latin_tropical": 53,
+      "brazilian": 45,
+      "gospel_spiritual": 44,
+      "classical": 41,
+      "regional_mexican": 28,
+      "soundtrack_stage": 27,
+      "trance": 26,
+      "bass_music": 24,
+      "african": 23,
+      "latin_urban": 22,
+      "techno": 19
+    }
+  },
+  "rules": {
+    "minimum_track_count": 5,
+    "max_genre_length": 70,
+    "max_genre_words": 8
+  },
+  "output_files": {
+    "genre_graph": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\taxonomy\\genre_graph.json",
+    "genre_families": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\taxonomy\\genre_families.json",
+    "genre_relations": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\taxonomy\\genre_relations.json",
+    "unmapped_genres": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\taxonomy\\unmapped_genres.csv",
+    "rejected_taxonomy_genres": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\taxonomy\\rejected_taxonomy_genres.csv"
+  }
+}

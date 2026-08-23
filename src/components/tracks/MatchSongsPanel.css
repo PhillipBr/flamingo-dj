@@ -1,0 +1,374 @@
+.match-songs-panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 45;
+  display: flex;
+  width: min(440px, 100vw);
+  height: 100vh;
+  flex-direction: column;
+  overflow: hidden;
+  border-left: 1px solid rgba(255, 255, 255, 0.09);
+  background: #101114;
+  box-shadow: -18px 0 42px rgba(0, 0, 0, 0.34);
+  color: #f5f5f5;
+}
+
+.match-songs-panel__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 22px 22px 18px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.match-songs-panel__header h2 {
+  margin: 4px 0 0;
+  font-size: 20px;
+}
+
+.match-songs-panel__eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 0;
+  color: #ff5d8f;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.match-songs-panel__close {
+  display: grid;
+  width: 34px;
+  height: 34px;
+  place-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.04);
+  color: inherit;
+  cursor: pointer;
+}
+
+.match-songs-panel__source {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  margin: 16px 18px 10px;
+  padding: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.035);
+}
+
+.match-songs-panel__source-artwork,
+.match-card__artwork {
+  display: grid;
+  flex: 0 0 auto;
+  place-items: center;
+  overflow: hidden;
+  background: #272930;
+  color: #a9abb3;
+}
+
+.match-songs-panel__source-artwork {
+  width: 54px;
+  height: 54px;
+  border-radius: 8px;
+}
+
+.match-songs-panel__source-artwork img,
+.match-card__artwork img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.match-songs-panel__source-copy {
+  min-width: 0;
+}
+
+.match-songs-panel__source-copy span {
+  display: block;
+  margin-bottom: 3px;
+  color: #8d9099;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.match-songs-panel__source-copy strong,
+.match-songs-panel__source-copy p {
+  display: block;
+  overflow: hidden;
+  margin: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.match-songs-panel__source-copy p {
+  margin-top: 3px;
+  color: #a7a9b1;
+  font-size: 13px;
+}
+
+.match-songs-panel__tabs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  padding: 8px 18px;
+}
+
+.match-songs-panel__tab {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  min-height: 38px;
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.035);
+  color: #b7b9c0;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.match-songs-panel__tab--active {
+  border-color: rgba(255, 93, 143, 0.55);
+  background: rgba(255, 93, 143, 0.13);
+  color: #fff;
+}
+
+.match-songs-panel__controls {
+  padding: 12px 18px 8px;
+}
+
+.match-songs-panel__controls label {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  color: #aeb0b8;
+  font-size: 12px;
+}
+
+.match-songs-panel__controls input {
+  width: 100%;
+  accent-color: #ff5d8f;
+}
+
+.match-songs-panel__result-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 18px 8px;
+  color: #858891;
+  font-size: 12px;
+}
+
+.match-songs-panel__results {
+  flex: 1;
+  overflow-y: auto;
+  padding: 8px 14px 24px;
+}
+
+.match-songs-panel__empty {
+  display: grid;
+  min-height: 260px;
+  place-items: center;
+  align-content: center;
+  gap: 8px;
+  padding: 30px;
+  text-align: center;
+  color: #898c95;
+}
+
+.match-card {
+  display: grid;
+  grid-template-columns: 24px 48px minmax(0, 1fr);
+  gap: 10px;
+  margin-bottom: 9px;
+  padding: 11px;
+  border: 1px solid rgba(255, 255, 255, 0.075);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.028);
+}
+
+.match-card:hover {
+  border-color: rgba(255, 93, 143, 0.26);
+  background: rgba(255, 255, 255, 0.047);
+}
+
+.match-card__rank {
+  padding-top: 4px;
+  color: #777a83;
+  font-size: 12px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.match-card__artwork {
+  width: 48px;
+  height: 48px;
+  border-radius: 7px;
+}
+
+.match-card__main {
+  min-width: 0;
+}
+
+.match-card__title-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.match-card__title-row > div {
+  min-width: 0;
+}
+
+.match-card__title-row strong,
+.match-card__title-row p {
+  display: block;
+  overflow: hidden;
+  margin: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.match-card__title-row p {
+  margin-top: 2px;
+  color: #9a9ca5;
+  font-size: 12px;
+}
+
+.match-card__score {
+  flex: 0 0 auto;
+  padding: 4px 7px;
+  border-radius: 999px;
+  background: rgba(255, 93, 143, 0.14);
+  color: #ff8caf;
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.match-card__facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  margin-top: 9px;
+  color: #bfc1c8;
+  font-size: 11px;
+}
+
+.match-card__facts span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.match-card__genre {
+  overflow: hidden;
+  margin-top: 7px;
+  color: #8e919a;
+  font-size: 11px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.match-card__breakdown {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px 8px;
+  margin-top: 8px;
+  color: #777a83;
+  font-size: 10px;
+}
+
+.match-card__details {
+  margin-top: 9px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #ff7ca5;
+  font-size: 11px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.tracks-toolbar__match-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  min-height: 38px;
+  padding: 0 13px;
+  border: 1px solid rgba(255, 93, 143, 0.45);
+  border-radius: 8px;
+  background: rgba(255, 93, 143, 0.12);
+  color: #fff;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 850;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.tracks-toolbar__match-button:disabled {
+  border-color: rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.025);
+  color: #686a72;
+  cursor: not-allowed;
+}
+
+@media (max-width: 720px) {
+  .match-songs-panel {
+    width: 100vw;
+  }
+}
+
+
+/* ==========================================================
+   HISTORICAL CROWD SCORE — MATCH SONGS V1
+   ========================================================== */
+
+.match-card__history {
+  color: #84c2ff;
+}
+
+.match-card__history--empty {
+  color: #696d75;
+}
+
+.match-card__historical-note {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin: 5px 0 1px;
+  padding: 5px 7px;
+  border: 1px solid rgba(101, 176, 255, 0.09);
+  border-radius: 5px;
+  background: rgba(101, 176, 255, 0.025);
+  color: #747983;
+  font-size: 6.5px;
+  line-height: 1.4;
+}
+
+.match-card__historical-note svg {
+  flex: 0 0 auto;
+  color: #65b0ff;
+}
+
+
+/* ==========================================================
+   EVENT PROFILE CONTEXT V1
+   ========================================================== */
+
+.match-songs-panel__profile-context {
+  display: block;
+  margin-top: 3px;
+  color: #65b0ff;
+  font-size: 6.5px;
+  font-weight: 700;
+}

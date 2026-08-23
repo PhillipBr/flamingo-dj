@@ -1,0 +1,129 @@
+{
+  "_meta": {
+    "description": "Overrides manuales para la taxonomía de géneros. No eliminar esta sección.",
+    "allowedActions": [
+      "alias",
+      "keep",
+      "merge_families",
+      "remove",
+      "replace_families",
+      "replace_related",
+      "replace_transitions"
+    ]
+  },
+  "funk": {
+    "action": "replace_families",
+    "primaryFamily": "rnb_soul",
+    "secondaryFamilies": [
+      "jazz_blues"
+    ],
+    "weight": 0.95,
+    "confidence": "manual",
+    "notes": "Funk debe tener familia propia relacionada con soul y jazz."
+  },
+  "indie": {
+    "action": "replace_families",
+    "primaryFamily": "rock",
+    "secondaryFamilies": [
+      "pop"
+    ],
+    "weight": 0.7,
+    "confidence": "manual",
+    "notes": "Etiqueta amplia; mantener con confianza moderada."
+  },
+  "hardcore hip hop": {
+    "action": "replace_families",
+    "primaryFamily": "hip_hop",
+    "secondaryFamilies": [],
+    "weight": 1.0,
+    "confidence": "manual",
+    "notes": "No debe heredar metal automáticamente."
+  },
+  "tropical house": {
+    "action": "replace_families",
+    "primaryFamily": "house",
+    "secondaryFamilies": [
+      "electronic"
+    ],
+    "weight": 1.0,
+    "confidence": "manual",
+    "notes": "Eliminar latin_tropical como familia heredada."
+  },
+  "contemporary r&b": {
+    "action": "replace_families",
+    "primaryFamily": "rnb_soul",
+    "secondaryFamilies": [],
+    "weight": 0.98,
+    "confidence": "manual"
+  },
+  "alternative r&b": {
+    "action": "replace_families",
+    "primaryFamily": "rnb_soul",
+    "secondaryFamilies": [],
+    "weight": 0.98,
+    "confidence": "manual"
+  },
+  "soul": {
+    "action": "replace_families",
+    "primaryFamily": "rnb_soul",
+    "secondaryFamilies": [],
+    "weight": 1.0,
+    "confidence": "manual"
+  },
+  "pop urbaine": {
+    "action": "replace_families",
+    "primaryFamily": "pop",
+    "secondaryFamilies": [
+      "hip_hop"
+    ],
+    "weight": 0.88,
+    "confidence": "manual"
+  },
+  "latin": {
+    "action": "replace_families",
+    "primaryFamily": "latin_tropical",
+    "secondaryFamilies": [
+      "latin_urban"
+    ],
+    "weight": 0.66,
+    "confidence": "manual",
+    "notes": "Etiqueta demasiado amplia; mantener con peso moderado."
+  },
+  "ambient": {
+    "action": "replace_families",
+    "primaryFamily": "electronic",
+    "secondaryFamilies": [],
+    "weight": 0.95,
+    "confidence": "manual"
+  },
+  "arrocha": {
+    "action": "replace_families",
+    "primaryFamily": "brazilian",
+    "secondaryFamilies": [],
+    "weight": 0.95,
+    "confidence": "manual"
+  },
+  "filmi": {
+    "action": "replace_families",
+    "primaryFamily": "world_asian",
+    "secondaryFamilies": [
+      "soundtrack_stage"
+    ],
+    "weight": 0.92,
+    "confidence": "manual"
+  },
+  "sierreno": {
+    "action": "replace_families",
+    "primaryFamily": "regional_mexican",
+    "secondaryFamilies": [],
+    "weight": 0.96,
+    "confidence": "manual"
+  },
+  "norteno": {
+    "action": "replace_families",
+    "primaryFamily": "regional_mexican",
+    "secondaryFamilies": [],
+    "weight": 0.96,
+    "confidence": "manual"
+  }
+}

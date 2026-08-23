@@ -1,0 +1,174 @@
+.cloud-sync-panel {
+  display: grid;
+  gap: 9px;
+  padding: 11px;
+  border: 1px solid rgba(101, 176, 255, 0.14);
+  border-radius: 9px;
+  background: linear-gradient(
+    135deg,
+    rgba(101, 176, 255, 0.035),
+    rgba(95, 200, 140, 0.02)
+  );
+}
+
+.cloud-sync-panel > header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.cloud-sync-panel > header > div {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.cloud-sync-panel > header span,
+.cloud-sync-panel > header strong {
+  display: block;
+}
+
+.cloud-sync-panel > header span {
+  color: #65b0ff;
+  font-size: 7px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.cloud-sync-panel > header strong {
+  margin-top: 2px;
+  font-size: 11px;
+}
+
+.cloud-sync-panel > header > small {
+  color: #84c2ff;
+  font-size: 7px;
+}
+
+.cloud-sync-panel__setup {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 7px;
+  padding: 8px;
+  border: 1px solid rgba(240, 186, 95, 0.12);
+  border-radius: 6px;
+  background: rgba(240, 186, 95, 0.025);
+}
+
+.cloud-sync-panel__setup strong {
+  font-size: 8px;
+}
+
+.cloud-sync-panel__setup p {
+  margin: 3px 0 0;
+  color: #747780;
+  font-size: 7px;
+  line-height: 1.45;
+}
+
+.cloud-sync-panel__auth {
+  display: grid;
+  grid-template-columns:
+    minmax(170px, 1fr)
+    minmax(170px, 1fr)
+    auto
+    auto;
+  gap: 6px;
+  align-items: end;
+}
+
+.cloud-sync-panel label > span {
+  display: block;
+  margin-bottom: 4px;
+  color: #747780;
+  font-size: 6.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.cloud-sync-panel input {
+  width: 100%;
+  min-height: 31px;
+  box-sizing: border-box;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 6px;
+  background: #15181d;
+  color: #e8e9ec;
+  font: inherit;
+  font-size: 8px;
+}
+
+.cloud-sync-panel button {
+  display: inline-flex;
+  min-height: 31px;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  padding: 0 9px;
+  border: 1px solid rgba(101, 176, 255, 0.2);
+  border-radius: 6px;
+  background: rgba(101, 176, 255, 0.045);
+  color: #84c2ff;
+  font: inherit;
+  font-size: 7px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.cloud-sync-panel button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.cloud-sync-panel__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.cloud-sync-panel__actions button:last-child {
+  border-color: rgba(255, 255, 255, 0.07);
+  background: rgba(255, 255, 255, 0.018);
+  color: #7b7e86;
+}
+
+.cloud-sync-panel__scope {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.cloud-sync-panel__scope span {
+  padding: 3px 6px;
+  border-radius: 999px;
+  background: rgba(101, 176, 255, 0.05);
+  color: #747b85;
+  font-size: 6px;
+}
+
+.cloud-sync-panel__status {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding-top: 7px;
+  border-top: 1px solid rgba(255, 255, 255, 0.04);
+  color: #79d49e;
+  font-size: 7px;
+}
+
+.cloud-sync-panel__status small {
+  color: #676b73;
+  font-size: 6px;
+}
+
+.cloud-sync-panel__status--error {
+  color: #ff7b8c;
+}
+
+@media (max-width: 900px) {
+  .cloud-sync-panel__auth {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,224 @@
+.dj-assistant-panel {
+  display: grid;
+  gap: 12px;
+  padding: 14px;
+  border: 1px solid rgba(255, 93, 143, 0.16);
+  border-radius: 11px;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255, 93, 143, 0.055),
+      rgba(101, 176, 255, 0.03)
+    );
+}
+
+.dj-assistant-panel > header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.dj-assistant-panel > header > div,
+.dj-assistant-panel__candidate-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.dj-assistant-panel > header span,
+.dj-assistant-panel__candidate-title span {
+  display: block;
+  color: #ff6b9e;
+  font-size: 8px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.dj-assistant-panel > header h2,
+.dj-assistant-panel__candidate-title strong {
+  margin: 1px 0 0;
+  font-size: 14px;
+}
+
+.dj-assistant-panel > header > strong {
+  color: #ff84aa;
+  font-size: 10px;
+}
+
+.dj-assistant-panel__decision {
+  padding: 11px;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.12);
+}
+
+.dj-assistant-panel__direction {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.dj-assistant-panel__direction span {
+  display: block;
+  color: #7d8088;
+  font-size: 8px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.dj-assistant-panel__direction strong {
+  display: block;
+  margin-top: 2px;
+  font-size: 12px;
+}
+
+.dj-assistant-panel__decision p {
+  margin: 9px 0 0;
+  color: #9a9da5;
+  font-size: 9px;
+  line-height: 1.55;
+}
+
+.dj-assistant-panel__metrics,
+.dj-assistant-panel__targets {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 7px;
+}
+
+.dj-assistant-panel__targets {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.dj-assistant-panel__metrics > div,
+.dj-assistant-panel__targets > div {
+  padding: 9px;
+  border: 1px solid rgba(255, 255, 255, 0.055);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.018);
+}
+
+.dj-assistant-panel__metrics span,
+.dj-assistant-panel__targets span,
+.dj-assistant-panel__genres > span {
+  display: block;
+  color: #777a83;
+  font-size: 7px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.dj-assistant-panel__metrics strong,
+.dj-assistant-panel__targets strong {
+  display: block;
+  margin-top: 3px;
+  font-size: 11px;
+}
+
+.dj-assistant-panel__genres {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.dj-assistant-panel__genres > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.dj-assistant-panel__genres small {
+  padding: 4px 7px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.035);
+  color: #9598a0;
+  font-size: 7px;
+}
+
+.dj-assistant-panel__candidates {
+  display: grid;
+  gap: 6px;
+}
+
+.dj-assistant-panel__candidate-title {
+  margin-bottom: 2px;
+}
+
+.dj-assistant-panel__candidates article {
+  display: grid;
+  grid-template-columns: 22px minmax(0, 1fr) auto;
+  gap: 8px;
+  align-items: center;
+  padding: 8px 9px;
+  border: 1px solid rgba(255, 255, 255, 0.055);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.018);
+}
+
+.dj-assistant-panel__candidates article > span {
+  color: #6f727a;
+  font-size: 8px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.dj-assistant-panel__candidates article strong,
+.dj-assistant-panel__candidates article small {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dj-assistant-panel__candidates article strong {
+  font-size: 10px;
+}
+
+.dj-assistant-panel__candidates article small {
+  margin-top: 2px;
+  color: #7e8189;
+  font-size: 7px;
+}
+
+.dj-assistant-panel__candidate-actions {
+  display: flex;
+  gap: 5px;
+}
+
+.dj-assistant-panel__candidate-actions button {
+  display: inline-flex;
+  min-height: 27px;
+  align-items: center;
+  gap: 5px;
+  padding: 0 8px;
+  border: 1px solid rgba(255, 93, 143, 0.25);
+  border-radius: 6px;
+  background: rgba(255, 93, 143, 0.06);
+  color: #ff8caf;
+  font: inherit;
+  font-size: 8px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.dj-assistant-panel__empty {
+  margin: 0;
+  color: #7b7e86;
+  font-size: 8px;
+}
+
+@media (max-width: 900px) {
+  .dj-assistant-panel__metrics,
+  .dj-assistant-panel__targets {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .dj-assistant-panel__candidates article {
+    grid-template-columns: 22px minmax(0, 1fr);
+  }
+
+  .dj-assistant-panel__candidate-actions {
+    grid-column: 2;
+  }
+}

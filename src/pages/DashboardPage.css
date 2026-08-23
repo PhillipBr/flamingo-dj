@@ -1,0 +1,508 @@
+.dashboard-page {
+  display: grid;
+  gap: 18px;
+  padding: 28px 32px 40px;
+}
+
+.dashboard-page__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.dashboard-page__header > div > span {
+  color: #ff3b79;
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+}
+
+.dashboard-page__header h1 {
+  margin: 8px 0 4px;
+  font-size: 36px;
+  line-height: 1;
+}
+
+.dashboard-page__header p {
+  margin: 0;
+  color: #a3a7b0;
+  font-size: 14px;
+}
+
+.dashboard-page__header > button,
+.dashboard-card > header > button {
+  display: inline-flex;
+  min-height: 34px;
+  align-items: center;
+  gap: 6px;
+  padding: 0 10px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.02);
+  color: #9ea3ad;
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.dashboard-kpis {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.dashboard-kpis > button,
+.dashboard-kpis > article {
+  min-width: 0;
+  padding: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 12px;
+  background: #15181d;
+  color: inherit;
+  text-align: left;
+}
+
+.dashboard-kpis > button {
+  cursor: pointer;
+}
+
+.dashboard-kpis svg {
+  color: #ff4c82;
+}
+
+.dashboard-kpis span,
+.dashboard-kpis strong,
+.dashboard-kpis small {
+  display: block;
+}
+
+.dashboard-kpis span {
+  margin-top: 10px;
+  color: #7f848e;
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.dashboard-kpis strong {
+  margin-top: 4px;
+  overflow: hidden;
+  font-size: 18px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dashboard-kpis small {
+  margin-top: 3px;
+  overflow: hidden;
+  color: #727780;
+  font-size: 11px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dashboard-layout {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.dashboard-card {
+  min-width: 0;
+  padding: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 12px;
+  background: #14171b;
+}
+
+.dashboard-card > header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.dashboard-card > header > div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.dashboard-card > header svg {
+  color: #ff4c82;
+}
+
+.dashboard-card > header span,
+.dashboard-card > header strong {
+  display: block;
+}
+
+.dashboard-card > header span {
+  color: #ff4c82;
+  font-size: 9px;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+}
+
+.dashboard-card > header strong {
+  margin-top: 2px;
+  font-size: 15px;
+}
+
+.dashboard-playlist-list,
+.dashboard-track-list {
+  display: grid;
+  gap: 5px;
+}
+
+.dashboard-playlist-list > article {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 5px;
+}
+
+.dashboard-playlist-list__open,
+.dashboard-track-list > button {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  gap: 8px;
+  align-items: center;
+  width: 100%;
+  min-width: 0;
+  padding: 9px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.015);
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.dashboard-playlist-list__open:hover,
+.dashboard-track-list > button:hover,
+.dashboard-suggestion-grid > button:hover {
+  border-color: rgba(255, 76, 130, 0.16);
+  background: rgba(255, 76, 130, 0.035);
+}
+
+.dashboard-playlist-list__open strong,
+.dashboard-playlist-list__open span,
+.dashboard-track-list strong,
+.dashboard-track-list span {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dashboard-playlist-list__open strong,
+.dashboard-track-list strong {
+  font-size: 12px;
+}
+
+.dashboard-playlist-list__open span,
+.dashboard-track-list span {
+  margin-top: 2px;
+  color: #777c85;
+  font-size: 10px;
+}
+
+.dashboard-track-list b {
+  color: #ff769f;
+  font-size: 10px;
+}
+
+.dashboard-pin {
+  width: 36px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.015);
+  color: #686d76;
+  cursor: pointer;
+}
+
+.dashboard-pin.is-pinned {
+  color: #f0ba5f;
+}
+
+.dashboard-card--suggested {
+  grid-column: 1 / -1;
+}
+
+.dashboard-card__explanation {
+  margin: -4px 0 12px;
+  color: #747983;
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.dashboard-suggestion-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 7px;
+}
+
+.dashboard-suggestion-grid > button {
+  min-width: 0;
+  padding: 11px;
+  border: 1px solid rgba(255, 255, 255, 0.055);
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.012);
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.dashboard-suggestion-grid > button > div > span {
+  color: #79d49e;
+  font-size: 8px;
+  font-weight: 900;
+}
+
+.dashboard-suggestion-grid strong,
+.dashboard-suggestion-grid small {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dashboard-suggestion-grid strong {
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+.dashboard-suggestion-grid small {
+  margin-top: 2px;
+  color: #777c85;
+  font-size: 10px;
+}
+
+.dashboard-suggestion-grid footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 7px;
+  margin-top: 10px;
+  color: #6f747d;
+  font-size: 9px;
+}
+
+.dashboard-suggestion-grid footer b {
+  color: #ff769f;
+}
+
+.dashboard-empty {
+  margin: 0;
+  padding: 16px 10px;
+  color: #70757e;
+  font-size: 11px;
+}
+
+@media (max-width: 1050px) {
+  .dashboard-kpis,
+  .dashboard-layout {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .dashboard-card--suggested {
+    grid-column: 1 / -1;
+  }
+
+  .dashboard-suggestion-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .dashboard-page {
+    padding: 20px 16px 32px;
+  }
+
+  .dashboard-kpis,
+  .dashboard-layout,
+  .dashboard-suggestion-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .dashboard-card--suggested {
+    grid-column: auto;
+  }
+}
+
+
+/* ==========================================================
+   DASHBOARD V1.1 — RECENT PLAYLIST TRACKS
+   ========================================================== */
+
+.dashboard-playlist-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.dashboard-playlist-card {
+  min-width: 0;
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.055);
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.012);
+}
+
+.dashboard-playlist-card > header {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 6px;
+  align-items: center;
+}
+
+.dashboard-playlist-card__title {
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.dashboard-playlist-card__title > div {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.dashboard-playlist-card__title svg {
+  flex: 0 0 auto;
+  color: #ff4c82;
+}
+
+.dashboard-playlist-card__title strong,
+.dashboard-playlist-card__title span {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dashboard-playlist-card__title strong {
+  font-size: 12px;
+}
+
+.dashboard-playlist-card__title span {
+  margin-top: 2px;
+  color: #777c85;
+  font-size: 9px;
+}
+
+.dashboard-playlist-card .dashboard-pin {
+  width: 30px;
+  height: 30px;
+}
+
+.dashboard-playlist-card__recent {
+  display: grid;
+  gap: 4px;
+  margin-top: 10px;
+}
+
+.dashboard-playlist-card__recent > button {
+  display: grid;
+  grid-template-columns: 38px minmax(0, 1fr);
+  gap: 7px;
+  align-items: center;
+  width: 100%;
+  padding: 5px;
+  border: 1px solid transparent;
+  border-radius: 7px;
+  background: transparent;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.dashboard-playlist-card__recent > button:hover {
+  border-color: rgba(255, 76, 130, 0.13);
+  background: rgba(255, 76, 130, 0.025);
+}
+
+.dashboard-playlist-card__recent img,
+.dashboard-track-artwork-placeholder {
+  width: 38px;
+  height: 38px;
+  border-radius: 6px;
+}
+
+.dashboard-playlist-card__recent img {
+  display: block;
+  object-fit: cover;
+  background: #101216;
+}
+
+.dashboard-track-artwork-placeholder {
+  display: grid;
+  place-items: center;
+  background: #202329;
+  color: #676c75;
+}
+
+.dashboard-playlist-card__recent strong,
+.dashboard-playlist-card__recent span {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dashboard-playlist-card__recent strong {
+  font-size: 10px;
+}
+
+.dashboard-playlist-card__recent span {
+  margin-top: 2px;
+  color: #747983;
+  font-size: 8.5px;
+}
+
+.dashboard-playlist-card__recent > p {
+  margin: 0;
+  padding: 10px 4px;
+  color: #686d76;
+  font-size: 9px;
+}
+
+.dashboard-playlist-card > footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+  margin-top: 8px;
+  padding-top: 7px;
+  border-top: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+.dashboard-playlist-card > footer > span {
+  color: #646972;
+  font-size: 8px;
+}
+
+.dashboard-playlist-card > footer > button {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #ff769f;
+  font: inherit;
+  font-size: 8px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+@media (max-width: 850px) {
+  .dashboard-playlist-grid {
+    grid-template-columns: 1fr;
+  }
+}

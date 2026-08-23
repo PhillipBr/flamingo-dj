@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-07-30T14:33:13",
+  "project_root": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT",
+  "input_file": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\taxonomy\\genre_graph.json",
+  "output_directory": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\refined",
+  "statistics": {
+    "source_genres": 4215,
+    "refined_genres": 4170,
+    "removed_genres": 43,
+    "genres_without_family": 2087,
+    "genres_with_multiple_families": 308,
+    "genres_with_parent": 1005,
+    "genres_with_related_styles": 2083,
+    "genres_with_transition_styles": 1422,
+    "review_queue_size": 2004,
+    "family_counts": {
+      "hip_hop": 468,
+      "pop": 444,
+      "rock": 358,
+      "country_folk": 156,
+      "metal": 123,
+      "electronic": 105,
+      "jazz_blues": 93,
+      "house": 72,
+      "caribbean": 68,
+      "world_asian": 58,
+      "rnb_soul": 55,
+      "latin_tropical": 55,
+      "middle_eastern": 51,
+      "brazilian": 45,
+      "gospel_spiritual": 42,
+      "classical": 39,
+      "african": 34,
+      "regional_mexican": 28,
+      "trance": 26,
+      "soundtrack_stage": 25,
+      "latin_urban": 24,
+      "bass_music": 24,
+      "techno": 19
+    },
+    "confidence_counts": {
+      "fallback": 1128,
+      "suffix": 1113,
+      "prefix": 71,
+      "manual": 57,
+      "exact": 43
+    }
+  },
+  "rules": {
+    "minimum_review_track_count": 20,
+    "max_related_styles": 12,
+    "max_transition_styles": 10,
+    "max_match_results": 16
+  },
+  "output_files": {
+    "genre_graph_refined": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\refined\\genre_graph_refined.json",
+    "genre_alias_map": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\refined\\genre_alias_map.json",
+    "genre_match_profiles": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\refined\\genre_match_profiles.json",
+    "genre_review_queue": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\refined\\genre_review_queue.csv",
+    "removed_genres": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\data\\genres\\refined\\removed_genres.csv"
+  }
+}

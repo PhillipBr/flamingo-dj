@@ -1,0 +1,2892 @@
+﻿Genre,TrackCount,PrimaryFamily,PrimaryWeight,PrimaryConfidence,Reason
+rap francais,2388,hip_hop,0.45,fallback,untrusted_fallback
+v-pop,1898,pop,0.45,fallback,untrusted_fallback
+pop soul,1775,pop,0.45,fallback,untrusted_fallback
+cantopop,1649,pop,0.45,fallback,untrusted_fallback
+new wave,1537,rock,0.45,fallback,untrusted_fallback
+pop dance,1481,pop,0.45,fallback,untrusted_fallback
+t-pop,1460,pop,0.45,fallback,untrusted_fallback
+kizomba,1346,caribbean,0.45,fallback,untrusted_fallback
+rap conscient,1336,hip_hop,0.45,fallback,untrusted_fallback
+trap italiana,1286,hip_hop,0.45,fallback,untrusted_fallback
+rock and roll,1119,rock,0.45,fallback,untrusted_fallback
+eurodance,1090,,0.0,,no_primary_family
+disco,1075,,0.0,,no_primary_family
+iskelma,1045,,0.0,,no_primary_family
+c-pop,995,pop,0.45,fallback,untrusted_fallback
+ragga,988,caribbean,0.45,fallback,untrusted_fallback
+mahraganat,987,middle_eastern,0.45,fallback,untrusted_fallback
+zouk,983,caribbean,0.45,fallback,untrusted_fallback
+bollywood,942,world_asian,0.45,fallback,untrusted_fallback
+christmas,918,,0.0,,no_primary_family
+rap maroc,883,hip_hop,0.45,fallback,untrusted_fallback
+russelater,868,,0.0,,no_primary_family
+rap marseille,859,hip_hop,0.45,fallback,untrusted_fallback
+modern bollywood,851,world_asian,0.45,fallback,untrusted_fallback
+europop,843,pop,0.45,fallback,untrusted_fallback
+lounge,843,,0.0,,no_primary_family
+drum and bass,830,bass_music,0.45,fallback,untrusted_fallback
+laiko,820,middle_eastern,0.45,fallback,untrusted_fallback
+opm,802,world_asian,0.45,fallback,untrusted_fallback
+chilean mambo,789,latin_tropical,0.45,fallback,untrusted_fallback
+americana,778,country_folk,0.45,fallback,untrusted_fallback
+world,769,world_asian,0.45,fallback,untrusted_fallback
+trap argentino,764,hip_hop,0.45,fallback,untrusted_fallback
+film soundtrack,763,soundtrack_stage,0.45,fallback,untrusted_fallback
+adult contemporary,760,pop,0.45,fallback,untrusted_fallback
+j-rock,758,rock,0.45,fallback,untrusted_fallback
+indie folk,753,country_folk,0.45,fallback,untrusted_fallback
+rai,736,middle_eastern,0.45,fallback,untrusted_fallback
+tropical,730,latin_tropical,0.45,fallback,untrusted_fallback
+contemporary country,707,country_folk,0.45,fallback,untrusted_fallback
+calypso,698,caribbean,0.45,fallback,untrusted_fallback
+boom bap,691,hip_hop,0.45,fallback,untrusted_fallback
+azonto,687,african,0.45,fallback,untrusted_fallback
+3 step,677,house,0.45,fallback,untrusted_fallback
+anime,676,soundtrack_stage,0.45,fallback,untrusted_fallback
+chalga,674,middle_eastern,0.45,fallback,untrusted_fallback
+rockabilly,652,rock,0.45,fallback,untrusted_fallback
+ska,642,,0.0,,no_primary_family
+kuduro,637,caribbean,0.45,fallback,untrusted_fallback
+hip hop tuga,632,hip_hop,0.45,fallback,untrusted_fallback
+sufi,630,middle_eastern,0.45,fallback,untrusted_fallback
+new age,620,,0.0,,no_primary_family
+ballad,618,pop,0.45,fallback,untrusted_fallback
+alte,615,,0.0,,no_primary_family
+k-rap,613,hip_hop,0.45,fallback,untrusted_fallback
+kompa,608,caribbean,0.45,fallback,untrusted_fallback
+dansktop,604,,0.0,,no_primary_family
+grime,603,hip_hop,0.45,fallback,untrusted_fallback
+cuarteto,602,latin_tropical,0.45,fallback,untrusted_fallback
+musical,600,soundtrack_stage,0.45,fallback,untrusted_fallback
+candombe,595,latin_tropical,0.45,fallback,untrusted_fallback
+club,593,,0.0,,no_primary_family
+likedis auto,590,,0.0,,no_primary_family
+devotional,589,gospel_spiritual,0.45,fallback,untrusted_fallback
+rock en espanol,588,rock,0.45,fallback,untrusted_fallback
+easy listening,585,,0.0,,no_primary_family
+psytrance,571,trance,0.45,fallback,untrusted_fallback
+easy listening soundtracks and musicals,569,soundtrack_stage,0.45,fallback,untrusted_fallback
+latin alternative,569,,0.0,,no_primary_family
+bluegrass,566,country_folk,0.45,fallback,untrusted_fallback
+mashup,548,,0.0,,no_primary_family
+urbano chileno,548,,0.0,,no_primary_family
+urbano espanol,548,,0.0,,no_primary_family
+private school piano,547,,0.0,,no_primary_family
+schlager,544,,0.0,,no_primary_family
+jungle,541,bass_music,0.45,fallback,untrusted_fallback
+choral,531,classical,0.45,fallback,untrusted_fallback
+worship,531,gospel_spiritual,0.45,fallback,untrusted_fallback
+trip hop,525,,0.0,,no_primary_family
+riddim,522,bass_music,0.45,fallback,untrusted_fallback
+phonk,521,hip_hop,0.45,fallback,untrusted_fallback
+israeli mediterranean,515,,0.0,,no_primary_family
+post grunge,511,rock,0.45,fallback,untrusted_fallback
+trap funk,508,hip_hop,0.45,fallback,untrusted_fallback
+chillout,502,,0.0,,no_primary_family
+trap triste,496,hip_hop,0.45,fallback,untrusted_fallback
+shatta,495,caribbean,0.45,fallback,untrusted_fallback
+pop nacional,491,pop,0.45,fallback,untrusted_fallback
+hiplife,489,african,0.45,fallback,untrusted_fallback
+rap dominicano,486,hip_hop,0.45,fallback,untrusted_fallback
+bolero,484,latin_tropical,0.45,fallback,untrusted_fallback
+tango,484,,0.0,,no_primary_family
+fusion,483,,0.0,,no_primary_family
+goth,480,,0.0,,no_primary_family
+psychobilly,477,,0.0,,no_primary_family
+beethoven,472,,0.0,,no_primary_family
+piseiro,472,brazilian,0.45,fallback,untrusted_fallback
+lofi,467,,0.0,,no_primary_family
+rap napoletano,467,hip_hop,0.45,fallback,untrusted_fallback
+rap us,466,hip_hop,0.45,fallback,untrusted_fallback
+britpop,462,pop,0.45,fallback,untrusted_fallback
+classic,462,,0.0,,no_primary_family
+folklore,460,country_folk,0.45,fallback,untrusted_fallback
+berlin school,459,,0.0,,no_primary_family
+emo,459,rock,0.45,fallback,untrusted_fallback
+permanent wave,457,,0.0,,no_primary_family
+chicago,456,,0.0,,no_primary_family
+hillbilly,456,,0.0,,no_primary_family
+meditation,456,,0.0,,no_primary_family
+vietnam indie,455,,0.0,,no_primary_family
+101 moments in music,454,,0.0,,no_primary_family
+2001 space odyssey,454,,0.0,,no_primary_family
+50cents,454,,0.0,,no_primary_family
+80 s fresh new,454,,0.0,,no_primary_family
+absolute voices,454,,0.0,,no_primary_family
+acoustic best,454,,0.0,,no_primary_family
+adam beyer,454,,0.0,,no_primary_family
+africa middle east,454,,0.0,,no_primary_family
+alirio diaz,454,,0.0,,no_primary_family
+andrade,454,,0.0,,no_primary_family
+andre powels,454,,0.0,,no_primary_family
+andrew york,454,,0.0,,no_primary_family
+armin van buuren,454,,0.0,,no_primary_family
+backstreet boys,454,,0.0,,no_primary_family
+bareto,454,,0.0,,no_primary_family
+basque,454,,0.0,,no_primary_family
+bflaminio,454,,0.0,,no_primary_family
+binaural beats,454,,0.0,,no_primary_family
+bioshock soundtrack,454,soundtrack_stage,0.45,fallback,untrusted_fallback
+birthday,454,,0.0,,no_primary_family
+boot land,454,,0.0,,no_primary_family
+casanovas,454,,0.0,,no_primary_family
+cdnnnow128,454,,0.0,,no_primary_family
+cdx,454,,0.0,,no_primary_family
+celtic celebration,454,,0.0,,no_primary_family
+chinese r&b,454,rnb_soul,0.45,fallback,untrusted_fallback
+classique,454,,0.0,,no_primary_family
+classwar karaoke,454,,0.0,,no_primary_family
+cobles,454,,0.0,,no_primary_family
+compilatie,454,,0.0,,no_primary_family
+desperado,454,,0.0,,no_primary_family
+dfree843,454,,0.0,,no_primary_family
+die drei,454,,0.0,,no_primary_family
+dresch,454,,0.0,,no_primary_family
+educacion,454,,0.0,,no_primary_family
+elc chritmas,454,,0.0,,no_primary_family
+experience the classics,454,,0.0,,no_primary_family
+fjord,454,,0.0,,no_primary_family
+foreign language,454,,0.0,,no_primary_family
+frederic chopin,454,,0.0,,no_primary_family
+futebol,454,,0.0,,no_primary_family
+gerard palaprat,454,,0.0,,no_primary_family
+glass,454,,0.0,,no_primary_family
+grase,454,,0.0,,no_primary_family
+groom to the gallows,454,,0.0,,no_primary_family
+healing sixes,454,,0.0,,no_primary_family
+hemi-sync,454,,0.0,,no_primary_family
+ibiza,454,,0.0,,no_primary_family
+infantil,454,,0.0,,no_primary_family
+john coltrane,454,,0.0,,no_primary_family
+josquin,454,,0.0,,no_primary_family
+jucanto,454,,0.0,,no_primary_family
+kinderchore,454,,0.0,,no_primary_family
+kinderliedjes kapiteinwinokio humo,454,,0.0,,no_primary_family
+klaus baumgart,454,,0.0,,no_primary_family
+la grande sophie,454,,0.0,,no_primary_family
+leaving on a jet plan,454,,0.0,,no_primary_family
+legion of von,454,,0.0,,no_primary_family
+lil eazy-e,454,,0.0,,no_primary_family
+liturgic,454,,0.0,,no_primary_family
+liz,454,,0.0,,no_primary_family
+liz andrade,454,,0.0,,no_primary_family
+local music of iran,454,,0.0,,no_primary_family
+los 24 grandes exitos de la zarzuela,454,,0.0,,no_primary_family
+marilyn manson,454,,0.0,,no_primary_family
+mary j blige,454,,0.0,,no_primary_family
+mega,454,,0.0,,no_primary_family
+michael jackson,454,,0.0,,no_primary_family
+mimicking birds,454,,0.0,,no_primary_family
+miroque,454,,0.0,,no_primary_family
+mohsen namjoo,454,,0.0,,no_primary_family
+montuno,454,,0.0,,no_primary_family
+more 70,454,,0.0,,no_primary_family
+my sharona,454,,0.0,,no_primary_family
+ncs,454,,0.0,,no_primary_family
+nederlands,454,,0.0,,no_primary_family
+new generations,454,,0.0,,no_primary_family
+new generations philip glass,454,,0.0,,no_primary_family
+niroshima,454,,0.0,,no_primary_family
+nitzer ebb,454,,0.0,,no_primary_family
+nox,454,,0.0,,no_primary_family
+number 1,454,,0.0,,no_primary_family
+orthodox,454,,0.0,,no_primary_family
+papeete,454,,0.0,,no_primary_family
+pavarotti,454,,0.0,,no_primary_family
+piosenka poetycka muzyka autorska,454,,0.0,,no_primary_family
+pzzqxnzt6snn ekrngheoblbupu-,454,,0.0,,no_primary_family
+razieq,454,,0.0,,no_primary_family
+rhythm del mundo,454,,0.0,,no_primary_family
+ronak bhatt,454,,0.0,,no_primary_family
+shankar jaikishan,454,,0.0,,no_primary_family
+shine 4,454,,0.0,,no_primary_family
+shwetabh sucks,454,,0.0,,no_primary_family
+sonic seducer cold hands vi,454,,0.0,,no_primary_family
+soul cargo,454,rnb_soul,0.45,fallback,untrusted_fallback
+sprechgesang,454,,0.0,,no_primary_family
+sunshine,454,,0.0,,no_primary_family
+the welcome committee,454,,0.0,,no_primary_family
+trikitixa,454,,0.0,,no_primary_family
+tunguska chillout grooves,454,,0.0,,no_primary_family
+ultimatecore,454,,0.0,,no_primary_family
+ussr ministry of culture chamber choir,454,,0.0,,no_primary_family
+venezolana,454,,0.0,,no_primary_family
+vera kaa,454,,0.0,,no_primary_family
+visions,454,,0.0,,no_primary_family
+volkstumliche musik,454,,0.0,,no_primary_family
+wireharp,454,,0.0,,no_primary_family
+z103 5 street mix 2k7,454,,0.0,,no_primary_family
+zero t 51,454,,0.0,,no_primary_family
+zweiohr,454,,0.0,,no_primary_family
+ƒk₷m€,454,,0.0,,no_primary_family
+мелодии рождества,454,,0.0,,no_primary_family
+嫌われ松子の歌たち,454,,0.0,,no_primary_family
+s.a. souvenirs,446,,0.0,,no_primary_family
+chanson,439,,0.0,,no_primary_family
+big room,437,,0.0,,no_primary_family
+coupe decale,434,african,0.45,fallback,untrusted_fallback
+rumba congolaise,431,african,0.45,fallback,untrusted_fallback
+uk dance,428,,0.0,,no_primary_family
+pop urbano,425,pop,0.45,fallback,untrusted_fallback
+taiwan singer-songwriter,415,country_folk,0.45,fallback,untrusted_fallback
+hardcore hip,413,metal,0.45,fallback,untrusted_fallback
+trap soul,413,hip_hop,0.45,fallback,untrusted_fallback
+arabesk,407,middle_eastern,0.45,fallback,untrusted_fallback
+3rd gen k-pop,405,pop,0.45,fallback,untrusted_fallback
+grunge,404,rock,0.45,fallback,untrusted_fallback
+funk consciente,393,,0.0,,no_primary_family
+moombahton,392,,0.0,,no_primary_family
+tekno,391,techno,0.45,fallback,untrusted_fallback
+trap boricua,391,hip_hop,0.45,fallback,untrusted_fallback
+epadunk,389,,0.0,,no_primary_family
+neo psychedelia,385,,0.0,,no_primary_family
+aor,370,rock,0.45,fallback,untrusted_fallback
+hk-pop,364,pop,0.45,fallback,untrusted_fallback
+alt z,363,,0.0,,no_primary_family
+fantasy,361,,0.0,,no_primary_family
+rap ivoire,360,hip_hop,0.45,fallback,untrusted_fallback
+drill francais,359,hip_hop,0.45,fallback,untrusted_fallback
+nu disco,357,,0.0,,no_primary_family
+cloud rap francais,349,hip_hop,0.45,fallback,untrusted_fallback
+g-funk,349,hip_hop,0.45,fallback,untrusted_fallback
+blue-eyed soul,346,rnb_soul,0.45,fallback,untrusted_fallback
+future bass,344,bass_music,0.45,fallback,untrusted_fallback
+kollywood,341,world_asian,0.45,fallback,untrusted_fallback
+orchestral,341,classical,0.45,fallback,untrusted_fallback
+pov: indie,339,,0.0,,no_primary_family
+metropopolis,338,pop,0.45,fallback,untrusted_fallback
+contemporary folk,337,country_folk,0.45,fallback,untrusted_fallback
+indian indie,333,,0.0,,no_primary_family
+hyperpop,331,pop,0.45,fallback,untrusted_fallback
+parlophone,329,,0.0,,no_primary_family
+production music,326,,0.0,,no_primary_family
+adult standards,317,,0.0,,no_primary_family
+film score,317,classical,0.45,fallback,untrusted_fallback
+asakaa,315,,0.0,,no_primary_family
+bacardi,312,house,0.45,fallback,untrusted_fallback
+bhangra,310,,0.0,,no_primary_family
+malay,302,,0.0,,no_primary_family
+psychedelic,302,,0.0,,no_primary_family
+taylor-swift,300,,0.0,,no_primary_family
+nederpop,299,pop,0.45,fallback,untrusted_fallback
+sholawat,297,gospel_spiritual,0.45,fallback,untrusted_fallback
+guaracha,294,latin_tropical,0.45,fallback,untrusted_fallback
+bongo flava,288,african,0.45,fallback,untrusted_fallback
+pbr & b,285,,0.0,,no_primary_family
+flamenco urbano,284,,0.0,,no_primary_family
+german indie,284,,0.0,,no_primary_family
+p-pop,284,pop,0.45,fallback,untrusted_fallback
+standards,284,,0.0,,no_primary_family
+pagode,280,brazilian,0.45,fallback,untrusted_fallback
+traditional,280,,0.0,,no_primary_family
+latin ballad,279,pop,0.45,fallback,untrusted_fallback
+lazy asses,279,,0.0,,no_primary_family
+relaxation,279,,0.0,,no_primary_family
+rhymes,279,,0.0,,no_primary_family
+chipmunk soul,278,rnb_soul,0.45,fallback,untrusted_fallback
+variete francaise,278,,0.0,,no_primary_family
+hindi indie,277,world_asian,0.45,fallback,untrusted_fallback
+rome indie,276,,0.0,,no_primary_family
+cancion melodica,271,,0.0,,no_primary_family
+funk rj,270,brazilian,0.45,fallback,untrusted_fallback
+vinahouse,269,house,0.45,fallback,untrusted_fallback
+big band,267,jazz_blues,0.45,fallback,untrusted_fallback
+horrorcore,267,,0.0,,no_primary_family
+leftfield,267,,0.0,,no_primary_family
+trap brasileiro,267,hip_hop,0.45,fallback,untrusted_fallback
+urban contemporary,266,rnb_soul,0.45,fallback,untrusted_fallback
+neo mellow,264,,0.0,,no_primary_family
+tamil dance,264,world_asian,0.45,fallback,untrusted_fallback
+rap genovese,263,hip_hop,0.45,fallback,untrusted_fallback
+sophisti-pop,263,pop,0.45,fallback,untrusted_fallback
+chillwave,262,electronic,0.45,fallback,untrusted_fallback
+concerto,262,classical,0.45,fallback,untrusted_fallback
+electro latino,261,electronic,0.45,fallback,untrusted_fallback
+popular colombian music,260,pop,0.45,fallback,untrusted_fallback
+rap belge,258,hip_hop,0.45,fallback,untrusted_fallback
+swing,257,jazz_blues,0.45,fallback,untrusted_fallback
+4th gen k-pop,256,pop,0.45,fallback,untrusted_fallback
+frauenrap,252,hip_hop,0.45,fallback,untrusted_fallback
+maskandi,252,african,0.45,fallback,untrusted_fallback
+alternative dance,251,,0.0,,no_primary_family
+sadcore,251,,0.0,,no_primary_family
+egyptian shaabi,249,middle_eastern,0.45,fallback,untrusted_fallback
+baroque,248,classical,0.45,fallback,untrusted_fallback
+taiwan indie,247,,0.0,,no_primary_family
+tollywood,246,world_asian,0.45,fallback,untrusted_fallback
+neoperreo,244,latin_urban,0.45,fallback,untrusted_fallback
+pop argentino,244,pop,0.45,fallback,untrusted_fallback
+vgm,244,soundtrack_stage,0.45,fallback,untrusted_fallback
+indie viet,241,,0.0,,no_primary_family
+khaliji,241,middle_eastern,0.45,fallback,untrusted_fallback
+ndombolo,239,african,0.45,fallback,untrusted_fallback
+chicha,238,latin_tropical,0.45,fallback,untrusted_fallback
+scandipop,236,pop,0.45,fallback,untrusted_fallback
+rage,235,hip_hop,0.45,fallback,untrusted_fallback
+moroccan chaabi,231,,0.0,,no_primary_family
+score,228,,0.0,,no_primary_family
+beat music,227,,0.0,,no_primary_family
+indonesian indie,225,,0.0,,no_primary_family
+pinoy r&b,225,rnb_soul,0.45,fallback,untrusted_fallback
+funk mtg,224,brazilian,0.45,fallback,untrusted_fallback
+pop reggaeton,223,caribbean,0.45,fallback,untrusted_fallback
+chinese indie,222,,0.0,,no_primary_family
+dangdut,222,,0.0,,no_primary_family
+mpb,222,brazilian,0.45,fallback,untrusted_fallback
+funk paulista,217,brazilian,0.45,fallback,untrusted_fallback
+trap tuga,216,hip_hop,0.45,fallback,untrusted_fallback
+doom,215,metal,0.45,fallback,untrusted_fallback
+alternative country,213,country_folk,0.45,fallback,untrusted_fallback
+k-ballad,212,pop,0.45,fallback,untrusted_fallback
+korean r&b,212,rnb_soul,0.45,fallback,untrusted_fallback
+rap latina,209,hip_hop,0.45,fallback,untrusted_fallback
+milan indie,205,,0.0,,no_primary_family
+post-hardcore,205,metal,0.45,fallback,untrusted_fallback
+arabic,203,middle_eastern,0.45,fallback,untrusted_fallback
+british invasion,203,,0.0,,no_primary_family
+country road,203,country_folk,0.45,fallback,untrusted_fallback
+electrocumbia,203,electronic,0.45,fallback,untrusted_fallback
+entehno,203,middle_eastern,0.45,fallback,untrusted_fallback
+alabama thunderpussy,202,,0.0,,no_primary_family
+and clutch. in 2011,202,,0.0,,no_primary_family
+damad,202,,0.0,,no_primary_family
+early‐2000s underground,202,,0.0,,no_primary_family
+fistula,202,,0.0,,no_primary_family
+idm,202,electronic,0.45,fallback,untrusted_fallback
+lamb of god,202,,0.0,,no_primary_family
+mugwart was a sludge,202,,0.0,,no_primary_family
+shifty records (sh09,202,,0.0,,no_primary_family
+skate scene,202,,0.0,,no_primary_family
+sofa king killer,202,,0.0,,no_primary_family
+tdr‐13,202,,0.0,,no_primary_family
+virginia beach,202,,0.0,,no_primary_family
+aggro berlin,199,,0.0,,no_primary_family
+reggae en espanol,198,caribbean,0.45,fallback,untrusted_fallback
+canzone napoletana,197,,0.0,,no_primary_family
+new romantic,196,,0.0,,no_primary_family
+highlife,194,african,0.45,fallback,untrusted_fallback
+post-britpop,194,pop,0.45,fallback,untrusted_fallback
+qawwali,193,middle_eastern,0.45,fallback,untrusted_fallback
+guitar,191,,0.0,,no_primary_family
+pagode baiano,191,brazilian,0.45,fallback,untrusted_fallback
+post-disco,191,,0.0,,no_primary_family
+russian drain,191,middle_eastern,0.45,fallback,untrusted_fallback
+pop venezolano,190,pop,0.45,fallback,untrusted_fallback
+industrial,189,,0.0,,no_primary_family
+crossover prog,188,,0.0,,no_primary_family
+rif,188,,0.0,,no_primary_family
+brostep,187,bass_music,0.45,fallback,untrusted_fallback
+california,186,,0.0,,no_primary_family
+ccm,184,,0.0,,no_primary_family
+disco polo,184,,0.0,,no_primary_family
+merseybeat,184,,0.0,,no_primary_family
+aggro,183,,0.0,,no_primary_family
+ansage,183,,0.0,,no_primary_family
+country dreams,183,country_folk,0.45,fallback,untrusted_fallback
+shoegaze,183,rock,0.45,fallback,untrusted_fallback
+chanson francaise,182,,0.0,,no_primary_family
+singeli,182,,0.0,,no_primary_family
+bossa nova,181,jazz_blues,0.45,fallback,untrusted_fallback
+r&b en espanol,180,rnb_soul,0.45,fallback,untrusted_fallback
+big music,178,,0.0,,no_primary_family
+brega,177,brazilian,0.45,fallback,untrusted_fallback
+smooth soul,177,rnb_soul,0.45,fallback,untrusted_fallback
+hip hop soul,176,hip_hop,0.45,fallback,untrusted_fallback
+electroclash,174,electronic,0.45,fallback,untrusted_fallback
+trap chileno,174,hip_hop,0.45,fallback,untrusted_fallback
+cantautor,173,,0.0,,no_primary_family
+childrens music,173,,0.0,,no_primary_family
+deutschrap,173,hip_hop,0.45,fallback,untrusted_fallback
+classic soul,172,rnb_soul,0.45,fallback,untrusted_fallback
+swedish electropop,172,electronic,0.45,fallback,untrusted_fallback
+turbo folk,172,country_folk,0.45,fallback,untrusted_fallback
+drill espanol,171,hip_hop,0.45,fallback,untrusted_fallback
+indie poptimism,171,pop,0.45,fallback,untrusted_fallback
+dubstep,170,bass_music,0.45,fallback,untrusted_fallback
+fotbollslatar,170,,0.0,,no_primary_family
+metalcore,169,metal,0.45,fallback,untrusted_fallback
+japanese singer-songwriter,168,country_folk,0.45,fallback,untrusted_fallback
+flamenco,167,,0.0,,no_primary_family
+lofi indie,165,,0.0,,no_primary_family
+swedish eurodance,165,,0.0,,no_primary_family
+australian indie,164,,0.0,,no_primary_family
+contemporary christian,164,gospel_spiritual,0.45,fallback,untrusted_fallback
+musicals,164,soundtrack_stage,0.45,fallback,untrusted_fallback
+azontobeats,163,african,0.45,fallback,untrusted_fallback
+hard alternative,163,,0.0,,no_primary_family
+hypertechno,163,techno,0.45,fallback,untrusted_fallback
+dakke dak,162,,0.0,,no_primary_family
+brega funk,161,brazilian,0.45,fallback,untrusted_fallback
+italo dance,161,,0.0,,no_primary_family
+boogie,160,,0.0,,no_primary_family
+latin talent show,159,,0.0,,no_primary_family
+germany,158,,0.0,,no_primary_family
+synth funk,158,,0.0,,no_primary_family
+the lost generation,158,,0.0,,no_primary_family
+uk grime,157,hip_hop,0.45,fallback,untrusted_fallback
+video game,157,,0.0,,no_primary_family
+dub,155,,0.0,,no_primary_family
+old school rap francais,154,hip_hop,0.45,fallback,untrusted_fallback
+post-bop,154,,0.0,,no_primary_family
+singers,154,,0.0,,no_primary_family
+pop flamenco,153,pop,0.45,fallback,untrusted_fallback
+crunk,152,,0.0,,no_primary_family
+nova mpb,152,brazilian,0.45,fallback,untrusted_fallback
+russian dance,152,,0.0,,no_primary_family
+glitch,151,,0.0,,no_primary_family
+luk thung,151,,0.0,,no_primary_family
+mellow gold,150,,0.0,,no_primary_family
+taiwanese indie,150,,0.0,,no_primary_family
+australian dance,149,,0.0,,no_primary_family
+basshall,149,,0.0,,no_primary_family
+reggea,149,,0.0,,no_primary_family
+travis scott,149,,0.0,,no_primary_family
+folk-rock,148,country_folk,0.45,fallback,untrusted_fallback
+g-house,148,house,0.45,fallback,untrusted_fallback
+game,148,,0.0,,no_primary_family
+mambo chileno,148,latin_tropical,0.45,fallback,untrusted_fallback
+russian grime,148,hip_hop,0.45,fallback,untrusted_fallback
+guitarist,147,,0.0,,no_primary_family
+seresta,147,,0.0,,no_primary_family
+glam,146,,0.0,,no_primary_family
+singaporean mandopop,146,pop,0.45,fallback,untrusted_fallback
+funk ostentacao,144,,0.0,,no_primary_family
+australia,143,,0.0,,no_primary_family
+german dance,143,,0.0,,no_primary_family
+liverpool,143,,0.0,,no_primary_family
+mbs-333,143,,0.0,,no_primary_family
+stomp and holler,143,,0.0,,no_primary_family
+dream-pop,142,pop,0.45,fallback,untrusted_fallback
+future rave,141,,0.0,,no_primary_family
+los angeles,141,,0.0,,no_primary_family
+psychedelic folk,141,country_folk,0.45,fallback,untrusted_fallback
+gnawa,140,,0.0,,no_primary_family
+noise music,140,,0.0,,no_primary_family
+soundtracks,140,soundtrack_stage,0.45,fallback,untrusted_fallback
+trap antillais,140,hip_hop,0.45,fallback,untrusted_fallback
+australian,139,,0.0,,no_primary_family
+jazz fusion,139,jazz_blues,0.45,fallback,untrusted_fallback
+psychedelia,139,,0.0,,no_primary_family
+vietnamese singer-songwriter,139,country_folk,0.45,fallback,untrusted_fallback
+progressive,138,,0.0,,no_primary_family
+ghazal,137,,0.0,,no_primary_family
+pop edm,137,electronic,0.45,fallback,untrusted_fallback
+video game music,137,,0.0,,no_primary_family
+complextro,136,,0.0,,no_primary_family
+drill italiana,136,hip_hop,0.45,fallback,untrusted_fallback
+has german audio plays,136,,0.0,,no_primary_family
+beat,135,,0.0,,no_primary_family
+indian,135,,0.0,,no_primary_family
+death by heart attack,134,,0.0,,no_primary_family
+slowcore,134,,0.0,,no_primary_family
+outlaw country,133,country_folk,0.45,fallback,untrusted_fallback
+visual kei,133,,0.0,,no_primary_family
+belgian edm,132,electronic,0.45,fallback,untrusted_fallback
+german composer,132,,0.0,,no_primary_family
+phleng phuea chiwit,132,,0.0,,no_primary_family
+rock roll,132,rock,0.45,fallback,untrusted_fallback
+son cubano,132,,0.0,,no_primary_family
+trap maroc,132,hip_hop,0.45,fallback,untrusted_fallback
+abbey road,131,,0.0,,no_primary_family
+bbc,131,,0.0,,no_primary_family
+boys band,131,,0.0,,no_primary_family
+british psychedelia,131,,0.0,,no_primary_family
+chopped and screwed,131,,0.0,,no_primary_family
+europe,131,,0.0,,no_primary_family
+get back,131,,0.0,,no_primary_family
+indie liguria,131,,0.0,,no_primary_family
+one beatles,131,,0.0,,no_primary_family
+overrated,131,,0.0,,no_primary_family
+pop-metal,131,metal,0.45,fallback,untrusted_fallback
+the beatles-primal colours,131,,0.0,,no_primary_family
+the-beatles,131,,0.0,,no_primary_family
+villancicos,131,,0.0,,no_primary_family
+gengetone,130,,0.0,,no_primary_family
+reggae fusion,130,caribbean,0.45,fallback,untrusted_fallback
+hard bop,129,,0.0,,no_primary_family
+asian,128,,0.0,,no_primary_family
+post-emo,128,rock,0.45,fallback,untrusted_fallback
+vietnamese lo-fi,128,,0.0,,no_primary_family
++usa (new york:manhatten,127,,0.0,,no_primary_family
+next,127,,0.0,,no_primary_family
+pop. alternative,127,pop,0.45,fallback,untrusted_fallback
+seattle,127,,0.0,,no_primary_family
+dutch,126,,0.0,,no_primary_family
+harana,126,,0.0,,no_primary_family
+indonesian singer-songwriter,126,country_folk,0.45,fallback,untrusted_fallback
+mollywood,126,,0.0,,no_primary_family
+canadian contemporary r & b,125,,0.0,,no_primary_family
+gaana,125,,0.0,,no_primary_family
+uk funky,125,,0.0,,no_primary_family
+national folk,124,country_folk,0.45,fallback,untrusted_fallback
+southern thai music,124,,0.0,,no_primary_family
+jam band,123,,0.0,,no_primary_family
+japanese,123,,0.0,,no_primary_family
+pop virale italiano,123,pop,0.45,fallback,untrusted_fallback
+reggae-pop,123,caribbean,0.45,fallback,untrusted_fallback
+austrian composer,122,,0.0,,no_primary_family
+neomelodico,122,,0.0,,no_primary_family
+breakbeat,120,bass_music,0.45,fallback,untrusted_fallback
+dutch edm,120,electronic,0.45,fallback,untrusted_fallback
+gujarati garba,120,,0.0,,no_primary_family
+khaleeji iraqi,120,middle_eastern,0.45,fallback,untrusted_fallback
+pinoy indie,120,,0.0,,no_primary_family
+pop lgbtq+ brasileira,120,pop,0.45,fallback,untrusted_fallback
+romanian,120,,0.0,,no_primary_family
+ag4,119,,0.0,,no_primary_family
+rap algerien,119,hip_hop,0.45,fallback,untrusted_fallback
+show tunes,119,,0.0,,no_primary_family
+indie soul,118,rnb_soul,0.45,fallback,untrusted_fallback
+musica tocantinense,118,,0.0,,no_primary_family
+to clean up,118,,0.0,,no_primary_family
+vyrzukhisuc-artiest,118,,0.0,,no_primary_family
+bhajan,117,,0.0,,no_primary_family
+neo-soul,117,rnb_soul,0.45,fallback,untrusted_fallback
+soukous,117,,0.0,,no_primary_family
+gradually watermelon,116,,0.0,,no_primary_family
+indian instrumental,116,,0.0,,no_primary_family
+sierreno-banda,116,regional_mexican,0.45,fallback,untrusted_fallback
+brass band,115,,0.0,,no_primary_family
+indonesian r & b,115,,0.0,,no_primary_family
+nature sounds,115,,0.0,,no_primary_family
+alt-country,114,country_folk,0.45,fallback,untrusted_fallback
+classic j-pop,114,pop,0.45,fallback,untrusted_fallback
+crossover,114,,0.0,,no_primary_family
+post-punk revival,114,rock,0.45,fallback,untrusted_fallback
+mexican,113,,0.0,,no_primary_family
+producteur,113,,0.0,,no_primary_family
+turkish singer-songwriter,113,country_folk,0.45,fallback,untrusted_fallback
+world fusion,113,,0.0,,no_primary_family
+arrochadeira,112,brazilian,0.45,fallback,untrusted_fallback
+as jailed,112,,0.0,,no_primary_family
+death by drug overdose,112,,0.0,,no_primary_family
+lil wayne,112,,0.0,,no_primary_family
+melodic,112,,0.0,,no_primary_family
+symphony,112,,0.0,,no_primary_family
+trap dominicano,112,hip_hop,0.45,fallback,untrusted_fallback
+egyptian alternative,111,,0.0,,no_primary_family
+neo-psychedelic,111,,0.0,,no_primary_family
+pop-punk,111,pop,0.45,fallback,untrusted_fallback
+lustrum,110,,0.0,,no_primary_family
+dark r & b,109,,0.0,,no_primary_family
+electro-disco,109,electronic,0.45,fallback,untrusted_fallback
+lullaby,109,,0.0,,no_primary_family
+norwegian,109,,0.0,,no_primary_family
+austropop,108,pop,0.45,fallback,untrusted_fallback
+contemporary rnb,108,,0.0,,no_primary_family
+detroit,108,,0.0,,no_primary_family
+j-rap,108,hip_hop,0.45,fallback,untrusted_fallback
+malaysian mandopop,108,pop,0.45,fallback,untrusted_fallback
+michael-jackson,108,,0.0,,no_primary_family
+polish,108,,0.0,,no_primary_family
+southern soul,108,rnb_soul,0.45,fallback,untrusted_fallback
+austrian,107,,0.0,,no_primary_family
+bassline,107,,0.0,,no_primary_family
+rapcore,107,hip_hop,0.45,fallback,untrusted_fallback
+rock uruguayo,107,rock,0.45,fallback,untrusted_fallback
+want to listen,107,,0.0,,no_primary_family
+actors,106,,0.0,,no_primary_family
+argentine telepop,106,pop,0.45,fallback,untrusted_fallback
+drone,106,,0.0,,no_primary_family
+eletronic,106,,0.0,,no_primary_family
+female vocal,106,,0.0,,no_primary_family
+zhongguo feng,106,,0.0,,no_primary_family
+drift phonk,105,hip_hop,0.45,fallback,untrusted_fallback
+gufeng,105,,0.0,,no_primary_family
+energetic,104,,0.0,,no_primary_family
+neo-synthpop,104,pop,0.45,fallback,untrusted_fallback
+epic,103,,0.0,,no_primary_family
+honky-tonk,103,,0.0,,no_primary_family
+madchester,103,,0.0,,no_primary_family
+eminem,102,,0.0,,no_primary_family
+italian singer-songwriter,102,country_folk,0.45,fallback,untrusted_fallback
+romanian singer,102,,0.0,,no_primary_family
+classical period,101,classical,0.45,fallback,untrusted_fallback
+colombia,101,,0.0,,no_primary_family
+dirty south,101,,0.0,,no_primary_family
+latin r & b,101,,0.0,,no_primary_family
+timba,101,,0.0,,no_primary_family
+8 mile,100,,0.0,,no_primary_family
+bongo piano,100,,0.0,,no_primary_family
+detroit hip-hop,100,,0.0,,no_primary_family
+kun,100,,0.0,,no_primary_family
+midwest hip-hop,100,,0.0,,no_primary_family
+v,100,,0.0,,no_primary_family
+actor,99,,0.0,,no_primary_family
+british soul,99,rnb_soul,0.45,fallback,untrusted_fallback
+celtic,99,,0.0,,no_primary_family
+pagode novo,99,brazilian,0.45,fallback,untrusted_fallback
+symphonic prog,99,,0.0,,no_primary_family
+west coast hip-hop,99,,0.0,,no_primary_family
+afrogospel,98,gospel_spiritual,0.45,fallback,untrusted_fallback
+death by suicide,98,,0.0,,no_primary_family
+icelandic indie,98,,0.0,,no_primary_family
+lithuanian indie,98,,0.0,,no_primary_family
+oyun havasi,98,,0.0,,no_primary_family
+shaabi,98,middle_eastern,0.45,fallback,untrusted_fallback
+television music,98,,0.0,,no_primary_family
+complete,97,,0.0,,no_primary_family
+melodic metalcore,97,metal,0.45,fallback,untrusted_fallback
+sonata,97,,0.0,,no_primary_family
+talentkonkurranse,97,,0.0,,no_primary_family
+magyar alternative,96,,0.0,,no_primary_family
+nu-metal,96,metal,0.45,fallback,untrusted_fallback
+dark ambient,95,electronic,0.45,fallback,untrusted_fallback
+kundiman,95,,0.0,,no_primary_family
+ratchet music,95,,0.0,,no_primary_family
+colombian,94,,0.0,,no_primary_family
+schlagerparty,94,,0.0,,no_primary_family
+spoken word,93,,0.0,,no_primary_family
+vocal,93,,0.0,,no_primary_family
+alt-pop,92,pop,0.45,fallback,untrusted_fallback
+vallenato moderno,92,latin_tropical,0.45,fallback,untrusted_fallback
+hong kong indie,91,,0.0,,no_primary_family
+n,91,,0.0,,no_primary_family
+5th gen k-pop,90,pop,0.45,fallback,untrusted_fallback
+conductor,90,,0.0,,no_primary_family
+hardcore,90,metal,0.45,fallback,untrusted_fallback
+noise,90,,0.0,,no_primary_family
+atlantico,89,,0.0,,no_primary_family
+avant-garde,89,,0.0,,no_primary_family
+barranquilla,89,,0.0,,no_primary_family
+bay area,89,,0.0,,no_primary_family
+chapel,89,,0.0,,no_primary_family
+a cappella,88,,0.0,,no_primary_family
+bridge,88,,0.0,,no_primary_family
+christmas singles,88,,0.0,,no_primary_family
+german r & b,88,,0.0,,no_primary_family
+icelandic singer-songwriter,88,country_folk,0.45,fallback,untrusted_fallback
+immortality,88,,0.0,,no_primary_family
+nwobhm,88,,0.0,,no_primary_family
+romantic,88,,0.0,,no_primary_family
+synthwave,88,,0.0,,no_primary_family
+twenty,88,,0.0,,no_primary_family
+berlin,87,,0.0,,no_primary_family
+classic country,87,country_folk,0.45,fallback,untrusted_fallback
+future garage,87,bass_music,0.45,fallback,untrusted_fallback
+pop worship,87,gospel_spiritual,0.45,fallback,untrusted_fallback
+swedish singer-songwriter,87,country_folk,0.45,fallback,untrusted_fallback
+viral afropop,87,african,0.45,fallback,untrusted_fallback
+bulgarian,86,,0.0,,no_primary_family
+cousin in trinidad wont get the vaccine,86,,0.0,,no_primary_family
+emo-pop,86,pop,0.45,fallback,untrusted_fallback
+jersey club,86,,0.0,,no_primary_family
+new rave,86,,0.0,,no_primary_family
+trip-hop,86,,0.0,,no_primary_family
+axe,85,,0.0,,no_primary_family
+barcadi,85,,0.0,,no_primary_family
+deconstructed club,85,,0.0,,no_primary_family
+norwegian indie,85,,0.0,,no_primary_family
+rock viet,85,rock,0.45,fallback,untrusted_fallback
+alternative electronic,84,electronic,0.45,fallback,untrusted_fallback
+death by knife,84,,0.0,,no_primary_family
+euro-pop,84,pop,0.45,fallback,untrusted_fallback
+melbourne bounce,84,,0.0,,no_primary_family
+theatre,84,,0.0,,no_primary_family
+latin american,83,,0.0,,no_primary_family
+nature,83,,0.0,,no_primary_family
+norsk,83,,0.0,,no_primary_family
+tamil indie,83,world_asian,0.45,fallback,untrusted_fallback
+urbano mexicano,83,,0.0,,no_primary_family
+champeta,82,,0.0,,no_primary_family
+death by gun,82,,0.0,,no_primary_family
+favourite,82,,0.0,,no_primary_family
+folktronica,82,country_folk,0.45,fallback,untrusted_fallback
+icelandic electronic,82,electronic,0.45,fallback,untrusted_fallback
+japanese indie,82,,0.0,,no_primary_family
+video,82,,0.0,,no_primary_family
+alphaville,81,,0.0,,no_primary_family
+australian electropop,81,electronic,0.45,fallback,untrusted_fallback
+euro-dance,81,,0.0,,no_primary_family
+euro-rock,81,rock,0.45,fallback,untrusted_fallback
+italo disco,81,,0.0,,no_primary_family
+pluggnb,81,,0.0,,no_primary_family
+post-metal,81,metal,0.45,fallback,untrusted_fallback
+rap canario,81,hip_hop,0.45,fallback,untrusted_fallback
+rap sardegna,81,hip_hop,0.45,fallback,untrusted_fallback
+anitta,80,,0.0,,no_primary_family
+escape room,80,,0.0,,no_primary_family
+greek,80,,0.0,,no_primary_family
+k-rock,80,rock,0.45,fallback,untrusted_fallback
+kleinkunst,80,,0.0,,no_primary_family
+belly dance,79,,0.0,,no_primary_family
+funkot,79,,0.0,,no_primary_family
+honky tonk,79,,0.0,,no_primary_family
+lagu timur,79,,0.0,,no_primary_family
+mass,79,,0.0,,no_primary_family
+non-music,79,,0.0,,no_primary_family
+retro soul,79,rnb_soul,0.45,fallback,untrusted_fallback
+cadbury sisters,78,,0.0,,no_primary_family
+contemporary r b,78,,0.0,,no_primary_family
+do not merge,78,,0.0,,no_primary_family
+eclectic,78,,0.0,,no_primary_family
+emo-trap,78,hip_hop,0.45,fallback,untrusted_fallback
+finnish indie,78,,0.0,,no_primary_family
+needs merging,78,,0.0,,no_primary_family
+nu emo,78,rock,0.45,fallback,untrusted_fallback
+pop r & b,78,pop,0.45,fallback,untrusted_fallback
+rock opera,78,classical,0.45,fallback,untrusted_fallback
+sound ideas 6000 aviation 2,78,,0.0,,no_primary_family
+why has this not been merged yet,78,,0.0,,no_primary_family
+ar-rahman,77,,0.0,,no_primary_family
+cham cham,77,,0.0,,no_primary_family
+clean up,77,,0.0,,no_primary_family
+composition,77,,0.0,,no_primary_family
+female vocalists,77,,0.0,,no_primary_family
+hi-nrg,77,,0.0,,no_primary_family
+huayno,77,,0.0,,no_primary_family
+lame,77,,0.0,,no_primary_family
+lil baby,77,,0.0,,no_primary_family
+pop rap brasileiro,77,hip_hop,0.45,fallback,untrusted_fallback
+sapes comme jamais,77,,0.0,,no_primary_family
+sheilat,77,,0.0,,no_primary_family
+sober,77,,0.0,,no_primary_family
+classic iskelma,76,,0.0,,no_primary_family
+bootleg,75,,0.0,,no_primary_family
+jazz-rock,75,jazz_blues,0.45,fallback,untrusted_fallback
+lo-fi beats,75,,0.0,,no_primary_family
+poland,75,,0.0,,no_primary_family
+requiem,75,,0.0,,no_primary_family
+baltic post-punk,74,rock,0.45,fallback,untrusted_fallback
+barbade,74,,0.0,,no_primary_family
+barbadian,74,,0.0,,no_primary_family
+barbadien,74,,0.0,,no_primary_family
+barbados,74,,0.0,,no_primary_family
+c'etait mieux avant,74,,0.0,,no_primary_family
+campirano,74,,0.0,,no_primary_family
+hip hop quebecois,74,hip_hop,0.45,fallback,untrusted_fallback
+piano,74,,0.0,,no_primary_family
+q-pop,74,pop,0.45,fallback,untrusted_fallback
+rehab,74,,0.0,,no_primary_family
+rihanna,74,,0.0,,no_primary_family
+swedish,74,,0.0,,no_primary_family
+traditional country,74,country_folk,0.45,fallback,untrusted_fallback
+20th century,73,,0.0,,no_primary_family
+acoustic,73,,0.0,,no_primary_family
+gabber,73,,0.0,,no_primary_family
+garage rock revival,73,bass_music,0.45,fallback,untrusted_fallback
+political,73,,0.0,,no_primary_family
+rap siciliano,73,hip_hop,0.45,fallback,untrusted_fallback
+trap colombiano,73,hip_hop,0.45,fallback,untrusted_fallback
+writer,73,,0.0,,no_primary_family
+つんく♂フロテュース,73,,0.0,,no_primary_family
+ascanio in alba,72,,0.0,,no_primary_family
+bikutsi,72,,0.0,,no_primary_family
+campirano-banda,72,regional_mexican,0.45,fallback,untrusted_fallback
+chinese,72,,0.0,,no_primary_family
+complete mozart edition,72,,0.0,,no_primary_family
+dj,72,,0.0,,no_primary_family
+film,72,,0.0,,no_primary_family
+gould,72,,0.0,,no_primary_family
+jamaican,72,,0.0,,no_primary_family
+karl ristenpart,72,,0.0,,no_primary_family
+late symphonies,72,,0.0,,no_primary_family
+melancholic,72,,0.0,,no_primary_family
+norteno-banda,72,regional_mexican,0.45,fallback,untrusted_fallback
+not acoustic,72,,0.0,,no_primary_family
+not aggressive,72,,0.0,,no_primary_family
+not sad,72,,0.0,,no_primary_family
+rothenberger,72,,0.0,,no_primary_family
+series-mozart-complete works-philips,72,,0.0,,no_primary_family
+trap queen,72,hip_hop,0.45,fallback,untrusted_fallback
+volume 15,72,,0.0,,no_primary_family
+aussietronica,71,,0.0,,no_primary_family
+dance-punk,71,rock,0.45,fallback,untrusted_fallback
+doujin,71,,0.0,,no_primary_family
+eurovision,71,,0.0,,no_primary_family
+hollands,71,,0.0,,no_primary_family
+israeli singer-songwriter,71,country_folk,0.45,fallback,untrusted_fallback
+nederlandse hardstyle,71,,0.0,,no_primary_family
+new zealand,71,,0.0,,no_primary_family
+oxford,71,,0.0,,no_primary_family
+plena uruguaya,71,,0.0,,no_primary_family
+plugg,71,,0.0,,no_primary_family
+polka,71,,0.0,,no_primary_family
+post-industrial,71,,0.0,,no_primary_family
+r & b italiano,71,,0.0,,no_primary_family
+singaporean singer-songwriter,71,country_folk,0.45,fallback,untrusted_fallback
+cantata,70,,0.0,,no_primary_family
+fictional,70,,0.0,,no_primary_family
+j-division,70,,0.0,,no_primary_family
+reggae uruguayo,70,caribbean,0.45,fallback,untrusted_fallback
+screamo,70,,0.0,,no_primary_family
+yolandita monge,70,,0.0,,no_primary_family
+alliteration,69,,0.0,,no_primary_family
+arranger,69,,0.0,,no_primary_family
+australien,69,,0.0,,no_primary_family
+bebop,69,,0.0,,no_primary_family
+bubblegum bass,69,,0.0,,no_primary_family
+funktronica,69,,0.0,,no_primary_family
+hardstyle,69,,0.0,,no_primary_family
+horror,69,,0.0,,no_primary_family
+melodipop,69,pop,0.45,fallback,untrusted_fallback
+mundart,69,,0.0,,no_primary_family
+roxette,69,,0.0,,no_primary_family
+the greatest,69,,0.0,,no_primary_family
+turbo-folk,69,country_folk,0.45,fallback,untrusted_fallback
+britrock,68,rock,0.45,fallback,untrusted_fallback
+classical crossover,68,classical,0.45,fallback,untrusted_fallback
+danish electronic,68,electronic,0.45,fallback,untrusted_fallback
+dylan bootleg series,68,,0.0,,no_primary_family
+greenwich village scene,68,,0.0,,no_primary_family
+lagu jawa,68,,0.0,,no_primary_family
+lolicore,68,,0.0,,no_primary_family
+musica tropical,68,latin_tropical,0.45,fallback,untrusted_fallback
+new grave,68,,0.0,,no_primary_family
+nude,68,,0.0,,no_primary_family
+pc music,68,,0.0,,no_primary_family
+pledging my time,68,,0.0,,no_primary_family
+polish alternative,68,,0.0,,no_primary_family
+rare,68,,0.0,,no_primary_family
+russian electronic,68,electronic,0.45,fallback,untrusted_fallback
+sacred cows,68,,0.0,,no_primary_family
+siple twist of fate,68,,0.0,,no_primary_family
+teater konsert,68,,0.0,,no_primary_family
+best,67,,0.0,,no_primary_family
+birmingham,67,,0.0,,no_primary_family
+dancefloor dnb,67,,0.0,,no_primary_family
+dutch indie,67,,0.0,,no_primary_family
+emo rap italiano,67,hip_hop,0.45,fallback,untrusted_fallback
+hyphy,67,,0.0,,no_primary_family
+mexican indie,67,,0.0,,no_primary_family
+mexico,67,,0.0,,no_primary_family
+rhythmic,67,,0.0,,no_primary_family
+rock-and-roll,67,rock,0.45,fallback,untrusted_fallback
+gym phonk,66,hip_hop,0.45,fallback,untrusted_fallback
+hello project,66,,0.0,,no_primary_family
+irish,66,,0.0,,no_primary_family
+latin indie,66,,0.0,,no_primary_family
+organist,66,,0.0,,no_primary_family
+rap boricua,66,hip_hop,0.45,fallback,untrusted_fallback
+tryt,66,,0.0,,no_primary_family
+gen z singer-songwriter,65,country_folk,0.45,fallback,untrusted_fallback
+latin dance,65,,0.0,,no_primary_family
+texas,65,,0.0,,no_primary_family
+afrikaans,64,,0.0,,no_primary_family
+australie,64,,0.0,,no_primary_family
+batak,64,,0.0,,no_primary_family
+darkwave,64,,0.0,,no_primary_family
+edit,64,,0.0,,no_primary_family
+funk de bh,64,,0.0,,no_primary_family
+girlpower,64,,0.0,,no_primary_family
+on writing,64,,0.0,,no_primary_family
+swedish synthpop,64,pop,0.45,fallback,untrusted_fallback
+tekk,64,,0.0,,no_primary_family
+uk contemporary r & b,64,,0.0,,no_primary_family
+britney spears,63,,0.0,,no_primary_family
+edge of glory,63,,0.0,,no_primary_family
+gata rahe mera dil,63,,0.0,,no_primary_family
+neue deutsche welle,63,,0.0,,no_primary_family
+saxx dreams,63,,0.0,,no_primary_family
+scandinavian r & b,63,,0.0,,no_primary_family
+the fame,63,,0.0,,no_primary_family
+vocaloid,63,,0.0,,no_primary_family
+bubblegum dance,62,,0.0,,no_primary_family
+classic mandopop,62,pop,0.45,fallback,untrusted_fallback
+dansband,62,,0.0,,no_primary_family
+nashville sound,62,,0.0,,no_primary_family
+punta,62,,0.0,,no_primary_family
+big beat,61,,0.0,,no_primary_family
+chill,61,,0.0,,no_primary_family
+girl crush,61,,0.0,,no_primary_family
+hello project groups,61,,0.0,,no_primary_family
+hello project kids,61,,0.0,,no_primary_family
+nigo,61,,0.0,,no_primary_family
+r & b brasileiro,61,,0.0,,no_primary_family
+rap criolo,61,hip_hop,0.45,fallback,untrusted_fallback
+acoustic country,60,country_folk,0.45,fallback,untrusted_fallback
+cubaton,60,,0.0,,no_primary_family
+fado,60,,0.0,,no_primary_family
+indie dance,60,,0.0,,no_primary_family
+j-acoustic,60,,0.0,,no_primary_family
+lithuanian electronic,60,electronic,0.45,fallback,untrusted_fallback
+old school thrash,60,,0.0,,no_primary_family
+rumba,60,,0.0,,no_primary_family
+shocking,60,,0.0,,no_primary_family
+birmingham grime,59,hip_hop,0.45,fallback,untrusted_fallback
+british-american,59,,0.0,,no_primary_family
+caesar,59,,0.0,,no_primary_family
+classic oklahoma country,59,country_folk,0.45,fallback,untrusted_fallback
+dance music,59,,0.0,,no_primary_family
+daniel,59,,0.0,,no_primary_family
+death by diabetes,59,,0.0,,no_primary_family
+fleetwood mac,59,,0.0,,no_primary_family
+gospel r & b,59,gospel_spiritual,0.45,fallback,untrusted_fallback
+japanese electropop,59,electronic,0.45,fallback,untrusted_fallback
+liquid funk,59,,0.0,,no_primary_family
+party,59,,0.0,,no_primary_family
+philly soul,59,rnb_soul,0.45,fallback,untrusted_fallback
+puerto rico,59,,0.0,,no_primary_family
+swedish soul,59,rnb_soul,0.45,fallback,untrusted_fallback
+toronto,59,,0.0,,no_primary_family
+warp,59,,0.0,,no_primary_family
+belgian indie,58,,0.0,,no_primary_family
+etherpop,58,pop,0.45,fallback,untrusted_fallback
+indie quebecois,58,,0.0,,no_primary_family
+new york,58,,0.0,,no_primary_family
+rap fr,58,hip_hop,0.45,fallback,untrusted_fallback
+absolute,57,,0.0,,no_primary_family
+chinese singer-songwriter,57,country_folk,0.45,fallback,untrusted_fallback
+deathcore,57,,0.0,,no_primary_family
+doo-wop,57,,0.0,,no_primary_family
+doujin circle,57,,0.0,,no_primary_family
+instrumental grime,57,hip_hop,0.45,fallback,untrusted_fallback
+italian alternative,57,,0.0,,no_primary_family
+pop chileno,57,pop,0.45,fallback,untrusted_fallback
+progressive folk,57,country_folk,0.45,fallback,untrusted_fallback
+psychedelic soul,57,rnb_soul,0.45,fallback,untrusted_fallback
+suomirap,57,hip_hop,0.45,fallback,untrusted_fallback
+bubblegum,56,,0.0,,no_primary_family
+classic cantopop,56,pop,0.45,fallback,untrusted_fallback
+folk brasileiro,56,country_folk,0.45,fallback,untrusted_fallback
+norwegian singer-songwriter,56,country_folk,0.45,fallback,untrusted_fallback
+argentine indie,55,,0.0,,no_primary_family
+domino,55,,0.0,,no_primary_family
+drill chileno,55,hip_hop,0.45,fallback,untrusted_fallback
+gamer,55,,0.0,,no_primary_family
+hungarian edm,55,electronic,0.45,fallback,untrusted_fallback
+levenslied,55,,0.0,,no_primary_family
+northern soul,55,rnb_soul,0.45,fallback,untrusted_fallback
+sheffield,55,,0.0,,no_primary_family
+134a,54,,0.0,,no_primary_family
+alternative hip-hop,54,,0.0,,no_primary_family
+bach,54,,0.0,,no_primary_family
+bach double violin concerto,54,classical,0.45,fallback,untrusted_fallback
+bertalan hock,54,,0.0,,no_primary_family
+cantata 147,54,,0.0,,no_primary_family
+euro-disco,54,,0.0,,no_primary_family
+free improvisation,54,,0.0,,no_primary_family
+german singer-songwriter,54,country_folk,0.45,fallback,untrusted_fallback
+gothenburg indie,54,,0.0,,no_primary_family
+gramophone selection,54,,0.0,,no_primary_family
+helmut walcha,54,,0.0,,no_primary_family
+italian composer,54,,0.0,,no_primary_family
+lgbtqi,54,,0.0,,no_primary_family
+lithuanian edm,54,electronic,0.45,fallback,untrusted_fallback
+maluku,54,,0.0,,no_primary_family
+mathauspassion,54,,0.0,,no_primary_family
+melbourne bounce international,54,,0.0,,no_primary_family
+motet,54,,0.0,,no_primary_family
+rap conciencia,54,hip_hop,0.45,fallback,untrusted_fallback
+six,54,,0.0,,no_primary_family
+turkish alternative,54,,0.0,,no_primary_family
+vaporwave,54,,0.0,,no_primary_family
+vox,54,,0.0,,no_primary_family
+wagner,54,,0.0,,no_primary_family
+a,53,,0.0,,no_primary_family
+afrofuturismo brasileiro,53,,0.0,,no_primary_family
+anthemic,53,,0.0,,no_primary_family
+christian r & b,53,gospel_spiritual,0.45,fallback,untrusted_fallback
+global warming meltdown,53,,0.0,,no_primary_family
+look again,53,,0.0,,no_primary_family
+maltido,53,,0.0,,no_primary_family
+pitbull,53,,0.0,,no_primary_family
+secret,53,,0.0,,no_primary_family
+tell me,53,,0.0,,no_primary_family
+trova,53,,0.0,,no_primary_family
+alternative hardcore,52,metal,0.45,fallback,untrusted_fallback
+belgian dance,52,,0.0,,no_primary_family
+classical piano,52,classical,0.45,fallback,untrusted_fallback
+death by airplane,52,,0.0,,no_primary_family
+fail,52,,0.0,,no_primary_family
+gg,52,,0.0,,no_primary_family
+melancholia,52,,0.0,,no_primary_family
+millennial,52,,0.0,,no_primary_family
+musique regionale mexicaine,52,,0.0,,no_primary_family
+nederreggae,52,caribbean,0.45,fallback,untrusted_fallback
+north african,52,,0.0,,no_primary_family
+proto-punk,52,rock,0.45,fallback,untrusted_fallback
+rap montrealais,52,hip_hop,0.45,fallback,untrusted_fallback
+rap uruguayo,52,hip_hop,0.45,fallback,untrusted_fallback
+algerian,51,,0.0,,no_primary_family
+danspunk,51,rock,0.45,fallback,untrusted_fallback
+dark,51,,0.0,,no_primary_family
+fergie,51,,0.0,,no_primary_family
+finnish,51,,0.0,,no_primary_family
+francais,51,,0.0,,no_primary_family
+heavy,51,,0.0,,no_primary_family
+kavkaz,51,,0.0,,no_primary_family
+kevin haden,51,,0.0,,no_primary_family
+melodic hardcore,51,metal,0.45,fallback,untrusted_fallback
+memphis soul,51,rnb_soul,0.45,fallback,untrusted_fallback
+rock kapak,51,rock,0.45,fallback,untrusted_fallback
+sound recording executives and producers,51,,0.0,,no_primary_family
+sweden,51,,0.0,,no_primary_family
+turkce slow sarkilar,51,,0.0,,no_primary_family
+uplifting,51,,0.0,,no_primary_family
+vietnamese bolero,51,latin_tropical,0.45,fallback,untrusted_fallback
+will i am,51,,0.0,,no_primary_family
+同人,51,,0.0,,no_primary_family
+同人サークル,51,,0.0,,no_primary_family
+awesome,50,,0.0,,no_primary_family
+falcom,50,,0.0,,no_primary_family
+funk bh,50,,0.0,,no_primary_family
+grindcore,50,,0.0,,no_primary_family
+gruperas inmortales,50,regional_mexican,0.45,fallback,untrusted_fallback
+indonesian folk,50,country_folk,0.45,fallback,untrusted_fallback
+medieval,50,,0.0,,no_primary_family
+pop quebecois,50,pop,0.45,fallback,untrusted_fallback
+south african pop dance,50,pop,0.45,fallback,untrusted_fallback
+volkspop,50,pop,0.45,fallback,untrusted_fallback
+american composer,49,,0.0,,no_primary_family
+arab alternative,49,middle_eastern,0.45,fallback,untrusted_fallback
+dvd,49,,0.0,,no_primary_family
+folklore argentino,49,country_folk,0.45,fallback,untrusted_fallback
+funk rock tributo,49,rock,0.45,fallback,untrusted_fallback
+krautrock,49,rock,0.45,fallback,untrusted_fallback
+maloya,49,,0.0,,no_primary_family
+neue deutsche harte,49,,0.0,,no_primary_family
+praise & worship,49,gospel_spiritual,0.45,fallback,untrusted_fallback
+rap underground espanol,49,hip_hop,0.45,fallback,untrusted_fallback
+rapist,49,hip_hop,0.45,fallback,untrusted_fallback
+rave,49,,0.0,,no_primary_family
+sillyname,49,,0.0,,no_primary_family
+ska argentino,49,,0.0,,no_primary_family
+zhenskiy rep,49,,0.0,,no_primary_family
+algerian chaabi,48,,0.0,,no_primary_family
+alternative folk,48,country_folk,0.45,fallback,untrusted_fallback
+automod ng,48,,0.0,,no_primary_family
+awe︎some,48,,0.0,,no_primary_family
+country dawn,48,country_folk,0.45,fallback,untrusted_fallback
+dangerous,48,,0.0,,no_primary_family
+deutschrock,48,rock,0.45,fallback,untrusted_fallback
+dnace-pop,48,pop,0.45,fallback,untrusted_fallback
+field recording,48,,0.0,,no_primary_family
+francophone,48,,0.0,,no_primary_family
+happy hardcore,48,metal,0.45,fallback,untrusted_fallback
+irish singer-songwriter,48,country_folk,0.45,fallback,untrusted_fallback
+karadeniz folk,48,country_folk,0.45,fallback,untrusted_fallback
+korean ost,48,,0.0,,no_primary_family
+miley-cyrus,48,,0.0,,no_primary_family
+norwegian country,48,country_folk,0.45,fallback,untrusted_fallback
+senegalese-american,48,,0.0,,no_primary_family
+torch song,48,,0.0,,no_primary_family
+uk bass,48,,0.0,,no_primary_family
+uk r & b,48,,0.0,,no_primary_family
+vinyl,48,,0.0,,no_primary_family
+guitarists,47,,0.0,,no_primary_family
+homophobe,47,,0.0,,no_primary_family
+horspiel,47,,0.0,,no_primary_family
+j-poprock,47,pop,0.45,fallback,untrusted_fallback
+lick,47,,0.0,,no_primary_family
+multi-instrumentalist,47,,0.0,,no_primary_family
+musician,47,,0.0,,no_primary_family
+new french touch,47,,0.0,,no_primary_family
+nordnorsk musikk,47,,0.0,,no_primary_family
+parang,47,,0.0,,no_primary_family
+remixes,47,,0.0,,no_primary_family
+rocksteady,47,rock,0.45,fallback,untrusted_fallback
+tiesto traffic,47,,0.0,,no_primary_family
+trap metal italiana,47,hip_hop,0.45,fallback,untrusted_fallback
+twerk,47,,0.0,,no_primary_family
+worldbeat,47,,0.0,,no_primary_family
+beatlesque,46,,0.0,,no_primary_family
+chill r & b,46,,0.0,,no_primary_family
+djent,46,metal,0.45,fallback,untrusted_fallback
+japanese soul,46,rnb_soul,0.45,fallback,untrusted_fallback
+kermis,46,,0.0,,no_primary_family
+long title,46,,0.0,,no_primary_family
+minimalism,46,,0.0,,no_primary_family
+polish indie,46,,0.0,,no_primary_family
+rap motywacja,46,hip_hop,0.45,fallback,untrusted_fallback
+russian rave,46,,0.0,,no_primary_family
+ukrainian indie,46,middle_eastern,0.45,fallback,untrusted_fallback
+icelandic folk,45,country_folk,0.45,fallback,untrusted_fallback
+modern,45,,0.0,,no_primary_family
+reparto,45,,0.0,,no_primary_family
+surf,45,,0.0,,no_primary_family
+symphonies,45,,0.0,,no_primary_family
+traditional folk,45,country_folk,0.45,fallback,untrusted_fallback
+2 pac,44,,0.0,,no_primary_family
+above the rim,44,,0.0,,no_primary_family
+also fail,44,,0.0,,no_primary_family
+california gurls,44,,0.0,,no_primary_family
+camp,44,,0.0,,no_primary_family
+canadian indie,44,,0.0,,no_primary_family
+chesty,44,,0.0,,no_primary_family
+cowpunk,44,rock,0.45,fallback,untrusted_fallback
+cute,44,,0.0,,no_primary_family
+eastcoast killa,44,,0.0,,no_primary_family
+failfail,44,,0.0,,no_primary_family
+french singer,44,,0.0,,no_primary_family
+gaaaaaayyyyyyyyy,44,,0.0,,no_primary_family
+gaymeme,44,,0.0,,no_primary_family
+hipdut,44,,0.0,,no_primary_family
+im gay if i am shut up,44,,0.0,,no_primary_family
+im gay if i am⸲ shut up,44,,0.0,,no_primary_family
+international,44,,0.0,,no_primary_family
+japanese r & b,44,,0.0,,no_primary_family
+jazz-funk,44,jazz_blues,0.45,fallback,untrusted_fallback
+katy perry,44,,0.0,,no_primary_family
+katy perry is gay,44,,0.0,,no_primary_family
+katy pery is dumb,44,,0.0,,no_primary_family
+lame lame lame lame,44,,0.0,,no_primary_family
+london,44,,0.0,,no_primary_family
+manchester,44,,0.0,,no_primary_family
+megafail,44,,0.0,,no_primary_family
+megalmaestupiddumb,44,,0.0,,no_primary_family
+nope still fail,44,,0.0,,no_primary_family
+pop paraguayo,44,pop,0.45,fallback,untrusted_fallback
+srsly whats wrong with beign gay,44,,0.0,,no_primary_family
+still fail,44,,0.0,,no_primary_family
+temor a la muerte,44,rock,0.45,fallback,untrusted_fallback
+total fail,44,,0.0,,no_primary_family
+touhou,44,,0.0,,no_primary_family
+uncool,44,,0.0,,no_primary_family
+unil the end of time,44,,0.0,,no_primary_family
+ur so faaaail,44,,0.0,,no_primary_family
+ur so fail,44,,0.0,,no_primary_family
+ur so lame,44,,0.0,,no_primary_family
+‟ur so fail”,44,,0.0,,no_primary_family
+東方project,44,,0.0,,no_primary_family
+acting,43,,0.0,,no_primary_family
+bases de freestyle,43,,0.0,,no_primary_family
+deep pop edm,43,electronic,0.45,fallback,untrusted_fallback
+funk viral,43,,0.0,,no_primary_family
+italia,43,,0.0,,no_primary_family
+javanese dangdut,43,,0.0,,no_primary_family
+latvian,43,,0.0,,no_primary_family
+lilith,43,,0.0,,no_primary_family
+ominous,43,,0.0,,no_primary_family
+pakistani,43,,0.0,,no_primary_family
+pakistani indie,43,,0.0,,no_primary_family
+phonk brasileiro,43,hip_hop,0.45,fallback,untrusted_fallback
+pixel,43,,0.0,,no_primary_family
+playful,43,,0.0,,no_primary_family
+proto-prog,43,,0.0,,no_primary_family
+russian hyperpop,43,pop,0.45,fallback,untrusted_fallback
+texas country,43,country_folk,0.45,fallback,untrusted_fallback
+turkish folk,43,country_folk,0.45,fallback,untrusted_fallback
+black sabbath,42,,0.0,,no_primary_family
+bombastic,42,,0.0,,no_primary_family
+british singer-songwriter,42,country_folk,0.45,fallback,untrusted_fallback
+canadian singer-songwriter,42,country_folk,0.45,fallback,untrusted_fallback
+deboxe,42,,0.0,,no_primary_family
+french composer,42,,0.0,,no_primary_family
+funk 150 bpm,42,,0.0,,no_primary_family
+glorious,42,,0.0,,no_primary_family
+indie r & b,42,,0.0,,no_primary_family
+kind of magic,42,,0.0,,no_primary_family
+langham 1 studio bbc,42,,0.0,,no_primary_family
+latin folk,42,country_folk,0.45,fallback,untrusted_fallback
+lithuanian electropop,42,electronic,0.45,fallback,untrusted_fallback
+medley,42,,0.0,,no_primary_family
+muziek voor kinderen,42,,0.0,,no_primary_family
+orchestra,42,,0.0,,no_primary_family
+platinum,42,,0.0,,no_primary_family
+proto doom,42,metal,0.45,fallback,untrusted_fallback
+proto-doom,42,metal,0.45,fallback,untrusted_fallback
+queen,42,,0.0,,no_primary_family
+queen family,42,,0.0,,no_primary_family
+reunion,42,,0.0,,no_primary_family
+rx27,42,,0.0,,no_primary_family
+satire,42,,0.0,,no_primary_family
+singing,42,,0.0,,no_primary_family
+thai indie,42,,0.0,,no_primary_family
+untied kingdom,42,,0.0,,no_primary_family
+canada,41,,0.0,,no_primary_family
+chrismas,41,,0.0,,no_primary_family
+cologne indie,41,,0.0,,no_primary_family
+death by pneumonia,41,,0.0,,no_primary_family
+duets,41,,0.0,,no_primary_family
+fabloo,41,,0.0,,no_primary_family
+garland,41,,0.0,,no_primary_family
+gorillaz,41,,0.0,,no_primary_family
+mezzo-soprano,41,,0.0,,no_primary_family
+motion picture producers and directors,41,,0.0,,no_primary_family
+motion pictures--production and direction,41,,0.0,,no_primary_family
+my way,41,,0.0,,no_primary_family
+nasheed,41,,0.0,,no_primary_family
+neoclassical,41,classical,0.45,fallback,untrusted_fallback
+orchestral soundtrack,41,classical,0.45,fallback,untrusted_fallback
+sgija,41,,0.0,,no_primary_family
+trinidadian,41,,0.0,,no_primary_family
+virtual band,41,,0.0,,no_primary_family
+batidao romantico,40,,0.0,,no_primary_family
+blues-rock,40,jazz_blues,0.45,fallback,untrusted_fallback
+caribbean queen,40,,0.0,,no_primary_family
+carnaval,40,,0.0,,no_primary_family
+chamber music,40,,0.0,,no_primary_family
+crooner,40,,0.0,,no_primary_family
+death by liver cancer,40,,0.0,,no_primary_family
+essentials,40,,0.0,,no_primary_family
+experimental electronic,40,electronic,0.45,fallback,untrusted_fallback
+flop,40,,0.0,,no_primary_family
+folk rock italiano,40,country_folk,0.45,fallback,untrusted_fallback
+j-idol,40,pop,0.45,fallback,untrusted_fallback
+jazz funk,40,jazz_blues,0.45,fallback,untrusted_fallback
+latin afrobeat,40,african,0.45,fallback,untrusted_fallback
+matthew edward hall,40,,0.0,,no_primary_family
+mick jagger,40,,0.0,,no_primary_family
+neo-singer-songwriter,40,country_folk,0.45,fallback,untrusted_fallback
+r & b argentino,40,,0.0,,no_primary_family
+scumbag,40,,0.0,,no_primary_family
+some girls,40,,0.0,,no_primary_family
+spanish composer,40,,0.0,,no_primary_family
+the-rolling-stones,40,,0.0,,no_primary_family
+vivo en el 6,40,,0.0,,no_primary_family
+argentina,39,,0.0,,no_primary_family
+argentinian,39,,0.0,,no_primary_family
+art song,39,,0.0,,no_primary_family
+australian talent show,39,,0.0,,no_primary_family
+chinese electropop,39,electronic,0.45,fallback,untrusted_fallback
+death by stroke,39,,0.0,,no_primary_family
+gaita zuliana,39,,0.0,,no_primary_family
+italy,39,,0.0,,no_primary_family
+j-pixie,39,,0.0,,no_primary_family
+latin folklore,39,country_folk,0.45,fallback,untrusted_fallback
+pop electronico,39,electronic,0.45,fallback,untrusted_fallback
+rap tunisien,39,hip_hop,0.45,fallback,untrusted_fallback
+red dirt,39,,0.0,,no_primary_family
+religious,39,,0.0,,no_primary_family
++australia (sydney,38,,0.0,,no_primary_family
+add release,38,,0.0,,no_primary_family
+african,38,,0.0,,no_primary_family
+arrangers,38,,0.0,,no_primary_family
+capa,38,,0.0,,no_primary_family
+cueca chilena,38,,0.0,,no_primary_family
+death by lung cancer,38,,0.0,,no_primary_family
+forro de favela,38,brazilian,0.45,fallback,untrusted_fallback
+jose jose,38,,0.0,,no_primary_family
+lithuanian alternative,38,,0.0,,no_primary_family
+lithuanian r & b,38,,0.0,,no_primary_family
+nigeria,38,,0.0,,no_primary_family
+not happy,38,,0.0,,no_primary_family
+not party,38,,0.0,,no_primary_family
+partyschlager,38,,0.0,,no_primary_family
+pop costarricense,38,pop,0.45,fallback,untrusted_fallback
+pop-soul,38,pop,0.45,fallback,untrusted_fallback
+puerto rican,38,,0.0,,no_primary_family
+relaxed,38,,0.0,,no_primary_family
+soy asy,38,,0.0,,no_primary_family
+spain,38,,0.0,,no_primary_family
+t-pop girl group,38,pop,0.45,fallback,untrusted_fallback
+virtuoso,38,,0.0,,no_primary_family
+volts,38,,0.0,,no_primary_family
+arrangeur,37,,0.0,,no_primary_family
+bergamo indie,37,,0.0,,no_primary_family
+birdsong,37,,0.0,,no_primary_family
+death by heart failure,37,,0.0,,no_primary_family
+ethereal wave,37,,0.0,,no_primary_family
+hymns,37,,0.0,,no_primary_family
+mc,37,,0.0,,no_primary_family
+music for people who dislike music,37,,0.0,,no_primary_family
+poetry,37,,0.0,,no_primary_family
+pop folk,37,country_folk,0.45,fallback,untrusted_fallback
+post-punk argentina,37,rock,0.45,fallback,untrusted_fallback
+rock quebecois,37,rock,0.45,fallback,untrusted_fallback
+urbano,37,,0.0,,no_primary_family
+alien lives matter,36,,0.0,,no_primary_family
+avant-prog,36,,0.0,,no_primary_family
+bb12b20e,36,,0.0,,no_primary_family
+davido,36,,0.0,,no_primary_family
+davido adeleke,36,,0.0,,no_primary_family
+french electro,36,electronic,0.45,fallback,untrusted_fallback
+gobe,36,,0.0,,no_primary_family
+happy,36,,0.0,,no_primary_family
+indie rock italiano,36,rock,0.45,fallback,untrusted_fallback
+italian tenor,36,,0.0,,no_primary_family
+j-r & b,36,,0.0,,no_primary_family
+k-indie,36,,0.0,,no_primary_family
+kurt cobain,36,,0.0,,no_primary_family
+legendary,36,,0.0,,no_primary_family
+miami bass,36,,0.0,,no_primary_family
+modern bhajan,36,,0.0,,no_primary_family
+nigeria music,36,,0.0,,no_primary_family
+nirvana,36,,0.0,,no_primary_family
+northwest,36,,0.0,,no_primary_family
+oratorio,36,,0.0,,no_primary_family
+pop-folk,36,country_folk,0.45,fallback,untrusted_fallback
+progressive electronic,36,electronic,0.45,fallback,untrusted_fallback
+rap mineiro,36,hip_hop,0.45,fallback,untrusted_fallback
+skelewu,36,,0.0,,no_primary_family
+sunnlensk tonlist,36,,0.0,,no_primary_family
+tenor,36,,0.0,,no_primary_family
+wizkid,36,,0.0,,no_primary_family
+y2k,36,,0.0,,no_primary_family
++usa (california:los angeles,35,,0.0,,no_primary_family
+ambient folk,35,country_folk,0.45,fallback,untrusted_fallback
+angry,35,,0.0,,no_primary_family
+australian reggae fusion,35,caribbean,0.45,fallback,untrusted_fallback
+b7005bb9-fcd9-4d06-8c39-c5ef11275ef1,35,,0.0,,no_primary_family
+bob-marley,35,,0.0,,no_primary_family
+cast recordings,35,,0.0,,no_primary_family
+colombian reggaeton,35,caribbean,0.45,fallback,untrusted_fallback
+czech,35,,0.0,,no_primary_family
+death by pulmonary embolism,35,,0.0,,no_primary_family
+funk das antigas,35,,0.0,,no_primary_family
+knebworth,35,,0.0,,no_primary_family
+latvian indie,35,,0.0,,no_primary_family
+n2,35,,0.0,,no_primary_family
+nerdcore,35,,0.0,,no_primary_family
+norteno sax,35,regional_mexican,0.45,fallback,untrusted_fallback
+patience,35,,0.0,,no_primary_family
+rock urbano,35,rock,0.45,fallback,untrusted_fallback
+the wailers,35,,0.0,,no_primary_family
+today,35,,0.0,,no_primary_family
+torch songs,35,,0.0,,no_primary_family
+vocal surf,35,,0.0,,no_primary_family
+cha cha cha,34,,0.0,,no_primary_family
+chamber folk,34,country_folk,0.45,fallback,untrusted_fallback
+contemporary,34,,0.0,,no_primary_family
+elton-john,34,,0.0,,no_primary_family
+french touch,34,,0.0,,no_primary_family
+funk mandelao,34,,0.0,,no_primary_family
+hands up,34,,0.0,,no_primary_family
+hungarian indie,34,,0.0,,no_primary_family
+karadeniz turkuleri,34,,0.0,,no_primary_family
+keyboardist,34,,0.0,,no_primary_family
+not relaxed,34,,0.0,,no_primary_family
+split me up,34,,0.0,,no_primary_family
+the beatles,34,,0.0,,no_primary_family
+warm,34,,0.0,,no_primary_family
+acoustic porridge,33,,0.0,,no_primary_family
+balada romantica,33,,0.0,,no_primary_family
+canzone dautore,33,,0.0,,no_primary_family
+charva,33,,0.0,,no_primary_family
+chiptune,33,,0.0,,no_primary_family
+consistency,33,,0.0,,no_primary_family
+death doom,33,metal,0.45,fallback,untrusted_fallback
+eddie rubin,33,,0.0,,no_primary_family
+exotica,33,,0.0,,no_primary_family
+koplo,33,,0.0,,no_primary_family
+laulaja-lauluntekija,33,,0.0,,no_primary_family
+nouvelle chanson francaise,33,,0.0,,no_primary_family
+rap cearense,33,hip_hop,0.45,fallback,untrusted_fallback
+rap uliczny,33,hip_hop,0.45,fallback,untrusted_fallback
+rio,33,,0.0,,no_primary_family
+rock in opposition,33,rock,0.45,fallback,untrusted_fallback
+suecia,33,,0.0,,no_primary_family
+swedish country,33,country_folk,0.45,fallback,untrusted_fallback
+uk americana,33,country_folk,0.45,fallback,untrusted_fallback
+believe in nothing,32,,0.0,,no_primary_family
+espana,32,,0.0,,no_primary_family
+estonian electronic,32,electronic,0.45,fallback,untrusted_fallback
+host,32,,0.0,,no_primary_family
+italiano,32,,0.0,,no_primary_family
+jellyroll,32,,0.0,,no_primary_family
+kwaito,32,,0.0,,no_primary_family
+lyricists,32,,0.0,,no_primary_family
+murga,32,,0.0,,no_primary_family
+partynextdoor,32,,0.0,,no_primary_family
+prog folk,32,country_folk,0.45,fallback,untrusted_fallback
+rap politico,32,hip_hop,0.45,fallback,untrusted_fallback
+reggae tuga,32,caribbean,0.45,fallback,untrusted_fallback
+rock progresivo italiano,32,rock,0.45,fallback,untrusted_fallback
+rpi,32,,0.0,,no_primary_family
+turntablism,32,,0.0,,no_primary_family
+a bit overrated,31,,0.0,,no_primary_family
+amerikansk,31,,0.0,,no_primary_family
+booka-shade,31,,0.0,,no_primary_family
+crap,31,hip_hop,0.45,fallback,untrusted_fallback
+destroyer,31,,0.0,,no_primary_family
+duetos,31,,0.0,,no_primary_family
+ethnic,31,,0.0,,no_primary_family
+funk bruxaria,31,,0.0,,no_primary_family
+hardnheavy,31,,0.0,,no_primary_family
+indian singer-songwriter,31,country_folk,0.45,fallback,untrusted_fallback
+jdanton2,31,,0.0,,no_primary_family
+ma baker,31,,0.0,,no_primary_family
+madonna,31,,0.0,,no_primary_family
+melodic bass,31,,0.0,,no_primary_family
+metallica,31,metal,0.45,fallback,untrusted_fallback
+musica angolana,31,,0.0,,no_primary_family
+pessimistic,31,,0.0,,no_primary_family
+pompous asses,31,,0.0,,no_primary_family
+post-dubstep,31,bass_music,0.45,fallback,untrusted_fallback
+rap baiano,31,hip_hop,0.45,fallback,untrusted_fallback
+sabrinafan,31,,0.0,,no_primary_family
+sandalwood,31,,0.0,,no_primary_family
+star wars,31,,0.0,,no_primary_family
+stopped being good after 88,31,,0.0,,no_primary_family
+stopped being good after 97,31,,0.0,,no_primary_family
+the unforgiving,31,,0.0,,no_primary_family
+thrash,31,,0.0,,no_primary_family
+trap baiano,31,hip_hop,0.45,fallback,untrusted_fallback
+trash,31,,0.0,,no_primary_family
+uk post-punk,31,rock,0.45,fallback,untrusted_fallback
+underground amapiano,31,african,0.45,fallback,untrusted_fallback
+afro-pop,30,pop,0.45,fallback,untrusted_fallback
+arrolladora,30,,0.0,,no_primary_family
+arrolladora limon,30,,0.0,,no_primary_family
+atmospheric,30,,0.0,,no_primary_family
+avant-folk,30,country_folk,0.45,fallback,untrusted_fallback
+brazilian,30,brazilian,0.45,fallback,untrusted_fallback
+breakcore,30,,0.0,,no_primary_family
+danish,30,,0.0,,no_primary_family
+dark wave,30,,0.0,,no_primary_family
+finnish melodeath,30,,0.0,,no_primary_family
+gratuitous heavy metal umlaut,30,metal,0.45,fallback,untrusted_fallback
+if you seek amy,30,,0.0,,no_primary_family
+indorock,30,rock,0.45,fallback,untrusted_fallback
+la arrolladora,30,,0.0,,no_primary_family
+la indie,30,,0.0,,no_primary_family
+limon,30,,0.0,,no_primary_family
+love,30,,0.0,,no_primary_family
+musica madeirense,30,,0.0,,no_primary_family
+new mpb,30,brazilian,0.45,fallback,untrusted_fallback
+prog related,30,,0.0,,no_primary_family
+rap angolano,30,hip_hop,0.45,fallback,untrusted_fallback
+rap calme,30,hip_hop,0.45,fallback,untrusted_fallback
+rap chretien,30,hip_hop,0.45,fallback,untrusted_fallback
+rave funk,30,,0.0,,no_primary_family
+southern gothic,30,,0.0,,no_primary_family
+talentkonkurrence,30,,0.0,,no_primary_family
+the sims,30,,0.0,,no_primary_family
+trap catala,30,hip_hop,0.45,fallback,untrusted_fallback
+trot,30,,0.0,,no_primary_family
+afro-fusion,29,,0.0,,no_primary_family
+chanson quebecoise,29,,0.0,,no_primary_family
+comedy,29,,0.0,,no_primary_family
+dancehall queen,29,caribbean,0.45,fallback,untrusted_fallback
+ddr,29,,0.0,,no_primary_family
+death by drowning,29,,0.0,,no_primary_family
+detective,29,,0.0,,no_primary_family
+early r & b,29,,0.0,,no_primary_family
+electronic dance,29,electronic,0.45,fallback,untrusted_fallback
+electronica argentina,29,electronic,0.45,fallback,untrusted_fallback
+engel,29,,0.0,,no_primary_family
+engineer,29,,0.0,,no_primary_family
+german industrial,29,,0.0,,no_primary_family
+high german,29,,0.0,,no_primary_family
+icelandic,29,,0.0,,no_primary_family
+international fusion,29,,0.0,,no_primary_family
+lithuanian dance,29,,0.0,,no_primary_family
+missing allmusic links,29,,0.0,,no_primary_family
+norske viser,29,,0.0,,no_primary_family
+payner,29,,0.0,,no_primary_family
+rap catala,29,hip_hop,0.45,fallback,untrusted_fallback
+ritmo kombina,29,,0.0,,no_primary_family
+tanzmetall,29,metal,0.45,fallback,untrusted_fallback
+third stream,29,,0.0,,no_primary_family
+trap venezolano,29,hip_hop,0.45,fallback,untrusted_fallback
+tunisia,29,,0.0,,no_primary_family
+ukrainian,29,middle_eastern,0.45,fallback,untrusted_fallback
+vapor soul,29,rnb_soul,0.45,fallback,untrusted_fallback
+american idol,28,pop,0.45,fallback,untrusted_fallback
+anthology,28,,0.0,,no_primary_family
+broken transmission,28,,0.0,,no_primary_family
+canadian electronic,28,electronic,0.45,fallback,untrusted_fallback
+chamame,28,,0.0,,no_primary_family
+cowboy,28,,0.0,,no_primary_family
+dangdut koplo,28,,0.0,,no_primary_family
+dusseldorf,28,,0.0,,no_primary_family
+electro swing,28,electronic,0.45,fallback,untrusted_fallback
+girl,28,,0.0,,no_primary_family
+gothic,28,,0.0,,no_primary_family
+hamaki,28,,0.0,,no_primary_family
+jazz poetry,28,jazz_blues,0.45,fallback,untrusted_fallback
+jerry lee lewis,28,,0.0,,no_primary_family
+jungle terror,28,bass_music,0.45,fallback,untrusted_fallback
+kazakh indie,28,,0.0,,no_primary_family
+malaysian indie,28,,0.0,,no_primary_family
+mathcore,28,,0.0,,no_primary_family
+meek mill,28,,0.0,,no_primary_family
+mohamed hamaki,28,,0.0,,no_primary_family
+punjabi,28,world_asian,0.45,fallback,untrusted_fallback
+sentimental,28,,0.0,,no_primary_family
+sun box,28,,0.0,,no_primary_family
+the best of jerry lee lewis,28,,0.0,,no_primary_family
+thomas bangalter,28,,0.0,,no_primary_family
+tunisian,28,,0.0,,no_primary_family
+ukg revival,28,,0.0,,no_primary_family
+vocoder,28,,0.0,,no_primary_family
+whistle register,28,,0.0,,no_primary_family
+wp musicians,28,,0.0,,no_primary_family
+arab,27,middle_eastern,0.45,fallback,untrusted_fallback
+ascetic,27,,0.0,,no_primary_family
+beat poetry,27,,0.0,,no_primary_family
+bedroom r & b,27,,0.0,,no_primary_family
+cabo zouk kizomba,27,caribbean,0.45,fallback,untrusted_fallback
+deep purple family,27,,0.0,,no_primary_family
+duranguense,27,,0.0,,no_primary_family
+g funk,27,,0.0,,no_primary_family
+german-lyrics,27,,0.0,,no_primary_family
+jazz beats,27,jazz_blues,0.45,fallback,untrusted_fallback
+kayokyoku,27,,0.0,,no_primary_family
+nueva trova,27,,0.0,,no_primary_family
+pakistani qawwali,27,middle_eastern,0.45,fallback,untrusted_fallback
+polish hip-hop,27,,0.0,,no_primary_family
+pop peruano,27,pop,0.45,fallback,untrusted_fallback
+producer tag-pharrell,27,,0.0,,no_primary_family
+rai algerien,27,middle_eastern,0.45,fallback,untrusted_fallback
+rap espanol,27,hip_hop,0.45,fallback,untrusted_fallback
+roblox,27,,0.0,,no_primary_family
+rough trade,27,,0.0,,no_primary_family
+saga,27,,0.0,,no_primary_family
+sky room,27,,0.0,,no_primary_family
+spike,27,,0.0,,no_primary_family
+suboptimal credits,27,,0.0,,no_primary_family
+swedish americana,27,country_folk,0.45,fallback,untrusted_fallback
+thai ost,27,,0.0,,no_primary_family
+tontipop,27,pop,0.45,fallback,untrusted_fallback
+trancecore,27,trance,0.45,fallback,untrusted_fallback
+welsh,27,,0.0,,no_primary_family
+canadian electropop,26,electronic,0.45,fallback,untrusted_fallback
+cantonese,26,,0.0,,no_primary_family
+country soul,26,country_folk,0.45,fallback,untrusted_fallback
+dabke,26,,0.0,,no_primary_family
+deutschpunk,26,rock,0.45,fallback,untrusted_fallback
+drumstep,26,,0.0,,no_primary_family
+epitaph,26,,0.0,,no_primary_family
+group,26,,0.0,,no_primary_family
+moombahcore,26,,0.0,,no_primary_family
+nu-cumbia,26,latin_tropical,0.45,fallback,untrusted_fallback
+o happy day,26,,0.0,,no_primary_family
+otacore,26,,0.0,,no_primary_family
+playback singer,26,,0.0,,no_primary_family
+pop boliviano,26,pop,0.45,fallback,untrusted_fallback
+signalwave,26,,0.0,,no_primary_family
+techno remix,26,techno,0.45,fallback,untrusted_fallback
+this is the time,26,,0.0,,no_primary_family
+ukraine,26,middle_eastern,0.45,fallback,untrusted_fallback
+antideutsche,25,,0.0,,no_primary_family
+arkansas country,25,country_folk,0.45,fallback,untrusted_fallback
+black-metal,25,metal,0.45,fallback,untrusted_fallback
+christian country,25,country_folk,0.45,fallback,untrusted_fallback
+comic,25,,0.0,,no_primary_family
+crime,25,,0.0,,no_primary_family
+deep rai,25,middle_eastern,0.45,fallback,untrusted_fallback
+dutch cabaret,25,,0.0,,no_primary_family
+ebm,25,,0.0,,no_primary_family
+el principe,25,,0.0,,no_primary_family
+gaming edm,25,electronic,0.45,fallback,untrusted_fallback
+iceland,25,,0.0,,no_primary_family
+latin christian,25,gospel_spiritual,0.45,fallback,untrusted_fallback
+minneapolis sound,25,,0.0,,no_primary_family
+musica adventista,25,,0.0,,no_primary_family
+new orleans bounce,25,,0.0,,no_primary_family
+nightcore,25,,0.0,,no_primary_family
+nueva cancion,25,,0.0,,no_primary_family
+oldies,25,,0.0,,no_primary_family
+progressive thrash,25,,0.0,,no_primary_family
+rap chileno,25,hip_hop,0.45,fallback,untrusted_fallback
+riot grrrl,25,,0.0,,no_primary_family
+rumba flamenca,25,,0.0,,no_primary_family
+sheffield indie,25,,0.0,,no_primary_family
+t-pop boy group,25,pop,0.45,fallback,untrusted_fallback
+ye ye,25,,0.0,,no_primary_family
+2000er,24,,0.0,,no_primary_family
+32 sonatas,24,,0.0,,no_primary_family
+added for google code-in 2017,24,,0.0,,no_primary_family
+alicia de larrocha,24,brazilian,0.45,fallback,untrusted_fallback
+am,24,,0.0,,no_primary_family
+beethoven gardiner,24,,0.0,,no_primary_family
+cantautora mexicana,24,,0.0,,no_primary_family
+compositional ambient,24,electronic,0.45,fallback,untrusted_fallback
+danish post-punk,24,rock,0.45,fallback,untrusted_fallback
+electra,24,,0.0,,no_primary_family
+flaming,24,,0.0,,no_primary_family
+frenchcore,24,,0.0,,no_primary_family
+grand tour,24,,0.0,,no_primary_family
+hamburg,24,,0.0,,no_primary_family
+if you talk in your sleep,24,,0.0,,no_primary_family
+impressionism,24,,0.0,,no_primary_family
+in the studio,24,,0.0,,no_primary_family
+interview,24,,0.0,,no_primary_family
+klavierwerke,24,,0.0,,no_primary_family
+live in concert,24,,0.0,,no_primary_family
+lo spirito,24,,0.0,,no_primary_family
+masterworks,24,,0.0,,no_primary_family
+minimal,24,,0.0,,no_primary_family
+naija worship,24,gospel_spiritual,0.45,fallback,untrusted_fallback
+netherlands,24,,0.0,,no_primary_family
+opus 57,24,,0.0,,no_primary_family
+organ,24,,0.0,,no_primary_family
+piano concerto no. 5,24,classical,0.45,fallback,untrusted_fallback
+pop country,24,country_folk,0.45,fallback,untrusted_fallback
+private tag 1,24,,0.0,,no_primary_family
+protopunk,24,rock,0.45,fallback,untrusted_fallback
+rap antillais,24,hip_hop,0.45,fallback,untrusted_fallback
+reader s,24,,0.0,,no_primary_family
+sertaneja,24,,0.0,,no_primary_family
+the way i feel,24,,0.0,,no_primary_family
+transgender,24,,0.0,,no_primary_family
+vlaamse kinderliedje,24,,0.0,,no_primary_family
+voice actor,24,,0.0,,no_primary_family
+barnmusik,23,,0.0,,no_primary_family
+brighton indie,23,,0.0,,no_primary_family
+canadian folk,23,country_folk,0.45,fallback,untrusted_fallback
+cdo indie,23,,0.0,,no_primary_family
+chanson a texte,23,,0.0,,no_primary_family
+christian music,23,gospel_spiritual,0.45,fallback,untrusted_fallback
+covers,23,,0.0,,no_primary_family
+cyberpunk,23,rock,0.45,fallback,untrusted_fallback
+deep purple,23,,0.0,,no_primary_family
+farther,23,,0.0,,no_primary_family
+female fronted,23,,0.0,,no_primary_family
+freestyle,23,,0.0,,no_primary_family
+funk melody,23,,0.0,,no_primary_family
+girlsband,23,,0.0,,no_primary_family
+hammond,23,,0.0,,no_primary_family
+hammond organ,23,,0.0,,no_primary_family
+in jail,23,,0.0,,no_primary_family
+kindermusik,23,,0.0,,no_primary_family
+liedermacher,23,,0.0,,no_primary_family
+new americana,23,country_folk,0.45,fallback,untrusted_fallback
+pinoy singer-songwriter,23,country_folk,0.45,fallback,untrusted_fallback
+rap quebecois,23,hip_hop,0.45,fallback,untrusted_fallback
+rumba catalana,23,,0.0,,no_primary_family
+russian indie,23,,0.0,,no_primary_family
+russian plugg,23,,0.0,,no_primary_family
+slovak,23,,0.0,,no_primary_family
+swinger-songwriter,23,jazz_blues,0.45,fallback,untrusted_fallback
+top 100,23,,0.0,,no_primary_family
+trap mexicano,23,hip_hop,0.45,fallback,untrusted_fallback
+alt country,22,country_folk,0.45,fallback,untrusted_fallback
+alternative rnb,22,,0.0,,no_primary_family
+awesomename,22,,0.0,,no_primary_family
+bon jovi,22,,0.0,,no_primary_family
+britain,22,,0.0,,no_primary_family
+bulgarian r & b,22,,0.0,,no_primary_family
+cabo verde,22,,0.0,,no_primary_family
+carnaval cadiz,22,,0.0,,no_primary_family
+chanson virale,22,,0.0,,no_primary_family
+complete violin wind,22,,0.0,,no_primary_family
+death by cirrhosis,22,,0.0,,no_primary_family
+dissolved,22,,0.0,,no_primary_family
+funana,22,,0.0,,no_primary_family
+gb,22,,0.0,,no_primary_family
+graz indie,22,,0.0,,no_primary_family
+great britain,22,,0.0,,no_primary_family
+hard fm,22,,0.0,,no_primary_family
+hare krishna,22,,0.0,,no_primary_family
+iraqi music,22,,0.0,,no_primary_family
+ireland,22,,0.0,,no_primary_family
+krushfunk,22,,0.0,,no_primary_family
+lithuanian soul,22,rnb_soul,0.45,fallback,untrusted_fallback
+melodic dubstep,22,bass_music,0.45,fallback,untrusted_fallback
+nl,22,,0.0,,no_primary_family
+oye com va,22,,0.0,,no_primary_family
+pedophile,22,,0.0,,no_primary_family
+poggers,22,,0.0,,no_primary_family
+afrofuturism,21,,0.0,,no_primary_family
+boom bap espanol,21,hip_hop,0.45,fallback,untrusted_fallback
+chaotic hardcore,21,metal,0.45,fallback,untrusted_fallback
+classic texas country,21,country_folk,0.45,fallback,untrusted_fallback
+cold wave,21,,0.0,,no_primary_family
+eire,21,,0.0,,no_primary_family
+electro bailando,21,electronic,0.45,fallback,untrusted_fallback
+eyes on me,21,,0.0,,no_primary_family
+folklore paraguayo,21,country_folk,0.45,fallback,untrusted_fallback
+french language,21,,0.0,,no_primary_family
+fuji,21,,0.0,,no_primary_family
+glitch hop,21,,0.0,,no_primary_family
+great voice,21,,0.0,,no_primary_family
+jive,21,,0.0,,no_primary_family
+lol,21,,0.0,,no_primary_family
+noisecore,21,,0.0,,no_primary_family
+north east england indie,21,,0.0,,no_primary_family
+novelty,21,,0.0,,no_primary_family
+ocean,21,,0.0,,no_primary_family
+orange county,21,,0.0,,no_primary_family
+ozymandias,21,,0.0,,no_primary_family
+relative-cousin,21,,0.0,,no_primary_family
+russian composer,21,,0.0,,no_primary_family
+skansk musik,21,,0.0,,no_primary_family
+skilled vocals,21,,0.0,,no_primary_family
+skrillex,21,,0.0,,no_primary_family
+switzerland,21,,0.0,,no_primary_family
+thai,21,,0.0,,no_primary_family
+top 10,21,,0.0,,no_primary_family
+urban music,21,,0.0,,no_primary_family
+viet lo-fi,21,,0.0,,no_primary_family
+arab hip-hop,20,middle_eastern,0.45,fallback,untrusted_fallback
+avante garde,20,,0.0,,no_primary_family
+barnemusikk,20,,0.0,,no_primary_family
+boston,20,,0.0,,no_primary_family
+britpop revival,20,pop,0.45,fallback,untrusted_fallback
+canadian country,20,country_folk,0.45,fallback,untrusted_fallback
+cuba,20,,0.0,,no_primary_family
+electro-pop francais,20,electronic,0.45,fallback,untrusted_fallback
+enfp,20,,0.0,,no_primary_family
+epic music,20,,0.0,,no_primary_family
+favorite,20,,0.0,,no_primary_family
+female vocal dance,20,,0.0,,no_primary_family
+german indie folk,20,country_folk,0.45,fallback,untrusted_fallback
+harmonica players,20,,0.0,,no_primary_family
+hip-hip,20,,0.0,,no_primary_family
+hokkaido indie,20,,0.0,,no_primary_family
+indian edm,20,electronic,0.45,fallback,untrusted_fallback
+irish folk,20,country_folk,0.45,fallback,untrusted_fallback
+johnny cash rock island,20,rock,0.45,fallback,untrusted_fallback
+kolsche karneval,20,,0.0,,no_primary_family
+little,20,,0.0,,no_primary_family
+massachusetts,20,,0.0,,no_primary_family
+musica chihuahuense,20,,0.0,,no_primary_family
+oriental ballad,20,pop,0.45,fallback,untrusted_fallback
+osteraker,20,,0.0,,no_primary_family
+ostschlager,20,,0.0,,no_primary_family
+parocktikum,20,rock,0.45,fallback,untrusted_fallback
+pentecostal,20,,0.0,,no_primary_family
+pinoy alternative,20,,0.0,,no_primary_family
+portuguese indie,20,,0.0,,no_primary_family
+progressive doom,20,metal,0.45,fallback,untrusted_fallback
+roots,20,country_folk,0.45,fallback,untrusted_fallback
+scandinavian,20,,0.0,,no_primary_family
+solo wave,20,,0.0,,no_primary_family
+trap carioca,20,hip_hop,0.45,fallback,untrusted_fallback
+traphall,20,hip_hop,0.45,fallback,untrusted_fallback
+utaite,20,,0.0,,no_primary_family
+vocal dance,20,,0.0,,no_primary_family
+abstract,19,,0.0,,no_primary_family
+add named after,19,,0.0,,no_primary_family
+ambient dub,19,electronic,0.45,fallback,untrusted_fallback
+anti-folk,19,country_folk,0.45,fallback,untrusted_fallback
+ballet,19,,0.0,,no_primary_family
+batida,19,,0.0,,no_primary_family
+bitpop,19,pop,0.45,fallback,untrusted_fallback
+chamber orchestra,19,,0.0,,no_primary_family
+childrens choir,19,,0.0,,no_primary_family
+death,19,,0.0,,no_primary_family
+fun-punk,19,rock,0.45,fallback,untrusted_fallback
+gregorian chant,19,,0.0,,no_primary_family
+hindi,19,world_asian,0.45,fallback,untrusted_fallback
+idol,19,pop,0.45,fallback,untrusted_fallback
+indie electropop,19,electronic,0.45,fallback,untrusted_fallback
+israeli indie,19,,0.0,,no_primary_family
+italo-disco,19,,0.0,,no_primary_family
+japanese band,19,,0.0,,no_primary_family
+keyboard,19,,0.0,,no_primary_family
+l2b,19,,0.0,,no_primary_family
+lithuanian synth-pop,19,pop,0.45,fallback,untrusted_fallback
+neomelodici,19,,0.0,,no_primary_family
+new haven,19,,0.0,,no_primary_family
+norteno-sax,19,regional_mexican,0.45,fallback,untrusted_fallback
+oldschool deutschrap,19,hip_hop,0.45,fallback,untrusted_fallback
+poetics,19,,0.0,,no_primary_family
+riddim dubstep,19,bass_music,0.45,fallback,untrusted_fallback
+romanian dance-pop,19,pop,0.45,fallback,untrusted_fallback
+sami,19,,0.0,,no_primary_family
+sort me out,19,,0.0,,no_primary_family
+tecnobrega,19,brazilian,0.45,fallback,untrusted_fallback
+thai folk,19,country_folk,0.45,fallback,untrusted_fallback
+travis barker,19,,0.0,,no_primary_family
+urban,19,,0.0,,no_primary_family
+vapor twitch,19,,0.0,,no_primary_family
+vilnius,19,,0.0,,no_primary_family
+world music,19,,0.0,,no_primary_family
+x,19,,0.0,,no_primary_family
+乐队组合,19,,0.0,,no_primary_family
+1970s hong kong debut,18,,0.0,,no_primary_family
+accordion,18,,0.0,,no_primary_family
+afro-beat,18,,0.0,,no_primary_family
+austrian actor,18,,0.0,,no_primary_family
+brisbane indie,18,,0.0,,no_primary_family
+bro-country,18,country_folk,0.45,fallback,untrusted_fallback
+brooklyn indie,18,,0.0,,no_primary_family
+celtic new age,18,,0.0,,no_primary_family
+chill phonk,18,hip_hop,0.45,fallback,untrusted_fallback
+chillstep,18,,0.0,,no_primary_family
+city,18,,0.0,,no_primary_family
+danish electropop,18,electronic,0.45,fallback,untrusted_fallback
+drumless,18,,0.0,,no_primary_family
+enya,18,,0.0,,no_primary_family
+fantezi,18,,0.0,,no_primary_family
+heavy psych,18,,0.0,,no_primary_family
+house music,18,house,0.45,fallback,untrusted_fallback
+hustle,18,,0.0,,no_primary_family
+indie electronic,18,electronic,0.45,fallback,untrusted_fallback
+indie surf,18,,0.0,,no_primary_family
+juju,18,,0.0,,no_primary_family
+las vegas,18,,0.0,,no_primary_family
+mande,18,,0.0,,no_primary_family
+morelos indie,18,,0.0,,no_primary_family
+northern irish,18,,0.0,,no_primary_family
+ostmetal,18,metal,0.45,fallback,untrusted_fallback
+rap df,18,hip_hop,0.45,fallback,untrusted_fallback
+russian post-punk,18,rock,0.45,fallback,untrusted_fallback
+sad lo-fi,18,,0.0,,no_primary_family
+seoul,18,,0.0,,no_primary_family
+speedrun,18,,0.0,,no_primary_family
+tropicalia,18,latin_tropical,0.45,fallback,untrusted_fallback
+urbano ecuatoriano,18,,0.0,,no_primary_family
+2nd gen k-pop,17,pop,0.45,fallback,untrusted_fallback
+anniversary,17,,0.0,,no_primary_family
+avant-pop,17,pop,0.45,fallback,untrusted_fallback
+blackgaze,17,,0.0,,no_primary_family
+cedm,17,electronic,0.45,fallback,untrusted_fallback
+country christian,17,country_folk,0.45,fallback,untrusted_fallback
+darksynth,17,,0.0,,no_primary_family
+death by cardiac arrest,17,,0.0,,no_primary_family
+death by covid-19,17,,0.0,,no_primary_family
+deep soul,17,rnb_soul,0.45,fallback,untrusted_fallback
+discogs,17,,0.0,,no_primary_family
+drake,17,,0.0,,no_primary_family
+duo,17,,0.0,,no_primary_family
+estonian indie,17,,0.0,,no_primary_family
+eurotrance,17,trance,0.45,fallback,untrusted_fallback
+finnish electro,17,electronic,0.45,fallback,untrusted_fallback
+hong kong cultural icon,17,,0.0,,no_primary_family
+huzunlu sarkilar,17,,0.0,,no_primary_family
+inna,17,,0.0,,no_primary_family
+iswcs pending,17,,0.0,,no_primary_family
+jam,17,,0.0,,no_primary_family
+james scutt,17,,0.0,,no_primary_family
+karneval,17,,0.0,,no_primary_family
+kingston on indie,17,,0.0,,no_primary_family
+latin worship,17,gospel_spiritual,0.45,fallback,untrusted_fallback
+many names,17,,0.0,,no_primary_family
+many singles,17,,0.0,,no_primary_family
+oyun havası,17,,0.0,,no_primary_family
+portugal,17,,0.0,,no_primary_family
+pretzelbodylogic,17,,0.0,,no_primary_family
+prince revolution,17,,0.0,,no_primary_family
+quebec indie,17,,0.0,,no_primary_family
+robin,17,,0.0,,no_primary_family
+rock nacional brasileiro,17,rock,0.45,fallback,untrusted_fallback
+royalty free,17,,0.0,,no_primary_family
+russia,17,,0.0,,no_primary_family
+script-deva,17,,0.0,,no_primary_family
+sea shanties,17,,0.0,,no_primary_family
+soprano,17,,0.0,,no_primary_family
+speedcore,17,,0.0,,no_primary_family
+the police,17,,0.0,,no_primary_family
+trondersk musikk,17,,0.0,,no_primary_family
+wonky,17,,0.0,,no_primary_family
+acoustic opm,16,world_asian,0.45,fallback,untrusted_fallback
+added for google code-in 2016,16,,0.0,,no_primary_family
+aria,16,,0.0,,no_primary_family
+atif,16,,0.0,,no_primary_family
+atif aslam,16,,0.0,,no_primary_family
+baroque music,16,classical,0.45,fallback,untrusted_fallback
+best of,16,,0.0,,no_primary_family
+black americana,16,country_folk,0.45,fallback,untrusted_fallback
+broadway,16,,0.0,,no_primary_family
+cabaret,16,,0.0,,no_primary_family
+chanson quebecois,16,,0.0,,no_primary_family
+chilean indie,16,,0.0,,no_primary_family
+christian bluegrass,16,country_folk,0.45,fallback,untrusted_fallback
+christian edm,16,electronic,0.45,fallback,untrusted_fallback
+classic schlager,16,,0.0,,no_primary_family
+cruise,16,,0.0,,no_primary_family
+deejay,16,,0.0,,no_primary_family
+doorie,16,,0.0,,no_primary_family
+eau claire indie,16,,0.0,,no_primary_family
+ectofolk,16,country_folk,0.45,fallback,untrusted_fallback
+el paso indie,16,,0.0,,no_primary_family
+electro-industrial,16,electronic,0.45,fallback,untrusted_fallback
+epa dunk,16,,0.0,,no_primary_family
+ethereal,16,,0.0,,no_primary_family
+forro tradicional,16,brazilian,0.45,fallback,untrusted_fallback
+greek swing,16,jazz_blues,0.45,fallback,untrusted_fallback
+idol solo,16,pop,0.45,fallback,untrusted_fallback
+indie triste,16,,0.0,,no_primary_family
+j-punk,16,rock,0.45,fallback,untrusted_fallback
+jal pari,16,,0.0,,no_primary_family
+kings college,16,,0.0,,no_primary_family
+lithuanian dance-pop,16,pop,0.45,fallback,untrusted_fallback
+lithuanian post-punk,16,rock,0.45,fallback,untrusted_fallback
+malaysia,16,,0.0,,no_primary_family
+menuhin,16,,0.0,,no_primary_family
+mexican ska,16,,0.0,,no_primary_family
+motorik,16,,0.0,,no_primary_family
+musica santomense,16,,0.0,,no_primary_family
+opera seria,16,classical,0.45,fallback,untrusted_fallback
+oxford indie,16,,0.0,,no_primary_family
+raspe,16,,0.0,,no_primary_family
+serenity,16,,0.0,,no_primary_family
+son jarocho,16,,0.0,,no_primary_family
+stoner doom,16,metal,0.45,fallback,untrusted_fallback
+the lost prophecy,16,,0.0,,no_primary_family
+ukrainian post-punk,16,middle_eastern,0.45,fallback,untrusted_fallback
+utrecht,16,,0.0,,no_primary_family
+variete,16,,0.0,,no_primary_family
+vocals,16,,0.0,,no_primary_family
+wir sind helden,16,,0.0,,no_primary_family
+ye-ye,16,,0.0,,no_primary_family
+yg,16,,0.0,,no_primary_family
+zouglou,16,,0.0,,no_primary_family
+#trapstar,15,hip_hop,0.45,fallback,untrusted_fallback
+algeria,15,,0.0,,no_primary_family
+auckland indie,15,,0.0,,no_primary_family
+bass music,15,,0.0,,no_primary_family
+bbb,15,,0.0,,no_primary_family
+bedroom soul,15,rnb_soul,0.45,fallback,untrusted_fallback
+british orchestra,15,,0.0,,no_primary_family
+caribbean,15,,0.0,,no_primary_family
+chicago bop,15,,0.0,,no_primary_family
+chilean hardcore,15,metal,0.45,fallback,untrusted_fallback
+classical folk,15,classical,0.45,fallback,untrusted_fallback
+death by plane crash,15,,0.0,,no_primary_family
+domestic abuser,15,,0.0,,no_primary_family
+early music,15,,0.0,,no_primary_family
+eclectic prog,15,,0.0,,no_primary_family
+finland,15,,0.0,,no_primary_family
+french indietronica,15,electronic,0.45,fallback,untrusted_fallback
+german voice actor,15,,0.0,,no_primary_family
+hamburg electronic,15,electronic,0.45,fallback,untrusted_fallback
+hard bass,15,,0.0,,no_primary_family
+indie extremena,15,,0.0,,no_primary_family
+minimal wave,15,,0.0,,no_primary_family
+neo-classical,15,classical,0.45,fallback,untrusted_fallback
+ontario indie,15,,0.0,,no_primary_family
+pixie,15,,0.0,,no_primary_family
+pop catracho,15,pop,0.45,fallback,untrusted_fallback
+post-minimalism,15,,0.0,,no_primary_family
+progressive soul,15,rnb_soul,0.45,fallback,untrusted_fallback
+romanian band,15,,0.0,,no_primary_family
+russian ska,15,,0.0,,no_primary_family
+sigilkore,15,,0.0,,no_primary_family
+symphony orchestra,15,,0.0,,no_primary_family
+technical,15,,0.0,,no_primary_family
+todo-works,15,,0.0,,no_primary_family
+trumpet,15,,0.0,,no_primary_family
+turkish psych,15,,0.0,,no_primary_family
+ukrainian edm,15,electronic,0.45,fallback,untrusted_fallback
+#kingkiba,14,,0.0,,no_primary_family
+1st gen k-pop,14,pop,0.45,fallback,untrusted_fallback
+2 tone,14,,0.0,,no_primary_family
+ambient americana,14,country_folk,0.45,fallback,untrusted_fallback
+aygun kazimova,14,,0.0,,no_primary_family
+aygun kazımova,14,,0.0,,no_primary_family
+azerbaijani pop singer,14,pop,0.45,fallback,untrusted_fallback
+azeri singer,14,,0.0,,no_primary_family
+bandung indie,14,,0.0,,no_primary_family
+blue eyed soul,14,rnb_soul,0.45,fallback,untrusted_fallback
+crank wave,14,,0.0,,no_primary_family
+dainuojamoji poezija,14,,0.0,,no_primary_family
+death by bleeding ulcer,14,,0.0,,no_primary_family
+deep talent show,14,,0.0,,no_primary_family
+diva,14,,0.0,,no_primary_family
+dutch americana,14,country_folk,0.45,fallback,untrusted_fallback
+egyptian,14,,0.0,,no_primary_family
+folclor andino,14,,0.0,,no_primary_family
+george gershwin,14,,0.0,,no_primary_family
+had feet,14,,0.0,,no_primary_family
+kreisais krasts,14,,0.0,,no_primary_family
+laid back,14,,0.0,,no_primary_family
+lies,14,,0.0,,no_primary_family
+lithuanian contemporary r & b,14,,0.0,,no_primary_family
+major,14,,0.0,,no_primary_family
+midnight,14,,0.0,,no_primary_family
+miles davis,14,,0.0,,no_primary_family
+musica tradicional cubana,14,,0.0,,no_primary_family
+native american music,14,,0.0,,no_primary_family
+new orleans r & b,14,,0.0,,no_primary_family
+philippines,14,,0.0,,no_primary_family
+poets,14,,0.0,,no_primary_family
+portuguese,14,,0.0,,no_primary_family
+power soca,14,caribbean,0.45,fallback,untrusted_fallback
+psy-trance,14,trance,0.45,fallback,untrusted_fallback
+quantum sound,14,,0.0,,no_primary_family
+renaissance,14,,0.0,,no_primary_family
+rock alternativo espanol,14,rock,0.45,fallback,untrusted_fallback
+rock andaluz,14,rock,0.45,fallback,untrusted_fallback
+rockstar4000,14,rock,0.45,fallback,untrusted_fallback
+rogaland musikk,14,,0.0,,no_primary_family
+ska chileno,14,,0.0,,no_primary_family
+sony music,14,,0.0,,no_primary_family
+sony music africa,14,,0.0,,no_primary_family
+space ambient,14,electronic,0.45,fallback,untrusted_fallback
+stay awake,14,,0.0,,no_primary_family
+strange,14,,0.0,,no_primary_family
+techno kayo,14,techno,0.45,fallback,untrusted_fallback
+the netherlands,14,,0.0,,no_primary_family
+trumpeter,14,,0.0,,no_primary_family
+violinist,14,,0.0,,no_primary_family
+zxc,14,,0.0,,no_primary_family
+2020s hong kong debut,13,,0.0,,no_primary_family
+acoustic cover,13,,0.0,,no_primary_family
+adele,13,,0.0,,no_primary_family
+afrorave,13,,0.0,,no_primary_family
+aternative dance,13,,0.0,,no_primary_family
+baltic folk,13,country_folk,0.45,fallback,untrusted_fallback
+barnsagor,13,,0.0,,no_primary_family
+blues-pop,13,jazz_blues,0.45,fallback,untrusted_fallback
+brasil,13,,0.0,,no_primary_family
+bristol,13,,0.0,,no_primary_family
+contemporary worship,13,gospel_spiritual,0.45,fallback,untrusted_fallback
+defacing,13,,0.0,,no_primary_family
+euro-trance,13,trance,0.45,fallback,untrusted_fallback
+festigal,13,,0.0,,no_primary_family
+folklore chileno,13,country_folk,0.45,fallback,untrusted_fallback
+footwork,13,,0.0,,no_primary_family
+former musician,13,,0.0,,no_primary_family
+french synthpop,13,pop,0.45,fallback,untrusted_fallback
+get dumb,13,,0.0,,no_primary_family
+gold,13,,0.0,,no_primary_family
+hardwave,13,,0.0,,no_primary_family
+indian folk,13,country_folk,0.45,fallback,untrusted_fallback
+indie game soundtrack,13,soundtrack_stage,0.45,fallback,untrusted_fallback
+irlandais,13,,0.0,,no_primary_family
+irlande,13,,0.0,,no_primary_family
+japanese vgm,13,soundtrack_stage,0.45,fallback,untrusted_fallback
+kizzy,13,,0.0,,no_primary_family
+kizzy mchugh,13,,0.0,,no_primary_family
+krushclub,13,,0.0,,no_primary_family
+latvian folk,13,country_folk,0.45,fallback,untrusted_fallback
+lgbtqia+,13,,0.0,,no_primary_family
+midwest emo,13,rock,0.45,fallback,untrusted_fallback
+musica nicaraguense,13,,0.0,,no_primary_family
+musica tlaxcalteca,13,,0.0,,no_primary_family
+musical comedy,13,soundtrack_stage,0.45,fallback,untrusted_fallback
+ndw,13,,0.0,,no_primary_family
+neue neue deutsche welle,13,,0.0,,no_primary_family
+nz christian,13,gospel_spiritual,0.45,fallback,untrusted_fallback
+perth indie,13,,0.0,,no_primary_family
+politician,13,,0.0,,no_primary_family
+pop rock brasileiro,13,pop,0.45,fallback,untrusted_fallback
+quebec,13,,0.0,,no_primary_family
+rap lyonnais,13,hip_hop,0.45,fallback,untrusted_fallback
+rock argentino,13,rock,0.45,fallback,untrusted_fallback
+roger waters,13,,0.0,,no_primary_family
+rolling stones,13,,0.0,,no_primary_family
+scottish singer-songwriter,13,country_folk,0.45,fallback,untrusted_fallback
+seconds,13,,0.0,,no_primary_family
+senegalese,13,,0.0,,no_primary_family
+south american,13,,0.0,,no_primary_family
+space,13,,0.0,,no_primary_family
+surreal,13,,0.0,,no_primary_family
+sxsw,13,,0.0,,no_primary_family
+texan,13,,0.0,,no_primary_family
+tiktok,13,,0.0,,no_primary_family
+top 5,13,,0.0,,no_primary_family
+twelve-tone,13,,0.0,,no_primary_family
+uk metalcore,13,metal,0.45,fallback,untrusted_fallback
+zolo,13,,0.0,,no_primary_family
+16-bit,12,,0.0,,no_primary_family
+activists,12,,0.0,,no_primary_family
+ai,12,,0.0,,no_primary_family
+alternative singer,12,,0.0,,no_primary_family
+androgynous vocals,12,,0.0,,no_primary_family
+austrian indie,12,,0.0,,no_primary_family
+balkan beats,12,,0.0,,no_primary_family
+beautiful,12,,0.0,,no_primary_family
+belgian,12,,0.0,,no_primary_family
+biggest,12,,0.0,,no_primary_family
+bounce,12,,0.0,,no_primary_family
+breaks,12,,0.0,,no_primary_family
+c81,12,,0.0,,no_primary_family
+checkme recordings,12,,0.0,,no_primary_family
+confetti,12,,0.0,,no_primary_family
+contemporary african,12,,0.0,,no_primary_family
+country folk,12,country_folk,0.45,fallback,untrusted_fallback
+cuban,12,,0.0,,no_primary_family
+dancefloor drum and bass,12,bass_music,0.45,fallback,untrusted_fallback
+danish singer-songwriter,12,country_folk,0.45,fallback,untrusted_fallback
+dark folk,12,country_folk,0.45,fallback,untrusted_fallback
+death by automobile,12,,0.0,,no_primary_family
+deep german indie,12,,0.0,,no_primary_family
+digital fusion,12,,0.0,,no_primary_family
+discofox,12,,0.0,,no_primary_family
+dna,12,,0.0,,no_primary_family
+dunedin sound,12,,0.0,,no_primary_family
+electonic,12,,0.0,,no_primary_family
+electric folk,12,country_folk,0.45,fallback,untrusted_fallback
+electropowerpop,12,electronic,0.45,fallback,untrusted_fallback
+estonian folk,12,country_folk,0.45,fallback,untrusted_fallback
+feminists,12,,0.0,,no_primary_family
+fiction,12,,0.0,,no_primary_family
+funky,12,,0.0,,no_primary_family
+gary moore,12,,0.0,,no_primary_family
+get weird,12,,0.0,,no_primary_family
+girl band,12,,0.0,,no_primary_family
+girl-group,12,,0.0,,no_primary_family
+glory days,12,,0.0,,no_primary_family
+god,12,,0.0,,no_primary_family
+hopebeat,12,,0.0,,no_primary_family
+in the mood,12,,0.0,,no_primary_family
+jade thirlwall,12,,0.0,,no_primary_family
+jahseh onfroy,12,,0.0,,no_primary_family
+jamaica,12,,0.0,,no_primary_family
+jazztronica,12,jazz_blues,0.45,fallback,untrusted_fallback
+jesy nelson,12,,0.0,,no_primary_family
+kind,12,,0.0,,no_primary_family
+kindest,12,,0.0,,no_primary_family
+kweens,12,,0.0,,no_primary_family
+latmiya,12,,0.0,,no_primary_family
+leigh-anne pinnock,12,,0.0,,no_primary_family
+lm5,12,,0.0,,no_primary_family
+love u sonu,12,,0.0,,no_primary_family
+musica andina,12,,0.0,,no_primary_family
+my blue heaven,12,,0.0,,no_primary_family
+new beat,12,,0.0,,no_primary_family
+new york shit,12,,0.0,,no_primary_family
+no beat,12,,0.0,,no_primary_family
+novelists,12,,0.0,,no_primary_family
+palindrome,12,,0.0,,no_primary_family
+perreo,12,,0.0,,no_primary_family
+perrie edwards,12,,0.0,,no_primary_family
+poete,12,,0.0,,no_primary_family
+pop quebecoise,12,pop,0.45,fallback,untrusted_fallback
+puro corazon,12,,0.0,,no_primary_family
+queens,12,,0.0,,no_primary_family
+rca,12,,0.0,,no_primary_family
+richest,12,,0.0,,no_primary_family
+rock alternativo brasileiro,12,rock,0.45,fallback,untrusted_fallback
+russian edm,12,electronic,0.45,fallback,untrusted_fallback
+salute,12,,0.0,,no_primary_family
+science fiction,12,,0.0,,no_primary_family
+semba,12,,0.0,,no_primary_family
+sequencer & tracker,12,,0.0,,no_primary_family
+snoop dogg,12,,0.0,,no_primary_family
+sonu nigam,12,,0.0,,no_primary_family
+spanish new wave,12,rock,0.45,fallback,untrusted_fallback
+standard group,12,,0.0,,no_primary_family
+supporter,12,,0.0,,no_primary_family
+sweet bands,12,,0.0,,no_primary_family
+tallava,12,,0.0,,no_primary_family
+tipico,12,,0.0,,no_primary_family
+triphop,12,,0.0,,no_primary_family
+uk street soul,12,rnb_soul,0.45,fallback,untrusted_fallback
+ukrainian psychedelic,12,middle_eastern,0.45,fallback,untrusted_fallback
+video game developer,12,,0.0,,no_primary_family
+wu-tang,12,,0.0,,no_primary_family
+xxxtentacion,12,,0.0,,no_primary_family
+zydeco,12,,0.0,,no_primary_family
+27 club,11,,0.0,,no_primary_family
+8-bit,11,,0.0,,no_primary_family
+adoracao,11,,0.0,,no_primary_family
+alternative reggaeton,11,caribbean,0.45,fallback,untrusted_fallback
+australian indigenous music,11,,0.0,,no_primary_family
+canadian indigenous music,11,,0.0,,no_primary_family
+cha-cha-cha,11,,0.0,,no_primary_family
+chinese minyao,11,,0.0,,no_primary_family
+christian folk,11,country_folk,0.45,fallback,untrusted_fallback
+coldwave,11,,0.0,,no_primary_family
+comedy music,11,,0.0,,no_primary_family
+concepcion indie,11,,0.0,,no_primary_family
+crossover thrash,11,,0.0,,no_primary_family
+cuban rumba,11,,0.0,,no_primary_family
+death by breast cancer,11,,0.0,,no_primary_family
+disc jockeys,11,,0.0,,no_primary_family
+elektronische musik,11,,0.0,,no_primary_family
+elephant 6,11,,0.0,,no_primary_family
+exprimental,11,,0.0,,no_primary_family
+factory records,11,,0.0,,no_primary_family
+flute sonata,11,,0.0,,no_primary_family
+folk-fuzz,11,country_folk,0.45,fallback,untrusted_fallback
+furry,11,,0.0,,no_primary_family
+ghanaian alternative,11,,0.0,,no_primary_family
+ghent indie,11,,0.0,,no_primary_family
+glasgow indie,11,,0.0,,no_primary_family
+grave wave,11,,0.0,,no_primary_family
+great songs,11,,0.0,,no_primary_family
+i grandi concerti,11,,0.0,,no_primary_family
+korean singer-songwriter,11,country_folk,0.45,fallback,untrusted_fallback
+l olimpiade,11,,0.0,,no_primary_family
+manguebeat,11,,0.0,,no_primary_family
+minimalist,11,,0.0,,no_primary_family
+modern country,11,country_folk,0.45,fallback,untrusted_fallback
+modern j-rock,11,rock,0.45,fallback,untrusted_fallback
+morna,11,,0.0,,no_primary_family
+naxos piano trios,11,,0.0,,no_primary_family
+nepalese,11,,0.0,,no_primary_family
+norway,11,,0.0,,no_primary_family
+orlado furioso,11,,0.0,,no_primary_family
+orlando furioso spinosi,11,,0.0,,no_primary_family
+poet,11,,0.0,,no_primary_family
+rabindra sangeet,11,,0.0,,no_primary_family
+rap underground argentino,11,hip_hop,0.45,fallback,untrusted_fallback
+reggae catala,11,caribbean,0.45,fallback,untrusted_fallback
+space music,11,,0.0,,no_primary_family
+spanish synthpop,11,pop,0.45,fallback,untrusted_fallback
+string quartet,11,,0.0,,no_primary_family
+tanbi kei,11,,0.0,,no_primary_family
+two-tone,11,,0.0,,no_primary_family
+vancouver indie,11,,0.0,,no_primary_family
+weirdcore,11,,0.0,,no_primary_family
+wiener akademie,11,,0.0,,no_primary_family
+4ad,10,,0.0,,no_primary_family
+american string quartet,10,,0.0,,no_primary_family
+australian country,10,country_folk,0.45,fallback,untrusted_fallback
+australian indie folk,10,country_folk,0.45,fallback,untrusted_fallback
+australian r & b,10,,0.0,,no_primary_family
+baggy,10,,0.0,,no_primary_family
+belgian singer-songwriter,10,country_folk,0.45,fallback,untrusted_fallback
+bhojiwood,10,,0.0,,no_primary_family
+brega romantico,10,brazilian,0.45,fallback,untrusted_fallback
+brony,10,,0.0,,no_primary_family
+canadian celtic,10,,0.0,,no_primary_family
+canadian contemporary country,10,country_folk,0.45,fallback,untrusted_fallback
+celtic fusion,10,,0.0,,no_primary_family
+cologne,10,,0.0,,no_primary_family
+congolese rumba,10,,0.0,,no_primary_family
+crunk & b,10,,0.0,,no_primary_family
+crunkcore,10,,0.0,,no_primary_family
+dallas,10,,0.0,,no_primary_family
+death by overdose,10,,0.0,,no_primary_family
+deep neofolk,10,country_folk,0.45,fallback,untrusted_fallback
+dixieland,10,,0.0,,no_primary_family
+folclor colombiano,10,,0.0,,no_primary_family
+folclore,10,,0.0,,no_primary_family
+greek hip-hop,10,,0.0,,no_primary_family
+hong kong actor,10,,0.0,,no_primary_family
+idol group,10,pop,0.45,fallback,untrusted_fallback
+idol kayo,10,pop,0.45,fallback,untrusted_fallback
+incomplete remix,10,,0.0,,no_primary_family
+instrumentalists,10,,0.0,,no_primary_family
+introspective,10,,0.0,,no_primary_family
+jamaican ska,10,,0.0,,no_primary_family
+jawaiian,10,,0.0,,no_primary_family
+john mayer,10,,0.0,,no_primary_family
+lagu sabahan,10,,0.0,,no_primary_family
+latin american classical music,10,classical,0.45,fallback,untrusted_fallback
+mali,10,,0.0,,no_primary_family
+middle east,10,,0.0,,no_primary_family
+monterrey indie,10,,0.0,,no_primary_family
+musica canaria,10,,0.0,,no_primary_family
+naat,10,,0.0,,no_primary_family
+newgrass,10,,0.0,,no_primary_family
+night and day,10,,0.0,,no_primary_family
+paul barnes,10,,0.0,,no_primary_family
+plugg francais,10,,0.0,,no_primary_family
+proto-hyperpop,10,pop,0.45,fallback,untrusted_fallback
+scandinave,10,,0.0,,no_primary_family
+scandinavia,10,,0.0,,no_primary_family
+scandinavie,10,,0.0,,no_primary_family
+sentimento,10,,0.0,,no_primary_family
+serrieno-banda,10,regional_mexican,0.45,fallback,untrusted_fallback
+shibuya-kei,10,,0.0,,no_primary_family
+south african r & b,10,,0.0,,no_primary_family
+speed up brasileiro,10,,0.0,,no_primary_family
+trap shaabi,10,hip_hop,0.45,fallback,untrusted_fallback
+tropical alternativo,10,latin_tropical,0.45,fallback,untrusted_fallback
+turkish edm,10,electronic,0.45,fallback,untrusted_fallback
+uppsala indie,10,,0.0,,no_primary_family
+wafuu kei,10,,0.0,,no_primary_family
+yo no me doy por vencido,10,,0.0,,no_primary_family
+1980s hong kong debut,9,,0.0,,no_primary_family
+adult contemporary r & b,9,pop,0.45,fallback,untrusted_fallback
+aromani,9,,0.0,,no_primary_family
+asimakmal,9,,0.0,,no_primary_family
+auteur-compositeur-interprete quebecois,9,,0.0,,no_primary_family
+bilder,9,,0.0,,no_primary_family
+birmingham indie,9,,0.0,,no_primary_family
+brasileiro,9,,0.0,,no_primary_family
+cananda,9,,0.0,,no_primary_family
+chicago soul,9,rnb_soul,0.45,fallback,untrusted_fallback
+chutney,9,,0.0,,no_primary_family
+classic bollywood,9,world_asian,0.45,fallback,untrusted_fallback
+classic disco polo,9,,0.0,,no_primary_family
+classic opm,9,world_asian,0.45,fallback,untrusted_fallback
+classic soundtrack,9,soundtrack_stage,0.45,fallback,untrusted_fallback
+dark electro,9,electronic,0.45,fallback,untrusted_fallback
+death by kidney failure,9,,0.0,,no_primary_family
+deathrock,9,rock,0.45,fallback,untrusted_fallback
+deutsch,9,,0.0,,no_primary_family
+dominican indie,9,,0.0,,no_primary_family
+early romantic era,9,,0.0,,no_primary_family
+electropunk,9,electronic,0.45,fallback,untrusted_fallback
+enka,9,,0.0,,no_primary_family
+eurovision song contest,9,,0.0,,no_primary_family
+filipino,9,,0.0,,no_primary_family
+fremantle indie,9,,0.0,,no_primary_family
+game soundtrack,9,soundtrack_stage,0.45,fallback,untrusted_fallback
+garage music,9,bass_music,0.45,fallback,untrusted_fallback
+german soundtrack,9,soundtrack_stage,0.45,fallback,untrusted_fallback
+glitchcore,9,,0.0,,no_primary_family
+guitariste,9,,0.0,,no_primary_family
+heavy prog,9,,0.0,,no_primary_family
+hit squad,9,,0.0,,no_primary_family
+italian soundtrack,9,soundtrack_stage,0.45,fallback,untrusted_fallback
+jojo,9,,0.0,,no_primary_family
+klubowe,9,,0.0,,no_primary_family
+mandarin,9,,0.0,,no_primary_family
+mbalax,9,,0.0,,no_primary_family
+mr. big,9,,0.0,,no_primary_family
+musica costarricense,9,,0.0,,no_primary_family
+nantes indie,9,,0.0,,no_primary_family
+neofolk,9,country_folk,0.45,fallback,untrusted_fallback
+nintendocore,9,,0.0,,no_primary_family
+nohay,9,,0.0,,no_primary_family
+parody,9,,0.0,,no_primary_family
+percussionist,9,,0.0,,no_primary_family
+polish composer,9,,0.0,,no_primary_family
+pop teen brasileiro,9,pop,0.45,fallback,untrusted_fallback
+progressive metalcore,9,metal,0.45,fallback,untrusted_fallback
+rap congolais,9,hip_hop,0.45,fallback,untrusted_fallback
+rap portuense,9,hip_hop,0.45,fallback,untrusted_fallback
+rebetiko,9,,0.0,,no_primary_family
+rock chapin,9,rock,0.45,fallback,untrusted_fallback
+rock nacional,9,rock,0.45,fallback,untrusted_fallback
+scenecore,9,,0.0,,no_primary_family
+seattle indie,9,,0.0,,no_primary_family
+september,9,,0.0,,no_primary_family
+shit,9,,0.0,,no_primary_family
+sido,9,,0.0,,no_primary_family
+sludge,9,,0.0,,no_primary_family
+sri lankan,9,,0.0,,no_primary_family
+suede,9,,0.0,,no_primary_family
+suedois,9,,0.0,,no_primary_family
+sweet,9,,0.0,,no_primary_family
+today is your birthday,9,,0.0,,no_primary_family
+turin indie,9,,0.0,,no_primary_family
+turkish instrumental,9,,0.0,,no_primary_family
+ultimate,9,,0.0,,no_primary_family
+vegan,9,,0.0,,no_primary_family
+womens music,9,,0.0,,no_primary_family
+10 cd,8,,0.0,,no_primary_family
+42 dugg,8,,0.0,,no_primary_family
+aberdeen,8,,0.0,,no_primary_family
+aggressive phonk,8,hip_hop,0.45,fallback,untrusted_fallback
+alternative-rock,8,rock,0.45,fallback,untrusted_fallback
+arabesque,8,middle_eastern,0.45,fallback,untrusted_fallback
+aslı,8,,0.0,,no_primary_family
+baritone,8,,0.0,,no_primary_family
+beholder,8,,0.0,,no_primary_family
+black lantern music,8,,0.0,,no_primary_family
+border reiver,8,,0.0,,no_primary_family
+box set,8,,0.0,,no_primary_family
+burmese,8,,0.0,,no_primary_family
+cellist,8,,0.0,,no_primary_family
+children s,8,,0.0,,no_primary_family
+childrenofdos,8,,0.0,,no_primary_family
+chinese audiophile,8,,0.0,,no_primary_family
+church music,8,,0.0,,no_primary_family
+classic hardstyle,8,,0.0,,no_primary_family
+coladeira,8,,0.0,,no_primary_family
+complex,8,,0.0,,no_primary_family
+country yodeling,8,country_folk,0.45,fallback,untrusted_fallback
+coupe-decale,8,,0.0,,no_primary_family
+da,8,,0.0,,no_primary_family
+dalarna indie,8,,0.0,,no_primary_family
+dangdut remix,8,,0.0,,no_primary_family
+dark disco,8,,0.0,,no_primary_family
+death by throat cancer,8,,0.0,,no_primary_family
+do not split,8,,0.0,,no_primary_family
+dutch r & b,8,,0.0,,no_primary_family
+electro shaabi,8,electronic,0.45,fallback,untrusted_fallback
+estonian,8,,0.0,,no_primary_family
+euphoric hardstyle,8,,0.0,,no_primary_family
+eurobeat,8,,0.0,,no_primary_family
+fado de coimbra,8,,0.0,,no_primary_family
+file,8,,0.0,,no_primary_family
+filmi sangeet,8,world_asian,0.45,fallback,untrusted_fallback
+finnish new wave,8,rock,0.45,fallback,untrusted_fallback
+finnish soul,8,rnb_soul,0.45,fallback,untrusted_fallback
+flemish folk,8,country_folk,0.45,fallback,untrusted_fallback
+fuck ali project,8,,0.0,,no_primary_family
+g)i-dle,8,,0.0,,no_primary_family
+german metalcore,8,metal,0.45,fallback,untrusted_fallback
+gidle,8,,0.0,,no_primary_family
+gothic lolita,8,,0.0,,no_primary_family
+greek folk,8,country_folk,0.45,fallback,untrusted_fallback
+groovy,8,,0.0,,no_primary_family
+gym hardstyle,8,,0.0,,no_primary_family
+halftime,8,,0.0,,no_primary_family
+hard dance,8,,0.0,,no_primary_family
+hard rock brasileiro,8,rock,0.45,fallback,untrusted_fallback
+i-dle,8,,0.0,,no_primary_family
+idle,8,,0.0,,no_primary_family
+irish post-punk,8,rock,0.45,fallback,untrusted_fallback
+jalsat,8,,0.0,,no_primary_family
+jazz trio,8,jazz_blues,0.45,fallback,untrusted_fallback
+k,8,,0.0,,no_primary_family
+katmandu,8,,0.0,,no_primary_family
+kda,8,,0.0,,no_primary_family
+komponist,8,,0.0,,no_primary_family
+korean talent show,8,,0.0,,no_primary_family
+lil pump,8,,0.0,,no_primary_family
+limerick,8,,0.0,,no_primary_family
+lithuanian electro,8,electronic,0.45,fallback,untrusted_fallback
+midtempo bass,8,,0.0,,no_primary_family
+monumentally stupid band names,8,,0.0,,no_primary_family
+musica andina chilena,8,,0.0,,no_primary_family
+musica classica,8,,0.0,,no_primary_family
+musique concrete,8,,0.0,,no_primary_family
+no wave,8,,0.0,,no_primary_family
+not based,8,,0.0,,no_primary_family
+ozzy,8,,0.0,,no_primary_family
+ozzy osbourne,8,,0.0,,no_primary_family
+path,8,,0.0,,no_primary_family
+performance art,8,,0.0,,no_primary_family
+performance name,8,,0.0,,no_primary_family
+persian,8,,0.0,,no_primary_family
+picopop,8,pop,0.45,fallback,untrusted_fallback
+plunderphonics,8,,0.0,,no_primary_family
+pop romantico,8,pop,0.45,fallback,untrusted_fallback
+progressive r & b,8,,0.0,,no_primary_family
+punk-pop,8,pop,0.45,fallback,untrusted_fallback
+rap feminino nacional,8,hip_hop,0.45,fallback,untrusted_fallback
+reggae peruano,8,caribbean,0.45,fallback,untrusted_fallback
+samba-cancao,8,brazilian,0.45,fallback,untrusted_fallback
+samba-rock,8,brazilian,0.45,fallback,untrusted_fallback
+session,8,,0.0,,no_primary_family
+sinfonia,8,,0.0,,no_primary_family
+soul shakedown party (silk's downunder mix,8,rnb_soul,0.45,fallback,untrusted_fallback
+south african alternative,8,,0.0,,no_primary_family
+stride,8,,0.0,,no_primary_family
+swedish indie folk,8,country_folk,0.45,fallback,untrusted_fallback
+swedish melodeath,8,,0.0,,no_primary_family
+swiss,8,,0.0,,no_primary_family
+swiss indie,8,,0.0,,no_primary_family
+tabla,8,,0.0,,no_primary_family
+thai bl ost,8,,0.0,,no_primary_family
+the queen of soul,8,rnb_soul,0.45,fallback,untrusted_fallback
+tina-turner,8,,0.0,,no_primary_family
+trust,8,,0.0,,no_primary_family
+turkish soundtrack,8,soundtrack_stage,0.45,fallback,untrusted_fallback
+urban cowboy,8,,0.0,,no_primary_family
+uzbekistan,8,,0.0,,no_primary_family
+veracruz indie,8,,0.0,,no_primary_family
+vincy soca,8,caribbean,0.45,fallback,untrusted_fallback
+vintage italian soundtrack,8,soundtrack_stage,0.45,fallback,untrusted_fallback
+vocal group,8,,0.0,,no_primary_family
+wave,8,,0.0,,no_primary_family
+world worship,8,gospel_spiritual,0.45,fallback,untrusted_fallback
+미연,8,,0.0,,no_primary_family
+민니,8,,0.0,,no_primary_family
+소연,8,,0.0,,no_primary_family
+수진,8,,0.0,,no_primary_family
+슈화,8,,0.0,,no_primary_family
+여자)아이들,8,,0.0,,no_primary_family
+우기,8,,0.0,,no_primary_family
+전소연,8,,0.0,,no_primary_family
+큐브,8,,0.0,,no_primary_family
+큐브엔터테인먼트,8,,0.0,,no_primary_family
+90s r & b,7,,0.0,,no_primary_family
+albanian,7,,0.0,,no_primary_family
+alberta country,7,country_folk,0.45,fallback,untrusted_fallback
+alemanha,7,,0.0,,no_primary_family
+ambient noise wall,7,electronic,0.45,fallback,untrusted_fallback
+american folk revival,7,country_folk,0.45,fallback,untrusted_fallback
+appear on hong kong postage stamps,7,,0.0,,no_primary_family
+ballroom vogue,7,,0.0,,no_primary_family
+belarusian indie,7,,0.0,,no_primary_family
+belgium,7,,0.0,,no_primary_family
+bonn,7,,0.0,,no_primary_family
+brazil,7,,0.0,,no_primary_family
+brit funk,7,,0.0,,no_primary_family
+british asian,7,,0.0,,no_primary_family
+budots,7,,0.0,,no_primary_family
+canadian latin,7,,0.0,,no_primary_family
+canadien,7,,0.0,,no_primary_family
+candy,7,,0.0,,no_primary_family
+cello,7,,0.0,,no_primary_family
+channel islands indie,7,,0.0,,no_primary_family
+children,7,,0.0,,no_primary_family
+chinese drama ost,7,,0.0,,no_primary_family
+christian afrobeat,7,african,0.45,fallback,untrusted_fallback
+christian indie,7,gospel_spiritual,0.45,fallback,untrusted_fallback
+christian reggaeton,7,caribbean,0.45,fallback,untrusted_fallback
+circuit,7,,0.0,,no_primary_family
+covertronica,7,,0.0,,no_primary_family
+czech folk,7,country_folk,0.45,fallback,untrusted_fallback
+death by fall,7,,0.0,,no_primary_family
+death by stomach cancer,7,,0.0,,no_primary_family
+disney,7,,0.0,,no_primary_family
+drama,7,,0.0,,no_primary_family
+drill dominicano,7,hip_hop,0.45,fallback,untrusted_fallback
+drummer,7,,0.0,,no_primary_family
+experimental r & b,7,,0.0,,no_primary_family
+fake,7,,0.0,,no_primary_family
+folk quebecois,7,country_folk,0.45,fallback,untrusted_fallback
+foxtown,7,,0.0,,no_primary_family
+fresh,7,,0.0,,no_primary_family
+futurepop,7,pop,0.45,fallback,untrusted_fallback
+fvnky rimex,7,,0.0,,no_primary_family
+greek indie,7,,0.0,,no_primary_family
+guitar god,7,,0.0,,no_primary_family
+harsh noise,7,,0.0,,no_primary_family
+harsh noise wall,7,,0.0,,no_primary_family
+hawaiian,7,,0.0,,no_primary_family
+hebrew,7,,0.0,,no_primary_family
+herleo muntu,7,,0.0,,no_primary_family
+hotpack riddim,7,bass_music,0.45,fallback,untrusted_fallback
+icelandic post-punk,7,rock,0.45,fallback,untrusted_fallback
+indian fusion,7,,0.0,,no_primary_family
+indie curitibano,7,,0.0,,no_primary_family
+indonesian emo,7,rock,0.45,fallback,untrusted_fallback
+j-indie,7,,0.0,,no_primary_family
+jazz venezolano,7,jazz_blues,0.45,fallback,untrusted_fallback
+kizomba antigas,7,caribbean,0.45,fallback,untrusted_fallback
+knack am,7,,0.0,,no_primary_family
+lithuanian contemporary,7,,0.0,,no_primary_family
+maher zain the n1 for us,7,,0.0,,no_primary_family
+manserock,7,rock,0.45,fallback,untrusted_fallback
+marina the diamonds,7,,0.0,,no_primary_family
+marseille,7,,0.0,,no_primary_family
+maxproduction,7,,0.0,,no_primary_family
+minimal synth,7,,0.0,,no_primary_family
+music producer,7,,0.0,,no_primary_family
+musica costena,7,,0.0,,no_primary_family
+musica hondurena,7,,0.0,,no_primary_family
+musica sinaloense,7,,0.0,,no_primary_family
+musical advocacy,7,soundtrack_stage,0.45,fallback,untrusted_fallback
+musiikkia lapsille,7,,0.0,,no_primary_family
+nct,7,,0.0,,no_primary_family
+nordic post-rock,7,rock,0.45,fallback,untrusted_fallback
+nottingham indie,7,,0.0,,no_primary_family
+novelist,7,,0.0,,no_primary_family
+nsfw cover art,7,,0.0,,no_primary_family
+one life,7,,0.0,,no_primary_family
+persian electronic,7,electronic,0.45,fallback,untrusted_fallback
+philosophical,7,,0.0,,no_primary_family
+pirkanmaa,7,,0.0,,no_primary_family
+playback,7,,0.0,,no_primary_family
+playwright,7,,0.0,,no_primary_family
+polish electronica,7,electronic,0.45,fallback,untrusted_fallback
+pop emo,7,pop,0.45,fallback,untrusted_fallback
+powerviolence,7,,0.0,,no_primary_family
+queercore,7,,0.0,,no_primary_family
+rap cristiano,7,hip_hop,0.45,fallback,untrusted_fallback
+rap italiano old school,7,hip_hop,0.45,fallback,untrusted_fallback
+rautalanka,7,,0.0,,no_primary_family
+rock brasiliense,7,rock,0.45,fallback,untrusted_fallback
+romancier,7,,0.0,,no_primary_family
+russian synthpop,7,pop,0.45,fallback,untrusted_fallback
+scorecore,7,,0.0,,no_primary_family
+shornbeats,7,,0.0,,no_primary_family
+songs,7,,0.0,,no_primary_family
+soulful,7,rnb_soul,0.45,fallback,untrusted_fallback
+south carolina,7,,0.0,,no_primary_family
+sovietwave,7,,0.0,,no_primary_family
+stomp and flutter,7,,0.0,,no_primary_family
+strut,7,,0.0,,no_primary_family
+talentschau,7,,0.0,,no_primary_family
+the allman brothers band,7,,0.0,,no_primary_family
+trap pesado,7,hip_hop,0.45,fallback,untrusted_fallback
+traprun,7,hip_hop,0.45,fallback,untrusted_fallback
+ttrpg,7,,0.0,,no_primary_family
+tunisie,7,,0.0,,no_primary_family
+ufw,7,,0.0,,no_primary_family
+underground,7,,0.0,,no_primary_family
+viola da gamba,7,,0.0,,no_primary_family
+violin,7,,0.0,,no_primary_family
+virtual group,7,,0.0,,no_primary_family
+weird america,7,,0.0,,no_primary_family
+wrong,7,,0.0,,no_primary_family
+yg family,7,,0.0,,no_primary_family
+ylojarvi,7,,0.0,,no_primary_family
+zoomergaze,7,,0.0,,no_primary_family
+zouk riddim,7,bass_music,0.45,fallback,untrusted_fallback
+александр горячев,7,,0.0,,no_primary_family
+даваидаша,7,,0.0,,no_primary_family
++finland (helsinki,6,,0.0,,no_primary_family
+1990s hong kong debut,6,,0.0,,no_primary_family
+19th century,6,,0.0,,no_primary_family
+adult alternative,6,,0.0,,no_primary_family
+afrikaans gqom,6,african,0.45,fallback,untrusted_fallback
+akiba-pop,6,pop,0.45,fallback,untrusted_fallback
+ambient lo-fi,6,electronic,0.45,fallback,untrusted_fallback
+arcangel,6,,0.0,,no_primary_family
+balearic,6,,0.0,,no_primary_family
+baltimore club,6,,0.0,,no_primary_family
+belo horizonte indie,6,,0.0,,no_primary_family
+bisrock,6,rock,0.45,fallback,untrusted_fallback
+boogaloo,6,,0.0,,no_primary_family
+boogie-woogie,6,,0.0,,no_primary_family
+boom bap brasileiro,6,hip_hop,0.45,fallback,untrusted_fallback
+bop,6,,0.0,,no_primary_family
+broken,6,,0.0,,no_primary_family
+candombe beat,6,latin_tropical,0.45,fallback,untrusted_fallback
+cape town indie,6,,0.0,,no_primary_family
+cartoon,6,,0.0,,no_primary_family
+castlevania,6,,0.0,,no_primary_family
+catholic music,6,,0.0,,no_primary_family
+classic girl group,6,pop,0.45,fallback,untrusted_fallback
+classic k-pop,6,pop,0.45,fallback,untrusted_fallback
+club dance,6,,0.0,,no_primary_family
+cowboy western,6,,0.0,,no_primary_family
+creation records,6,,0.0,,no_primary_family
+czech composer,6,,0.0,,no_primary_family
+czech singer-songwriter,6,country_folk,0.45,fallback,untrusted_fallback
+dan dan,6,,0.0,,no_primary_family
+dance music hall of fame,6,,0.0,,no_primary_family
+death by poison,6,,0.0,,no_primary_family
+deep tech,6,,0.0,,no_primary_family
+delete,6,,0.0,,no_primary_family
+deltarune,6,,0.0,,no_primary_family
+denmark,6,,0.0,,no_primary_family
+denpa,6,,0.0,,no_primary_family
+dmv,6,,0.0,,no_primary_family
+duran,6,,0.0,,no_primary_family
+early 20th century,6,,0.0,,no_primary_family
+east coast hip-hop,6,,0.0,,no_primary_family
+edmonton indie,6,electronic,0.45,fallback,untrusted_fallback
+electro-soul,6,electronic,0.45,fallback,untrusted_fallback
+electroacoustic,6,electronic,0.45,fallback,untrusted_fallback
+emo trap italiana,6,hip_hop,0.45,fallback,untrusted_fallback
+entekhno,6,,0.0,,no_primary_family
+eurovision song contest 1985,6,,0.0,,no_primary_family
+filthstep,6,,0.0,,no_primary_family
+fransk,6,,0.0,,no_primary_family
+funk soul,6,rnb_soul,0.45,fallback,untrusted_fallback
+gaelic,6,,0.0,,no_primary_family
+gaming dubstep,6,bass_music,0.45,fallback,untrusted_fallback
+grupero romantico,6,,0.0,,no_primary_family
+hoerspiel,6,,0.0,,no_primary_family
+huapango,6,,0.0,,no_primary_family
+hungarian folk,6,country_folk,0.45,fallback,untrusted_fallback
+impressionist,6,,0.0,,no_primary_family
+impro for vomir,6,,0.0,,no_primary_family
+indiecoustica,6,,0.0,,no_primary_family
+indus,6,,0.0,,no_primary_family
+j-metal,6,metal,0.45,fallback,untrusted_fallback
+jakim,6,,0.0,,no_primary_family
+kizomba cabo-verdiana,6,caribbean,0.45,fallback,untrusted_fallback
+korean ballad,6,pop,0.45,fallback,untrusted_fallback
+latin funk,6,,0.0,,no_primary_family
+limerick indie,6,,0.0,,no_primary_family
+lyrical genius,6,,0.0,,no_primary_family
+malang indie,6,,0.0,,no_primary_family
+mento,6,,0.0,,no_primary_family
+merge into anon or another [spa,6,,0.0,,no_primary_family
+mod,6,,0.0,,no_primary_family
+moe song,6,,0.0,,no_primary_family
+music critic,6,,0.0,,no_primary_family
+musica catalana,6,,0.0,,no_primary_family
+musical theater,6,soundtrack_stage,0.45,fallback,untrusted_fallback
+muzika yehudit mekorit,6,,0.0,,no_primary_family
+narcocorrido,6,regional_mexican,0.45,fallback,untrusted_fallback
+needs merging into [anonymous,6,,0.0,,no_primary_family
+needs merging into anon.,6,,0.0,,no_primary_family
+nengo flow,6,,0.0,,no_primary_family
+never use this,6,,0.0,,no_primary_family
+new age piano,6,,0.0,,no_primary_family
+new prog,6,,0.0,,no_primary_family
+new romantics,6,,0.0,,no_primary_family
+new weird america,6,,0.0,,no_primary_family
+nl folk,6,country_folk,0.45,fallback,untrusted_fallback
+norrbotten indie,6,,0.0,,no_primary_family
+nuevo cancionero,6,,0.0,,no_primary_family
+okinawan folk,6,country_folk,0.45,fallback,untrusted_fallback
+organic electronic,6,electronic,0.45,fallback,untrusted_fallback
+oriental,6,,0.0,,no_primary_family
+outsider,6,,0.0,,no_primary_family
+p funk,6,,0.0,,no_primary_family
+pakistani folk,6,country_folk,0.45,fallback,untrusted_fallback
+palm desert scene,6,,0.0,,no_primary_family
+philly indie,6,,0.0,,no_primary_family
+piratenmuziek,6,,0.0,,no_primary_family
+please dont use this,6,,0.0,,no_primary_family
+polca paraguaya,6,,0.0,,no_primary_family
+polish post-punk,6,rock,0.45,fallback,untrusted_fallback
+porro,6,,0.0,,no_primary_family
+probably needs merging,6,,0.0,,no_primary_family
+progressive bluegrass,6,country_folk,0.45,fallback,untrusted_fallback
+punk tuga,6,rock,0.45,fallback,untrusted_fallback
+radioman,6,,0.0,,no_primary_family
+rap baixada fluminense,6,hip_hop,0.45,fallback,untrusted_fallback
+regional mexican,6,,0.0,,no_primary_family
+religious garbage,6,,0.0,,no_primary_family
+rock musical,6,rock,0.45,fallback,untrusted_fallback
+romanian musician,6,,0.0,,no_primary_family
+samba-jazz,6,brazilian,0.45,fallback,untrusted_fallback
+scientology,6,,0.0,,no_primary_family
+seriously,6,,0.0,,no_primary_family
+simon rattle,6,,0.0,,no_primary_family
+sleep,6,,0.0,,no_primary_family
+sm,6,,0.0,,no_primary_family
+spy,6,,0.0,,no_primary_family
+sri lanka,6,,0.0,,no_primary_family
+stephen kovacevich*-beethovestephen kovacevich plays beethoven,6,,0.0,,no_primary_family
+sung poetry,6,,0.0,,no_primary_family
+symbolist,6,,0.0,,no_primary_family
+synthesizer,6,,0.0,,no_primary_family
+taarab,6,middle_eastern,0.45,fallback,untrusted_fallback
+tantrumjas,6,,0.0,,no_primary_family
+techno hardcore,6,metal,0.45,fallback,untrusted_fallback
+thailand,6,,0.0,,no_primary_family
+tilson,6,,0.0,,no_primary_family
+transpop,6,pop,0.45,fallback,untrusted_fallback
+trap peruano,6,hip_hop,0.45,fallback,untrusted_fallback
+troll,6,,0.0,,no_primary_family
+uk hardcore,6,metal,0.45,fallback,untrusted_fallback
+undertale,6,,0.0,,no_primary_family
+vegas indie,6,,0.0,,no_primary_family
+viet remix,6,,0.0,,no_primary_family
+vietnamese,6,,0.0,,no_primary_family
+virtual youtuber,6,,0.0,,no_primary_family
+von weber,6,,0.0,,no_primary_family
+washington indie,6,,0.0,,no_primary_family
+worldwide,6,,0.0,,no_primary_family
+x factor,6,,0.0,,no_primary_family
+ابو اصيل,6,,0.0,,no_primary_family
+ابو بكر سالم,6,,0.0,,no_primary_family
+ابو بكر سالم بلفقيه,6,,0.0,,no_primary_family
+اغاني يمنية,6,,0.0,,no_primary_family
+محضاريات,6,,0.0,,no_primary_family
+3a46633b-26ed-4418-a029-ab77de3ccfae,5,,0.0,,no_primary_family
+60th anniversary,5,,0.0,,no_primary_family
+abdu kiar,5,,0.0,,no_primary_family
+ace of base,5,,0.0,,no_primary_family
+addis ababa,5,,0.0,,no_primary_family
+al-qaysar,5,,0.0,,no_primary_family
+amharic music,5,,0.0,,no_primary_family
+anarchiste,5,,0.0,,no_primary_family
+anarcho-punk,5,rock,0.45,fallback,untrusted_fallback
+andrews sisters,5,,0.0,,no_primary_family
+anime score,5,soundtrack_stage,0.45,fallback,untrusted_fallback
+anthony newman,5,,0.0,,no_primary_family
+anxious,5,,0.0,,no_primary_family
+appalachian folk,5,country_folk,0.45,fallback,untrusted_fallback
+ara music,5,,0.0,,no_primary_family
+arab electronic,5,electronic,0.45,fallback,untrusted_fallback
+armenian,5,,0.0,,no_primary_family
+athens,5,,0.0,,no_primary_family
+atlantic,5,,0.0,,no_primary_family
+austin city limits,5,,0.0,,no_primary_family
+austindie,5,,0.0,,no_primary_family
+australian singer-songwriter,5,country_folk,0.45,fallback,untrusted_fallback
+azeri traditional,5,,0.0,,no_primary_family
+bad music,5,,0.0,,no_primary_family
+bergen indie,5,,0.0,,no_primary_family
+bexleyheath,5,,0.0,,no_primary_family
+bluegrass country alternative,5,country_folk,0.45,fallback,untrusted_fallback
+brega paraense,5,brazilian,0.45,fallback,untrusted_fallback
+c86,5,,0.0,,no_primary_family
+cantautora argentina,5,,0.0,,no_primary_family
+changes,5,,0.0,,no_primary_family
+christian lo-fi,5,gospel_spiritual,0.45,fallback,untrusted_fallback
+classical tenor,5,classical,0.45,fallback,untrusted_fallback
+clean,5,,0.0,,no_primary_family
+collective pseudonym,5,,0.0,,no_primary_family
+contemporary bluegrass,5,country_folk,0.45,fallback,untrusted_fallback
+crash,5,,0.0,,no_primary_family
+czsk electropop,5,electronic,0.45,fallback,untrusted_fallback
+dark psytrance,5,trance,0.45,fallback,untrusted_fallback
+death by liver failure,5,,0.0,,no_primary_family
+detroit trap brasileiro,5,hip_hop,0.45,fallback,untrusted_fallback
+dinamo,5,,0.0,,no_primary_family
+drill tuga,5,hip_hop,0.45,fallback,untrusted_fallback
+easycore,5,,0.0,,no_primary_family
+electronicore,5,electronic,0.45,fallback,untrusted_fallback
+en public,5,,0.0,,no_primary_family
+ethiopian music,5,,0.0,,no_primary_family
+ethiopian singer,5,,0.0,,no_primary_family
+faul,5,,0.0,,no_primary_family
+faul & wad,5,,0.0,,no_primary_family
+faul & wad ad,5,,0.0,,no_primary_family
+faulandwad,5,,0.0,,no_primary_family
+faulandwadad,5,,0.0,,no_primary_family
+faulmusic,5,,0.0,,no_primary_family
+folk music,5,country_folk,0.45,fallback,untrusted_fallback
+folkmusik,5,country_folk,0.45,fallback,untrusted_fallback
+football,5,,0.0,,no_primary_family
+forest psytrance,5,trance,0.45,fallback,untrusted_fallback
+fourth world,5,,0.0,,no_primary_family
+freak folk,5,country_folk,0.45,fallback,untrusted_fallback
+funk-rock,5,rock,0.45,fallback,untrusted_fallback
+game composer,5,,0.0,,no_primary_family
+gen z,5,,0.0,,no_primary_family
+georgia,5,,0.0,,no_primary_family
+german baroque,5,classical,0.45,fallback,untrusted_fallback
+gothenburg,5,,0.0,,no_primary_family
+greenville,5,,0.0,,no_primary_family
+gregorian dance,5,,0.0,,no_primary_family
+hair band,5,,0.0,,no_primary_family
+harlem renaissance,5,,0.0,,no_primary_family
+healing hz,5,,0.0,,no_primary_family
+heavenly voice,5,,0.0,,no_primary_family
+hijo de la luna,5,,0.0,,no_primary_family
+hillsong,5,,0.0,,no_primary_family
+hollywood records,5,,0.0,,no_primary_family
+horbuchserie,5,,0.0,,no_primary_family
+icelandic experimental,5,,0.0,,no_primary_family
+indian lo-fi,5,,0.0,,no_primary_family
+indie siciliano,5,,0.0,,no_primary_family
+intelligent dance music,5,,0.0,,no_primary_family
+isle of wight,5,,0.0,,no_primary_family
+italian classic,5,,0.0,,no_primary_family
+james levine,5,,0.0,,no_primary_family
+jazz trumpet,5,jazz_blues,0.45,fallback,untrusted_fallback
+jeepster,5,,0.0,,no_primary_family
+jovem guarda,5,,0.0,,no_primary_family
+kabarett,5,,0.0,,no_primary_family
+kent,5,,0.0,,no_primary_family
+khiar,5,,0.0,,no_primary_family
+kids,5,,0.0,,no_primary_family
+kiyar,5,,0.0,,no_primary_family
+kompa gouyad,5,caribbean,0.45,fallback,untrusted_fallback
+la luz,5,,0.0,,no_primary_family
+lata-mangeshkar,5,,0.0,,no_primary_family
+latin freestyle,5,,0.0,,no_primary_family
+leipzig electronic,5,electronic,0.45,fallback,untrusted_fallback
+library music,5,,0.0,,no_primary_family
+list,5,,0.0,,no_primary_family
+loren maazel,5,,0.0,,no_primary_family
+lucy,5,,0.0,,no_primary_family
+lukas graham,5,,0.0,,no_primary_family
+lund indie,5,,0.0,,no_primary_family
+marketing lebsians,5,,0.0,,no_primary_family
+melbourne shuffle,5,,0.0,,no_primary_family
+merkato sefere,5,,0.0,,no_primary_family
+microhouse,5,house,0.45,fallback,untrusted_fallback
+minew shewa,5,,0.0,,no_primary_family
+misanthropy,5,,0.0,,no_primary_family
+missing va releases,5,,0.0,,no_primary_family
+mobb music,5,,0.0,,no_primary_family
+modern jazz piano,5,jazz_blues,0.45,fallback,untrusted_fallback
+modern laiko,5,middle_eastern,0.45,fallback,untrusted_fallback
+modinha,5,,0.0,,no_primary_family
+monaco,5,,0.0,,no_primary_family
+monegasque,5,,0.0,,no_primary_family
+mongolian rock band,5,rock,0.45,fallback,untrusted_fallback
+montreal indie,5,,0.0,,no_primary_family
+mumm der kopflose,5,,0.0,,no_primary_family
+murcia indie,5,,0.0,,no_primary_family
+murdered,5,,0.0,,no_primary_family
+musica andina colombiana,5,,0.0,,no_primary_family
+musica aragonesa,5,,0.0,,no_primary_family
+musique pour enfants,5,,0.0,,no_primary_family
+neighbours,5,,0.0,,no_primary_family
+new weird finland,5,,0.0,,no_primary_family
+nihilism,5,,0.0,,no_primary_family
+no doubt,5,,0.0,,no_primary_family
+noah cyrus,5,,0.0,,no_primary_family
+noisegrind,5,,0.0,,no_primary_family
+northern ireland,5,,0.0,,no_primary_family
+observational comedy,5,,0.0,,no_primary_family
+oi,5,,0.0,,no_primary_family
+paisa,5,,0.0,,no_primary_family
+peace,5,,0.0,,no_primary_family
+pennsylvania,5,,0.0,,no_primary_family
+peruvian indie,5,,0.0,,no_primary_family
+pittsburgh symphony orchestra,5,,0.0,,no_primary_family
+play,5,,0.0,,no_primary_family
+pnau,5,,0.0,,no_primary_family
+poezja spiewana,5,,0.0,,no_primary_family
+polish phonk,5,hip_hop,0.45,fallback,untrusted_fallback
+post-alternative,5,,0.0,,no_primary_family
+post-baggy,5,,0.0,,no_primary_family
+post-romantic era,5,,0.0,,no_primary_family
+praise,5,middle_eastern,0.45,fallback,untrusted_fallback
+psychedelic rock music,5,rock,0.45,fallback,untrusted_fallback
+pt,5,,0.0,,no_primary_family
+punk-rock,5,rock,0.45,fallback,untrusted_fallback
+punkrock,5,rock,0.45,fallback,untrusted_fallback
+punto guajiro,5,,0.0,,no_primary_family
+ralph records,5,,0.0,,no_primary_family
+rap nacional,5,hip_hop,0.45,fallback,untrusted_fallback
+religious propaganda,5,,0.0,,no_primary_family
+rock independant francais,5,rock,0.45,fallback,untrusted_fallback
+rock urbano mexicano,5,rock,0.45,fallback,untrusted_fallback
+rodrigo interpreta a rodrigo,5,,0.0,,no_primary_family
+rubby perez,5,,0.0,,no_primary_family
+san francisco,5,,0.0,,no_primary_family
+sardinia,5,,0.0,,no_primary_family
+saturday night live,5,,0.0,,no_primary_family
+serbian,5,,0.0,,no_primary_family
+shabad,5,,0.0,,no_primary_family
+simon and,5,,0.0,,no_primary_family
+ska mexicano,5,,0.0,,no_primary_family
+slowed and reverb,5,,0.0,,no_primary_family
+smooth saxophone,5,,0.0,,no_primary_family
+south africa,5,,0.0,,no_primary_family
+spiritual,5,,0.0,,no_primary_family
+stell,5,,0.0,,no_primary_family
+stelljun,5,,0.0,,no_primary_family
+super,5,,0.0,,no_primary_family
+surreal humour,5,,0.0,,no_primary_family
+the voice,5,,0.0,,no_primary_family
+tidy,5,,0.0,,no_primary_family
+top 50,5,,0.0,,no_primary_family
+tour d amour,5,,0.0,,no_primary_family
+township bubblegum,5,,0.0,,no_primary_family
+trap ecuatoriano,5,hip_hop,0.45,fallback,untrusted_fallback
+trio,5,,0.0,,no_primary_family
+turkce remix,5,,0.0,,no_primary_family
+viking folk,5,country_folk,0.45,fallback,untrusted_fallback
+vocal music,5,,0.0,,no_primary_family
+waltz,5,,0.0,,no_primary_family
+west african,5,,0.0,,no_primary_family
+wips,5,,0.0,,no_primary_family
+wu fam,5,,0.0,,no_primary_family
+wuthering heights,5,,0.0,,no_primary_family
+yodeling,5,,0.0,,no_primary_family
+zoblazo,5,,0.0,,no_primary_family
+القيصر,5,,0.0,,no_primary_family

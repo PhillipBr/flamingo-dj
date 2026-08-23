@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "source": "flamingo-dj-app",
+  "playlistId": "flamenco-house",
+  "playlistName": "FLAMENCO HOUSE",
+  "description": "Imported Flamingo DJ playlist.",
+  "category": "Imported",
+  "totalTracks": 10,
+  "trackIds": [
+    "1274847068",
+    "1274847089",
+    "1274847040",
+    "1274847076",
+    "1274847100",
+    "1274847070",
+    "1274847062",
+    "1274847046",
+    "1274847055",
+    "1274847128"
+  ],
+  "updatedAt": "2026-08-21T22:32:21.606Z",
+  "generatedAt": "2026-08-23T00:14:09.881Z"
+}

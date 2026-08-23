@@ -1,0 +1,44 @@
+﻿Genre,NormalizedGenre,TrackCount,Reason
+absolute reggae,absolute reggae,454,known_non_genre
+celtic spirit vol 7,celtic spirit vol 7,454,regex_non_genre
+dedicated to you vol 1,dedicated to you vol 1,454,regex_non_genre
+devotional buddhist chants,devotional buddhist chants,454,known_non_genre
+driven by 80s anthems,driven by 80s anthems,454,regex_non_genre
+gospel religious,gospel religious,454,known_non_genre
+old skool of rock disc 1,old skool of rock disc 1,454,regex_non_genre
+traditional music,traditional music,250,known_non_genre
+foundational act of the virginia sludge,foundational act of the virginia sludge,202,metadata_or_editorial
+hardcore band from virginia beach,hardcore band from virginia beach,202,known_non_genre
+mugwart is regarded as a cult,mugwart is regarded as a cult,202,metadata_or_editorial
+sharing stages with grief,sharing stages with grief,202,metadata_or_editorial
+rock music,rock music,130,known_non_genre
+rap god,rap god,100,known_non_genre
+script-arab,script-arab,92,known_non_genre
+queen of rap,queen of rap,86,known_non_genre
+pop star,pop star,75,known_non_genre
+social media pop,social media pop,75,known_non_genre
+influential pop star,influential pop star,74,known_non_genre
+pop culture,pop culture,74,known_non_genre
+indie anthem-folk,indie anthem-folk,63,regex_non_genre
+rock musicians,rock musicians,62,known_non_genre
+soundtrack composer,soundtrack composer,52,known_non_genre
+western classical music,western classical music,45,known_non_genre
+popular music,popular music,43,known_non_genre
+sa-town anthem,sa-town anthem,42,regex_non_genre
+swing music,swing music,39,known_non_genre
+best rock,best rock,38,known_non_genre
+glam rock music,glam rock music,38,known_non_genre
+glam rock musicians,glam rock musicians,38,known_non_genre
+not electronic,not electronic,38,known_non_genre
+rapping,rapping,34,known_non_genre
+trainwreck,trainwreck,29,known_non_genre
+trailer,trailer,25,known_non_genre
+country music,country music,22,known_non_genre
+mumble rapper,mumble rapper,21,known_non_genre
+rock groups,rock groups,20,known_non_genre
+death by electrocution,death by electrocution,14,known_non_genre
+electronic dance music,electronic dance music,12,known_non_genre
+rap musicians,rap musicians,12,known_non_genre
+film score composer,film score composer,10,known_non_genre
+rhythm and blues music,rhythm and blues music,9,known_non_genre
+pop music,pop music,8,known_non_genre

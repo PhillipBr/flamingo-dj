@@ -1,0 +1,2005 @@
+﻿Genre,TrackCount,PrimaryFamily,SecondaryFamilies,PrimaryWeight,PrimaryConfidence,ReviewReasons,PriorityScore
+alternative r&b,2032,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,10.4206
+contemporary r&b,4253,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,9.6163
+experimental,1083,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,9.5603
+alternative,1059,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,9.5297
+modern bollywood,851,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,9.2309
+soul,2482,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.9967
+pop urbaine,6450,pop,,0.45,fallback,low_primary_weight | low_confidence,8.5717
+arrocha,1695,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.558
+filmi,1594,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.4873
+sad sierreno,1541,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.4484
+latin,5482,latin_tropical,,0.45,fallback,low_primary_weight | low_confidence,8.4128
+sierreno,1490,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.4097
+norteno,1338,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.286
+khaleeji,1296,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.2493
+ambient,1263,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.2196
+r&b francais,1251,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.2087
+mizrahi,1176,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.1376
+agronejo,1152,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.1138
+desi,1133,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.0947
+french r&b,1113,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.0742
+manele,1108,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,8.0691
+funk carioca,1010,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.9626
+indietronica,1005,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.9569
+mahraganat,987,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.9361
+neo soul,962,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.9066
+bollywood,942,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.8825
+grupera,916,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.8503
+electro,856,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.7724
+drum and bass,830,bass_music,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.7369
+laiko,820,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.723
+latin alternative,569,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,7.7164
+opm,802,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.6975
+instrumental,786,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.6743
+americana,778,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.6626
+regional mexicano,771,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.6522
+world,769,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.6492
+film soundtrack,763,soundtrack_stage,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.6402
+indie folk,753,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.625
+rap francais,2388,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,7.601
+downtempo,736,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.5988
+rai,736,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.5988
+tejano,723,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.5783
+contemporary country,707,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.5526
+anime,676,soundtrack_stage,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.5011
+chalga,674,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.4977
+classic,462,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,7.4636
+experience the classics,454,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,7.4424
+sufi,630,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.4201
+v-pop,1898,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,7.3767
+musical,600,soundtrack_stage,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.364
+devotional,589,gospel_spiritual,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.3428
+alternative country,213,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,7.3408
+funk,1517,,,,,no_family | no_related_styles | no_transition_styles,7.3169
+pop soul,1775,pop,rnb_soul,0.45,fallback,low_primary_weight | low_confidence,7.3112
+psytrance,571,trance,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.3071
+easy listening soundtracks and musicals,569,soundtrack_stage,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.3031
+bluegrass,566,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.297
+indie,1470,,,,,no_family | no_related_styles | no_transition_styles,7.2855
+jungle,541,bass_music,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.2451
+cantopop,1649,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,7.2393
+choral,531,classical,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.2237
+worship,531,gospel_spiritual,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.2237
+riddim,522,bass_music,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.204
+new wave,1537,rock,,0.45,fallback,low_primary_weight | low_confidence,7.1707
+pop reggaeton,223,caribbean,latin_urban | pop,0.45,fallback,many_families | low_primary_weight | low_confidence,7.1683
+pop dance,1481,pop,,0.45,fallback,low_primary_weight | low_confidence,7.1344
+t-pop,1460,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,7.1205
+piseiro,472,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.0884
+folklore,460,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.0588
+classic soul,172,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,7.0498
+bioshock soundtrack,454,soundtrack_stage,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.0437
+chinese r&b,454,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.0437
+soul cargo,454,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,7.0437
+kizomba,1346,caribbean,,0.45,fallback,low_primary_weight | low_confidence,7.0411
+rap conscient,1336,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,7.0338
+trap italiana,1286,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.9966
+eurodance,1090,,,,,no_family | no_related_styles | no_transition_styles,6.987
+disco,1075,,,,,no_family | no_related_styles | no_transition_styles,6.9732
+iskelma,1045,,,,,no_family | no_related_styles | no_transition_styles,6.9449
+taiwan singer-songwriter,415,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.9406
+hardcore hip,413,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.9351
+arabesk,407,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.9182
+mariachi,401,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.9012
+tekno,391,techno,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.8722
+rock and roll,1119,rock,,0.45,fallback,low_primary_weight | low_confidence,6.8607
+traditional,280,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,6.8564
+christmas,918,,,,,no_family | no_related_styles | no_transition_styles,6.8156
+russelater,868,,,,,no_family | no_related_styles | no_transition_styles,6.7597
+c-pop,995,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,6.7461
+ragga,988,caribbean,,0.45,fallback,low_primary_weight | low_confidence,6.7392
+zouk,983,caribbean,,0.45,fallback,low_primary_weight | low_confidence,6.7342
+blue-eyed soul,346,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.7319
+lounge,843,,,,,no_family | no_related_styles | no_transition_styles,6.7306
+future bass,344,bass_music,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.7252
+alternative dance,251,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,6.7239
+kollywood,341,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.7152
+orchestral,341,classical,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.7152
+contemporary folk,337,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.7016
+film score,317,classical,soundtrack_stage,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.6314
+rap maroc,883,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.6295
+rap marseille,859,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.6026
+europop,843,pop,,0.45,fallback,low_primary_weight | low_confidence,6.5843
+sholawat,297,gospel_spiritual,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.5567
+gqom,818,african,house,0.45,fallback,low_primary_weight | low_confidence,6.5549
+chilean mambo,789,latin_tropical,latin_urban,0.45,fallback,low_primary_weight | low_confidence,6.5197
+quiet storm,282,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4972
+pagode,280,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4891
+trap argentino,764,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.4882
+adult contemporary,760,pop,,0.45,fallback,low_primary_weight | low_confidence,6.4831
+chipmunk soul,278,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4809
+j-rock,758,rock,,0.45,fallback,low_primary_weight | low_confidence,6.4805
+hindi indie,277,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4767
+motown,273,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.46
+ska,642,,,,,no_family | no_related_styles | no_transition_styles,6.4589
+funk rj,270,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4474
+tropical,730,latin_tropical,,0.45,fallback,low_primary_weight | low_confidence,6.4438
+big band,267,jazz_blues,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4346
+new jack swing,266,jazz_blues,rnb_soul,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4303
+urban contemporary,266,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4303
+new age,620,,,,,no_family | no_related_styles | no_transition_styles,6.4241
+tamil dance,264,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4216
+alte,615,,,,,no_family | no_related_styles | no_transition_styles,6.416
+chillwave,262,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4129
+concerto,262,classical,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4129
+electro latino,261,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.4085
+calypso,698,caribbean,,0.45,fallback,low_primary_weight | low_confidence,6.4001
+dansktop,604,,,,,no_family | no_related_styles | no_transition_styles,6.398
+swing,257,jazz_blues,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.3908
+boom bap,691,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.3902
+azonto,687,african,,0.45,fallback,low_primary_weight | low_confidence,6.3846
+club,593,,,,,no_family | no_related_styles | no_transition_styles,6.3797
+likedis auto,590,,,,,no_family | no_related_styles | no_transition_styles,6.3747
+3 step,677,house,,0.45,fallback,low_primary_weight | low_confidence,6.3703
+easy listening,585,,,,,no_family | no_related_styles | no_transition_styles,6.3662
+egyptian shaabi,249,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.3545
+baroque,248,classical,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.3499
+tollywood,246,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.3406
+rockabilly,652,rock,,0.45,fallback,low_primary_weight | low_confidence,6.3336
+vgm,244,soundtrack_stage,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.3313
+classical period,101,classical,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,6.3271
+khaliji,241,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.3171
+kuduro,637,caribbean,,0.45,fallback,low_primary_weight | low_confidence,6.3108
+hip hop tuga,632,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.3032
+mashup,548,,,,,no_family | no_related_styles | no_transition_styles,6.301
+urbano chileno,548,,,,,no_family | no_related_styles | no_transition_styles,6.301
+urbano espanol,548,,,,,no_family | no_related_styles | no_transition_styles,6.301
+private school piano,547,,,,,no_family | no_related_styles | no_transition_styles,6.2992
+schlager,544,,,,,no_family | no_related_styles | no_transition_styles,6.2937
+ballad,618,pop,,0.45,fallback,low_primary_weight | low_confidence,6.2813
+k-rap,613,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.2734
+kompa,608,caribbean,,0.45,fallback,low_primary_weight | low_confidence,6.2654
+trip hop,525,,,,,no_family | no_related_styles | no_transition_styles,6.2583
+grime,603,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.2573
+cuarteto,602,latin_tropical,,0.45,fallback,low_primary_weight | low_confidence,6.2557
+candombe,595,latin_tropical,,0.45,fallback,low_primary_weight | low_confidence,6.2443
+israeli mediterranean,515,,,,,no_family | no_related_styles | no_transition_styles,6.2391
+pinoy r&b,225,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.2384
+funk mtg,224,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.2333
+rock en espanol,588,rock,,0.45,fallback,low_primary_weight | low_confidence,6.2328
+mpb,222,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.223
+chillout,502,,,,,no_family | no_related_styles | no_transition_styles,6.2136
+hard alternative,163,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,6.2016
+funk paulista,217,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.1969
+doom,215,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.1863
+tango,484,,,,,no_family | no_related_styles | no_transition_styles,6.1772
+fusion,483,,,,,no_family | no_related_styles | no_transition_styles,6.1751
+korean r&b,212,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.1702
+goth,480,,,,,no_family | no_related_styles | no_transition_styles,6.1689
+psychobilly,477,,,,,no_family | no_related_styles | no_transition_styles,6.1627
+beethoven,472,,,,,no_family | no_related_styles | no_transition_styles,6.1522
+lofi,467,,,,,no_family | no_related_styles | no_transition_styles,6.1416
+post-hardcore,205,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.1317
+classic country,87,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,6.1251
+berlin school,459,,,,,no_family | no_related_styles | no_transition_styles,6.1243
+arabic,203,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.1205
+country road,203,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.1205
+entehno,203,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.1205
+permanent wave,457,,,,,no_family | no_related_styles | no_transition_styles,6.12
+chicago,456,,,,,no_family | no_related_styles | no_transition_styles,6.1178
+hillbilly,456,,,,,no_family | no_related_styles | no_transition_styles,6.1178
+meditation,456,,,,,no_family | no_related_styles | no_transition_styles,6.1178
+vietnam indie,455,,,,,no_family | no_related_styles | no_transition_styles,6.1156
+idm,202,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.1149
+phonk,521,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.1148
+101 moments in music,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+2001 space odyssey,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+50cents,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+80 s fresh new,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+absolute voices,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+acoustic best,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+adam beyer,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+africa middle east,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+alirio diaz,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+andrade,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+andre powels,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+andrew york,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+armin van buuren,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+backstreet boys,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+bareto,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+basque,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+bflaminio,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+binaural beats,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+birthday,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+boot land,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+casanovas,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+cdnnnow128,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+cdx,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+celtic celebration,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+classique,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+classwar karaoke,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+cobles,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+compilatie,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+desperado,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+dfree843,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+die drei,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+dresch,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+educacion,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+elc chritmas,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+fjord,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+foreign language,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+frederic chopin,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+futebol,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+gerard palaprat,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+glass,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+grase,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+groom to the gallows,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+healing sixes,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+hemi-sync,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+ibiza,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+infantil,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+john coltrane,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+josquin,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+jucanto,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+kinderchore,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+kinderliedjes kapiteinwinokio humo,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+klaus baumgart,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+la grande sophie,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+leaving on a jet plan,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+legion of von,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+lil eazy-e,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+liturgic,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+liz,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+liz andrade,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+local music of iran,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+los 24 grandes exitos de la zarzuela,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+marilyn manson,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+mary j blige,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+mega,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+michael jackson,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+mimicking birds,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+miroque,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+mohsen namjoo,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+montuno,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+more 70,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+my sharona,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+ncs,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+nederlands,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+new generations,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+new generations philip glass,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+niroshima,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+nitzer ebb,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+nox,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+number 1,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+orthodox,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+papeete,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+pavarotti,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+piosenka poetycka muzyka autorska,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+pzzqxnzt6snn ekrngheoblbupu-,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+razieq,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+rhythm del mundo,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+ronak bhatt,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+shankar jaikishan,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+shine 4,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+shwetabh sucks,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+sonic seducer cold hands vi,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+sprechgesang,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+sunshine,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+the welcome committee,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+trikitixa,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+tunguska chillout grooves,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+ultimatecore,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+ussr ministry of culture chamber choir,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+venezolana,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+vera kaa,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+visions,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+volkstumliche musik,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+wireharp,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+z103 5 street mix 2k7,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+zero t 51,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+zweiohr,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+ƒk₷m€,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+мелодии рождества,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+嫌われ松子の歌たち,454,,,,,no_family | no_related_styles | no_transition_styles,6.1134
+rkt,520,latin_urban,,0.45,fallback,low_primary_weight | low_confidence,6.1129
+post grunge,511,rock,,0.45,fallback,low_primary_weight | low_confidence,6.0959
+s.a. souvenirs,446,,,,,no_family | no_related_styles | no_transition_styles,6.0957
+trap funk,508,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.0901
+chanson,439,,,,,no_family | no_related_styles | no_transition_styles,6.0799
+alternative electronic,84,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,6.0777
+big room,437,,,,,no_family | no_related_styles | no_transition_styles,6.0754
+trap triste,496,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.0668
+shatta,495,caribbean,,0.45,fallback,low_primary_weight | low_confidence,6.0648
+qawwali,193,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.0627
+pop nacional,491,pop,,0.45,fallback,low_primary_weight | low_confidence,6.0569
+uk dance,428,,,,,no_family | no_related_styles | no_transition_styles,6.0547
+hiplife,489,african,,0.45,fallback,low_primary_weight | low_confidence,6.0529
+pagode baiano,191,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.0507
+russian drain,191,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.0507
+rap dominicano,486,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.0469
+bolero,484,latin_tropical,,0.45,fallback,low_primary_weight | low_confidence,6.0429
+brostep,187,bass_music,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.0265
+rap napoletano,467,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.0081
+rap us,466,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,6.006
+country dreams,183,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,6.0018
+britpop,462,pop,rock,0.45,fallback,low_primary_weight | low_confidence,5.9976
+emo,459,rock,,0.45,fallback,low_primary_weight | low_confidence,5.9912
+bossa nova,181,jazz_blues,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.9892
+r&b en espanol,180,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.9828
+funk consciente,393,,,,,no_family | no_related_styles | no_transition_styles,5.9696
+moombahton,392,,,,,no_family | no_related_styles | no_transition_styles,5.9671
+brega,177,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.9636
+smooth soul,177,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.9636
+epadunk,389,,,,,no_family | no_related_styles | no_transition_styles,5.9594
+neo psychedelia,385,,,,,no_family | no_related_styles | no_transition_styles,5.9492
+electroclash,174,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.9441
+coupe decale,434,african,,0.45,fallback,low_primary_weight | low_confidence,5.9366
+turbo folk,172,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.9308
+rumba congolaise,431,african,,0.45,fallback,low_primary_weight | low_confidence,5.9298
+dubstep,170,bass_music,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.9174
+pop urbano,425,pop,,0.45,fallback,low_primary_weight | low_confidence,5.9162
+metalcore,169,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.9107
+traditional country,74,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,5.9064
+japanese singer-songwriter,168,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.9039
+alt z,363,,,,,no_family | no_related_styles | no_transition_styles,5.8905
+trap soul,413,hip_hop,rnb_soul,0.45,fallback,low_primary_weight | low_confidence,5.8883
+fantasy,361,,,,,no_family | no_related_styles | no_transition_styles,5.885
+contemporary christian,164,gospel_spiritual,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.8763
+musicals,164,soundtrack_stage,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.8763
+nu disco,357,,,,,no_family | no_related_styles | no_transition_styles,5.8739
+hypertechno,163,techno,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.8693
+3rd gen k-pop,405,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,5.8692
+grunge,404,rock,,0.45,fallback,low_primary_weight | low_confidence,5.8668
+brega funk,161,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.8552
+trap boricua,391,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.8349
+pov: indie,339,,,,,no_family | no_related_styles | no_transition_styles,5.8224
+indian indie,333,,,,,no_family | no_related_styles | no_transition_styles,5.8046
+pop. alternative,127,pop,,0.45,fallback,low_primary_weight | low_confidence | broad_or_marketing_tag,5.7948
+parlophone,329,,,,,no_family | no_related_styles | no_transition_styles,5.7926
+classical crossover,68,classical,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,5.7924
+nova mpb,152,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.7894
+production music,326,,,,,no_family | no_related_styles | no_transition_styles,5.7835
+aor,370,rock,,0.45,fallback,low_primary_weight | low_confidence,5.7811
+hk-pop,364,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,5.7652
+pop virale italiano,123,pop,,0.45,fallback,low_primary_weight | low_confidence | broad_or_marketing_tag,5.7569
+adult standards,317,,,,,no_family | no_related_styles | no_transition_styles,5.7556
+rap ivoire,360,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.7544
+drill francais,359,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.7517
+asakaa,315,,,,,no_family | no_related_styles | no_transition_styles,5.7493
+egyptian alternative,111,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,5.7378
+bhangra,310,,,,,no_family | no_related_styles | no_transition_styles,5.7333
+cloud rap francais,349,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.7242
+g-funk,349,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.7242
+malay,302,,,,,no_family | no_related_styles | no_transition_styles,5.7073
+psychedelic,302,,,,,no_family | no_related_styles | no_transition_styles,5.7073
+psychedelic folk,141,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.7036
+garage rock revival,73,bass_music,hip_hop | rock,0.45,fallback,many_families | low_primary_weight | low_confidence,5.7012
+taylor-swift,300,,,,,no_family | no_related_styles | no_transition_styles,5.7007
+soundtracks,140,soundtrack_stage,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.6954
+metropopolis,338,pop,,0.45,fallback,low_primary_weight | low_confidence,5.6929
+jazz fusion,139,jazz_blues,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.6872
+vietnamese singer-songwriter,139,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.6872
+hyperpop,331,pop,,0.45,fallback,low_primary_weight | low_confidence,5.6726
+classic j-pop,114,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence | broad_or_marketing_tag,5.6669
+pbr & b,285,,,,,no_family | no_related_styles | no_transition_styles,5.6496
+flamenco urbano,284,,,,,no_family | no_related_styles | no_transition_styles,5.6461
+german indie,284,,,,,no_family | no_related_styles | no_transition_styles,5.6461
+standards,284,,,,,no_family | no_related_styles | no_transition_styles,5.6461
+outlaw country,133,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.6368
+lazy asses,279,,,,,no_family | no_related_styles | no_transition_styles,5.6285
+relaxation,279,,,,,no_family | no_related_styles | no_transition_styles,5.6285
+rhymes,279,,,,,no_family | no_related_styles | no_transition_styles,5.6285
+belgian edm,132,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.6282
+variete francaise,278,,,,,no_family | no_related_styles | no_transition_styles,5.6249
+rome indie,276,,,,,no_family | no_related_styles | no_transition_styles,5.6177
+bacardi,312,house,,0.45,fallback,low_primary_weight | low_confidence,5.615
+classic oklahoma country,59,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,5.6012
+cancion melodica,271,,,,,no_family | no_related_styles | no_transition_styles,5.5995
+horrorcore,267,,,,,no_family | no_related_styles | no_transition_styles,5.5847
+leftfield,267,,,,,no_family | no_related_styles | no_transition_styles,5.5847
+indonesian singer-songwriter,126,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.5751
+nederpop,299,pop,,0.45,fallback,low_primary_weight | low_confidence,5.5735
+neo mellow,264,,,,,no_family | no_related_styles | no_transition_styles,5.5735
+magyar alternative,96,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,5.563
+guaracha,294,latin_tropical,,0.45,fallback,low_primary_weight | low_confidence,5.5571
+national folk,124,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.5568
+bongo flava,288,african,,0.45,fallback,low_primary_weight | low_confidence,5.537
+p-pop,284,pop,,0.45,fallback,low_primary_weight | low_confidence,5.5234
+sadcore,251,,,,,no_family | no_related_styles | no_transition_styles,5.5232
+breakbeat,120,bass_music,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.5194
+dutch edm,120,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.5194
+khaleeji iraqi,120,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.5194
+turreo,282,latin_urban,,0.45,fallback,low_primary_weight | low_confidence,5.5165
+taiwan indie,247,,,,,no_family | no_related_styles | no_transition_styles,5.5072
+latin ballad,279,pop,,0.45,fallback,low_primary_weight | low_confidence,5.5061
+indie soul,118,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.5002
+neo-soul,117,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.4905
+indie viet,241,,,,,no_family | no_related_styles | no_transition_styles,5.4828
+sierreno-banda,116,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.4807
+vinahouse,269,house,,0.45,fallback,low_primary_weight | low_confidence,5.4706
+trap brasileiro,267,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.4633
+alt-country,114,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.4608
+turkish singer-songwriter,113,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.4508
+rap genovese,263,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.4486
+sophisti-pop,263,pop,,0.45,fallback,low_primary_weight | low_confidence,5.4486
+techengue,261,latin_urban,,0.45,fallback,low_primary_weight | low_confidence,5.4412
+arrochadeira,112,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.4407
+moroccan chaabi,231,,,,,no_family | no_related_styles | no_transition_styles,5.4406
+popular colombian music,260,pop,,0.45,fallback,low_primary_weight | low_confidence,5.4374
+alternative hardcore,52,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,5.4315
+classical piano,52,classical,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,5.4315
+rap belge,258,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.4299
+score,228,,,,,no_family | no_related_styles | no_transition_styles,5.4276
+beat music,227,,,,,no_family | no_related_styles | no_transition_styles,5.4233
+4th gen k-pop,256,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,5.4223
+indonesian indie,225,,,,,no_family | no_related_styles | no_transition_styles,5.4144
+vallenato moderno,92,latin_tropical,,0.45,fallback,low_primary_weight | low_confidence | broad_or_marketing_tag,5.4133
+electro-disco,109,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.4097
+frauenrap,252,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.407
+maskandi,252,african,,0.45,fallback,low_primary_weight | low_confidence,5.407
+chinese indie,222,,,,,no_family | no_related_styles | no_transition_styles,5.4011
+dangdut,222,,,,,no_family | no_related_styles | no_transition_styles,5.4011
+southern soul,108,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.3992
+neoperreo,244,latin_urban,,0.45,fallback,low_primary_weight | low_confidence,5.3756
+pop argentino,244,pop,,0.45,fallback,low_primary_weight | low_confidence,5.3756
+ndombolo,239,african,,0.45,fallback,low_primary_weight | low_confidence,5.3555
+arab alternative,49,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,5.3518
+chicha,238,latin_tropical,,0.45,fallback,low_primary_weight | low_confidence,5.3514
+viral afropop,87,african,pop,0.45,fallback,low_primary_weight | low_confidence | broad_or_marketing_tag,5.3473
+scandipop,236,pop,,0.45,fallback,low_primary_weight | low_confidence,5.3432
+rage,235,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.3391
+italian singer-songwriter,102,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.334
+alternative folk,48,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,5.3241
+milan indie,205,,,,,no_family | no_related_styles | no_transition_styles,5.3219
+british invasion,203,,,,,no_family | no_related_styles | no_transition_styles,5.3121
+alabama thunderpussy,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+and clutch. in 2011,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+damad,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+early‐2000s underground,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+fistula,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+lamb of god,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+mugwart was a sludge,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+shifty records (sh09,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+skate scene,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+sofa king killer,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+tdr‐13,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+virginia beach,202,,,,,no_family | no_related_styles | no_transition_styles,5.3072
+british soul,99,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.3
+pagode novo,99,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.3
+aggro berlin,199,,,,,no_family | no_related_styles | no_transition_styles,5.2924
+afrogospel,98,gospel_spiritual,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.2884
+shaabi,98,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.2884
+canzone napoletana,197,,,,,no_family | no_related_styles | no_transition_styles,5.2823
+classic iskelma,76,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,5.2822
+new romantic,196,,,,,no_family | no_related_styles | no_transition_styles,5.2773
+melodic metalcore,97,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.2767
+nu-metal,96,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.2649
+trap tuga,216,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.257
+dark ambient,95,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.253
+guitar,191,,,,,no_family | no_related_styles | no_transition_styles,5.2516
+post-disco,191,,,,,no_family | no_related_styles | no_transition_styles,5.2516
+industrial,189,,,,,no_family | no_related_styles | no_transition_styles,5.2411
+k-ballad,212,pop,,0.45,fallback,low_primary_weight | low_confidence,5.2389
+traditional folk,45,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,5.2377
+crossover prog,188,,,,,no_family | no_related_styles | no_transition_styles,5.2359
+rif,188,,,,,no_family | no_related_styles | no_transition_styles,5.2359
+california,186,,,,,no_family | no_related_styles | no_transition_styles,5.2252
+rap latina,209,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.225
+ccm,184,,,,,no_family | no_related_styles | no_transition_styles,5.2145
+disco polo,184,,,,,no_family | no_related_styles | no_transition_styles,5.2145
+merseybeat,184,,,,,no_family | no_related_styles | no_transition_styles,5.2145
+aggro,183,,,,,no_family | no_related_styles | no_transition_styles,5.2091
+ansage,183,,,,,no_family | no_related_styles | no_transition_styles,5.2091
+chanson francaise,182,,,,,no_family | no_related_styles | no_transition_styles,5.2036
+singeli,182,,,,,no_family | no_related_styles | no_transition_styles,5.2036
+electrocumbia,203,electronic,latin_tropical,0.45,fallback,low_primary_weight | low_confidence,5.1967
+hardcore,90,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.1915
+big music,178,,,,,no_family | no_related_styles | no_transition_styles,5.1816
+reggae en espanol,198,caribbean,,0.45,fallback,low_primary_weight | low_confidence,5.1724
+icelandic singer-songwriter,88,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.1659
+cantautor,173,,,,,no_family | no_related_styles | no_transition_styles,5.1533
+childrens music,173,,,,,no_family | no_related_styles | no_transition_styles,5.1533
+swedish singer-songwriter,87,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.1529
+highlife,194,african,,0.45,fallback,low_primary_weight | low_confidence,5.1526
+post-britpop,194,pop,rock,0.45,fallback,low_primary_weight | low_confidence,5.1526
+polish alternative,68,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,5.1488
+fotbollslatar,170,,,,,no_family | no_related_styles | no_transition_styles,5.1359
+pop venezolano,190,pop,,0.45,fallback,low_primary_weight | low_confidence,5.1323
+j-poprock,47,pop,rock | world_asian,0.45,fallback,many_families | low_primary_weight | low_confidence,5.1278
+flamenco,167,,,,,no_family | no_related_styles | no_transition_styles,5.1182
+neoclassical,41,classical,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,5.1132
+lofi indie,165,,,,,no_family | no_related_styles | no_transition_styles,5.1062
+swedish eurodance,165,,,,,no_family | no_related_styles | no_transition_styles,5.1062
+australian indie,164,,,,,no_family | no_related_styles | no_transition_styles,5.1002
+tamil indie,83,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.0993
+shoegaze,183,rock,,0.45,fallback,low_primary_weight | low_confidence,5.0958
+dakke dak,162,,,,,no_family | no_related_styles | no_transition_styles,5.088
+folktronica,82,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.0856
+icelandic electronic,82,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.0856
+italo dance,161,,,,,no_family | no_related_styles | no_transition_styles,5.0819
+experimental electronic,40,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,5.0803
+boogie,160,,,,,no_family | no_related_styles | no_transition_styles,5.0757
+post-metal,81,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.0716
+latin talent show,159,,,,,no_family | no_related_styles | no_transition_styles,5.0695
+germany,158,,,,,no_family | no_related_styles | no_transition_styles,5.0632
+synth funk,158,,,,,no_family | no_related_styles | no_transition_styles,5.0632
+the lost generation,158,,,,,no_family | no_related_styles | no_transition_styles,5.0632
+hip hop soul,176,hip_hop,rnb_soul,0.45,fallback,low_primary_weight | low_confidence,5.0579
+video game,157,,,,,no_family | no_related_styles | no_transition_styles,5.0569
+trap chileno,174,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.0468
+dub,155,,,,,no_family | no_related_styles | no_transition_styles,5.0442
+retro soul,79,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,5.0432
+deutschrap,173,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.0412
+post-bop,154,,,,,no_family | no_related_styles | no_transition_styles,5.0378
+singers,154,,,,,no_family | no_related_styles | no_transition_styles,5.0378
+swedish electropop,172,electronic,pop,0.45,fallback,low_primary_weight | low_confidence,5.0356
+drill espanol,171,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,5.0299
+indie poptimism,171,pop,,0.45,fallback,low_primary_weight | low_confidence,5.0299
+crunk,152,,,,,no_family | no_related_styles | no_transition_styles,5.0248
+russian dance,152,,,,,no_family | no_related_styles | no_transition_styles,5.0248
+glitch,151,,,,,no_family | no_related_styles | no_transition_styles,5.0182
+luk thung,151,,,,,no_family | no_related_styles | no_transition_styles,5.0182
+mellow gold,150,,,,,no_family | no_related_styles | no_transition_styles,5.0116
+taiwanese indie,150,,,,,no_family | no_related_styles | no_transition_styles,5.0116
+australian dance,149,,,,,no_family | no_related_styles | no_transition_styles,5.005
+basshall,149,,,,,no_family | no_related_styles | no_transition_styles,5.005
+reggea,149,,,,,no_family | no_related_styles | no_transition_styles,5.005
+travis scott,149,,,,,no_family | no_related_styles | no_transition_styles,5.005
+game,148,,,,,no_family | no_related_styles | no_transition_styles,4.9983
+guitarist,147,,,,,no_family | no_related_styles | no_transition_styles,4.9916
+seresta,147,,,,,no_family | no_related_styles | no_transition_styles,4.9916
+glam,146,,,,,no_family | no_related_styles | no_transition_styles,4.9848
+azontobeats,163,african,,0.45,fallback,low_primary_weight | low_confidence,4.9834
+funk ostentacao,144,,,,,no_family | no_related_styles | no_transition_styles,4.9711
+australia,143,,,,,no_family | no_related_styles | no_transition_styles,4.9642
+german dance,143,,,,,no_family | no_related_styles | no_transition_styles,4.9642
+liverpool,143,,,,,no_family | no_related_styles | no_transition_styles,4.9642
+mbs-333,143,,,,,no_family | no_related_styles | no_transition_styles,4.9642
+stomp and holler,143,,,,,no_family | no_related_styles | no_transition_styles,4.9642
+future rave,141,,,,,no_family | no_related_styles | no_transition_styles,4.9503
+los angeles,141,,,,,no_family | no_related_styles | no_transition_styles,4.9503
+classic mandopop,62,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence | broad_or_marketing_tag,4.9482
+uk grime,157,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.947
+gnawa,140,,,,,no_family | no_related_styles | no_transition_styles,4.9432
+noise music,140,,,,,no_family | no_related_styles | no_transition_styles,4.9432
+campirano-banda,72,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.9378
+norteno-banda,72,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.9378
+italian alternative,57,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,4.9376
+australian,139,,,,,no_family | no_related_styles | no_transition_styles,4.9361
+psychedelia,139,,,,,no_family | no_related_styles | no_transition_styles,4.9361
+progressive,138,,,,,no_family | no_related_styles | no_transition_styles,4.9289
+old school rap francais,154,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.9282
+pop flamenco,153,pop,,0.45,fallback,low_primary_weight | low_confidence,4.9219
+israeli singer-songwriter,71,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.9219
+singaporean singer-songwriter,71,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.9219
+ghazal,137,,,,,no_family | no_related_styles | no_transition_styles,4.9217
+video game music,137,,,,,no_family | no_related_styles | no_transition_styles,4.9217
+complextro,136,,,,,no_family | no_related_styles | no_transition_styles,4.9145
+has german audio plays,136,,,,,no_family | no_related_styles | no_transition_styles,4.9145
+beat,135,,,,,no_family | no_related_styles | no_transition_styles,4.9071
+indian,135,,,,,no_family | no_related_styles | no_transition_styles,4.9071
+death by heart attack,134,,,,,no_family | no_related_styles | no_transition_styles,4.8998
+slowcore,134,,,,,no_family | no_related_styles | no_transition_styles,4.8998
+visual kei,133,,,,,no_family | no_related_styles | no_transition_styles,4.8923
+folk-rock,148,country_folk,rock,0.45,fallback,low_primary_weight | low_confidence,4.8897
+g-house,148,house,,0.45,fallback,low_primary_weight | low_confidence,4.8897
+mambo chileno,148,latin_tropical,latin_urban,0.45,fallback,low_primary_weight | low_confidence,4.8897
+russian grime,148,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.8897
+turbo-folk,69,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.8895
+german composer,132,,,,,no_family | no_related_styles | no_transition_styles,4.8849
+phleng phuea chiwit,132,,,,,no_family | no_related_styles | no_transition_styles,4.8849
+son cubano,132,,,,,no_family | no_related_styles | no_transition_styles,4.8849
+abbey road,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+bbc,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+boys band,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+british psychedelia,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+chopped and screwed,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+europe,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+get back,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+indie liguria,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+one beatles,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+overrated,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+the beatles-primal colours,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+the-beatles,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+villancicos,131,,,,,no_family | no_related_styles | no_transition_styles,4.8773
+singaporean mandopop,146,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,4.8765
+danish electronic,68,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.873
+russian electronic,68,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.873
+alternative hip-hop,54,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,4.873
+turkish alternative,54,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,4.873
+gengetone,130,,,,,no_family | no_related_styles | no_transition_styles,4.8697
+hard bop,129,,,,,no_family | no_related_styles | no_transition_styles,4.8621
+asian,128,,,,,no_family | no_related_styles | no_transition_styles,4.8544
+vietnamese lo-fi,128,,,,,no_family | no_related_styles | no_transition_styles,4.8544
+dream-pop,142,pop,,0.45,fallback,low_primary_weight | low_confidence,4.8495
++usa (new york:manhatten,127,,,,,no_family | no_related_styles | no_transition_styles,4.8466
+next,127,,,,,no_family | no_related_styles | no_transition_styles,4.8466
+seattle,127,,,,,no_family | no_related_styles | no_transition_styles,4.8466
+dutch,126,,,,,no_family | no_related_styles | no_transition_styles,4.8387
+harana,126,,,,,no_family | no_related_styles | no_transition_styles,4.8387
+mollywood,126,,,,,no_family | no_related_styles | no_transition_styles,4.8387
+trap antillais,140,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.8357
+canadian contemporary r & b,125,,,,,no_family | no_related_styles | no_transition_styles,4.8309
+gaana,125,,,,,no_family | no_related_styles | no_transition_styles,4.8309
+uk funky,125,,,,,no_family | no_related_styles | no_transition_styles,4.8309
+classic cantopop,56,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence | broad_or_marketing_tag,4.8287
+southern thai music,124,,,,,no_family | no_related_styles | no_transition_styles,4.8229
+gen z singer-songwriter,65,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.8218
+jam band,123,,,,,no_family | no_related_styles | no_transition_styles,4.8149
+japanese,123,,,,,no_family | no_related_styles | no_transition_styles,4.8149
+pop edm,137,electronic,pop,0.45,fallback,low_primary_weight | low_confidence,4.8147
+drill italiana,136,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.8076
+austrian composer,122,,,,,no_family | no_related_styles | no_transition_styles,4.8068
+neomelodico,122,,,,,no_family | no_related_styles | no_transition_styles,4.8068
+gujarati garba,120,,,,,no_family | no_related_styles | no_transition_styles,4.7904
+pinoy indie,120,,,,,no_family | no_related_styles | no_transition_styles,4.7904
+romanian,120,,,,,no_family | no_related_styles | no_transition_styles,4.7904
+ag4,119,,,,,no_family | no_related_styles | no_transition_styles,4.7821
+show tunes,119,,,,,no_family | no_related_styles | no_transition_styles,4.7821
+rock roll,132,rock,,0.45,fallback,low_primary_weight | low_confidence,4.7787
+trap maroc,132,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.7787
+musica tocantinense,118,,,,,no_family | no_related_styles | no_transition_styles,4.7738
+to clean up,118,,,,,no_family | no_related_styles | no_transition_styles,4.7738
+vyrzukhisuc-artiest,118,,,,,no_family | no_related_styles | no_transition_styles,4.7738
+pop-metal,131,metal,pop,0.45,fallback,low_primary_weight | low_confidence,4.7713
+bhajan,117,,,,,no_family | no_related_styles | no_transition_styles,4.7653
+soukous,117,,,,,no_family | no_related_styles | no_transition_styles,4.7653
+reggae fusion,130,caribbean,,0.45,fallback,low_primary_weight | low_confidence,4.7639
+gradually watermelon,116,,,,,no_family | no_related_styles | no_transition_styles,4.7568
+indian instrumental,116,,,,,no_family | no_related_styles | no_transition_styles,4.7568
+post-emo,128,rock,,0.45,fallback,low_primary_weight | low_confidence,4.7488
+brass band,115,,,,,no_family | no_related_styles | no_transition_styles,4.7483
+indonesian r & b,115,,,,,no_family | no_related_styles | no_transition_styles,4.7483
+nature sounds,115,,,,,no_family | no_related_styles | no_transition_styles,4.7483
+crossover,114,,,,,no_family | no_related_styles | no_transition_styles,4.7396
+acoustic country,60,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.7311
+lithuanian electronic,60,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.7311
+mexican,113,,,,,no_family | no_related_styles | no_transition_styles,4.7309
+producteur,113,,,,,no_family | no_related_styles | no_transition_styles,4.7309
+world fusion,113,,,,,no_family | no_related_styles | no_transition_styles,4.7309
+as jailed,112,,,,,no_family | no_related_styles | no_transition_styles,4.7221
+death by drug overdose,112,,,,,no_family | no_related_styles | no_transition_styles,4.7221
+lil wayne,112,,,,,no_family | no_related_styles | no_transition_styles,4.7221
+melodic,112,,,,,no_family | no_related_styles | no_transition_styles,4.7221
+symphony,112,,,,,no_family | no_related_styles | no_transition_styles,4.7221
+neo-psychedelic,111,,,,,no_family | no_related_styles | no_transition_styles,4.7132
+gospel r & b,59,gospel_spiritual,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.7121
+philly soul,59,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.7121
+swedish soul,59,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.7121
+reggae-pop,123,caribbean,pop,0.45,fallback,low_primary_weight | low_confidence,4.7102
+lustrum,110,,,,,no_family | no_related_styles | no_transition_styles,4.7042
+dark r & b,109,,,,,no_family | no_related_styles | no_transition_styles,4.6952
+lullaby,109,,,,,no_family | no_related_styles | no_transition_styles,4.6952
+norwegian,109,,,,,no_family | no_related_styles | no_transition_styles,4.6952
+pop lgbtq+ brasileira,120,pop,,0.45,fallback,low_primary_weight | low_confidence,4.6863
+contemporary rnb,108,,,,,no_family | no_related_styles | no_transition_styles,4.6861
+detroit,108,,,,,no_family | no_related_styles | no_transition_styles,4.6861
+michael-jackson,108,,,,,no_family | no_related_styles | no_transition_styles,4.6861
+polish,108,,,,,no_family | no_related_styles | no_transition_styles,4.6861
+rap algerien,119,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.6782
+austrian,107,,,,,no_family | no_related_styles | no_transition_styles,4.6769
+bassline,107,,,,,no_family | no_related_styles | no_transition_styles,4.6769
+want to listen,107,,,,,no_family | no_related_styles | no_transition_styles,4.6769
+chinese singer-songwriter,57,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.6731
+progressive folk,57,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.6731
+psychedelic soul,57,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.6731
+actors,106,,,,,no_family | no_related_styles | no_transition_styles,4.6676
+drone,106,,,,,no_family | no_related_styles | no_transition_styles,4.6676
+eletronic,106,,,,,no_family | no_related_styles | no_transition_styles,4.6676
+female vocal,106,,,,,no_family | no_related_styles | no_transition_styles,4.6676
+zhongguo feng,106,,,,,no_family | no_related_styles | no_transition_styles,4.6676
+gufeng,105,,,,,no_family | no_related_styles | no_transition_styles,4.6582
+modern,45,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,4.6557
+folk brasileiro,56,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.6531
+norwegian singer-songwriter,56,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.6531
+energetic,104,,,,,no_family | no_related_styles | no_transition_styles,4.6487
+epic,103,,,,,no_family | no_related_styles | no_transition_styles,4.6392
+honky-tonk,103,,,,,no_family | no_related_styles | no_transition_styles,4.6392
+madchester,103,,,,,no_family | no_related_styles | no_transition_styles,4.6392
+post-punk revival,114,rock,,0.45,fallback,low_primary_weight | low_confidence,4.6366
+hungarian edm,55,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.6327
+northern soul,55,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.6327
+eminem,102,,,,,no_family | no_related_styles | no_transition_styles,4.6295
+romanian singer,102,,,,,no_family | no_related_styles | no_transition_styles,4.6295
+colombia,101,,,,,no_family | no_related_styles | no_transition_styles,4.6198
+dirty south,101,,,,,no_family | no_related_styles | no_transition_styles,4.6198
+latin r & b,101,,,,,no_family | no_related_styles | no_transition_styles,4.6198
+timba,101,,,,,no_family | no_related_styles | no_transition_styles,4.6198
+trap dominicano,112,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.6194
+bach double violin concerto,54,classical,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.612
+german singer-songwriter,54,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.612
+lithuanian edm,54,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.612
+pop-punk,111,pop,rock,0.45,fallback,low_primary_weight | low_confidence,4.6107
+8 mile,100,,,,,no_family | no_related_styles | no_transition_styles,4.6099
+bongo piano,100,,,,,no_family | no_related_styles | no_transition_styles,4.6099
+detroit hip-hop,100,,,,,no_family | no_related_styles | no_transition_styles,4.6099
+kun,100,,,,,no_family | no_related_styles | no_transition_styles,4.6099
+midwest hip-hop,100,,,,,no_family | no_related_styles | no_transition_styles,4.6099
+v,100,,,,,no_family | no_related_styles | no_transition_styles,4.6099
+funk viral,43,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,4.6017
+actor,99,,,,,no_family | no_related_styles | no_transition_styles,4.6
+celtic,99,,,,,no_family | no_related_styles | no_transition_styles,4.6
+symphonic prog,99,,,,,no_family | no_related_styles | no_transition_styles,4.6
+west coast hip-hop,99,,,,,no_family | no_related_styles | no_transition_styles,4.6
+christian r & b,53,gospel_spiritual,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.5908
+death by suicide,98,,,,,no_family | no_related_styles | no_transition_styles,4.59
+icelandic indie,98,,,,,no_family | no_related_styles | no_transition_styles,4.59
+lithuanian indie,98,,,,,no_family | no_related_styles | no_transition_styles,4.59
+oyun havasi,98,,,,,no_family | no_related_styles | no_transition_styles,4.59
+television music,98,,,,,no_family | no_related_styles | no_transition_styles,4.59
+austropop,108,pop,,0.45,fallback,low_primary_weight | low_confidence,4.5842
+j-rap,108,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.5842
+malaysian mandopop,108,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,4.5842
+complete,97,,,,,no_family | no_related_styles | no_transition_styles,4.5798
+sonata,97,,,,,no_family | no_related_styles | no_transition_styles,4.5798
+talentkonkurranse,97,,,,,no_family | no_related_styles | no_transition_styles,4.5798
+rapcore,107,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.5752
+rock uruguayo,107,rock,,0.45,fallback,low_primary_weight | low_confidence,4.5752
+argentine telepop,106,pop,,0.45,fallback,low_primary_weight | low_confidence,4.5661
+kundiman,95,,,,,no_family | no_related_styles | no_transition_styles,4.5592
+ratchet music,95,,,,,no_family | no_related_styles | no_transition_styles,4.5592
+drift phonk,105,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.5569
+colombian,94,,,,,no_family | no_related_styles | no_transition_styles,4.5488
+schlagerparty,94,,,,,no_family | no_related_styles | no_transition_styles,4.5488
+neo-synthpop,104,pop,,0.45,fallback,low_primary_weight | low_confidence,4.5477
+melodic hardcore,51,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.5474
+memphis soul,51,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.5474
+spoken word,93,,,,,no_family | no_related_styles | no_transition_styles,4.5382
+vocal,93,,,,,no_family | no_related_styles | no_transition_styles,4.5382
+gruperas inmortales,50,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.5251
+indonesian folk,50,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.5251
+deep pop edm,43,electronic,pop,0.45,fallback,low_primary_weight | low_confidence | broad_or_marketing_tag,4.5195
+hong kong indie,91,,,,,no_family | no_related_styles | no_transition_styles,4.5167
+n,91,,,,,no_family | no_related_styles | no_transition_styles,4.5167
+conductor,90,,,,,no_family | no_related_styles | no_transition_styles,4.5058
+noise,90,,,,,no_family | no_related_styles | no_transition_styles,4.5058
+folklore argentino,49,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.5023
+praise & worship,49,gospel_spiritual,middle_eastern,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.5023
+atlantico,89,,,,,no_family | no_related_styles | no_transition_styles,4.4948
+avant-garde,89,,,,,no_family | no_related_styles | no_transition_styles,4.4948
+barranquilla,89,,,,,no_family | no_related_styles | no_transition_styles,4.4948
+bay area,89,,,,,no_family | no_related_styles | no_transition_styles,4.4948
+chapel,89,,,,,no_family | no_related_styles | no_transition_styles,4.4948
+a cappella,88,,,,,no_family | no_related_styles | no_transition_styles,4.4836
+bridge,88,,,,,no_family | no_related_styles | no_transition_styles,4.4836
+christmas singles,88,,,,,no_family | no_related_styles | no_transition_styles,4.4836
+german r & b,88,,,,,no_family | no_related_styles | no_transition_styles,4.4836
+immortality,88,,,,,no_family | no_related_styles | no_transition_styles,4.4836
+nwobhm,88,,,,,no_family | no_related_styles | no_transition_styles,4.4836
+romantic,88,,,,,no_family | no_related_styles | no_transition_styles,4.4836
+synthwave,88,,,,,no_family | no_related_styles | no_transition_styles,4.4836
+twenty,88,,,,,no_family | no_related_styles | no_transition_styles,4.4836
+country dawn,48,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.479
+happy hardcore,48,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.479
+irish singer-songwriter,48,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.479
+karadeniz folk,48,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.479
+norwegian country,48,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.479
+berlin,87,,,,,no_family | no_related_styles | no_transition_styles,4.4723
+bulgarian,86,,,,,no_family | no_related_styles | no_transition_styles,4.4609
+cousin in trinidad wont get the vaccine,86,,,,,no_family | no_related_styles | no_transition_styles,4.4609
+jersey club,86,,,,,no_family | no_related_styles | no_transition_styles,4.4609
+new rave,86,,,,,no_family | no_related_styles | no_transition_styles,4.4609
+trip-hop,86,,,,,no_family | no_related_styles | no_transition_styles,4.4609
+deep rai,25,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,4.4572
+lithuanian alternative,38,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,4.455
+axe,85,,,,,no_family | no_related_styles | no_transition_styles,4.4493
+barcadi,85,,,,,no_family | no_related_styles | no_transition_styles,4.4493
+deconstructed club,85,,,,,no_family | no_related_styles | no_transition_styles,4.4493
+norwegian indie,85,,,,,no_family | no_related_styles | no_transition_styles,4.4493
+death by knife,84,,,,,no_family | no_related_styles | no_transition_styles,4.4377
+melbourne bounce,84,,,,,no_family | no_related_styles | no_transition_styles,4.4377
+theatre,84,,,,,no_family | no_related_styles | no_transition_styles,4.4377
+j-idol,40,pop,,0.45,fallback,low_primary_weight | low_confidence | broad_or_marketing_tag,4.4352
+djent,46,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.4311
+japanese soul,46,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.4311
+ukrainian indie,46,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.4311
+alt-pop,92,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,4.4291
+latin american,83,,,,,no_family | no_related_styles | no_transition_styles,4.4258
+nature,83,,,,,no_family | no_related_styles | no_transition_styles,4.4258
+norsk,83,,,,,no_family | no_related_styles | no_transition_styles,4.4258
+urbano mexicano,83,,,,,no_family | no_related_styles | no_transition_styles,4.4258
+champeta,82,,,,,no_family | no_related_styles | no_transition_styles,4.4139
+death by gun,82,,,,,no_family | no_related_styles | no_transition_styles,4.4139
+favourite,82,,,,,no_family | no_related_styles | no_transition_styles,4.4139
+japanese indie,82,,,,,no_family | no_related_styles | no_transition_styles,4.4139
+video,82,,,,,no_family | no_related_styles | no_transition_styles,4.4139
+5th gen k-pop,90,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,4.4078
+icelandic folk,45,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.4063
+alphaville,81,,,,,no_family | no_related_styles | no_transition_styles,4.4018
+euro-dance,81,,,,,no_family | no_related_styles | no_transition_styles,4.4018
+italo disco,81,,,,,no_family | no_related_styles | no_transition_styles,4.4018
+pluggnb,81,,,,,no_family | no_related_styles | no_transition_styles,4.4018
+modern bhajan,36,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,4.391
+anitta,80,,,,,no_family | no_related_styles | no_transition_styles,4.3895
+escape room,80,,,,,no_family | no_related_styles | no_transition_styles,4.3895
+greek,80,,,,,no_family | no_related_styles | no_transition_styles,4.3895
+kleinkunst,80,,,,,no_family | no_related_styles | no_transition_styles,4.3895
+jazz-funk,44,jazz_blues,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.381
+belly dance,79,,,,,no_family | no_related_styles | no_transition_styles,4.3771
+funkot,79,,,,,no_family | no_related_styles | no_transition_styles,4.3771
+honky tonk,79,,,,,no_family | no_related_styles | no_transition_styles,4.3771
+lagu timur,79,,,,,no_family | no_related_styles | no_transition_styles,4.3771
+mass,79,,,,,no_family | no_related_styles | no_transition_styles,4.3771
+non-music,79,,,,,no_family | no_related_styles | no_transition_styles,4.3771
+future garage,87,bass_music,hip_hop,0.45,fallback,low_primary_weight | low_confidence,4.3751
+pop worship,87,gospel_spiritual,pop,0.45,fallback,low_primary_weight | low_confidence,4.3751
+cadbury sisters,78,,,,,no_family | no_related_styles | no_transition_styles,4.3645
+contemporary r b,78,,,,,no_family | no_related_styles | no_transition_styles,4.3645
+do not merge,78,,,,,no_family | no_related_styles | no_transition_styles,4.3645
+eclectic,78,,,,,no_family | no_related_styles | no_transition_styles,4.3645
+finnish indie,78,,,,,no_family | no_related_styles | no_transition_styles,4.3645
+needs merging,78,,,,,no_family | no_related_styles | no_transition_styles,4.3645
+sound ideas 6000 aviation 2,78,,,,,no_family | no_related_styles | no_transition_styles,4.3645
+why has this not been merged yet,78,,,,,no_family | no_related_styles | no_transition_styles,4.3645
+emo-pop,86,pop,rock,0.45,fallback,low_primary_weight | low_confidence,4.3639
+texas country,43,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.3551
+turkish folk,43,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.3551
+rock viet,85,rock,,0.45,fallback,low_primary_weight | low_confidence,4.3526
+ar-rahman,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+cham cham,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+clean up,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+composition,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+female vocalists,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+hi-nrg,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+huayno,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+lame,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+lil baby,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+sapes comme jamais,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+sheilat,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+sober,77,,,,,no_family | no_related_styles | no_transition_styles,4.3518
+euro-pop,84,pop,,0.45,fallback,low_primary_weight | low_confidence,4.3412
+british singer-songwriter,42,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.3287
+canadian singer-songwriter,42,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.3287
+latin folk,42,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.3287
+proto doom,42,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.3287
+proto-doom,42,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.3287
+bootleg,75,,,,,no_family | no_related_styles | no_transition_styles,4.3259
+lo-fi beats,75,,,,,no_family | no_related_styles | no_transition_styles,4.3259
+poland,75,,,,,no_family | no_related_styles | no_transition_styles,4.3259
+requiem,75,,,,,no_family | no_related_styles | no_transition_styles,4.3259
+barbade,74,,,,,no_family | no_related_styles | no_transition_styles,4.3126
+barbadian,74,,,,,no_family | no_related_styles | no_transition_styles,4.3126
+barbadien,74,,,,,no_family | no_related_styles | no_transition_styles,4.3126
+barbados,74,,,,,no_family | no_related_styles | no_transition_styles,4.3126
+c'etait mieux avant,74,,,,,no_family | no_related_styles | no_transition_styles,4.3126
+campirano,74,,,,,no_family | no_related_styles | no_transition_styles,4.3126
+piano,74,,,,,no_family | no_related_styles | no_transition_styles,4.3126
+rehab,74,,,,,no_family | no_related_styles | no_transition_styles,4.3126
+rihanna,74,,,,,no_family | no_related_styles | no_transition_styles,4.3126
+swedish,74,,,,,no_family | no_related_styles | no_transition_styles,4.3126
+australian electropop,81,electronic,pop,0.45,fallback,low_primary_weight | low_confidence,4.3061
+euro-rock,81,rock,,0.45,fallback,low_primary_weight | low_confidence,4.3061
+rap canario,81,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.3061
+rap sardegna,81,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.3061
+orchestral soundtrack,41,classical,soundtrack_stage,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.3016
+20th century,73,,,,,no_family | no_related_styles | no_transition_styles,4.2992
+acoustic,73,,,,,no_family | no_related_styles | no_transition_styles,4.2992
+gabber,73,,,,,no_family | no_related_styles | no_transition_styles,4.2992
+political,73,,,,,no_family | no_related_styles | no_transition_styles,4.2992
+writer,73,,,,,no_family | no_related_styles | no_transition_styles,4.2992
+つんく♂フロテュース,73,,,,,no_family | no_related_styles | no_transition_styles,4.2992
+k-rock,80,rock,,0.45,fallback,low_primary_weight | low_confidence,4.2941
+ascanio in alba,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+bikutsi,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+chinese,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+complete mozart edition,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+dj,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+film,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+gould,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+jamaican,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+karl ristenpart,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+late symphonies,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+melancholic,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+not acoustic,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+not aggressive,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+not sad,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+rothenberger,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+series-mozart-complete works-philips,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+volume 15,72,,,,,no_family | no_related_styles | no_transition_styles,4.2856
+jazz funk,40,jazz_blues,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.2739
+neo-singer-songwriter,40,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.2739
+aussietronica,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+doujin,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+eurovision,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+hollands,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+nederlandse hardstyle,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+new zealand,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+oxford,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+plena uruguaya,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+plugg,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+polka,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+post-industrial,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+r & b italiano,71,,,,,no_family | no_related_styles | no_transition_styles,4.2719
+emo-trap,78,hip_hop,rock,0.45,fallback,low_primary_weight | low_confidence,4.2697
+nu emo,78,rock,,0.45,fallback,low_primary_weight | low_confidence,4.2697
+pop r & b,78,pop,,0.45,fallback,low_primary_weight | low_confidence,4.2697
+rock opera,78,classical,rock,0.45,fallback,low_primary_weight | low_confidence,4.2697
+cantata,70,,,,,no_family | no_related_styles | no_transition_styles,4.2579
+fictional,70,,,,,no_family | no_related_styles | no_transition_styles,4.2579
+j-division,70,,,,,no_family | no_related_styles | no_transition_styles,4.2579
+screamo,70,,,,,no_family | no_related_styles | no_transition_styles,4.2579
+yolandita monge,70,,,,,no_family | no_related_styles | no_transition_styles,4.2579
+pop rap brasileiro,77,hip_hop,pop,0.45,fallback,low_primary_weight | low_confidence,4.2572
+latin folklore,39,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.2455
+alliteration,69,,,,,no_family | no_related_styles | no_transition_styles,4.2437
+arranger,69,,,,,no_family | no_related_styles | no_transition_styles,4.2437
+australien,69,,,,,no_family | no_related_styles | no_transition_styles,4.2437
+bebop,69,,,,,no_family | no_related_styles | no_transition_styles,4.2437
+bubblegum bass,69,,,,,no_family | no_related_styles | no_transition_styles,4.2437
+funktronica,69,,,,,no_family | no_related_styles | no_transition_styles,4.2437
+hardstyle,69,,,,,no_family | no_related_styles | no_transition_styles,4.2437
+horror,69,,,,,no_family | no_related_styles | no_transition_styles,4.2437
+mundart,69,,,,,no_family | no_related_styles | no_transition_styles,4.2437
+roxette,69,,,,,no_family | no_related_styles | no_transition_styles,4.2437
+the greatest,69,,,,,no_family | no_related_styles | no_transition_styles,4.2437
+jazz-rock,75,jazz_blues,rock,0.45,fallback,low_primary_weight | low_confidence,4.2318
+dylan bootleg series,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+greenwich village scene,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+lagu jawa,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+lolicore,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+new grave,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+nude,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+pc music,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+pledging my time,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+rare,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+sacred cows,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+siple twist of fate,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+teater konsert,68,,,,,no_family | no_related_styles | no_transition_styles,4.2294
+classic texas country,21,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles | broad_or_marketing_tag,4.2286
+baltic post-punk,74,rock,,0.45,fallback,low_primary_weight | low_confidence,4.2189
+hip hop quebecois,74,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.2189
+q-pop,74,pop,,0.45,fallback,low_primary_weight | low_confidence,4.2189
+forro de favela,38,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.2163
+best,67,,,,,no_family | no_related_styles | no_transition_styles,4.2148
+birmingham,67,,,,,no_family | no_related_styles | no_transition_styles,4.2148
+dancefloor dnb,67,,,,,no_family | no_related_styles | no_transition_styles,4.2148
+dutch indie,67,,,,,no_family | no_related_styles | no_transition_styles,4.2148
+hyphy,67,,,,,no_family | no_related_styles | no_transition_styles,4.2148
+mexican indie,67,,,,,no_family | no_related_styles | no_transition_styles,4.2148
+mexico,67,,,,,no_family | no_related_styles | no_transition_styles,4.2148
+rhythmic,67,,,,,no_family | no_related_styles | no_transition_styles,4.2148
+rap siciliano,73,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.2058
+trap colombiano,73,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.2058
+hello project,66,,,,,no_family | no_related_styles | no_transition_styles,4.2
+irish,66,,,,,no_family | no_related_styles | no_transition_styles,4.2
+latin indie,66,,,,,no_family | no_related_styles | no_transition_styles,4.2
+organist,66,,,,,no_family | no_related_styles | no_transition_styles,4.2
+tryt,66,,,,,no_family | no_related_styles | no_transition_styles,4.2
+trap queen,72,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.1925
+latin dance,65,,,,,no_family | no_related_styles | no_transition_styles,4.185
+texas,65,,,,,no_family | no_related_styles | no_transition_styles,4.185
+dance-punk,71,rock,,0.45,fallback,low_primary_weight | low_confidence,4.179
+afrikaans,64,,,,,no_family | no_related_styles | no_transition_styles,4.1697
+australie,64,,,,,no_family | no_related_styles | no_transition_styles,4.1697
+batak,64,,,,,no_family | no_related_styles | no_transition_styles,4.1697
+darkwave,64,,,,,no_family | no_related_styles | no_transition_styles,4.1697
+edit,64,,,,,no_family | no_related_styles | no_transition_styles,4.1697
+funk de bh,64,,,,,no_family | no_related_styles | no_transition_styles,4.1697
+girlpower,64,,,,,no_family | no_related_styles | no_transition_styles,4.1697
+on writing,64,,,,,no_family | no_related_styles | no_transition_styles,4.1697
+tekk,64,,,,,no_family | no_related_styles | no_transition_styles,4.1697
+uk contemporary r & b,64,,,,,no_family | no_related_styles | no_transition_styles,4.1697
+reggae uruguayo,70,caribbean,,0.45,fallback,low_primary_weight | low_confidence,4.1653
+french electro,36,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.1557
+progressive electronic,36,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.1557
+britney spears,63,,,,,no_family | no_related_styles | no_transition_styles,4.1542
+edge of glory,63,,,,,no_family | no_related_styles | no_transition_styles,4.1542
+gata rahe mera dil,63,,,,,no_family | no_related_styles | no_transition_styles,4.1542
+neue deutsche welle,63,,,,,no_family | no_related_styles | no_transition_styles,4.1542
+saxx dreams,63,,,,,no_family | no_related_styles | no_transition_styles,4.1542
+scandinavian r & b,63,,,,,no_family | no_related_styles | no_transition_styles,4.1542
+the fame,63,,,,,no_family | no_related_styles | no_transition_styles,4.1542
+vocaloid,63,,,,,no_family | no_related_styles | no_transition_styles,4.1542
+melodipop,69,pop,,0.45,fallback,low_primary_weight | low_confidence,4.1515
+bubblegum dance,62,,,,,no_family | no_related_styles | no_transition_styles,4.1385
+dansband,62,,,,,no_family | no_related_styles | no_transition_styles,4.1385
+nashville sound,62,,,,,no_family | no_related_styles | no_transition_styles,4.1385
+punta,62,,,,,no_family | no_related_styles | no_transition_styles,4.1385
+britrock,68,rock,,0.45,fallback,low_primary_weight | low_confidence,4.1374
+musica tropical,68,latin_tropical,,0.45,fallback,low_primary_weight | low_confidence,4.1374
+ambient folk,35,country_folk,electronic,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.1242
+norteno sax,35,regional_mexican,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.1242
+emo rap italiano,67,hip_hop,rock,0.45,fallback,low_primary_weight | low_confidence,4.1231
+rock-and-roll,67,rock,,0.45,fallback,low_primary_weight | low_confidence,4.1231
+big beat,61,,,,,no_family | no_related_styles | no_transition_styles,4.1225
+chill,61,,,,,no_family | no_related_styles | no_transition_styles,4.1225
+girl crush,61,,,,,no_family | no_related_styles | no_transition_styles,4.1225
+hello project groups,61,,,,,no_family | no_related_styles | no_transition_styles,4.1225
+hello project kids,61,,,,,no_family | no_related_styles | no_transition_styles,4.1225
+nigo,61,,,,,no_family | no_related_styles | no_transition_styles,4.1225
+r & b brasileiro,61,,,,,no_family | no_related_styles | no_transition_styles,4.1225
+gym phonk,66,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.1087
+rap boricua,66,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.1087
+cubaton,60,,,,,no_family | no_related_styles | no_transition_styles,4.1063
+fado,60,,,,,no_family | no_related_styles | no_transition_styles,4.1063
+indie dance,60,,,,,no_family | no_related_styles | no_transition_styles,4.1063
+j-acoustic,60,,,,,no_family | no_related_styles | no_transition_styles,4.1063
+old school thrash,60,,,,,no_family | no_related_styles | no_transition_styles,4.1063
+rumba,60,,,,,no_family | no_related_styles | no_transition_styles,4.1063
+shocking,60,,,,,no_family | no_related_styles | no_transition_styles,4.1063
+chamber folk,34,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.0918
+british-american,59,,,,,no_family | no_related_styles | no_transition_styles,4.0897
+caesar,59,,,,,no_family | no_related_styles | no_transition_styles,4.0897
+dance music,59,,,,,no_family | no_related_styles | no_transition_styles,4.0897
+daniel,59,,,,,no_family | no_related_styles | no_transition_styles,4.0897
+death by diabetes,59,,,,,no_family | no_related_styles | no_transition_styles,4.0897
+fleetwood mac,59,,,,,no_family | no_related_styles | no_transition_styles,4.0897
+liquid funk,59,,,,,no_family | no_related_styles | no_transition_styles,4.0897
+party,59,,,,,no_family | no_related_styles | no_transition_styles,4.0897
+puerto rico,59,,,,,no_family | no_related_styles | no_transition_styles,4.0897
+toronto,59,,,,,no_family | no_related_styles | no_transition_styles,4.0897
+warp,59,,,,,no_family | no_related_styles | no_transition_styles,4.0897
+swedish synthpop,64,pop,,0.45,fallback,low_primary_weight | low_confidence,4.0791
+belgian indie,58,,,,,no_family | no_related_styles | no_transition_styles,4.073
+indie quebecois,58,,,,,no_family | no_related_styles | no_transition_styles,4.073
+new york,58,,,,,no_family | no_related_styles | no_transition_styles,4.073
+death doom,33,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.0584
+swedish country,33,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.0584
+uk americana,33,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.0584
+absolute,57,,,,,no_family | no_related_styles | no_transition_styles,4.0559
+deathcore,57,,,,,no_family | no_related_styles | no_transition_styles,4.0559
+doo-wop,57,,,,,no_family | no_related_styles | no_transition_styles,4.0559
+doujin circle,57,,,,,no_family | no_related_styles | no_transition_styles,4.0559
+deep purple family,27,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,4.052
+bubblegum,56,,,,,no_family | no_related_styles | no_transition_styles,4.0385
+rap criolo,61,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.0329
+estonian electronic,32,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.0241
+prog folk,32,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,4.0241
+american idol,28,pop,,0.45,fallback,low_primary_weight | low_confidence | broad_or_marketing_tag,4.0216
+argentine indie,55,,,,,no_family | no_related_styles | no_transition_styles,4.0208
+domino,55,,,,,no_family | no_related_styles | no_transition_styles,4.0208
+gamer,55,,,,,no_family | no_related_styles | no_transition_styles,4.0208
+levenslied,55,,,,,no_family | no_related_styles | no_transition_styles,4.0208
+sheffield,55,,,,,no_family | no_related_styles | no_transition_styles,4.0208
+134a,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+bach,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+bertalan hock,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+cantata 147,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+euro-disco,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+free improvisation,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+gothenburg indie,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+gramophone selection,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+helmut walcha,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+italian composer,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+lgbtqi,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+maluku,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+mathauspassion,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+melbourne bounce international,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+motet,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+six,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+vaporwave,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+vox,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+wagner,54,,,,,no_family | no_related_styles | no_transition_styles,4.0028
+birmingham grime,59,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,4.0008
+japanese electropop,59,electronic,pop,0.45,fallback,low_primary_weight | low_confidence,4.0008
+indian singer-songwriter,31,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9886
+metallica,31,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9886
+post-dubstep,31,bass_music,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9886
+a,53,,,,,no_family | no_related_styles | no_transition_styles,3.9845
+afrofuturismo brasileiro,53,,,,,no_family | no_related_styles | no_transition_styles,3.9845
+anthemic,53,,,,,no_family | no_related_styles | no_transition_styles,3.9845
+global warming meltdown,53,,,,,no_family | no_related_styles | no_transition_styles,3.9845
+look again,53,,,,,no_family | no_related_styles | no_transition_styles,3.9845
+maltido,53,,,,,no_family | no_related_styles | no_transition_styles,3.9845
+pitbull,53,,,,,no_family | no_related_styles | no_transition_styles,3.9845
+secret,53,,,,,no_family | no_related_styles | no_transition_styles,3.9845
+tell me,53,,,,,no_family | no_related_styles | no_transition_styles,3.9845
+trova,53,,,,,no_family | no_related_styles | no_transition_styles,3.9845
+etherpop,58,pop,,0.45,fallback,low_primary_weight | low_confidence,3.9844
+rap fr,58,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.9844
+instrumental grime,57,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.9677
+pop chileno,57,pop,,0.45,fallback,low_primary_weight | low_confidence,3.9677
+suomirap,57,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.9677
+belgian dance,52,,,,,no_family | no_related_styles | no_transition_styles,3.9658
+death by airplane,52,,,,,no_family | no_related_styles | no_transition_styles,3.9658
+fail,52,,,,,no_family | no_related_styles | no_transition_styles,3.9658
+gg,52,,,,,no_family | no_related_styles | no_transition_styles,3.9658
+melancholia,52,,,,,no_family | no_related_styles | no_transition_styles,3.9658
+millennial,52,,,,,no_family | no_related_styles | no_transition_styles,3.9658
+musique regionale mexicaine,52,,,,,no_family | no_related_styles | no_transition_styles,3.9658
+north african,52,,,,,no_family | no_related_styles | no_transition_styles,3.9658
+avant-folk,30,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9521
+brazilian,30,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9521
+gratuitous heavy metal umlaut,30,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9521
+new mpb,30,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9521
+algerian,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+dark,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+fergie,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+finnish,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+francais,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+heavy,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+kavkaz,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+kevin haden,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+sound recording executives and producers,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+sweden,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+turkce slow sarkilar,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+uplifting,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+will i am,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+同人,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+同人サークル,51,,,,,no_family | no_related_styles | no_transition_styles,3.9468
+drill chileno,55,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.9334
+awesome,50,,,,,no_family | no_related_styles | no_transition_styles,3.9274
+falcom,50,,,,,no_family | no_related_styles | no_transition_styles,3.9274
+funk bh,50,,,,,no_family | no_related_styles | no_transition_styles,3.9274
+grindcore,50,,,,,no_family | no_related_styles | no_transition_styles,3.9274
+medieval,50,,,,,no_family | no_related_styles | no_transition_styles,3.9274
+rap conciencia,54,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.9158
+electronic dance,29,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9144
+electronica argentina,29,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9144
+tanzmetall,29,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9144
+ukrainian,29,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9144
+vapor soul,29,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.9144
+american composer,49,,,,,no_family | no_related_styles | no_transition_styles,3.9076
+dvd,49,,,,,no_family | no_related_styles | no_transition_styles,3.9076
+maloya,49,,,,,no_family | no_related_styles | no_transition_styles,3.9076
+neue deutsche harte,49,,,,,no_family | no_related_styles | no_transition_styles,3.9076
+rave,49,,,,,no_family | no_related_styles | no_transition_styles,3.9076
+sillyname,49,,,,,no_family | no_related_styles | no_transition_styles,3.9076
+ska argentino,49,,,,,no_family | no_related_styles | no_transition_styles,3.9076
+zhenskiy rep,49,,,,,no_family | no_related_styles | no_transition_styles,3.9076
+algerian chaabi,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+automod ng,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+awe︎some,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+dangerous,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+field recording,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+francophone,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+korean ost,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+miley-cyrus,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+senegalese-american,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+torch song,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+uk bass,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+uk r & b,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+vinyl,48,,,,,no_family | no_related_styles | no_transition_styles,3.8875
+nederreggae,52,caribbean,,0.45,fallback,low_primary_weight | low_confidence,3.8796
+proto-punk,52,rock,,0.45,fallback,low_primary_weight | low_confidence,3.8796
+rap montrealais,52,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.8796
+rap uruguayo,52,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.8796
+canadian electronic,28,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.8754
+electro swing,28,electronic,jazz_blues,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.8754
+jazz poetry,28,jazz_blues,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.8754
+jungle terror,28,bass_music,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.8754
+punjabi,28,world_asian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.8754
+guitarists,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+homophobe,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+horspiel,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+lick,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+multi-instrumentalist,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+musician,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+new french touch,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+nordnorsk musikk,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+parang,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+remixes,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+tiesto traffic,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+twerk,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+worldbeat,47,,,,,no_family | no_related_styles | no_transition_styles,3.8669
+deep purple,23,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,3.8646
+danspunk,51,rock,,0.45,fallback,low_primary_weight | low_confidence,3.861
+rock kapak,51,rock,,0.45,fallback,low_primary_weight | low_confidence,3.861
+vietnamese bolero,51,latin_tropical,,0.45,fallback,low_primary_weight | low_confidence,3.861
+beatlesque,46,,,,,no_family | no_related_styles | no_transition_styles,3.8458
+chill r & b,46,,,,,no_family | no_related_styles | no_transition_styles,3.8458
+kermis,46,,,,,no_family | no_related_styles | no_transition_styles,3.8458
+long title,46,,,,,no_family | no_related_styles | no_transition_styles,3.8458
+minimalism,46,,,,,no_family | no_related_styles | no_transition_styles,3.8458
+polish indie,46,,,,,no_family | no_related_styles | no_transition_styles,3.8458
+russian rave,46,,,,,no_family | no_related_styles | no_transition_styles,3.8458
+pop quebecois,50,pop,,0.45,fallback,low_primary_weight | low_confidence,3.842
+south african pop dance,50,pop,,0.45,fallback,low_primary_weight | low_confidence,3.842
+volkspop,50,pop,,0.45,fallback,low_primary_weight | low_confidence,3.842
+arab,27,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.835
+jazz beats,27,jazz_blues,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.835
+pakistani qawwali,27,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.835
+rai algerien,27,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.835
+swedish americana,27,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.835
+trancecore,27,trance,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.835
+reparto,45,,,,,no_family | no_related_styles | no_transition_styles,3.8243
+surf,45,,,,,no_family | no_related_styles | no_transition_styles,3.8243
+symphonies,45,,,,,no_family | no_related_styles | no_transition_styles,3.8243
+funk rock tributo,49,rock,,0.45,fallback,low_primary_weight | low_confidence,3.8227
+krautrock,49,rock,,0.45,fallback,low_primary_weight | low_confidence,3.8227
+rap underground espanol,49,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.8227
+rapist,49,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.8227
+alternative rnb,22,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,3.8128
+chanson virale,22,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,3.8128
+deutschrock,48,rock,,0.45,fallback,low_primary_weight | low_confidence,3.8029
+dnace-pop,48,pop,,0.45,fallback,low_primary_weight | low_confidence,3.8029
+2 pac,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+above the rim,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+also fail,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+california gurls,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+camp,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+canadian indie,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+chesty,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+cute,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+eastcoast killa,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+failfail,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+french singer,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+gaaaaaayyyyyyyyy,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+gaymeme,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+hipdut,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+im gay if i am shut up,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+im gay if i am⸲ shut up,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+international,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+japanese r & b,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+katy perry,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+katy perry is gay,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+katy pery is dumb,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+lame lame lame lame,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+london,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+manchester,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+megafail,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+megalmaestupiddumb,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+nope still fail,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+srsly whats wrong with beign gay,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+still fail,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+total fail,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+touhou,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+uncool,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+unil the end of time,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+ur so faaaail,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+ur so fail,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+ur so lame,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+‟ur so fail”,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+東方project,44,,,,,no_family | no_related_styles | no_transition_styles,3.8024
+country soul,26,country_folk,rnb_soul,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7931
+techno remix,26,techno,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7931
+ukraine,26,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7931
+rocksteady,47,rock,,0.45,fallback,low_primary_weight | low_confidence,3.7828
+trap metal italiana,47,hip_hop,metal,0.45,fallback,low_primary_weight | low_confidence,3.7828
+acting,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+bases de freestyle,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+italia,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+javanese dangdut,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+latvian,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+lilith,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+ominous,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+pakistani,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+pakistani indie,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+pixel,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+playful,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+proto-prog,43,,,,,no_family | no_related_styles | no_transition_styles,3.7799
+rap motywacja,46,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.7622
+black sabbath,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+bombastic,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+deboxe,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+french composer,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+funk 150 bpm,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+glorious,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+indie r & b,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+kind of magic,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+langham 1 studio bbc,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+medley,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+muziek voor kinderen,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+orchestra,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+platinum,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+queen,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+queen family,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+reunion,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+rx27,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+satire,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+singing,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+thai indie,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+untied kingdom,42,,,,,no_family | no_related_styles | no_transition_styles,3.757
+arkansas country,25,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7497
+black-metal,25,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7497
+christian country,25,country_folk,gospel_spiritual,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7497
+gaming edm,25,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7497
+latin christian,25,gospel_spiritual,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7497
+canada,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+chrismas,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+cologne indie,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+death by pneumonia,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+duets,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+fabloo,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+garland,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+gorillaz,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+mezzo-soprano,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+motion picture producers and directors,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+motion pictures--production and direction,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+my way,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+nasheed,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+sgija,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+trinidadian,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+virtual band,41,,,,,no_family | no_related_styles | no_transition_styles,3.7335
+cowpunk,44,rock,,0.45,fallback,low_primary_weight | low_confidence,3.7197
+pop paraguayo,44,pop,,0.45,fallback,low_primary_weight | low_confidence,3.7197
+temor a la muerte,44,rock,,0.45,fallback,low_primary_weight | low_confidence,3.7197
+batidao romantico,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+caribbean queen,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+carnaval,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+chamber music,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+crooner,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+death by liver cancer,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+essentials,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+flop,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+matthew edward hall,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+mick jagger,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+r & b argentino,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+scumbag,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+some girls,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+spanish composer,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+the-rolling-stones,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+vivo en el 6,40,,,,,no_family | no_related_styles | no_transition_styles,3.7094
+alicia de larrocha,24,brazilian,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7045
+compositional ambient,24,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7045
+naija worship,24,gospel_spiritual,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7045
+piano concerto no. 5,24,classical,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.7045
+pinoy alternative,20,,,,,no_family | no_related_styles | no_transition_styles | broad_or_marketing_tag,3.7022
+phonk brasileiro,43,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.6978
+russian hyperpop,43,pop,,0.45,fallback,low_primary_weight | low_confidence,3.6978
+argentina,39,,,,,no_family | no_related_styles | no_transition_styles,3.6847
+argentinian,39,,,,,no_family | no_related_styles | no_transition_styles,3.6847
+art song,39,,,,,no_family | no_related_styles | no_transition_styles,3.6847
+australian talent show,39,,,,,no_family | no_related_styles | no_transition_styles,3.6847
+death by stroke,39,,,,,no_family | no_related_styles | no_transition_styles,3.6847
+gaita zuliana,39,,,,,no_family | no_related_styles | no_transition_styles,3.6847
+italy,39,,,,,no_family | no_related_styles | no_transition_styles,3.6847
+j-pixie,39,,,,,no_family | no_related_styles | no_transition_styles,3.6847
+red dirt,39,,,,,no_family | no_related_styles | no_transition_styles,3.6847
+religious,39,,,,,no_family | no_related_styles | no_transition_styles,3.6847
+lithuanian electropop,42,electronic,pop,0.45,fallback,low_primary_weight | low_confidence,3.6753
++australia (sydney,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+add release,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+african,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+arrangers,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+capa,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+cueca chilena,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+death by lung cancer,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+jose jose,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+lithuanian r & b,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+nigeria,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+not happy,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+not party,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+partyschlager,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+puerto rican,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+relaxed,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+soy asy,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+spain,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+virtuoso,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+volts,38,,,,,no_family | no_related_styles | no_transition_styles,3.6594
+canadian folk,23,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.6576
+christian music,23,gospel_spiritual,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.6576
+new americana,23,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.6576
+pinoy singer-songwriter,23,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.6576
+swinger-songwriter,23,jazz_blues,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.6576
+arrangeur,37,,,,,no_family | no_related_styles | no_transition_styles,3.6335
+bergamo indie,37,,,,,no_family | no_related_styles | no_transition_styles,3.6335
+birdsong,37,,,,,no_family | no_related_styles | no_transition_styles,3.6335
+death by heart failure,37,,,,,no_family | no_related_styles | no_transition_styles,3.6335
+ethereal wave,37,,,,,no_family | no_related_styles | no_transition_styles,3.6335
+hymns,37,,,,,no_family | no_related_styles | no_transition_styles,3.6335
+mc,37,,,,,no_family | no_related_styles | no_transition_styles,3.6335
+music for people who dislike music,37,,,,,no_family | no_related_styles | no_transition_styles,3.6335
+poetry,37,,,,,no_family | no_related_styles | no_transition_styles,3.6335
+urbano,37,,,,,no_family | no_related_styles | no_transition_styles,3.6335
+blues-rock,40,jazz_blues,rock,0.45,fallback,low_primary_weight | low_confidence,3.6288
+folk rock italiano,40,country_folk,rock,0.45,fallback,low_primary_weight | low_confidence,3.6288
+latin afrobeat,40,african,,0.45,fallback,low_primary_weight | low_confidence,3.6288
+alt country,22,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.6086
+lithuanian soul,22,rnb_soul,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.6086
+melodic dubstep,22,bass_music,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.6086
+alien lives matter,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+avant-prog,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+bb12b20e,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+davido,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+davido adeleke,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+gobe,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+happy,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+italian tenor,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+j-r & b,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+k-indie,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+kurt cobain,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+legendary,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+miami bass,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+nigeria music,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+nirvana,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+northwest,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+oratorio,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+skelewu,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+sunnlensk tonlist,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+tenor,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+wizkid,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+y2k,36,,,,,no_family | no_related_styles | no_transition_styles,3.6069
+chinese electropop,39,electronic,pop,0.45,fallback,low_primary_weight | low_confidence,3.6046
+pop electronico,39,electronic,pop,0.45,fallback,low_primary_weight | low_confidence,3.6046
+rap tunisien,39,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.6046
+pop costarricense,38,pop,,0.45,fallback,low_primary_weight | low_confidence,3.5799
+pop-soul,38,pop,rnb_soul,0.45,fallback,low_primary_weight | low_confidence,3.5799
+t-pop girl group,38,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,3.5799
++usa (california:los angeles,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+angry,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+b7005bb9-fcd9-4d06-8c39-c5ef11275ef1,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+bob-marley,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+cast recordings,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+czech,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+death by pulmonary embolism,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+funk das antigas,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+knebworth,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+latvian indie,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+n2,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+nerdcore,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+patience,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+the wailers,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+today,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+torch songs,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+vocal surf,35,,,,,no_family | no_related_styles | no_transition_styles,3.5795
+chaotic hardcore,21,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.5574
+electro bailando,21,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.5574
+folklore paraguayo,21,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.5574
+pop folk,37,country_folk,pop,0.45,fallback,low_primary_weight | low_confidence,3.5545
+post-punk argentina,37,rock,,0.45,fallback,low_primary_weight | low_confidence,3.5545
+rock quebecois,37,rock,,0.45,fallback,low_primary_weight | low_confidence,3.5545
+cha cha cha,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+contemporary,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+elton-john,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+french touch,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+funk mandelao,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+hands up,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+hungarian indie,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+karadeniz turkuleri,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+keyboardist,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+not relaxed,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+split me up,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+the beatles,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+warm,34,,,,,no_family | no_related_styles | no_transition_styles,3.5514
+indie rock italiano,36,rock,,0.45,fallback,low_primary_weight | low_confidence,3.5285
+pop-folk,36,country_folk,pop,0.45,fallback,low_primary_weight | low_confidence,3.5285
+rap mineiro,36,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.5285
+acoustic porridge,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+balada romantica,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+canzone dautore,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+charva,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+chiptune,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+consistency,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+eddie rubin,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+exotica,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+koplo,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+laulaja-lauluntekija,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+nouvelle chanson francaise,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+rio,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+suecia,33,,,,,no_family | no_related_styles | no_transition_styles,3.5224
+arab hip-hop,20,middle_eastern,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.5039
+canadian country,20,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.5039
+german indie folk,20,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.5039
+indian edm,20,electronic,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.5039
+irish folk,20,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.5039
+progressive doom,20,metal,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.5039
+roots,20,country_folk,,0.45,fallback,low_primary_weight | low_confidence | no_transition_styles,3.5039
+australian reggae fusion,35,caribbean,,0.45,fallback,low_primary_weight | low_confidence,3.5017
+colombian reggaeton,35,caribbean,latin_urban,0.45,fallback,low_primary_weight | low_confidence,3.5017
+rock urbano,35,rock,,0.45,fallback,low_primary_weight | low_confidence,3.5017
+believe in nothing,32,,,,,no_family | no_related_styles | no_transition_styles,3.4926
+espana,32,,,,,no_family | no_related_styles | no_transition_styles,3.4926
+host,32,,,,,no_family | no_related_styles | no_transition_styles,3.4926
+italiano,32,,,,,no_family | no_related_styles | no_transition_styles,3.4926
+jellyroll,32,,,,,no_family | no_related_styles | no_transition_styles,3.4926
+kwaito,32,,,,,no_family | no_related_styles | no_transition_styles,3.4926
+lyricists,32,,,,,no_family | no_related_styles | no_transition_styles,3.4926
+murga,32,,,,,no_family | no_related_styles | no_transition_styles,3.4926
+partynextdoor,32,,,,,no_family | no_related_styles | no_transition_styles,3.4926
+rpi,32,,,,,no_family | no_related_styles | no_transition_styles,3.4926
+turntablism,32,,,,,no_family | no_related_styles | no_transition_styles,3.4926
+a bit overrated,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+amerikansk,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+booka-shade,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+destroyer,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+duetos,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+ethnic,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+funk bruxaria,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+hardnheavy,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+jdanton2,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+ma baker,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+madonna,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+melodic bass,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+musica angolana,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+pessimistic,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+pompous asses,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+sabrinafan,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+sandalwood,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+star wars,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+stopped being good after 88,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+stopped being good after 97,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+the unforgiving,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+thrash,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+trash,31,,,,,no_family | no_related_styles | no_transition_styles,3.4618
+rap cearense,33,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.4458
+rap uliczny,33,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.4458
+rock in opposition,33,rock,,0.45,fallback,low_primary_weight | low_confidence,3.4458
+arrolladora,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+arrolladora limon,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+atmospheric,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+breakcore,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+danish,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+dark wave,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+finnish melodeath,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+if you seek amy,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+la arrolladora,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+la indie,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+limon,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+love,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+musica madeirense,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+prog related,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+rave funk,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+southern gothic,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+talentkonkurrence,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+the sims,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+trot,30,,,,,no_family | no_related_styles | no_transition_styles,3.4301
+rap politico,32,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.4167
+reggae tuga,32,caribbean,,0.45,fallback,low_primary_weight | low_confidence,3.4167
+rock progresivo italiano,32,rock,,0.45,fallback,low_primary_weight | low_confidence,3.4167
+afro-fusion,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+chanson quebecoise,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+comedy,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+ddr,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+death by drowning,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+detective,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+early r & b,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+engel,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+engineer,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+german industrial,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+high german,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+icelandic,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+international fusion,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+lithuanian dance,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+missing allmusic links,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+norske viser,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+payner,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+ritmo kombina,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+third stream,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+tunisia,29,,,,,no_family | no_related_styles | no_transition_styles,3.3974
+crap,31,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.3866
+rap baiano,31,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.3866
+trap baiano,31,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.3866
+uk post-punk,31,rock,,0.45,fallback,low_primary_weight | low_confidence,3.3866
+underground amapiano,31,african,house,0.45,fallback,low_primary_weight | low_confidence,3.3866
+anthology,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+broken transmission,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+chamame,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+cowboy,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+dangdut koplo,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+dusseldorf,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+girl,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+gothic,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+hamaki,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+jerry lee lewis,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+kazakh indie,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+malaysian indie,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+mathcore,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+meek mill,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+mohamed hamaki,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+sentimental,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+sun box,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+the best of jerry lee lewis,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+thomas bangalter,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+tunisian,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+ukg revival,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+vocoder,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+whistle register,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+wp musicians,28,,,,,no_family | no_related_styles | no_transition_styles,3.3635
+afro-pop,30,pop,,0.45,fallback,low_primary_weight | low_confidence,3.3556
+indorock,30,rock,,0.45,fallback,low_primary_weight | low_confidence,3.3556
+rap angolano,30,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.3556
+rap calme,30,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.3556
+rap chretien,30,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.3556
+trap catala,30,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.3556
+ascetic,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+beat poetry,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+bedroom r & b,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+duranguense,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+g funk,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+german-lyrics,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+kayokyoku,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+nueva trova,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+polish hip-hop,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+producer tag-pharrell,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+roblox,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+rough trade,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+saga,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+sky room,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+spike,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+suboptimal credits,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+thai ost,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+welsh,27,,,,,no_family | no_related_styles | no_transition_styles,3.3285
+dancehall queen,29,caribbean,,0.45,fallback,low_primary_weight | low_confidence,3.3235
+rap catala,29,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.3235
+trap venezolano,29,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.3235
+cantonese,26,,,,,no_family | no_related_styles | no_transition_styles,3.2921
+dabke,26,,,,,no_family | no_related_styles | no_transition_styles,3.2921
+drumstep,26,,,,,no_family | no_related_styles | no_transition_styles,3.2921
+epitaph,26,,,,,no_family | no_related_styles | no_transition_styles,3.2921
+group,26,,,,,no_family | no_related_styles | no_transition_styles,3.2921
+moombahcore,26,,,,,no_family | no_related_styles | no_transition_styles,3.2921
+o happy day,26,,,,,no_family | no_related_styles | no_transition_styles,3.2921
+otacore,26,,,,,no_family | no_related_styles | no_transition_styles,3.2921
+playback singer,26,,,,,no_family | no_related_styles | no_transition_styles,3.2921
+signalwave,26,,,,,no_family | no_related_styles | no_transition_styles,3.2921
+this is the time,26,,,,,no_family | no_related_styles | no_transition_styles,3.2921
+cabo zouk kizomba,27,caribbean,,0.45,fallback,low_primary_weight | low_confidence,3.2561
+pop peruano,27,pop,,0.45,fallback,low_primary_weight | low_confidence,3.2561
+rap espanol,27,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.2561
+tontipop,27,pop,,0.45,fallback,low_primary_weight | low_confidence,3.2561
+antideutsche,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+comic,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+crime,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+dutch cabaret,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+ebm,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+el principe,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+iceland,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+minneapolis sound,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+musica adventista,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+new orleans bounce,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+nightcore,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+nueva cancion,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+oldies,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+progressive thrash,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+riot grrrl,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+rumba flamenca,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+sheffield indie,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+ye ye,25,,,,,no_family | no_related_styles | no_transition_styles,3.2544
+canadian electropop,26,electronic,pop,0.45,fallback,low_primary_weight | low_confidence,3.2206
+deutschpunk,26,rock,,0.45,fallback,low_primary_weight | low_confidence,3.2206
+nu-cumbia,26,latin_tropical,,0.45,fallback,low_primary_weight | low_confidence,3.2206
+pop boliviano,26,pop,,0.45,fallback,low_primary_weight | low_confidence,3.2206
+2000er,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+32 sonatas,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+added for google code-in 2017,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+am,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+beethoven gardiner,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+cantautora mexicana,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+electra,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+flaming,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+frenchcore,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+grand tour,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+hamburg,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+if you talk in your sleep,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+impressionism,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+in the studio,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+interview,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+klavierwerke,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+live in concert,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+lo spirito,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+masterworks,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+minimal,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+netherlands,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+opus 57,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+organ,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+private tag 1,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+reader s,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+sertaneja,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+the way i feel,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+transgender,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+vlaamse kinderliedje,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+voice actor,24,,,,,no_family | no_related_styles | no_transition_styles,3.2153
+rap chileno,25,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.1837
+t-pop boy group,25,pop,world_asian,0.45,fallback,low_primary_weight | low_confidence,3.1837
+barnmusik,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+brighton indie,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+cdo indie,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+chanson a texte,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+covers,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+farther,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+female fronted,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+freestyle,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+funk melody,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+girlsband,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+hammond,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+hammond organ,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+in jail,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+kindermusik,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+liedermacher,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+rumba catalana,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+russian indie,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+russian plugg,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+slovak,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+top 100,23,,,,,no_family | no_related_styles | no_transition_styles,3.1745
+danish post-punk,24,rock,,0.45,fallback,low_primary_weight | low_confidence,3.1454
+pop country,24,country_folk,pop,0.45,fallback,low_primary_weight | low_confidence,3.1454
+protopunk,24,rock,,0.45,fallback,low_primary_weight | low_confidence,3.1454
+rap antillais,24,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.1454
+awesomename,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+bon jovi,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+britain,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+bulgarian r & b,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+cabo verde,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+carnaval cadiz,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+complete violin wind,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+death by cirrhosis,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+dissolved,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+funana,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+gb,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+graz indie,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+great britain,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+hard fm,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+hare krishna,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+iraqi music,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+ireland,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+krushfunk,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+nl,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+oye com va,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+pedophile,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+poggers,22,,,,,no_family | no_related_styles | no_transition_styles,3.132
+cyberpunk,23,rock,,0.45,fallback,low_primary_weight | low_confidence,3.1055
+rap quebecois,23,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.1055
+trap mexicano,23,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.1055
+afrofuturism,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+cold wave,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+eire,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+eyes on me,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+french language,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+fuji,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+glitch hop,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+great voice,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+jive,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+lol,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+noisecore,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+north east england indie,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+novelty,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+ocean,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+orange county,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+ozymandias,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+relative-cousin,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+russian composer,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+skansk musik,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+skilled vocals,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+skrillex,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+switzerland,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+thai,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+top 10,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+urban music,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+viet lo-fi,21,,,,,no_family | no_related_styles | no_transition_styles,3.0876
+avante garde,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+barnemusikk,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+boston,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+cuba,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+enfp,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+epic music,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+favorite,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+female vocal dance,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+harmonica players,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+hip-hip,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+hokkaido indie,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+kolsche karneval,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+little,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+massachusetts,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+musica chihuahuense,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+osteraker,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+ostschlager,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+pentecostal,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+portuguese indie,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+scandinavian,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+solo wave,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+utaite,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+vocal dance,20,,,,,no_family | no_related_styles | no_transition_styles,3.0411
+boom bap espanol,21,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,3.0205
+classical,2042,classical,,1.0,exact,no_transition_styles | broad_or_marketing_tag,2.9792
+britpop revival,20,pop,rock,0.45,fallback,low_primary_weight | low_confidence,2.975
+electro-pop francais,20,electronic,pop,0.45,fallback,low_primary_weight | low_confidence,2.975
+johnny cash rock island,20,rock,,0.45,fallback,low_primary_weight | low_confidence,2.975
+oriental ballad,20,pop,,0.45,fallback,low_primary_weight | low_confidence,2.975
+parocktikum,20,rock,,0.45,fallback,low_primary_weight | low_confidence,2.975
+trap carioca,20,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,2.975
+traphall,20,hip_hop,,0.45,fallback,low_primary_weight | low_confidence,2.975
+alternative metal,801,metal,,0.95,suffix,no_transition_styles | broad_or_marketing_tag,2.759
+hardcore techno,180,techno,electronic | metal,1.0,manual,many_families | no_transition_styles,2.7092
+amapiano,1871,african,house | electronic,1.0,manual,many_families,2.6178
+tropical house,1221,house,electronic | latin_tropical,1.0,manual,many_families,2.4697
+afro house,902,house,african | electronic,1.0,manual,many_families,2.3646
+afroswing,854,african,hip_hop | jazz_blues,1.0,manual,many_families,2.3456
+modern classical,224,classical,,0.94,suffix,no_transition_styles | broad_or_marketing_tag,2.2581
+latin house,519,house,latin_urban | latin_tropical,1.0,manual,many_families,2.1728
+classic rock,4652,rock,,0.92,suffix,broad_or_marketing_tag,2.1273
+romantic classical,125,classical,,0.94,suffix,no_transition_styles | broad_or_marketing_tag,2.0164
+alternative rock,2986,rock,,0.92,suffix,broad_or_marketing_tag,2.0156
+contemporary classical,117,classical,,0.94,suffix,no_transition_styles | broad_or_marketing_tag,1.989
+garage rock,292,rock,bass_music | hip_hop,1.0,manual,many_families,1.9735
+garage,171,bass_music,electronic | hip_hop,0.92,manual,many_families,1.9673
+alternative pop,1436,pop,,0.88,suffix,broad_or_marketing_tag,1.9576
+uk garage,263,bass_music,electronic | hip_hop,1.0,manual,many_families,1.9373
+cinematic classical,78,classical,,0.94,suffix,no_transition_styles | broad_or_marketing_tag,1.8217
+modern blues,57,jazz_blues,,0.92,suffix,no_transition_styles | broad_or_marketing_tag,1.7282
+traditional gospel,52,gospel_spiritual,,0.92,suffix,no_transition_styles | broad_or_marketing_tag,1.6898
+modern rock,799,rock,,0.92,suffix,broad_or_marketing_tag,1.6838
+classic swedish pop,496,pop,,0.88,suffix,broad_or_marketing_tag,1.6717
+swedish idol pop,458,pop,,0.88,suffix,broad_or_marketing_tag,1.6503
+western classical,48,classical,,0.94,suffix,no_transition_styles | broad_or_marketing_tag,1.6226
+experimental rock,619,rock,,0.92,suffix,broad_or_marketing_tag,1.6196
+deep house,747,house,,0.94,suffix,broad_or_marketing_tag,1.6094
+traditional pop,353,pop,,0.88,suffix,broad_or_marketing_tag,1.5804
+latin viral pop,349,pop,,0.88,suffix,broad_or_marketing_tag,1.5773
+experimental hip hop,732,hip_hop,,0.95,suffix,broad_or_marketing_tag,1.5758
+traditional doom metal,43,metal,,0.95,suffix,no_transition_styles | broad_or_marketing_tag,1.5613
+r&b,7339,rnb_soul,,1.0,manual,no_transition_styles,1.5463
+sertanejo universitario,1950,brazilian,,0.94,prefix,no_transition_styles,1.5135
+viral pop,255,pop,,0.88,suffix,broad_or_marketing_tag,1.4931
+classic metal,35,metal,,0.95,suffix,no_transition_styles | broad_or_marketing_tag,1.4785
+alternative hip hop,464,hip_hop,,0.95,suffix,broad_or_marketing_tag,1.4671
+traditional heavy metal,34,metal,,0.95,suffix,no_transition_styles | broad_or_marketing_tag,1.4669
+polish viral pop,231,pop,,0.88,suffix,broad_or_marketing_tag,1.4666
+electro corridos,1117,regional_mexican,electronic,0.92,manual,no_transition_styles,1.4633
+corridos tumbados,1770,regional_mexican,,0.95,prefix,no_transition_styles,1.4617
+classic thrash metal,33,metal,,0.95,suffix,no_transition_styles | broad_or_marketing_tag,1.4549
+electronic,4187,electronic,,1.0,exact,no_transition_styles,1.4488
+corridos belicos,1557,regional_mexican,,0.95,prefix,no_transition_styles,1.4367
+brazilian funk,673,brazilian,,0.9,prefix,no_transition_styles,1.4143
+german alternative rap,225,hip_hop,,0.9,suffix,broad_or_marketing_tag,1.4125
+edm,3088,electronic,,1.0,exact,no_transition_styles,1.3959
+modern alternative rock,226,rock,,0.92,suffix,broad_or_marketing_tag,1.3665
+corrido,2542,regional_mexican,,1.0,exact,no_transition_styles,1.3621
+country,2532,country_folk,,1.0,exact,no_transition_styles,1.3615
+classic pop punk,94,rock,pop,0.82,suffix,broad_or_marketing_tag,1.3449
+banda,2241,regional_mexican,,1.0,exact,no_transition_styles,1.3403
+música mexicana,2163,regional_mexican,,1.0,exact,no_transition_styles,1.3341
+classical pop,139,pop,classical,0.88,suffix,broad_or_marketing_tag,1.3306
+vocal jazz,578,jazz_blues,,0.92,suffix,no_transition_styles,1.3261
+jazz,2059,jazz_blues,,1.0,exact,no_transition_styles,1.3255
+classic italian pop,135,pop,,0.88,suffix,broad_or_marketing_tag,1.3228
+heavy metal,854,metal,,0.95,suffix,no_transition_styles,1.3194
+experimental pop,132,pop,,0.88,suffix,broad_or_marketing_tag,1.3168
+sertanejo,1939,brazilian,,1.0,exact,no_transition_styles,1.3151
+ukrainian viral pop,130,pop,middle_eastern,0.88,suffix,broad_or_marketing_tag,1.3127
+classic pakistani pop,123,pop,,0.88,suffix,broad_or_marketing_tag,1.2979
+classic punk,80,rock,,0.82,suffix,broad_or_marketing_tag,1.2978
+metal,1702,metal,,1.0,exact,no_transition_styles,1.2925
+classic icelandic pop,118,pop,,0.88,suffix,broad_or_marketing_tag,1.2868
+folk,1569,country_folk,,1.0,exact,no_transition_styles,1.2784
+deep german hip hop,203,hip_hop,,0.95,suffix,broad_or_marketing_tag,1.2703
+blues,1455,jazz_blues,,1.0,exact,no_transition_styles,1.2653
+progressive trance,634,trance,,0.95,suffix,no_transition_styles,1.2612
+classic arab pop,100,pop,middle_eastern,0.88,suffix,broad_or_marketing_tag,1.2427
+gospel,1232,gospel_spiritual,,1.0,exact,no_transition_styles,1.2364
+kazakh viral pop,96,pop,,0.88,suffix,broad_or_marketing_tag,1.2318
+adult alternative pop rock,131,rock,pop,0.92,suffix,broad_or_marketing_tag,1.2299
+classic israeli pop,94,pop,,0.88,suffix,broad_or_marketing_tag,1.2262
+czsk viral pop,93,pop,,0.88,suffix,broad_or_marketing_tag,1.2233
+acid techno,509,techno,,0.95,suffix,no_transition_styles,1.2184
+black metal,506,metal,,0.95,suffix,no_transition_styles,1.2173
+nu metal,496,metal,,0.95,suffix,no_transition_styles,1.2134
+opera,1053,classical,,1.0,exact,no_transition_styles,1.2091
+hard techno,481,techno,,0.95,suffix,no_transition_styles,1.2074
+alternative rap,99,hip_hop,,0.9,suffix,broad_or_marketing_tag,1.2
+modern salsa,116,latin_tropical,,0.92,suffix,broad_or_marketing_tag,1.1995
+ranchera,993,regional_mexican,,1.0,exact,no_transition_styles,1.199
+vietnamese idol pop,83,pop,,0.88,suffix,broad_or_marketing_tag,1.1931
+death metal,445,metal,,0.95,suffix,no_transition_styles,1.1922
+trance,948,trance,,1.0,exact,no_transition_styles,1.1909
+modern country rock,111,rock,country_folk,0.92,suffix,broad_or_marketing_tag,1.1885
+techno,904,techno,,1.0,exact,no_transition_styles,1.1827
+banda sinaloense,231,regional_mexican,,0.9,prefix,no_transition_styles,1.1827
+electronica,883,electronic,,1.0,exact,no_transition_styles,1.1786
+turkish alternative rock,93,rock,,0.92,suffix,broad_or_marketing_tag,1.1444
+forro,694,brazilian,,1.0,exact,no_transition_styles,1.1368
+chinese viral pop,67,pop,,0.88,suffix,broad_or_marketing_tag,1.1362
+russian viral rap,77,hip_hop,,0.9,suffix,broad_or_marketing_tag,1.1353
+polish viral rap,69,hip_hop,,0.9,suffix,broad_or_marketing_tag,1.1071
+classic malaysian pop,60,pop,,0.88,suffix,broad_or_marketing_tag,1.1069
+modern country pop,59,pop,country_folk,0.88,suffix,broad_or_marketing_tag,1.1025
+classic colombian pop,58,pop,,0.88,suffix,broad_or_marketing_tag,1.0979
+british rhythm & blues,186,jazz_blues,,0.92,suffix,no_transition_styles,1.0905
+corrido tumbado,253,regional_mexican,,0.95,prefix,no_transition_styles,1.0822
+uk alternative pop,54,pop,,0.88,suffix,broad_or_marketing_tag,1.079
+swedish alternative rock,69,rock,,0.92,suffix,broad_or_marketing_tag,1.0702
+soul blues,166,jazz_blues,rnb_soul,0.92,suffix,no_transition_styles,1.0669
+classic russian rock,67,rock,,0.92,suffix,broad_or_marketing_tag,1.0629
+electric blues,162,jazz_blues,,0.92,suffix,no_transition_styles,1.0619
+new metal,226,metal,,0.95,suffix,no_transition_styles,1.0602
+turkish deep house,76,house,,0.94,suffix,broad_or_marketing_tag,1.0564
+power metal,219,metal,,0.95,suffix,no_transition_styles,1.0541
+deep tropical house,75,house,latin_tropical,0.94,suffix,broad_or_marketing_tag,1.0533
+glam metal,213,metal,,0.95,suffix,no_transition_styles,1.0487
+egyptian viral pop,48,pop,,0.88,suffix,broad_or_marketing_tag,1.0479
+deep turkish pop,46,pop,,0.88,suffix,broad_or_marketing_tag,1.0367
+polish alternative rap,51,hip_hop,,0.9,suffix,broad_or_marketing_tag,1.0296
+melodic techno,189,techno,,0.95,suffix,no_transition_styles,1.0254
+classic danish pop,44,pop,,0.88,suffix,broad_or_marketing_tag,1.025
+deep euro house,65,house,,0.94,suffix,broad_or_marketing_tag,1.0189
+gothic metal,175,metal,,0.95,suffix,no_transition_styles,1.0105
+jazz and blues,120,jazz_blues,,0.92,suffix,no_transition_styles,0.9997
+groove metal,163,metal,,0.95,suffix,no_transition_styles,0.9967
+indonesian jazz,117,jazz_blues,,0.92,suffix,no_transition_styles,0.9945
+classic venezuelan pop,39,pop,,0.88,suffix,broad_or_marketing_tag,0.9933
+doom metal,158,metal,,0.95,suffix,no_transition_styles,0.9906
+latin jazz,112,jazz_blues,,0.92,suffix,no_transition_styles,0.9855
+progressive metal,152,metal,,0.95,suffix,no_transition_styles,0.9831
+thrash metal,151,metal,,0.95,suffix,no_transition_styles,0.9818
+adult alternative pop,37,pop,,0.88,suffix,broad_or_marketing_tag,0.9795
+viral trap,37,hip_hop,,0.88,suffix,broad_or_marketing_tag,0.9795
+symphonic metal,148,metal,,0.95,suffix,no_transition_styles,0.9779
+brazilian bass,88,brazilian,,0.9,prefix,no_transition_styles,0.9747
+cool jazz,106,jazz_blues,,0.92,suffix,no_transition_styles,0.9741
+hair metal,145,metal,,0.95,suffix,no_transition_styles,0.974
+taiwan idol pop,36,pop,,0.88,suffix,broad_or_marketing_tag,0.9723
+smooth jazz,102,jazz_blues,,0.92,suffix,no_transition_styles,0.9662
+german viral rap,38,hip_hop,,0.9,suffix,broad_or_marketing_tag,0.9546
+hawaiian glam metal,127,metal,,0.95,suffix,no_transition_styles,0.9482
+japanese alternative rock,42,rock,,0.92,suffix,broad_or_marketing_tag,0.9474
+dub techno,126,techno,,0.95,suffix,no_transition_styles,0.9467
+finnish metal,118,metal,,0.95,suffix,no_transition_styles,0.934
+nu jazz,86,jazz_blues,,0.92,suffix,no_transition_styles,0.931
+christian alternative rock,39,rock,gospel_spiritual,0.92,suffix,broad_or_marketing_tag,0.9292
+industrial metal,115,metal,,0.95,suffix,no_transition_styles,0.929
+minimal techno,110,techno,,0.95,suffix,no_transition_styles,0.9204
+british blues,81,jazz_blues,,0.92,suffix,no_transition_styles,0.9186
+classic czech pop,29,pop,,0.88,suffix,broad_or_marketing_tag,0.9158
+classic norwegian pop,29,pop,,0.88,suffix,broad_or_marketing_tag,0.9158
+thai viral pop,29,pop,,0.88,suffix,broad_or_marketing_tag,0.9158
+stoner metal,105,metal,,0.95,suffix,no_transition_styles,0.9114
+acid jazz,78,jazz_blues,,0.92,suffix,no_transition_styles,0.9109
+free jazz,78,jazz_blues,,0.92,suffix,no_transition_styles,0.9109
+modern blues rock,36,rock,jazz_blues,0.92,suffix,broad_or_marketing_tag,0.9096
+dutch trance,103,trance,,0.95,suffix,no_transition_styles,0.9077
+classic belgian pop,28,pop,,0.88,suffix,broad_or_marketing_tag,0.9067
+classic greek pop,28,pop,,0.88,suffix,broad_or_marketing_tag,0.9067
+chinese idol pop,27,pop,,0.88,suffix,broad_or_marketing_tag,0.8972
+modern folk rock,34,rock,country_folk,0.92,suffix,broad_or_marketing_tag,0.8956
+funk metal,92,metal,,0.95,suffix,no_transition_styles,0.8858
+brazilian gospel,69,gospel_spiritual,brazilian,0.92,suffix,no_transition_styles,0.8856
+jazz blues,69,jazz_blues,,0.92,suffix,no_transition_styles,0.8856
+soul jazz,69,jazz_blues,rnb_soul,0.92,suffix,no_transition_styles,0.8856
+contemporary gospel,68,gospel_spiritual,,0.92,suffix,no_transition_styles,0.8826
+country gospel,68,gospel_spiritual,country_folk,0.92,suffix,no_transition_styles,0.8826
+danish alternative rock,32,rock,,0.92,suffix,broad_or_marketing_tag,0.8807
+ethiopian jazz,67,jazz_blues,,0.92,suffix,no_transition_styles,0.8796
+samba,146,brazilian,,1.0,exact,no_transition_styles,0.8669
+classic russian pop,24,pop,,0.88,suffix,broad_or_marketing_tag,0.8667
+modern indie pop,24,pop,,0.88,suffix,broad_or_marketing_tag,0.8667
+melodic death metal,80,metal,,0.95,suffix,no_transition_styles,0.8588
+classic latvian pop,23,pop,,0.88,suffix,broad_or_marketing_tag,0.8557
+speed metal,78,metal,,0.95,suffix,no_transition_styles,0.8539
+viral rap,25,hip_hop,,0.9,suffix,broad_or_marketing_tag,0.849
+sertanejo tradicional,68,brazilian,,0.94,prefix,no_transition_styles,0.8459
+australian alternative pop,22,pop,,0.88,suffix,broad_or_marketing_tag,0.8443
+pinoy idol pop,22,pop,,0.88,suffix,broad_or_marketing_tag,0.8443
+avant-garde metal,74,metal,,0.95,suffix,no_transition_styles,0.8438
+polish alternative rock,27,rock,,0.92,suffix,broad_or_marketing_tag,0.8394
+avant-garde jazz,55,jazz_blues,,0.92,suffix,no_transition_styles,0.8391
+deep underground hip hop,32,hip_hop,,0.95,suffix,broad_or_marketing_tag,0.8352
+classic canadian rock,26,rock,,0.92,suffix,broad_or_marketing_tag,0.8302
+finnish alternative rock,26,rock,,0.92,suffix,broad_or_marketing_tag,0.8302
+country blues,51,jazz_blues,country_folk,0.92,suffix,no_transition_styles,0.8237
+uplifting trance,66,trance,,0.95,suffix,no_transition_styles,0.8217
+deep groove house,28,house,,0.94,suffix,broad_or_marketing_tag,0.8189
+industrial techno,62,techno,,0.95,suffix,no_transition_styles,0.8097
+folk metal,61,metal,country_folk,0.95,suffix,no_transition_styles,0.8066
+sludge metal,61,metal,,0.95,suffix,no_transition_styles,0.8066
+modern reggae,21,caribbean,,0.9,suffix,broad_or_marketing_tag,0.8055
+ambient techno,59,techno,electronic,0.95,suffix,no_transition_styles,0.8002
+contemporary jazz,42,jazz_blues,,0.92,suffix,no_transition_styles,0.7841
+heavy blues,42,jazz_blues,,0.92,suffix,no_transition_styles,0.7841
+indonesian alternative rock,21,rock,,0.92,suffix,broad_or_marketing_tag,0.7786
+tech trance,51,trance,,0.95,suffix,no_transition_styles,0.7722
+texas blues,39,jazz_blues,,0.92,suffix,no_transition_styles,0.769
+big room trance,50,trance,,0.95,suffix,no_transition_styles,0.7684
+german techno,50,techno,,0.95,suffix,no_transition_styles,0.7684
+corrido belico,49,regional_mexican,,0.95,prefix,no_transition_styles,0.7645
+piano blues,36,jazz_blues,,0.92,suffix,no_transition_styles,0.7527
+french jazz,35,jazz_blues,,0.92,suffix,no_transition_styles,0.747
+banda el limon,30,regional_mexican,,0.9,prefix,no_transition_styles,0.7457
+vocal trance,44,trance,,0.95,suffix,no_transition_styles,0.7439
+ibiza trance,42,trance,,0.95,suffix,no_transition_styles,0.7351
+chicago blues,33,jazz_blues,,0.92,suffix,no_transition_styles,0.7351
+finnish heavy metal,41,metal,,0.95,suffix,no_transition_styles,0.7305
+southern gospel,31,gospel_spiritual,,0.92,suffix,no_transition_styles,0.7225
+death doom metal,39,metal,,0.95,suffix,no_transition_styles,0.7209
+death-doom metal,39,metal,,0.95,suffix,no_transition_styles,0.7209
+gothic symphonic metal,38,metal,,0.95,suffix,no_transition_styles,0.716
+jizz jazz,30,jazz_blues,,0.92,suffix,no_transition_styles,0.7159
+black gospel,29,gospel_spiritual,,0.92,suffix,no_transition_styles,0.709
+modal jazz,28,jazz_blues,,0.92,suffix,no_transition_styles,0.702
+swedish metal,35,metal,,0.95,suffix,no_transition_styles,0.7003
+contemporary vocal jazz,27,jazz_blues,,0.92,suffix,no_transition_styles,0.6946
+delta blues,27,jazz_blues,,0.92,suffix,no_transition_styles,0.6946
+80s thrash metal,33,metal,,0.95,suffix,no_transition_styles,0.6892
+american thrash metal,33,metal,,0.95,suffix,no_transition_styles,0.6892
+cyber metal,33,metal,,0.95,suffix,no_transition_styles,0.6892
+gothic doom metal,33,metal,,0.95,suffix,no_transition_styles,0.6892
+southern metal,33,metal,,0.95,suffix,no_transition_styles,0.6892
+80s metal,31,metal,,0.95,suffix,no_transition_styles,0.6773
+90s metal,31,metal,,0.95,suffix,no_transition_styles,0.6773
+douchebag metal,31,metal,,0.95,suffix,no_transition_styles,0.6773
+progressive thrash metal,31,metal,,0.95,suffix,no_transition_styles,0.6773
+teen metal,31,metal,,0.95,suffix,no_transition_styles,0.6773
+trash metal,31,metal,,0.95,suffix,no_transition_styles,0.6773
+finnish death metal,30,metal,,0.95,suffix,no_transition_styles,0.6711
+finnish power metal,30,metal,,0.95,suffix,no_transition_styles,0.6711
+german industrial metal,29,metal,,0.95,suffix,no_transition_styles,0.6647
+swedish power metal,27,metal,,0.95,suffix,no_transition_styles,0.6512
+viking metal,26,metal,,0.95,suffix,no_transition_styles,0.6441
+epic black metal,25,metal,,0.95,suffix,no_transition_styles,0.6367
+finnish progressive metal,25,metal,,0.95,suffix,no_transition_styles,0.6367
+melodic black metal,23,metal,,0.95,suffix,no_transition_styles,0.6211
+peak time techno,22,techno,,0.95,suffix,no_transition_styles,0.6128
+extreme metal,21,metal,,0.95,suffix,no_transition_styles,0.6041
+dance trance,20,trance,,0.95,suffix,no_transition_styles,0.595
+euro trance,20,trance,,0.95,suffix,no_transition_styles,0.595
+german metal,20,metal,,0.95,suffix,no_transition_styles,0.595

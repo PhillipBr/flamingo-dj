@@ -1,0 +1,23 @@
+.add-to-playlist-backdrop{position:fixed;inset:0;z-index:1500;display:grid;place-items:center;padding:24px;background:rgba(0,0,0,.62);backdrop-filter:blur(3px)}
+.add-to-playlist-modal{width:min(500px,100%);max-height:calc(100vh - 48px);display:flex;flex-direction:column;overflow:hidden;border:1px solid #303642;border-radius:14px;background:#15181f;box-shadow:0 24px 70px rgba(0,0,0,.5)}
+.add-to-playlist-header{display:flex;justify-content:space-between;gap:16px;padding:20px 20px 14px}
+.add-to-playlist-eyebrow{color:#ff3d82;font-size:10px;font-weight:800;letter-spacing:.14em}
+.add-to-playlist-header h2{margin:4px 0 2px;color:#f8fafc;font-size:20px}
+.add-to-playlist-header p{margin:0;color:#8f98a8;font-size:12px}
+.add-to-playlist-close{width:34px;height:34px;display:grid;place-items:center;border:1px solid #303642;border-radius:8px;color:#aab1bd;background:transparent;cursor:pointer}
+.add-to-playlist-search{display:flex;align-items:center;gap:9px;margin:0 20px 12px;padding:0 12px;border:1px solid #303642;border-radius:9px;background:#101319;color:#778091}
+.add-to-playlist-search input{flex:1;min-width:0;padding:11px 0;border:0;outline:0;color:#edf0f5;background:transparent}
+.add-to-playlist-list{min-height:100px;max-height:330px;overflow-y:auto;padding:0 12px}
+.add-to-playlist-row{width:100%;display:flex;align-items:center;gap:12px;padding:11px 10px;border:0;border-radius:9px;color:#dfe4ec;background:transparent;text-align:left;cursor:pointer}
+.add-to-playlist-row:hover:not(:disabled){background:#20242d}
+.add-to-playlist-row:disabled{opacity:.45;cursor:default}
+.add-to-playlist-row div{display:flex;min-width:0;flex-direction:column}
+.add-to-playlist-row strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px}
+.add-to-playlist-row span{margin-top:2px;color:#858e9d;font-size:11px}
+.add-to-playlist-empty{margin:22px;color:#858e9d;text-align:center;font-size:12px}
+.add-to-playlist-separator{height:1px;margin:12px 20px;background:#2a2f39}
+.add-to-playlist-create{padding:0 20px 20px}
+.add-to-playlist-create label{display:flex;flex-direction:column;gap:7px;color:#9ba4b2;font-size:11px;font-weight:700}
+.add-to-playlist-create input{padding:10px 11px;border:1px solid #333a47;border-radius:8px;outline:0;color:#f2f5f9;background:#101319}
+.add-to-playlist-new{width:100%;display:flex;align-items:center;justify-content:center;gap:8px;margin-top:10px;padding:11px;border:1px solid #ff4f8c;border-radius:9px;color:#fff;background:#c92b60;font-weight:700;cursor:pointer}
+.add-to-playlist-new:disabled{opacity:.45;cursor:default}

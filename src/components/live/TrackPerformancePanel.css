@@ -1,0 +1,144 @@
+.track-performance-panel {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.055);
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.014);
+}
+
+.track-performance-panel > header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.track-performance-panel > header > div {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.track-performance-panel > header span,
+.track-performance-panel > header strong {
+  display: block;
+}
+
+.track-performance-panel > header span {
+  color: #ff84aa;
+  font-size: 7px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.track-performance-panel > header strong {
+  margin-top: 2px;
+  font-size: 10px;
+}
+
+.track-performance-panel > header small {
+  color: #747780;
+  font-size: 7px;
+}
+
+.track-performance-panel__table {
+  display: grid;
+  gap: 3px;
+}
+
+.track-performance-panel__row {
+  display: grid;
+  grid-template-columns:
+    minmax(180px, 2fr)
+    55px
+    60px
+    110px
+    minmax(90px, 1fr);
+  gap: 6px;
+  align-items: center;
+  padding: 6px;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.012);
+}
+
+.track-performance-panel__row--header {
+  color: #666a72;
+  font-size: 6px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.track-performance-panel__row strong,
+.track-performance-panel__row small {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.track-performance-panel__row strong {
+  font-size: 8px;
+}
+
+.track-performance-panel__row small {
+  margin-top: 2px;
+  color: #6f727a;
+  font-size: 6.5px;
+}
+
+.track-performance-panel__row > span,
+.track-performance-panel__row > b {
+  font-size: 7px;
+}
+
+.track-performance-panel__row > b {
+  color: #ff84aa;
+}
+
+.track-performance-role {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-weight: 800;
+}
+
+.track-performance-role--reliable-hit,
+.track-performance-role--crowd-rescue {
+  color: #5fc88c;
+}
+
+.track-performance-role--needs-review {
+  color: #f0ba5f;
+}
+
+.track-performance-role--steady {
+  color: #65b0ff;
+}
+
+.track-performance-role--insufficient-data {
+  color: #6f727a;
+}
+
+.track-performance-panel__empty {
+  padding: 14px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.012);
+  color: #747780;
+  font-size: 7px;
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .track-performance-panel__row {
+    grid-template-columns:
+      minmax(150px, 1fr)
+      45px
+      50px
+      90px;
+  }
+
+  .track-performance-panel__row > :last-child {
+    display: none;
+  }
+}

@@ -1,0 +1,244 @@
+.venue-coach-panel {
+  display: grid;
+  gap: 9px;
+  margin-bottom: 10px;
+  padding: 11px;
+  border: 1px solid rgba(95, 200, 140, 0.13);
+  border-radius: 9px;
+  background: linear-gradient(
+    135deg,
+    rgba(95, 200, 140, 0.03),
+    rgba(101, 176, 255, 0.02)
+  );
+}
+
+.venue-coach-panel > header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.venue-coach-panel > header > div {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.venue-coach-panel > header span,
+.venue-coach-panel > header strong {
+  display: block;
+}
+
+.venue-coach-panel > header span {
+  color: #79d49e;
+  font-size: 7px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.venue-coach-panel > header strong {
+  margin-top: 2px;
+  font-size: 11px;
+}
+
+.venue-coach-panel > header > b {
+  color: #79d49e;
+  font-size: 8px;
+}
+
+.venue-coach-panel__facts {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.venue-coach-panel__facts article {
+  padding: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.014);
+}
+
+.venue-coach-panel__facts span,
+.venue-coach-panel__facts strong {
+  display: block;
+}
+
+.venue-coach-panel__facts span {
+  margin-top: 4px;
+  color: #747780;
+  font-size: 6.5px;
+  text-transform: uppercase;
+}
+
+.venue-coach-panel__facts strong {
+  margin-top: 2px;
+  font-size: 9px;
+}
+
+.venue-coach-panel__insights {
+  display: grid;
+  gap: 5px;
+}
+
+.venue-coach-insight {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 7px;
+  padding: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.045);
+  border-left-width: 3px;
+  border-radius: 6px;
+}
+
+.venue-coach-insight--positive {
+  border-left-color: #5fc88c;
+}
+
+.venue-coach-insight--warning {
+  border-left-color: #f0ba5f;
+}
+
+.venue-coach-insight--info {
+  border-left-color: #65b0ff;
+}
+
+.venue-coach-insight strong {
+  font-size: 8px;
+}
+
+.venue-coach-insight p {
+  margin: 3px 0 0;
+  color: #747780;
+  font-size: 7px;
+  line-height: 1.45;
+}
+
+.venue-coach-panel__genres > header span {
+  color: #777a83;
+  font-size: 7px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.venue-coach-panel__genres > div {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 5px;
+  margin-top: 6px;
+}
+
+.venue-coach-panel__genres article {
+  padding: 7px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.015);
+}
+
+.venue-coach-panel__genres strong,
+.venue-coach-panel__genres span,
+.venue-coach-panel__genres small {
+  display: block;
+}
+
+.venue-coach-panel__genres strong {
+  overflow: hidden;
+  font-size: 8px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.venue-coach-panel__genres span {
+  margin-top: 3px;
+  color: #79d49e;
+  font-size: 7px;
+}
+
+.venue-coach-panel__genres small {
+  margin-top: 3px;
+  color: #6d7078;
+  font-size: 6px;
+}
+
+.venue-coach-panel__track-groups {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 7px;
+}
+
+.venue-coach-panel__track-groups section {
+  padding: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.045);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.012);
+}
+
+.venue-coach-panel__track-groups section > header {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 6px;
+  color: #777a83;
+  font-size: 7px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.venue-coach-panel__track-groups article {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 6px;
+  align-items: center;
+  padding: 5px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.035);
+}
+
+.venue-coach-panel__track-groups article:last-child {
+  border-bottom: 0;
+}
+
+.venue-coach-panel__track-groups strong,
+.venue-coach-panel__track-groups small {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.venue-coach-panel__track-groups strong {
+  font-size: 8px;
+}
+
+.venue-coach-panel__track-groups small {
+  margin-top: 2px;
+  color: #6d7078;
+  font-size: 6px;
+}
+
+.venue-coach-panel__track-groups b {
+  color: #79d49e;
+  font-size: 7px;
+}
+
+.venue-coach-panel__track-groups p {
+  margin: 0;
+  color: #72757d;
+  font-size: 7px;
+  line-height: 1.45;
+}
+
+.venue-coach-panel > footer {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #6e727a;
+  font-size: 7px;
+}
+
+@media (max-width: 800px) {
+  .venue-coach-panel__facts,
+  .venue-coach-panel__genres > div,
+  .venue-coach-panel__track-groups {
+    grid-template-columns: 1fr;
+  }
+}
