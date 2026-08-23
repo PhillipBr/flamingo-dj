@@ -1,9 +1,10 @@
 import {
+  ArrowRightLeft,
+  ExternalLink,
   ListPlus,
   Music2,
   Pencil,
   Sparkles,
-  Tags,
   Trash2,
 } from "lucide-react";
 
@@ -14,7 +15,6 @@ import {
 } from "react";
 
 import AddToPlaylistModal from "../playlists/AddToPlaylistModal";
-import TrackKeywordsModal from "./TrackKeywordsModal";
 
 import type { Playlist } from "../../types/playlist";
 import type { Track } from "../../types/track";
@@ -25,20 +25,23 @@ import {
   savePlaylists,
 } from "../../utils/playlistStorage";
 
-import {
-  loadTracks,
-  saveTracks,
-} from "../../utils/trackStorage";
+type PlaylistActionMode =
+  | "add"
+  | "move";
 
 type TrackContextMenuProps = {
   track: Track;
   x: number;
   y: number;
+
   isInCurrentSet?: boolean;
+
   onEdit: () => void;
   onMatch?: () => void;
+
   onAddToCurrentSet?: () => void;
   onRemoveFromCurrentSet?: () => void;
+
   onRemove: () => void;
   onClose: () => void;
 };
@@ -51,12 +54,40 @@ function notifyPlaylistsUpdated() {
   );
 }
 
-function normalizeKeyword(
-  value: string,
-): string {
-  return value
-    .trim()
-    .toLowerCase();
+function getCurrentPlaylistId():
+  | string
+  | null {
+  const match =
+    window.location.pathname.match(
+      /\/playlists\/([^/?#]+)/,
+    );
+
+  return match?.[1]
+    ? decodeURIComponent(
+        match[1],
+      )
+    : null;
+}
+
+function openSpotify(
+  spotifyUrl:
+    | string
+    | null
+    | undefined,
+) {
+  if (!spotifyUrl) {
+    window.alert(
+      "Spotify link is not available for this track.",
+    );
+
+    return;
+  }
+
+  window.open(
+    spotifyUrl,
+    "_blank",
+    "noopener,noreferrer",
+  );
 }
 
 export default function TrackContextMenu({
@@ -85,14 +116,12 @@ export default function TrackContextMenu({
   });
 
   const [
-    isAddToPlaylistOpen,
-    setIsAddToPlaylistOpen,
-  ] = useState(false);
-
-  const [
-    isKeywordsOpen,
-    setIsKeywordsOpen,
-  ] = useState(false);
+    playlistActionMode,
+    setPlaylistActionMode,
+  ] =
+    useState<PlaylistActionMode | null>(
+      null,
+    );
 
   const [
     playlists,
@@ -101,62 +130,117 @@ export default function TrackContextMenu({
     loadPlaylists,
   );
 
-  const [
-    libraryTracks,
-    setLibraryTracks,
-  ] = useState<Track[]>(
-    loadTracks,
-  );
-
-  function handleOpenAddToPlaylist() {
+  function handleOpenPlaylistAction(
+    mode: PlaylistActionMode,
+  ) {
     setPlaylists(
       loadPlaylists(),
     );
 
-    setIsAddToPlaylistOpen(
-      true,
+    setPlaylistActionMode(
+      mode,
     );
   }
 
-  function handleAddToExistingPlaylist(
+  function applyPlaylistAction(
     destinationPlaylistId: string,
     trackIds: string[],
   ) {
     const latest =
       loadPlaylists();
 
+    const currentPlaylistId =
+      getCurrentPlaylistId();
+
+    const movedTrackIdSet =
+      new Set(
+        trackIds,
+      );
+
     const next =
       latest.map(
-        (playlist) =>
-          playlist.id ===
-          destinationPlaylistId
-            ? {
-                ...playlist,
+        (playlist) => {
+          if (
+            playlist.id ===
+            destinationPlaylistId
+          ) {
+            return {
+              ...playlist,
 
-                trackIds:
-                  Array.from(
-                    new Set([
-                      ...playlist.trackIds,
-                      ...trackIds,
-                    ]),
-                  ),
+              trackIds:
+                Array.from(
+                  new Set([
+                    ...playlist.trackIds,
+                    ...trackIds,
+                  ]),
+                ),
 
-                updatedAt:
-                  new Date()
-                    .toISOString(),
-              }
-            : playlist,
+              updatedAt:
+                new Date()
+                  .toISOString(),
+            };
+          }
+
+          if (
+            playlistActionMode ===
+              "move" &&
+            currentPlaylistId &&
+            playlist.id ===
+              currentPlaylistId
+          ) {
+            return {
+              ...playlist,
+
+              trackIds:
+                playlist.trackIds.filter(
+                  (trackId) =>
+                    !movedTrackIdSet.has(
+                      trackId,
+                    ),
+                ),
+
+              updatedAt:
+                new Date()
+                  .toISOString(),
+            };
+          }
+
+          return playlist;
+        },
       );
 
     savePlaylists(next);
     setPlaylists(next);
+
     notifyPlaylistsUpdated();
 
-    setIsAddToPlaylistOpen(
-      false,
+    setPlaylistActionMode(
+      null,
     );
 
     onClose();
+
+    if (
+      playlistActionMode ===
+      "move"
+    ) {
+      /*
+       * PlaylistDetailPage keeps its own playlist state.
+       * Reloading only after a context-menu move keeps the
+       * operation deterministic without duplicating parent logic.
+       */
+      window.location.reload();
+    }
+  }
+
+  function handleAddToExistingPlaylist(
+    destinationPlaylistId: string,
+    trackIds: string[],
+  ) {
+    applyPlaylistAction(
+      destinationPlaylistId,
+      trackIds,
+    );
   }
 
   function handleCreateAndAdd(
@@ -200,86 +284,70 @@ export default function TrackContextMenu({
           .toISOString(),
     };
 
-    const next = [
+    let next = [
       newPlaylist,
       ...latest,
     ];
 
+    if (
+      playlistActionMode ===
+      "move"
+    ) {
+      const currentPlaylistId =
+        getCurrentPlaylistId();
+
+      const movedTrackIdSet =
+        new Set(
+          trackIds,
+        );
+
+      if (currentPlaylistId) {
+        next =
+          next.map(
+            (playlist) =>
+              playlist.id ===
+              currentPlaylistId
+                ? {
+                    ...playlist,
+
+                    trackIds:
+                      playlist.trackIds.filter(
+                        (trackId) =>
+                          !movedTrackIdSet.has(
+                            trackId,
+                          ),
+                      ),
+
+                    updatedAt:
+                      new Date()
+                        .toISOString(),
+                  }
+                : playlist,
+          );
+      }
+    }
+
     savePlaylists(next);
     setPlaylists(next);
+
     notifyPlaylistsUpdated();
 
-    setIsAddToPlaylistOpen(
-      false,
+    setPlaylistActionMode(
+      null,
     );
 
     onClose();
-  }
 
-  function handleOpenKeywords() {
-    setLibraryTracks(
-      loadTracks(),
-    );
-
-    setIsKeywordsOpen(
-      true,
-    );
-  }
-
-  function handleSaveKeywords(
-    keywords: string[],
-  ) {
-    const cleaned =
-      Array.from(
-        new Map(
-          keywords
-            .map(
-              (keyword) =>
-                keyword.trim(),
-            )
-            .filter(Boolean)
-            .map(
-              (keyword) => [
-                normalizeKeyword(
-                  keyword,
-                ),
-                keyword,
-              ],
-            ),
-        ).values(),
-      );
-
-    const latest =
-      loadTracks();
-
-    const next =
-      latest.map(
-        (currentTrack) =>
-          currentTrack.id ===
-          track.id
-            ? {
-                ...currentTrack,
-                keywords:
-                  cleaned,
-              }
-            : currentTrack,
-      );
-
-    saveTracks(next);
-    setLibraryTracks(next);
-
-    setIsKeywordsOpen(
-      false,
-    );
-
-    onClose();
+    if (
+      playlistActionMode ===
+      "move"
+    ) {
+      window.location.reload();
+    }
   }
 
   useLayoutEffect(() => {
-    if (
-      isAddToPlaylistOpen ||
-      isKeywordsOpen
-    ) {
+    if (playlistActionMode) {
       return;
     }
 
@@ -337,35 +405,28 @@ export default function TrackContextMenu({
   }, [
     x,
     y,
-    isAddToPlaylistOpen,
-    isKeywordsOpen,
+    playlistActionMode,
   ]);
-
-  const currentTrack =
-    libraryTracks.find(
-      (item) =>
-        item.id === track.id,
-    ) ?? track;
-
-  const isModalOpen =
-    isAddToPlaylistOpen ||
-    isKeywordsOpen;
 
   return (
     <>
-      {!isModalOpen && (
+      {!playlistActionMode && (
         <div
           ref={menuRef}
           className="track-context-menu"
           style={{
             left:
               safePosition.left,
+
             top:
               safePosition.top,
+
             maxHeight:
               "calc(100vh - 24px)",
+
             overflowY:
               "auto",
+
             overscrollBehavior:
               "contain",
           }}
@@ -395,29 +456,70 @@ export default function TrackContextMenu({
 
           <div className="track-context-menu__separator" />
 
-          <button
-            type="button"
-            role="menuitem"
-            onClick={onEdit}
-          >
-            <Pencil size={15} />
-            <span>
-              Open details
-            </span>
-          </button>
-
           {onMatch && (
             <button
+              className="track-context-menu__primary"
               type="button"
               role="menuitem"
-              onClick={onMatch}
+              onClick={
+                onMatch
+              }
             >
               <Sparkles size={15} />
+
               <span>
                 Match Songs
               </span>
             </button>
           )}
+
+          <button
+            type="button"
+            role="menuitem"
+            onClick={
+              onEdit
+            }
+          >
+            <Pencil size={15} />
+
+            <span>
+              Edit Track
+            </span>
+          </button>
+
+          <button
+            type="button"
+            role="menuitem"
+            onClick={() =>
+              handleOpenPlaylistAction(
+                "move",
+              )
+            }
+          >
+            <ArrowRightLeft
+              size={15}
+            />
+
+            <span>
+              Move to Playlist
+            </span>
+          </button>
+
+          <button
+            type="button"
+            role="menuitem"
+            onClick={() =>
+              handleOpenPlaylistAction(
+                "add",
+              )
+            }
+          >
+            <ListPlus size={15} />
+
+            <span>
+              Add to Playlist
+            </span>
+          </button>
 
           {isInCurrentSet
             ? onRemoveFromCurrentSet && (
@@ -429,6 +531,7 @@ export default function TrackContextMenu({
                   }
                 >
                   <ListPlus size={15} />
+
                   <span>
                     Remove from Current Set
                   </span>
@@ -443,6 +546,7 @@ export default function TrackContextMenu({
                   }
                 >
                   <ListPlus size={15} />
+
                   <span>
                     Add to Current Set
                   </span>
@@ -452,26 +556,32 @@ export default function TrackContextMenu({
           <button
             type="button"
             role="menuitem"
-            onClick={
-              handleOpenAddToPlaylist
+            disabled={
+              !track.spotifyUrl
             }
-          >
-            <ListPlus size={15} />
-            <span>
-              Add to Playlist
-            </span>
-          </button>
+            title={
+              track.spotifyUrl
+                ? "Open this track in Spotify"
+                : "Spotify link unavailable"
+            }
+            onClick={() => {
+              openSpotify(
+                track.spotifyUrl,
+              );
 
-          <button
-            type="button"
-            role="menuitem"
-            onClick={
-              handleOpenKeywords
-            }
+              if (
+                track.spotifyUrl
+              ) {
+                onClose();
+              }
+            }}
           >
-            <Tags size={15} />
+            <ExternalLink
+              size={15}
+            />
+
             <span>
-              Edit Keywords
+              Open in Spotify
             </span>
           </button>
 
@@ -481,9 +591,12 @@ export default function TrackContextMenu({
             className="track-context-menu__danger"
             type="button"
             role="menuitem"
-            onClick={onRemove}
+            onClick={
+              onRemove
+            }
           >
             <Trash2 size={15} />
+
             <span>
               Remove from playlist
             </span>
@@ -493,7 +606,8 @@ export default function TrackContextMenu({
 
       <AddToPlaylistModal
         isOpen={
-          isAddToPlaylistOpen
+          playlistActionMode !==
+          null
         }
         trackIds={[
           track.id,
@@ -502,8 +616,8 @@ export default function TrackContextMenu({
           playlists
         }
         onClose={() => {
-          setIsAddToPlaylistOpen(
-            false,
+          setPlaylistActionMode(
+            null,
           );
 
           onClose();
@@ -513,28 +627,6 @@ export default function TrackContextMenu({
         }
         onCreateAndAdd={
           handleCreateAndAdd
-        }
-      />
-
-      <TrackKeywordsModal
-        isOpen={
-          isKeywordsOpen
-        }
-        track={
-          currentTrack
-        }
-        libraryTracks={
-          libraryTracks
-        }
-        onClose={() => {
-          setIsKeywordsOpen(
-            false,
-          );
-
-          onClose();
-        }}
-        onSave={
-          handleSaveKeywords
         }
       />
     </>

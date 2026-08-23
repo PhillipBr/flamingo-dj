@@ -1,0 +1,361 @@
+/* =========================================================
+   FLAMINGO DJ - MOBILE TRACK ACTIONS FINAL
+
+   Desktop:
+   - existing right-click context menu remains unchanged
+   - existing bulk action bar remains unchanged
+
+   Mobile:
+   - long press opens existing context menu pipeline
+   - context menu becomes a touch-friendly bottom sheet
+   - selected-track bulk bar becomes a compact action dock
+   ========================================================= */
+
+@media (max-width: 768px) {
+  /* -------------------------------------------------------
+     MOBILE LONG-PRESS FEEDBACK
+     ------------------------------------------------------- */
+
+  .tracks-table tbody tr {
+    -webkit-touch-callout: none;
+  }
+
+  /*
+   * Keep text selectable elsewhere in the app.
+   * Only table rows avoid accidental browser callout during long press.
+   */
+  .tracks-table tbody tr td {
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  /* -------------------------------------------------------
+     CONTEXT MENU -> MOBILE BOTTOM SHEET
+     ------------------------------------------------------- */
+
+  .track-context-menu {
+    position: fixed !important;
+
+    left: 8px !important;
+    right: 8px !important;
+    top: auto !important;
+
+    bottom:
+      calc(
+        68px +
+        env(safe-area-inset-bottom, 0px)
+      ) !important;
+
+    width: auto !important;
+    min-width: 0 !important;
+    max-width: none !important;
+
+    max-height: min(
+      64dvh,
+      460px
+    ) !important;
+
+    margin: 0 !important;
+
+    padding: 8px !important;
+
+    overflow-y: auto !important;
+    overscroll-behavior: contain !important;
+
+    border-radius: 16px !important;
+
+    z-index: 1200 !important;
+
+    box-shadow:
+      0 -8px 30px
+      rgba(0, 0, 0, 0.42) !important;
+
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .track-context-menu::before {
+    content: "";
+
+    display: block;
+
+    width: 34px;
+    height: 4px;
+
+    margin:
+      0 auto
+      8px;
+
+    border-radius: 999px;
+
+    background:
+      rgba(255, 255, 255, 0.18);
+  }
+
+  .track-context-menu__track {
+    display: grid !important;
+
+    grid-template-columns:
+      24px
+      minmax(0, 1fr) !important;
+
+    align-items: center !important;
+
+    gap: 8px !important;
+
+    min-height: 48px;
+
+    padding:
+      4px 6px
+      8px !important;
+  }
+
+  .track-context-menu__track > div {
+    min-width: 0;
+  }
+
+  .track-context-menu__track strong,
+  .track-context-menu__track span {
+    display: block;
+
+    overflow: hidden;
+
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .track-context-menu__track strong {
+    font-size: 14px !important;
+    line-height: 1.2 !important;
+  }
+
+  .track-context-menu__track span {
+    margin-top: 2px;
+
+    font-size: 11px !important;
+    line-height: 1.15 !important;
+  }
+
+  .track-context-menu__separator {
+    margin:
+      4px
+      4px !important;
+  }
+
+  .track-context-menu > button {
+    display: flex !important;
+
+    width: 100% !important;
+
+    min-height: 42px !important;
+
+    align-items: center !important;
+
+    gap: 10px !important;
+
+    padding:
+      8px
+      10px !important;
+
+    border-radius: 9px !important;
+
+    font-size: 12px !important;
+
+    text-align: left !important;
+
+    touch-action: manipulation;
+  }
+
+  .track-context-menu > button svg {
+    flex:
+      0 0 auto;
+  }
+
+
+}
+
+/* =========================================================
+   LANDSCAPE
+   Keep actions compact so the track table remains visible.
+   ========================================================= */
+
+@media (max-height: 520px) and (orientation: landscape) {
+  .track-context-menu {
+    left: auto !important;
+    right: 8px !important;
+
+    bottom:
+      calc(
+        54px +
+        env(safe-area-inset-bottom, 0px)
+      ) !important;
+
+    width: min(
+      310px,
+      44vw
+    ) !important;
+
+    max-height:
+      calc(
+        100dvh -
+        68px
+      ) !important;
+
+    border-radius: 12px !important;
+  }
+
+  .track-context-menu::before {
+    margin-bottom: 4px;
+  }
+
+  .track-context-menu__track {
+    min-height: 36px;
+
+    padding:
+      2px 5px
+      5px !important;
+  }
+
+  .track-context-menu__track strong {
+    font-size: 11px !important;
+  }
+
+  .track-context-menu__track span {
+    font-size: 8px !important;
+  }
+
+  .track-context-menu > button {
+    min-height: 32px !important;
+
+    padding:
+      5px
+      8px !important;
+
+    font-size: 9px !important;
+  }
+}
+
+
+/* =========================================================
+   BULK ACTIONS
+   Keep the project's original top/flow placement on mobile.
+   This stylesheet must NEVER pin BulkActionsBar over the tracks.
+   ========================================================= */
+
+@media (max-width: 768px) {
+  .bulk-actions {
+    position: static !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    top: auto !important;
+
+    width: 100% !important;
+    max-width: none !important;
+
+    margin: 0 !important;
+
+    z-index: auto !important;
+  }
+}
+
+@media (max-height: 520px) and (orientation: landscape) {
+  .bulk-actions {
+    position: static !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    top: auto !important;
+  }
+}
+
+
+/* =========================================================
+   FLAMINGO DJ - SELECTION ACTIONS V2
+   MATCH is primary. Folder / Rating / Energy / Keywords are
+   intentionally removed from quick actions and belong to Edit.
+   ========================================================= */
+
+.bulk-actions__button--match {
+  border-color:
+    rgba(255, 62, 149, 0.48) !important;
+
+  background:
+    rgba(255, 62, 149, 0.08) !important;
+
+  color:
+    var(--color-primary, #ff3e95) !important;
+
+  font-weight:
+    700 !important;
+}
+
+.bulk-actions__button:disabled,
+.track-context-menu > button:disabled {
+  opacity: 0.42 !important;
+  cursor: not-allowed !important;
+}
+
+.track-context-menu__primary {
+  color:
+    var(--color-primary, #ff3e95) !important;
+
+  font-weight:
+    700 !important;
+}
+
+@media (max-width: 768px) and (orientation: portrait) {
+  .bulk-actions--dj {
+    position: static !important;
+    width: 100% !important;
+    padding: 7px !important;
+  }
+
+  .bulk-actions__buttons--dj {
+    display: grid !important;
+    grid-template-columns:
+      repeat(4, minmax(0, 1fr)) !important;
+    gap: 4px !important;
+    width: 100% !important;
+    overflow: visible !important;
+  }
+
+  .bulk-actions__buttons--dj
+    .bulk-actions__button {
+    min-width: 0 !important;
+    min-height: 36px !important;
+    padding: 5px 3px !important;
+    justify-content: center !important;
+    gap: 3px !important;
+    font-size: 8px !important;
+    white-space: nowrap !important;
+  }
+
+  .bulk-actions__buttons--dj
+    .bulk-actions__button svg {
+    width: 13px !important;
+    height: 13px !important;
+  }
+}
+
+@media (max-height: 520px) and (orientation: landscape) {
+  .bulk-actions--dj {
+    position: static !important;
+  }
+
+  .bulk-actions__buttons--dj {
+    display: grid !important;
+    grid-template-columns:
+      repeat(7, minmax(0, 1fr)) !important;
+    gap: 4px !important;
+    width: 100% !important;
+  }
+
+  .bulk-actions__buttons--dj
+    .bulk-actions__button {
+    min-width: 0 !important;
+    min-height: 30px !important;
+    padding: 3px 2px !important;
+    justify-content: center !important;
+    font-size: 7px !important;
+  }
+}

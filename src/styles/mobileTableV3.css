@@ -1,0 +1,172 @@
+
+@media (max-width: 768px) {
+  .tracks-table-wrapper {
+    width: 100% !important;
+    overflow-x: hidden !important;
+  }
+
+  .tracks-table {
+    width: 100% !important;
+    min-width: 0 !important;
+    table-layout: fixed !important;
+  }
+
+  .tracks-table th,
+  .tracks-table td {
+    padding: 6px 4px !important;
+    height: 46px !important;
+  }
+
+  .tracks-table__selection-column,
+  .tracks-table__selection-cell {
+    width: 30px !important;
+    min-width: 30px !important;
+    max-width: 30px !important;
+  }
+
+  .tracks-table__index {
+    width: 28px !important;
+    min-width: 28px !important;
+    max-width: 28px !important;
+    font-size: 10px !important;
+  }
+
+  .tracks-table__drag-handle,
+  .tracks-table__resize-handle {
+    display: none !important;
+  }
+
+  .tracks-table__sort,
+  .tracks-table__plain-header {
+    padding: 0 !important;
+    font-size: 8px !important;
+    letter-spacing: .04em !important;
+  }
+
+  .tracks-table__cell-content {
+    min-width: 0 !important;
+    overflow: hidden !important;
+    font-size: 10px !important;
+  }
+
+  .track-title-cell__text {
+    display: grid !important;
+    gap: 2px !important;
+    min-width: 0 !important;
+  }
+
+  .track-title-cell__text strong {
+    overflow: hidden !important;
+    font-size: 12px !important;
+    line-height: 1.1 !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+  }
+
+  .track-title-cell__mobile-artist {
+    display: block !important;
+    overflow: hidden !important;
+    color: var(--color-text-secondary) !important;
+    font-size: 9px !important;
+    font-weight: 500 !important;
+    line-height: 1.1 !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+  }
+
+  .key-badge,
+  .popularity-badge {
+    min-width: 0 !important;
+    padding: 3px 4px !important;
+    font-size: 9px !important;
+  }
+
+  .energy-cell {
+    gap: 3px !important;
+    font-size: 9px !important;
+  }
+
+  .energy-bar {
+    width: 22px !important;
+    min-width: 22px !important;
+    height: 4px !important;
+  }
+
+  .tracks-table [data-column] {
+    display: none;
+  }
+
+  .tracks-table [data-column="title"],
+  .tracks-table [data-column="tempo"],
+  .tracks-table [data-column="spotifyPopularity"],
+  .tracks-table [data-column="musicalKey"],
+  .tracks-table [data-column="energy"] {
+    display: table-cell;
+  }
+
+  .tracks-table [data-column="artist"] {
+    display: none !important;
+  }
+
+  .tracks-table [data-column="title"] {
+    width: 50% !important;
+  }
+
+  .tracks-table [data-column="tempo"] {
+    width: 10% !important;
+  }
+
+  .tracks-table [data-column="spotifyPopularity"] {
+    width: 12% !important;
+  }
+
+  .tracks-table [data-column="musicalKey"] {
+    width: 10% !important;
+  }
+
+  .tracks-table [data-column="energy"] {
+    width: 14% !important;
+  }
+}
+
+@media (max-width: 768px) and (orientation: portrait) {
+  .tracks-table [data-column="releaseDate"] {
+    display: table-cell;
+    width: 15% !important;
+  }
+
+  .tracks-table [data-column="title"] {
+    width: 35% !important;
+  }
+
+  .tracks-table [data-column="tempo"] {
+    width: 9% !important;
+  }
+
+  .tracks-table [data-column="spotifyPopularity"] {
+    width: 11% !important;
+  }
+
+  .tracks-table [data-column="musicalKey"] {
+    width: 9% !important;
+  }
+
+  .tracks-table [data-column="energy"] {
+    width: 12% !important;
+  }
+
+  .tracks-table [data-column="releaseDate"] .tracks-table__cell-content {
+    font-size: 9px !important;
+    white-space: nowrap !important;
+  }
+}
+
+@media (max-width: 768px) and (orientation: landscape) {
+  .tracks-table [data-column="releaseDate"] {
+    display: none !important;
+  }
+
+  .tracks-table [data-column="title"] {
+    width: 52% !important;
+  }
+}

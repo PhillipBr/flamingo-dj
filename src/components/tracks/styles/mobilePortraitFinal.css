@@ -1,0 +1,253 @@
+/* =========================================================
+   FLAMINGO DJ - MOBILE PORTRAIT TABLE FINAL
+
+   Strict portrait preset:
+   TITLE + Artist | BPM | POP | KEY
+
+   This stylesheet is imported after TracksTable.css and uses
+   deliberately strong selectors so legacy mobile rules cannot
+   hide or collapse Title.
+   ========================================================= */
+
+@media (max-width: 768px) and (orientation: portrait) {
+  .tracks-table-section,
+  .tracks-table-section .tracks-table-wrapper {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+  }
+
+  .tracks-table-section .tracks-table-wrapper {
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+  }
+
+  .tracks-table-section .tracks-table-wrapper .tracks-table {
+    display: table !important;
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+    table-layout: fixed !important;
+    border-collapse: collapse !important;
+  }
+
+  .tracks-table-section .tracks-table__drag-handle,
+  .tracks-table-section .tracks-table__resize-handle {
+    display: none !important;
+  }
+
+  .tracks-table-section .tracks-table thead tr {
+    height: 30px !important;
+  }
+
+  .tracks-table-section .tracks-table tbody tr {
+    height: 38px !important;
+    min-height: 38px !important;
+    max-height: 38px !important;
+  }
+
+  .tracks-table-section .tracks-table th {
+    box-sizing: border-box !important;
+    height: 30px !important;
+    padding: 2px !important;
+    overflow: hidden !important;
+    vertical-align: middle !important;
+  }
+
+  .tracks-table-section .tracks-table td {
+    box-sizing: border-box !important;
+    height: 38px !important;
+    padding: 3px 2px !important;
+    overflow: hidden !important;
+    vertical-align: middle !important;
+  }
+
+  /* Tiny checkbox column. */
+  .tracks-table-section .tracks-table .tracks-table__selection-column,
+  .tracks-table-section .tracks-table .tracks-table__selection-cell {
+    display: table-cell !important;
+    width: 18px !important;
+    min-width: 18px !important;
+    max-width: 18px !important;
+    padding: 0 1px !important;
+    text-align: center !important;
+  }
+
+  .tracks-table-section .tracks-table__checkbox {
+    width: 11px !important;
+    height: 11px !important;
+    min-width: 11px !important;
+    min-height: 11px !important;
+    margin: 0 !important;
+  }
+
+  /* Tiny row number. */
+  .tracks-table-section .tracks-table .tracks-table__index {
+    display: table-cell !important;
+    width: 18px !important;
+    min-width: 18px !important;
+    max-width: 18px !important;
+    padding: 0 1px !important;
+    font-size: 8px !important;
+    line-height: 1 !important;
+    text-align: center !important;
+  }
+
+  /* TITLE MUST ALWAYS BE PRESENT and takes every remaining pixel. */
+  .tracks-table-section .tracks-table-wrapper .tracks-table th[data-column="title"],
+  .tracks-table-section .tracks-table-wrapper .tracks-table td[data-column="title"] {
+    display: table-cell !important;
+    visibility: visible !important;
+    width: auto !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    padding-left: 4px !important;
+    padding-right: 3px !important;
+    text-align: left !important;
+  }
+
+  .tracks-table-section .tracks-table-wrapper .tracks-table th[data-column="tempo"],
+  .tracks-table-section .tracks-table-wrapper .tracks-table td[data-column="tempo"] {
+    display: table-cell !important;
+    visibility: visible !important;
+    width: 40px !important;
+    min-width: 40px !important;
+    max-width: 40px !important;
+    text-align: center !important;
+  }
+
+  .tracks-table-section .tracks-table-wrapper .tracks-table th[data-column="spotifyPopularity"],
+  .tracks-table-section .tracks-table-wrapper .tracks-table td[data-column="spotifyPopularity"] {
+    display: table-cell !important;
+    visibility: visible !important;
+    width: 42px !important;
+    min-width: 42px !important;
+    max-width: 42px !important;
+    text-align: center !important;
+  }
+
+  .tracks-table-section .tracks-table-wrapper .tracks-table th[data-column="musicalKey"],
+  .tracks-table-section .tracks-table-wrapper .tracks-table td[data-column="musicalKey"] {
+    display: table-cell !important;
+    visibility: visible !important;
+    width: 40px !important;
+    min-width: 40px !important;
+    max-width: 40px !important;
+    text-align: center !important;
+  }
+
+  .tracks-table-section .tracks-table__header-content {
+    display: flex !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    align-items: center !important;
+    gap: 0 !important;
+    overflow: hidden !important;
+  }
+
+  .tracks-table-section .tracks-table__sort,
+  .tracks-table-section .tracks-table__plain-header {
+    width: 100% !important;
+    min-width: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    gap: 0 !important;
+    overflow: hidden !important;
+    font-size: 8px !important;
+    line-height: 1 !important;
+    letter-spacing: 0 !important;
+    white-space: nowrap !important;
+  }
+
+  .tracks-table-section .tracks-table__sort svg {
+    display: none !important;
+  }
+
+  .tracks-table-section .tracks-table th[data-column="spotifyPopularity"] .tracks-table__sort span {
+    font-size: 0 !important;
+  }
+
+  .tracks-table-section .tracks-table th[data-column="spotifyPopularity"] .tracks-table__sort span::after {
+    content: "POP" !important;
+    font-size: 8px !important;
+  }
+
+  .tracks-table-section .tracks-table th[data-column="tempo"] .tracks-table__sort,
+  .tracks-table-section .tracks-table th[data-column="spotifyPopularity"] .tracks-table__sort,
+  .tracks-table-section .tracks-table th[data-column="musicalKey"] .tracks-table__sort {
+    justify-content: center !important;
+    text-align: center !important;
+  }
+
+  .tracks-table-section .tracks-table th[data-column="title"] .tracks-table__sort {
+    justify-content: flex-start !important;
+    text-align: left !important;
+  }
+
+  .tracks-table-section .tracks-table__cell-content {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+    font-size: 9px !important;
+    line-height: 1.05 !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+  }
+
+  .tracks-table-section .track-title-cell__text {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    gap: 2px !important;
+    overflow: hidden !important;
+  }
+
+  .tracks-table-section .track-title-cell__text strong {
+    display: block !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+    font-size: 10px !important;
+    font-weight: 700 !important;
+    line-height: 1.05 !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+  }
+
+  .tracks-table-section .track-title-cell__mobile-artist {
+    display: block !important;
+    visibility: visible !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+    color: var(--color-text-secondary) !important;
+    font-size: 8px !important;
+    font-weight: 400 !important;
+    line-height: 1 !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+  }
+
+  .tracks-table-section .popularity-badge,
+  .tracks-table-section .key-badge,
+  .tracks-table-section .camelot-badge {
+    display: inline-flex !important;
+    width: auto !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 2px 3px !important;
+    font-size: 8px !important;
+    line-height: 1 !important;
+  }
+
+  .tracks-table-section .tracks-table-layout-toolbar {
+    display: none !important;
+  }
+}

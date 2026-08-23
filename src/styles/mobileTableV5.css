@@ -1,0 +1,202 @@
+@media (max-width: 768px) {
+  .tracks-table-layout-toolbar {
+    display: none !important;
+  }
+
+  .tracks-table-wrapper {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+  }
+
+  .tracks-table {
+    width: 100% !important;
+    min-width: 0 !important;
+    table-layout: fixed !important;
+  }
+
+  .tracks-table th,
+  .tracks-table td {
+    box-sizing: border-box !important;
+    height: 42px !important;
+    padding: 4px 2px !important;
+    overflow: hidden !important;
+  }
+
+  .tracks-table__selection-column,
+  .tracks-table__selection-cell {
+    width: 23px !important;
+    min-width: 23px !important;
+    max-width: 23px !important;
+    padding-left: 1px !important;
+    padding-right: 1px !important;
+  }
+
+  .tracks-table__checkbox {
+    width: 13px !important;
+    height: 13px !important;
+  }
+
+  .tracks-table__index {
+    width: 20px !important;
+    min-width: 20px !important;
+    max-width: 20px !important;
+    padding: 0 !important;
+    font-size: 8px !important;
+    text-align: center !important;
+  }
+
+  .tracks-table__drag-handle,
+  .tracks-table__resize-handle {
+    display: none !important;
+  }
+
+  .tracks-table__sort,
+  .tracks-table__plain-header {
+    min-width: 0 !important;
+    padding: 0 !important;
+    gap: 1px !important;
+    overflow: hidden !important;
+    font-size: 7px !important;
+    line-height: 1 !important;
+    letter-spacing: 0 !important;
+    white-space: nowrap !important;
+  }
+
+  .tracks-table__sort svg {
+    display: none !important;
+  }
+
+  .tracks-table__cell-content {
+    min-width: 0 !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+    font-size: 8px !important;
+    line-height: 1.05 !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+  }
+
+  .track-title-cell__text {
+    display: grid !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    gap: 2px !important;
+  }
+
+  .track-title-cell__text strong {
+    display: block !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+    font-size: 10px !important;
+    line-height: 1.08 !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+  }
+
+  .track-title-cell__mobile-artist {
+    display: block !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+    color: var(--color-text-secondary) !important;
+    font-size: 7.5px !important;
+    line-height: 1.05 !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+  }
+
+  .key-badge,
+  .popularity-badge,
+  .camelot-badge {
+    min-width: 0 !important;
+    width: auto !important;
+    max-width: 100% !important;
+    padding: 2px 3px !important;
+    font-size: 7.5px !important;
+  }
+
+  .energy-cell {
+    gap: 2px !important;
+    font-size: 7.5px !important;
+  }
+
+  .energy-bar {
+    width: 12px !important;
+    min-width: 12px !important;
+    height: 3px !important;
+  }
+
+  .tracks-table th[data-column="tempo"],
+  .tracks-table td[data-column="tempo"] {
+    width: 26px !important;
+    min-width: 26px !important;
+    max-width: 26px !important;
+  }
+
+  .tracks-table th[data-column="spotifyPopularity"],
+  .tracks-table td[data-column="spotifyPopularity"] {
+    width: 29px !important;
+    min-width: 29px !important;
+    max-width: 29px !important;
+  }
+
+  .tracks-table th[data-column="musicalKey"],
+  .tracks-table td[data-column="musicalKey"] {
+    width: 28px !important;
+    min-width: 28px !important;
+    max-width: 28px !important;
+  }
+
+  .tracks-table th[data-column="energy"],
+  .tracks-table td[data-column="energy"] {
+    width: 31px !important;
+    min-width: 31px !important;
+    max-width: 31px !important;
+  }
+
+  .tracks-table th[data-column="releaseDate"],
+  .tracks-table td[data-column="releaseDate"] {
+    width: 36px !important;
+    min-width: 36px !important;
+    max-width: 36px !important;
+  }
+}
+
+@media (max-width: 768px) and (orientation: landscape) {
+  .app-content {
+    padding-top: 5px !important;
+  }
+
+  .page-description {
+    display: none !important;
+  }
+
+  .page-header {
+    margin-bottom: 5px !important;
+  }
+
+  .page-header h1 {
+    margin-bottom: 2px !important;
+    font-size: 19px !important;
+  }
+
+  .tracks-toolbar {
+    display: grid !important;
+    grid-template-columns: minmax(140px, 1fr) auto !important;
+    gap: 4px !important;
+    align-items: center !important;
+  }
+
+  .tracks-toolbar__actions {
+    display: flex !important;
+    width: auto !important;
+    gap: 4px !important;
+  }
+
+  .tracks-table th,
+  .tracks-table td {
+    height: 36px !important;
+  }
+}

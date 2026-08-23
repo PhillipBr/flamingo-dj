@@ -13,39 +13,35 @@ const navigationItems = [
   {
     to: "/",
     label: "Dashboard",
-    icon:
-      LayoutDashboard,
+    icon: LayoutDashboard,
     end: true,
   },
-
   {
     to: "/playlists",
     label: "Playlists",
-    icon:
-      ListMusic,
+    icon: ListMusic,
     end: false,
   },
-
   {
     to: "/tracks",
     label: "Tracks",
-    icon:
-      Disc3,
+    icon: Disc3,
     end: false,
   },
-
   {
     to: "/live",
     label: "Live",
-    icon:
-      Radio,
+    icon: Radio,
     end: false,
   },
 ];
 
 export default function Sidebar() {
   return (
-    <aside className="sidebar">
+    <aside
+      className="sidebar"
+      aria-label="Primary navigation"
+    >
       <div className="sidebar__brand">
         <div className="sidebar__brand-mark">
           F
@@ -62,7 +58,10 @@ export default function Sidebar() {
         </div>
       </div>
 
-      <nav className="sidebar__nav">
+      <nav
+        className="sidebar__nav"
+        aria-label="Main"
+      >
         {navigationItems.map(
           ({
             to,
@@ -84,6 +83,7 @@ export default function Sidebar() {
             >
               <Icon
                 size={18}
+                aria-hidden="true"
               />
 
               <span>

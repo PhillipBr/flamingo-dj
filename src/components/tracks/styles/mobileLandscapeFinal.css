@@ -1,0 +1,197 @@
+/* =========================================================
+   FLAMINGO DJ - MOBILE LANDSCAPE TABLE FINAL
+   ========================================================= */
+@media (max-height: 520px) and (orientation: landscape) {
+  .tracks-table-section {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+
+  /* Saves vertical space. Reset Layout remains available on desktop. */
+  .tracks-table-layout-toolbar {
+    display: none !important;
+  }
+
+  .tracks-table-wrapper {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    height: 258px !important;
+    min-height: 258px !important;
+    max-height: 258px !important;
+    overflow-x: auto !important;
+    overflow-y: auto !important;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .tracks-table {
+    width: max-content !important;
+    min-width: 100% !important;
+    table-layout: fixed !important;
+    border-collapse: collapse;
+  }
+
+  .tracks-table__drag-handle,
+  .tracks-table__resize-handle { display: none !important; }
+
+  .tracks-table thead th {
+    position: sticky;
+    top: 0;
+    z-index: 4;
+    height: 24px !important;
+    padding: 1px 2px !important;
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+  }
+
+  .tracks-table tbody td {
+    height: 28px !important;
+    padding: 1px 2px !important;
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+  }
+
+  .tracks-table__selection-column,
+  .tracks-table__selection-cell {
+    width: 18px !important;
+    min-width: 18px !important;
+    max-width: 18px !important;
+    padding: 0 1px !important;
+    text-align: center !important;
+  }
+
+  .tracks-table__checkbox {
+    width: 11px !important;
+    height: 11px !important;
+    margin: 0 !important;
+  }
+
+  .tracks-table__index {
+    width: 20px !important;
+    min-width: 20px !important;
+    max-width: 20px !important;
+    padding: 0 1px !important;
+    font-size: 8px !important;
+    text-align: center !important;
+  }
+
+  .tracks-table__header-content,
+  .tracks-table__cell-content {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+  }
+
+  .tracks-table__sort,
+  .tracks-table__plain-header {
+    width: 100% !important;
+    min-width: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    gap: 1px !important;
+    overflow: hidden !important;
+    font-size: 7px !important;
+    line-height: 1 !important;
+    letter-spacing: 0 !important;
+    white-space: nowrap !important;
+  }
+
+  .tracks-table__sort svg { display: none !important; }
+
+  .tracks-table__cell-content {
+    font-size: 8px !important;
+    line-height: 1 !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+  }
+
+  .track-title-cell__text {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    gap: 1px !important;
+    overflow: hidden !important;
+  }
+
+  .track-title-cell__text strong {
+    display: block !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    overflow: hidden !important;
+    font-size: 9px !important;
+    line-height: 1 !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+  }
+
+  .track-title-cell__mobile-artist {
+    display: block !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    overflow: hidden !important;
+    color: var(--color-text-secondary) !important;
+    font-size: 7px !important;
+    line-height: 1 !important;
+    font-weight: 400 !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+  }
+
+  .popularity-badge,
+  .key-badge,
+  .camelot-badge {
+    display: inline-flex !important;
+    width: auto !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    padding: 1px 2px !important;
+    font-size: 7px !important;
+    line-height: 1 !important;
+  }
+
+  .energy-cell {
+    display: flex !important;
+    align-items: center !important;
+    gap: 3px !important;
+    min-width: 0 !important;
+    font-size: 8px !important;
+  }
+
+  .energy-bar {
+    flex: 1 1 auto !important;
+    min-width: 18px !important;
+    height: 3px !important;
+  }
+}
+
+/* Landscape title protection against legacy mobile rules. */
+@media (max-height: 520px) and (orientation: landscape) {
+  .tracks-table-section .tracks-table-wrapper .tracks-table th[data-column="title"],
+  .tracks-table-section .tracks-table-wrapper .tracks-table td[data-column="title"] {
+    display: table-cell !important;
+    visibility: visible !important;
+    width: 210px !important;
+    min-width: 180px !important;
+    max-width: 240px !important;
+    text-align: left !important;
+  }
+
+  .tracks-table-section .track-title-cell__mobile-artist {
+    display: block !important;
+    visibility: visible !important;
+  }
+
+  .tracks-table-section .tracks-table th[data-column="spotifyPopularity"] .tracks-table__sort span {
+    font-size: 0 !important;
+  }
+
+  .tracks-table-section .tracks-table th[data-column="spotifyPopularity"] .tracks-table__sort span::after {
+    content: "POP" !important;
+    font-size: 7px !important;
+  }
+}

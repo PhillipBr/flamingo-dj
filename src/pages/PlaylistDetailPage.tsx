@@ -8,6 +8,7 @@ import {
 import {
   useEffect,
   useMemo,
+  useRef,
   useState,
   type MouseEvent,
 } from "react";
@@ -196,13 +197,6 @@ function loadTrackFilters(): TrackFilters {
   }
 }
 
-function normalizeKeyword(
-  value: string,
-): string {
-  return value
-    .trim()
-    .toLowerCase();
-}
 
 export default function PlaylistDetailPage() {
   const { playlistId } =
@@ -265,6 +259,18 @@ export default function PlaylistDetailPage() {
   ] = useState<string | null>(
     null,
   );
+
+  const [
+    spotifyTrackId,
+    setSpotifyTrackId,
+  ] = useState<string | null>(
+    null,
+  );
+
+  const spotifyWindowRef =
+    useRef<Window | null>(
+      null,
+    );
 
   const [
     currentSet,
@@ -369,7 +375,7 @@ export default function PlaylistDetailPage() {
     setTracks,
     visibleColumns,
     playlistTrackIds: playlist?.trackIds,
-    detailTrackId: detailsTrackId,
+    detailTrackId: detailsTrackId ?? spotifyTrackId,
     genreFilter,
     advancedFilters,
     searchTerm,
@@ -441,6 +447,54 @@ export default function PlaylistDetailPage() {
         track.id ===
         matchTrackId,
     ) ?? null;
+
+  useEffect(() => {
+    if (!spotifyTrackId) {
+      return;
+    }
+
+    const spotifyTrack =
+      tracks.find(
+        (track) =>
+          track.id ===
+          spotifyTrackId,
+      );
+
+    if (
+      !spotifyTrack ||
+      !spotifyTrack.spotifyUrl
+    ) {
+      return;
+    }
+
+    const pendingWindow =
+      spotifyWindowRef.current;
+
+    if (
+      pendingWindow &&
+      !pendingWindow.closed
+    ) {
+      pendingWindow.location.href =
+        spotifyTrack.spotifyUrl;
+    } else {
+      window.open(
+        spotifyTrack.spotifyUrl,
+        "_blank",
+        "noopener,noreferrer",
+      );
+    }
+
+    spotifyWindowRef.current =
+      null;
+
+    setSpotifyTrackId(
+      null,
+    );
+  }, [
+    spotifyTrackId,
+    tracks,
+  ]);
+
 
   const currentSetTracks =
     useMemo(() => {
@@ -540,6 +594,18 @@ export default function PlaylistDetailPage() {
       setContextMenu(null);
       setDetailsTrackId(null);
       setMatchTrackId(null);
+      setSpotifyTrackId(null);
+
+      if (
+        spotifyWindowRef.current &&
+        !spotifyWindowRef.current.closed
+      ) {
+        spotifyWindowRef.current.close();
+      }
+
+      spotifyWindowRef.current =
+        null;
+
       setTransferMode(null);
       setIsSaveCurrentSetOpen(false);
       setSetEditorRequest(null);
@@ -720,116 +786,6 @@ export default function PlaylistDetailPage() {
       sortDirection,
       sortField,
     ]);
-
-  function updateSelectedTracks(
-    updater: (
-      track: Track,
-    ) => Track,
-  ) {
-    setTracks(
-      (currentTracks) =>
-        currentTracks.map(
-          (track) =>
-            selectedTrackIdSet.has(
-              track.id,
-            )
-              ? updater(track)
-              : track,
-        ),
-    );
-  }
-
-  function handleBulkSetFolder(
-    folder: string | null,
-  ) {
-    updateSelectedTracks(
-      (track) => ({
-        ...track,
-        folder,
-      }),
-    );
-  }
-
-  function handleBulkAddKeyword(
-    keyword: string,
-  ) {
-    const normalizedNewKeyword =
-      normalizeKeyword(
-        keyword,
-      );
-
-    updateSelectedTracks(
-      (track) => {
-        const keywordExists =
-          track.keywords.some(
-            (currentKeyword) =>
-              normalizeKeyword(
-                currentKeyword,
-              ) ===
-              normalizedNewKeyword,
-          );
-
-        if (keywordExists) {
-          return track;
-        }
-
-        return {
-          ...track,
-
-          keywords: [
-            ...track.keywords,
-            keyword,
-          ],
-        };
-      },
-    );
-  }
-
-  function handleBulkRemoveKeyword(
-    keyword: string,
-  ) {
-    const normalizedKeywordToRemove =
-      normalizeKeyword(
-        keyword,
-      );
-
-    updateSelectedTracks(
-      (track) => ({
-        ...track,
-
-        keywords:
-          track.keywords.filter(
-            (currentKeyword) =>
-              normalizeKeyword(
-                currentKeyword,
-              ) !==
-              normalizedKeywordToRemove,
-          ),
-      }),
-    );
-  }
-
-  function handleBulkSetRating(
-    rating: number | null,
-  ) {
-    updateSelectedTracks(
-      (track) => ({
-        ...track,
-        rating,
-      }),
-    );
-  }
-
-  function handleBulkSetEnergy(
-    energy: number | null,
-  ) {
-    updateSelectedTracks(
-      (track) => ({
-        ...track,
-        energy,
-      }),
-    );
-  }
 
   function removeTrackIdsFromCurrentPlaylist(
     trackIdsToRemove: string[],
@@ -2023,6 +1979,84 @@ export default function PlaylistDetailPage() {
     );
   }
 
+  function handleEditSelectedTrack() {
+    if (
+      selectedTrackIds.length !==
+      1
+    ) {
+      return;
+    }
+
+    handleOpenTrackDetails(
+      selectedTrackIds[0],
+    );
+  }
+
+  function handleOpenSelectedSpotify() {
+    if (
+      selectedTrackIds.length !==
+      1
+    ) {
+      return;
+    }
+
+    const trackId =
+      selectedTrackIds[0];
+
+    const selectedTrack =
+      tracks.find(
+        (track) =>
+          track.id === trackId,
+      );
+
+    if (!selectedTrack) {
+      return;
+    }
+
+    /*
+     * If EXTRA was already hydrated, open Spotify immediately.
+     */
+    if (selectedTrack.spotifyUrl) {
+      window.open(
+        selectedTrack.spotifyUrl,
+        "_blank",
+        "noopener,noreferrer",
+      );
+
+      return;
+    }
+
+    /*
+     * Open a blank tab synchronously so browsers do not block the
+     * eventual navigation after lazy EXTRA loading finishes.
+     */
+    const pendingWindow =
+      window.open(
+        "",
+        "_blank",
+      );
+
+    spotifyWindowRef.current =
+      pendingWindow;
+
+    if (pendingWindow) {
+      try {
+        pendingWindow.document.title =
+          `Opening ${selectedTrack.title} in Spotify...`;
+
+        pendingWindow.document.body.innerHTML =
+          "<p style='font-family:system-ui;padding:24px'>Loading Spotify track…</p>";
+      } catch {
+        // Cross-window document access can fail in hardened browsers.
+      }
+    }
+
+    setSpotifyTrackId(
+      trackId,
+    );
+  }
+
+
   function handleSaveTrack(
     trackId: string,
     changes: Partial<Track>,
@@ -2273,30 +2307,24 @@ export default function PlaylistDetailPage() {
           selectedCount={
             selectedTrackIds.length
           }
-          onCopySelected={() =>
-            setTransferMode(
-              "copy",
-            )
+          onMatchSelected={
+            handleOpenMatchPanel
+          }
+          onEditSelected={
+            handleEditSelectedTrack
           }
           onMoveSelected={() =>
             setTransferMode(
               "move",
             )
           }
-          onSetFolder={
-            handleBulkSetFolder
+          onAddSelected={() =>
+            setTransferMode(
+              "copy",
+            )
           }
-          onAddKeyword={
-            handleBulkAddKeyword
-          }
-          onRemoveKeyword={
-            handleBulkRemoveKeyword
-          }
-          onSetRating={
-            handleBulkSetRating
-          }
-          onSetEnergy={
-            handleBulkSetEnergy
+          onOpenSpotifySelected={
+            handleOpenSelectedSpotify
           }
           onDeleteSelected={
             handleDeleteSelected
