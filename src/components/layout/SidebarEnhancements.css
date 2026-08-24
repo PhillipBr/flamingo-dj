@@ -80,3 +80,11 @@
     display: none !important;
   }
 }
+
+
+/* V4: Harmonic is part of mobile navigation, not DJ TOOLS. */
+@media (max-width: 768px) {
+  .sidebar__dj-tools {
+    display: none !important;
+  }
+}

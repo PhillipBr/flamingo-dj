@@ -105,7 +105,13 @@ function dispatchHarmonicFilter(
   );
 }
 
-export default function HarmonicWheelPanel() {
+type HarmonicWheelPanelProps = {
+  variant?: "desktop" | "mobile-nav";
+};
+
+export default function HarmonicWheelPanel({
+  variant = "desktop",
+}: HarmonicWheelPanelProps) {
   const [
     isOpen,
     setIsOpen,
@@ -341,45 +347,76 @@ export default function HarmonicWheelPanel() {
 
   return (
     <section
-      className="harmonic-wheel"
+      className={[
+        "harmonic-wheel",
+        variant === "mobile-nav"
+          ? "harmonic-wheel--mobile-nav"
+          : "harmonic-wheel--desktop",
+      ].join(" ")}
       aria-label="Harmonic wheel"
     >
-      <button
-        className="harmonic-wheel__toggle"
-        type="button"
-        aria-expanded={
-          isOpen
-        }
-        onClick={() =>
-          setIsOpen(true)
-        }
-      >
-        <span className="harmonic-wheel__toggle-icon">
+      {variant === "mobile-nav" ? (
+        <button
+          className="sidebar__link sidebar__harmonic-mobile-link"
+          type="button"
+          aria-expanded={
+            isOpen
+          }
+          aria-label="Open harmonic mixing"
+          onClick={() =>
+            setIsOpen(true)
+          }
+        >
           <img
+            className="sidebar__harmonic-mobile-icon"
             src={
               camelotWheelUrl
             }
             alt=""
           />
-        </span>
-
-        <span className="harmonic-wheel__toggle-copy">
-          <strong>
-            Harmonic
-          </strong>
 
           <span>
-            {filterKey
-              ? `Filter: ${filterKey} · ${keyToCamelot(filterKey) ?? "—"}`
-              : `All keys · Ref ${reference.key}`}
+            Harmonic
           </span>
-        </span>
+        </button>
+      ) : (
+        <button
+          className="harmonic-wheel__toggle"
+          type="button"
+          aria-expanded={
+            isOpen
+          }
+          onClick={() =>
+            setIsOpen(true)
+          }
+        >
+          <span className="harmonic-wheel__toggle-icon">
+            <img
+              src={
+                camelotWheelUrl
+              }
+              alt=""
+            />
+          </span>
 
-        <ChevronDown
-          size={15}
-          aria-hidden="true"
-        />
-      </button>
+          <span className="harmonic-wheel__toggle-copy">
+            <strong>
+              Harmonic
+            </strong>
+
+            <span>
+              {filterKey
+                ? `Filter: ${filterKey} · ${keyToCamelot(filterKey) ?? "—"}`
+                : `All keys · Ref ${reference.key}`}
+            </span>
+          </span>
+
+          <ChevronDown
+            size={15}
+            aria-hidden="true"
+          />
+        </button>
+      )}
 
       {isOpen && (
         <div

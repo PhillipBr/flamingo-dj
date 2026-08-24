@@ -103,6 +103,10 @@ export default function Sidebar() {
             </NavLink>
           ),
         )}
+
+        <HarmonicWheelPanel
+          variant="mobile-nav"
+        />
       </nav>
 
       <div className="sidebar__dj-tools">
@@ -110,7 +114,9 @@ export default function Sidebar() {
           DJ TOOLS
         </span>
 
-        <HarmonicWheelPanel />
+        <HarmonicWheelPanel
+          variant="desktop"
+        />
       </div>
     </aside>
   );
