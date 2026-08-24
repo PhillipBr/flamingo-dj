@@ -9,6 +9,12 @@ import {
   NavLink,
 } from "react-router-dom";
 
+import flamingoLogoUrl from "../../assets/branding/flamingo-logo.png";
+
+import HarmonicWheelPanel from "../harmonic/HarmonicWheelPanel";
+
+import "./SidebarEnhancements.css";
+
 const navigationItems = [
   {
     to: "/",
@@ -42,12 +48,17 @@ export default function Sidebar() {
       className="sidebar"
       aria-label="Primary navigation"
     >
-      <div className="sidebar__brand">
-        <div className="sidebar__brand-mark">
-          F
+      <div className="sidebar__brand sidebar__brand--flamingo">
+        <div className="sidebar__brand-logo">
+          <img
+            src={
+              flamingoLogoUrl
+            }
+            alt="Flamingo DJ"
+          />
         </div>
 
-        <div>
+        <div className="sidebar__brand-copy">
           <strong>
             Flamingo
           </strong>
@@ -93,6 +104,14 @@ export default function Sidebar() {
           ),
         )}
       </nav>
+
+      <div className="sidebar__dj-tools">
+        <span className="sidebar__dj-tools-label">
+          DJ TOOLS
+        </span>
+
+        <HarmonicWheelPanel />
+      </div>
     </aside>
   );
 }

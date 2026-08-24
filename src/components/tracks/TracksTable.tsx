@@ -30,6 +30,7 @@ import {
 } from "../../utils/trackFormatters";
 import { countryToFlag } from "../../utils/countryFlag";
 import { useMobileOrientation } from "../../hooks/useMobileOrientation";
+import { normalizeHarmonicKey } from "../harmonic/harmonicUtils";
 import "./TracksTable.css";
 import "./styles/mobilePortraitFinal.css";
 import "./styles/mobileLandscapeFinal.css";
@@ -678,6 +679,118 @@ export default function TracksTable({
   const { isMobile, orientation } =
     useMobileOrientation();
 
+  const [
+    harmonicFilterKey,
+    setHarmonicFilterKey,
+  ] = useState<string | null>(() => {
+    try {
+      return normalizeHarmonicKey(
+        window.localStorage.getItem(
+          "flamingo-dj-harmonic-filter-v1",
+        ),
+      );
+    } catch {
+      return null;
+    }
+  });
+
+  useEffect(() => {
+    function handleHarmonicFilter(
+      event: Event,
+    ) {
+      const customEvent =
+        event as CustomEvent<{
+          key?: string | null;
+        }>;
+
+      setHarmonicFilterKey(
+        normalizeHarmonicKey(
+          customEvent.detail?.key,
+        ),
+      );
+    }
+
+    window.addEventListener(
+      "flamingo-dj-harmonic-filter",
+      handleHarmonicFilter,
+    );
+
+    return () => {
+      window.removeEventListener(
+        "flamingo-dj-harmonic-filter",
+        handleHarmonicFilter,
+      );
+    };
+  }, []);
+
+  const harmonicVisibleTracks =
+    useMemo(() => {
+      if (!harmonicFilterKey) {
+        return tracks;
+      }
+
+      return tracks.filter(
+        (track) =>
+          normalizeHarmonicKey(
+            track.musicalKey,
+          ) ===
+          harmonicFilterKey,
+      );
+    }, [
+      tracks,
+      harmonicFilterKey,
+    ]);
+
+
+  useEffect(() => {
+    /*
+     * Harmonic reference for the desktop sidebar.
+     * Only one selected track becomes the reference.
+     * No playlist/table behavior is changed.
+     */
+    if (
+      selectedTrackIds.length !==
+      1
+    ) {
+      return;
+    }
+
+    const selectedTrack =
+      tracks.find(
+        (track) =>
+          track.id ===
+          selectedTrackIds[0],
+      );
+
+    if (
+      !selectedTrack?.musicalKey
+    ) {
+      return;
+    }
+
+    window.dispatchEvent(
+      new CustomEvent(
+        "flamingo-dj-harmonic-key",
+        {
+          detail: {
+            key:
+              selectedTrack.musicalKey,
+
+            title:
+              selectedTrack.title,
+
+            artist:
+              selectedTrack.artist,
+          },
+        },
+      ),
+    );
+  }, [
+    selectedTrackIds,
+    tracks,
+  ]);
+
+
   const mobileLongPressTimerRef =
     useRef<number | null>(null);
 
@@ -953,25 +1066,67 @@ export default function TracksTable({
     );
   }
 
+  if (
+    harmonicFilterKey &&
+    harmonicVisibleTracks.length === 0
+  ) {
+    return (
+      <div className="tracks-empty-state">
+        <Music2 size={30} />
+        <h2>
+          No tracks in {harmonicFilterKey}
+        </h2>
+        <p>
+          Choose another key or select All keys in Harmonic Mixing.
+        </p>
+      </div>
+    );
+  }
+
   const selectedTrackIdSet = new Set(
     selectedTrackIds,
   );
 
-  const selectedVisibleCount = tracks.reduce(
-    (count, track) =>
-      selectedTrackIdSet.has(track.id)
-        ? count + 1
-        : count,
-    0,
-  );
+  const selectedVisibleCount =
+    harmonicVisibleTracks.reduce(
+      (count, track) =>
+        selectedTrackIdSet.has(track.id)
+          ? count + 1
+          : count,
+      0,
+    );
 
   const areAllVisibleSelected =
-    tracks.length > 0 &&
-    selectedVisibleCount === tracks.length;
+    harmonicVisibleTracks.length > 0 &&
+    selectedVisibleCount ===
+      harmonicVisibleTracks.length;
 
   const areSomeVisibleSelected =
     selectedVisibleCount > 0 &&
-    selectedVisibleCount < tracks.length;
+    selectedVisibleCount <
+      harmonicVisibleTracks.length;
+
+  function handleToggleAllRendered(
+    checked: boolean,
+  ) {
+    if (!harmonicFilterKey) {
+      onToggleAllVisible(
+        checked,
+      );
+      return;
+    }
+
+    /*
+     * When Harmonic filter is active, "select all" must affect only
+     * the rows actually rendered by that harmonic filter.
+     */
+    for (const track of harmonicVisibleTracks) {
+      onToggleTrackSelection(
+        track.id,
+        checked,
+      );
+    }
+  }
 
   function getColumnWidth(
     columnId: TrackColumnId,
@@ -1180,7 +1335,7 @@ export default function TracksTable({
                 <SelectAllCheckbox
                   checked={areAllVisibleSelected}
                   indeterminate={areSomeVisibleSelected}
-                  onChange={onToggleAllVisible}
+                  onChange={handleToggleAllRendered}
                 />
               </th>
 
@@ -1292,7 +1447,7 @@ export default function TracksTable({
           </thead>
 
           <tbody>
-            {tracks.map((track, index) => {
+            {harmonicVisibleTracks.map((track, index) => {
               const isSelected =
                 selectedTrackIdSet.has(track.id);
 
