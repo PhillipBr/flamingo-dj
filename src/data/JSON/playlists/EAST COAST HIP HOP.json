@@ -6,7 +6,7 @@
   "totalTracks": 282,
   "batchCompletedTracks": 282,
   "excludedIncompleteTracks": 31,
-  "generatedAt": "2026-08-23T21:13:33",
+  "generatedAt": "2026-08-23T21:26:32",
   "filters": {
     "genres_any": [],
     "genres_exclude": [],
@@ -280,7 +280,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3",
         "spotifyId": "2bwR166mSJEJrYJqfyust3",
-        "musicBrainzId": null,
+        "musicBrainzId": "df6bcd60-5353-49ca-8cbf-0c748b0a16f3",
         "popularity": 45,
         "followers": 224101
       }
@@ -330,7 +330,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5",
         "spotifyId": "0OtigLoCgLYvXnMxbE5qH5",
-        "musicBrainzId": null,
+        "musicBrainzId": "8b70d4d9-b3d3-4a99-8a95-96ee59f12140",
         "popularity": 45,
         "followers": 327508
       }
@@ -932,7 +932,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
         "spotifyId": "30fiiwr2EeZp1tAhzYCmyM",
-        "musicBrainzId": null,
+        "musicBrainzId": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
         "popularity": 63,
         "followers": 1018338
       }
@@ -1010,7 +1010,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
         "spotifyId": "30fiiwr2EeZp1tAhzYCmyM",
-        "musicBrainzId": null,
+        "musicBrainzId": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
         "popularity": 63,
         "followers": 1018338
       }
@@ -1060,7 +1060,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ",
         "spotifyId": "5cMgGlA1xGyeAB2ctYlRdZ",
-        "musicBrainzId": null,
+        "musicBrainzId": "9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
         "popularity": 64,
         "followers": 1046427
       }
@@ -1110,7 +1110,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ",
         "spotifyId": "5cMgGlA1xGyeAB2ctYlRdZ",
-        "musicBrainzId": null,
+        "musicBrainzId": "9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
         "popularity": 64,
         "followers": 1046427
       }
@@ -3214,7 +3214,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4",
         "spotifyId": "17Q9sCBpIyS6yM2YyaI6R4",
-        "musicBrainzId": null,
+        "musicBrainzId": "8b35342d-9501-41a2-bd95-948831e53f1f",
         "popularity": 46,
         "followers": 260463
       }
@@ -3818,7 +3818,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV",
         "spotifyId": "0AuW7OCyKfFrsMbtHrYgIV",
-        "musicBrainzId": null,
+        "musicBrainzId": "c2d6a6fb-7999-4bb3-b2df-7d752fdf4e95",
         "popularity": 62,
         "followers": 745962
       }
@@ -5568,7 +5568,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ",
         "spotifyId": "5cMgGlA1xGyeAB2ctYlRdZ",
-        "musicBrainzId": null,
+        "musicBrainzId": "9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
         "popularity": 64,
         "followers": 1046427
       }
@@ -5613,7 +5613,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ",
         "spotifyId": "5cMgGlA1xGyeAB2ctYlRdZ",
-        "musicBrainzId": null,
+        "musicBrainzId": "9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
         "popularity": 64,
         "followers": 1046427
       }
@@ -5663,7 +5663,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ",
         "spotifyId": "5cMgGlA1xGyeAB2ctYlRdZ",
-        "musicBrainzId": null,
+        "musicBrainzId": "9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
         "popularity": 64,
         "followers": 1046427
       }
@@ -5804,7 +5804,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8",
         "spotifyId": "0P3JEHMidLKLqAHuFd7Qf8",
-        "musicBrainzId": null,
+        "musicBrainzId": "7f9ed770-a9e9-4b7e-9e38-dacfb6586e87",
         "popularity": 60,
         "followers": 28349
       }
@@ -5852,7 +5852,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8",
         "spotifyId": "0P3JEHMidLKLqAHuFd7Qf8",
-        "musicBrainzId": null,
+        "musicBrainzId": "7f9ed770-a9e9-4b7e-9e38-dacfb6586e87",
         "popularity": 60,
         "followers": 28349
       }
@@ -5957,7 +5957,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w",
         "spotifyId": "2ZbWlThDW0qSbI3hinpl0w",
-        "musicBrainzId": null,
+        "musicBrainzId": "fac552dc-55e5-498c-818a-c278f1e02a75",
         "popularity": 47,
         "followers": 433416
       }
@@ -6047,7 +6047,18 @@
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847574__The Show__How High.mp3",
       "dateAdded": "2026-08-23",
       "rating": null,
-      "artistDetails": null
+      "artistDetails": {
+        "artistId": "100263",
+        "name": "The Show",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a56a65bbab65305ffd868f66",
+        "genres": [],
+        "country": null,
+        "spotifyUrl": "https://open.spotify.com/artist/7Df4TPixHIcmK8bpz37Ccc",
+        "spotifyId": "7Df4TPixHIcmK8bpz37Ccc",
+        "musicBrainzId": "c21d94e5-4c79-4fc9-abbd-b13999fa2654",
+        "popularity": 2,
+        "followers": 838
+      }
     },
     {
       "id": "1274828594",
@@ -6092,7 +6103,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn",
         "spotifyId": "5QhsLryFrDbj9IZ38UmMyn",
-        "musicBrainzId": null,
+        "musicBrainzId": "e0af5e8b-403c-4059-bd83-5ae037b391b7",
         "popularity": 38,
         "followers": 147841
       }
@@ -6273,7 +6284,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX",
         "spotifyId": "01nVIuD8YZsnFH6x6Cc9rX",
-        "musicBrainzId": null,
+        "musicBrainzId": "39ba13b9-5534-4c2a-9aac-27d72bcaf22e",
         "popularity": 43,
         "followers": 108334
       }
@@ -6323,7 +6334,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX",
         "spotifyId": "01nVIuD8YZsnFH6x6Cc9rX",
-        "musicBrainzId": null,
+        "musicBrainzId": "39ba13b9-5534-4c2a-9aac-27d72bcaf22e",
         "popularity": 43,
         "followers": 108334
       }
@@ -6427,7 +6438,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt",
         "spotifyId": "5m7wCUhYhBh7A3A3YMxrbt",
-        "musicBrainzId": null,
+        "musicBrainzId": "7a305f29-539a-456e-93b7-61b0e2ba3ef2",
         "popularity": 55,
         "followers": 236986
       }
@@ -6620,7 +6631,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/6KVPfr3ujUkKOrJf4QeRWD",
         "spotifyId": "6KVPfr3ujUkKOrJf4QeRWD",
-        "musicBrainzId": null,
+        "musicBrainzId": "bcecd780-8f0f-40c5-91e1-be6bf34c51fb",
         "popularity": 47,
         "followers": 369027
       }
@@ -6664,7 +6675,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/6KVPfr3ujUkKOrJf4QeRWD",
         "spotifyId": "6KVPfr3ujUkKOrJf4QeRWD",
-        "musicBrainzId": null,
+        "musicBrainzId": "bcecd780-8f0f-40c5-91e1-be6bf34c51fb",
         "popularity": 47,
         "followers": 369027
       }
@@ -6997,7 +7008,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5",
         "spotifyId": "0OtigLoCgLYvXnMxbE5qH5",
-        "musicBrainzId": null,
+        "musicBrainzId": "8b70d4d9-b3d3-4a99-8a95-96ee59f12140",
         "popularity": 45,
         "followers": 327508
       }
@@ -7047,7 +7058,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5",
         "spotifyId": "0OtigLoCgLYvXnMxbE5qH5",
-        "musicBrainzId": null,
+        "musicBrainzId": "8b70d4d9-b3d3-4a99-8a95-96ee59f12140",
         "popularity": 45,
         "followers": 327508
       }
@@ -7097,7 +7108,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5",
         "spotifyId": "0OtigLoCgLYvXnMxbE5qH5",
-        "musicBrainzId": null,
+        "musicBrainzId": "8b70d4d9-b3d3-4a99-8a95-96ee59f12140",
         "popularity": 45,
         "followers": 327508
       }
@@ -7362,7 +7373,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/0XZC3xSQstfXyXnYQKvjef",
         "spotifyId": "0XZC3xSQstfXyXnYQKvjef",
-        "musicBrainzId": null,
+        "musicBrainzId": "64feaf9d-76e8-4b69-b24b-efc45e6a3f9b",
         "popularity": 34,
         "followers": 60286
       }
@@ -7406,7 +7417,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/0XZC3xSQstfXyXnYQKvjef",
         "spotifyId": "0XZC3xSQstfXyXnYQKvjef",
-        "musicBrainzId": null,
+        "musicBrainzId": "64feaf9d-76e8-4b69-b24b-efc45e6a3f9b",
         "popularity": 34,
         "followers": 60286
       }
@@ -7440,7 +7451,7 @@
       "artistDetails": {
         "artistId": "51607",
         "name": "Nine",
-        "imageUrl": null,
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebeb27df32c01d07ec07e20a30",
         "genres": [
           "rock",
           "electronic",
@@ -7466,11 +7477,11 @@
           "2008 universal fire victim"
         ],
         "country": "US",
-        "spotifyUrl": null,
-        "spotifyId": null,
-        "musicBrainzId": null,
-        "popularity": null,
-        "followers": null
+        "spotifyUrl": "https://open.spotify.com/artist/0cnbaGjcH77bWAV1MgVSJh",
+        "spotifyId": "0cnbaGjcH77bWAV1MgVSJh",
+        "musicBrainzId": "3750a0b9-4b99-46f6-8745-66dbfdff0489",
+        "popularity": 34,
+        "followers": 20233
       }
     },
     {
@@ -7665,7 +7676,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4",
         "spotifyId": "17Q9sCBpIyS6yM2YyaI6R4",
-        "musicBrainzId": null,
+        "musicBrainzId": "8b35342d-9501-41a2-bd95-948831e53f1f",
         "popularity": 46,
         "followers": 260463
       }
@@ -7831,7 +7842,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn",
         "spotifyId": "5QhsLryFrDbj9IZ38UmMyn",
-        "musicBrainzId": null,
+        "musicBrainzId": "e0af5e8b-403c-4059-bd83-5ae037b391b7",
         "popularity": 38,
         "followers": 147841
       }
@@ -7933,7 +7944,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB",
         "spotifyId": "21q45xu51WtV5Td6ZBJHiB",
-        "musicBrainzId": null,
+        "musicBrainzId": "99650bf1-4fee-48ef-b20b-2206e971c2d1",
         "popularity": 42,
         "followers": 30140
       }
@@ -8134,7 +8145,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY",
         "spotifyId": "2pvyE8W9RWESQxkyAWZqgY",
-        "musicBrainzId": null,
+        "musicBrainzId": "4a09f5d5-d843-4c16-9851-23efb0583c2a",
         "popularity": 64,
         "followers": 384148
       }
@@ -8357,7 +8368,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
         "spotifyId": "30fiiwr2EeZp1tAhzYCmyM",
-        "musicBrainzId": null,
+        "musicBrainzId": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
         "popularity": 63,
         "followers": 1018338
       }
@@ -8512,7 +8523,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7",
         "spotifyId": "5DKuVtlpDH0agZQUFDy8O7",
-        "musicBrainzId": null,
+        "musicBrainzId": "a4d62ced-2f87-488a-9c76-ab88ea7a2cbf",
         "popularity": 53,
         "followers": 260831
       }
@@ -8555,7 +8566,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD",
         "spotifyId": "2UBt0GWBuPVXlPisRvWzlD",
-        "musicBrainzId": null,
+        "musicBrainzId": "3b02795b-bd2c-4aac-8f6c-e581514cc2d8",
         "popularity": 49,
         "followers": 201426
       }
@@ -8613,7 +8624,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
         "spotifyId": "2WKdxPFRD7IqZvlIAvhMgY",
-        "musicBrainzId": null,
+        "musicBrainzId": "ea321799-9b1d-4e74-a074-a5facf597d82",
         "popularity": 68,
         "followers": 1588716
       }
@@ -8907,7 +8918,7 @@
         "country": "GB",
         "spotifyUrl": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL",
         "spotifyId": "2pAWfrd7WFF3XhVt9GooDL",
-        "musicBrainzId": null,
+        "musicBrainzId": "188711ed-c99b-439c-844a-ca831f63a727",
         "popularity": 76,
         "followers": 3835787
       }
@@ -8985,7 +8996,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
         "spotifyId": "30fiiwr2EeZp1tAhzYCmyM",
-        "musicBrainzId": null,
+        "musicBrainzId": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
         "popularity": 63,
         "followers": 1018338
       }
@@ -9412,7 +9423,7 @@
         "country": "GB",
         "spotifyUrl": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL",
         "spotifyId": "2pAWfrd7WFF3XhVt9GooDL",
-        "musicBrainzId": null,
+        "musicBrainzId": "188711ed-c99b-439c-844a-ca831f63a727",
         "popularity": 76,
         "followers": 3835787
       }
@@ -9568,7 +9579,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/33xY3kRRRiPLsDjnfE3Lpw",
         "spotifyId": "33xY3kRRRiPLsDjnfE3Lpw",
-        "musicBrainzId": null,
+        "musicBrainzId": "b5da4546-42f4-4bfb-a898-4f01682a488c",
         "popularity": 24,
         "followers": 23309
       }
@@ -9710,7 +9721,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
         "spotifyId": "30fiiwr2EeZp1tAhzYCmyM",
-        "musicBrainzId": null,
+        "musicBrainzId": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
         "popularity": 63,
         "followers": 1018338
       }
@@ -10191,7 +10202,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ",
         "spotifyId": "2VX0o9LDIVmKIgpnwdJpOJ",
-        "musicBrainzId": null,
+        "musicBrainzId": "7fdb6168-64a8-4b5a-9a6a-e39803e4aec1",
         "popularity": 50,
         "followers": 248877
       }
@@ -10463,7 +10474,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ",
         "spotifyId": "2VX0o9LDIVmKIgpnwdJpOJ",
-        "musicBrainzId": null,
+        "musicBrainzId": "7fdb6168-64a8-4b5a-9a6a-e39803e4aec1",
         "popularity": 50,
         "followers": 248877
       }
@@ -11682,7 +11693,7 @@
         "country": "GB",
         "spotifyUrl": "https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs",
         "spotifyId": "1GwxXgEc6oxCKQ5wykWXFs",
-        "musicBrainzId": null,
+        "musicBrainzId": "2996c6a2-215d-4f78-aed6-81a130b04816",
         "popularity": 49,
         "followers": 190296
       }
@@ -11837,7 +11848,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6",
         "spotifyId": "1SAugjIcuwNPKS4urSB7A6",
-        "musicBrainzId": null,
+        "musicBrainzId": "02e81a75-461f-4b9d-b635-9cc916cef9c0",
         "popularity": 51,
         "followers": 490252
       }
@@ -11993,7 +12004,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE",
         "spotifyId": "3PyWEKLWI0vHPmoNrIX0QE",
-        "musicBrainzId": null,
+        "musicBrainzId": "2792b097-0b1d-4c50-97f6-f7f097f86438",
         "popularity": 58,
         "followers": 984734
       }
@@ -12361,7 +12372,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
         "spotifyId": "2WKdxPFRD7IqZvlIAvhMgY",
-        "musicBrainzId": null,
+        "musicBrainzId": "ea321799-9b1d-4e74-a074-a5facf597d82",
         "popularity": 68,
         "followers": 1588716
       }
@@ -12550,7 +12561,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns",
         "spotifyId": "6DVipHzYsPlIoA0DW8Gmns",
-        "musicBrainzId": null,
+        "musicBrainzId": "a818c24f-d7c0-4420-afe9-09971652b87e",
         "popularity": 57,
         "followers": 789727
       }
@@ -13165,7 +13176,7 @@
         "country": "GB",
         "spotifyUrl": "https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs",
         "spotifyId": "1GwxXgEc6oxCKQ5wykWXFs",
-        "musicBrainzId": null,
+        "musicBrainzId": "2996c6a2-215d-4f78-aed6-81a130b04816",
         "popularity": 49,
         "followers": 190296
       }
@@ -13624,7 +13635,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/6GmanMVkSuu0Dsn86ZW9lK",
         "spotifyId": "6GmanMVkSuu0Dsn86ZW9lK",
-        "musicBrainzId": null,
+        "musicBrainzId": "0de3a48c-3e09-4f6e-96ab-0cc22c0282e8",
         "popularity": 29,
         "followers": 71350
       }
@@ -14117,7 +14128,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
         "spotifyId": "30fiiwr2EeZp1tAhzYCmyM",
-        "musicBrainzId": null,
+        "musicBrainzId": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
         "popularity": 63,
         "followers": 1018338
       }
@@ -14355,7 +14366,7 @@
         "country": "nan",
         "spotifyUrl": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi",
         "spotifyId": "0P8YNJXX7QeQ8iZIUCXJgi",
-        "musicBrainzId": null,
+        "musicBrainzId": "ffb886bd-3f86-447a-b2eb-3867dfbe5476",
         "popularity": 46,
         "followers": 412918
       }
@@ -14433,7 +14444,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
         "spotifyId": "30fiiwr2EeZp1tAhzYCmyM",
-        "musicBrainzId": null,
+        "musicBrainzId": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
         "popularity": 63,
         "followers": 1018338
       }
@@ -14511,7 +14522,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
         "spotifyId": "30fiiwr2EeZp1tAhzYCmyM",
-        "musicBrainzId": null,
+        "musicBrainzId": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
         "popularity": 63,
         "followers": 1018338
       }
@@ -14651,7 +14662,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
         "spotifyId": "30fiiwr2EeZp1tAhzYCmyM",
-        "musicBrainzId": null,
+        "musicBrainzId": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
         "popularity": 63,
         "followers": 1018338
       }
@@ -15263,7 +15274,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
         "spotifyId": "30fiiwr2EeZp1tAhzYCmyM",
-        "musicBrainzId": null,
+        "musicBrainzId": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
         "popularity": 63,
         "followers": 1018338
       }
