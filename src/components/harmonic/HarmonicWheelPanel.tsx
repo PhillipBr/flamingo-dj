@@ -426,7 +426,7 @@ export default function HarmonicWheelPanel({
         typeof document !== "undefined" &&
         createPortal(
           <div
-          className="harmonic-wheel__overlay"
+            className="harmonic-wheel__overlay"
           role="presentation"
           onMouseDown={(event) => {
             if (
@@ -633,9 +633,7 @@ export default function HarmonicWheelPanel({
                           </span>
                         </button>
                       ),
-                        ,
-          document.body,
-        )}
+                    )}
                   </div>
                 </div>
 
@@ -657,8 +655,9 @@ export default function HarmonicWheelPanel({
               </div>
             </div>
           </div>
-        </div>
-      )}
+        </div>,
+          document.body,
+        )}
     </section>
   );
 }
