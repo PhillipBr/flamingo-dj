@@ -11,6 +11,10 @@ import {
   useState,
 } from "react";
 
+import {
+  createPortal,
+} from "react-dom";
+
 import camelotWheelUrl from "../../assets/dj/camelot-wheel.png";
 
 import {
@@ -418,8 +422,10 @@ export default function HarmonicWheelPanel({
         </button>
       )}
 
-      {isOpen && (
-        <div
+      {isOpen &&
+        typeof document !== "undefined" &&
+        createPortal(
+          <div
           className="harmonic-wheel__overlay"
           role="presentation"
           onMouseDown={(event) => {
@@ -627,7 +633,9 @@ export default function HarmonicWheelPanel({
                           </span>
                         </button>
                       ),
-                    )}
+                        ,
+          document.body,
+        )}
                   </div>
                 </div>
 
