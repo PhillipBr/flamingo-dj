@@ -60,8 +60,8 @@ type TracksTableProps = {
   tracks: Track[];
   visibleColumns: TrackColumnId[];
   selectedTrackIds: string[];
-  sortField: TrackSortField;
-  sortDirection: TrackSortDirection;
+  sortField: TrackSortField | null;
+  sortDirection: TrackSortDirection | null;
 
   onTrackDoubleClick: (
     event: MouseEvent<HTMLTableRowElement>,
@@ -85,6 +85,10 @@ type TracksTableProps = {
     field: TrackSortField,
   ) => void;
 
+  showPlayOrderReset?: boolean;
+
+  onResetPlayOrder?: () => void;
+
   onOpenContextMenu: (
     event: MouseEvent<HTMLTableRowElement>,
     track: Track,
@@ -94,8 +98,8 @@ type TracksTableProps = {
 type SortableHeaderProps = {
   label: string;
   field: TrackSortField;
-  activeField: TrackSortField;
-  direction: TrackSortDirection;
+  activeField: TrackSortField | null;
+  direction: TrackSortDirection | null;
   onSort: (
     field: TrackSortField,
   ) => void;

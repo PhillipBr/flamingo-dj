@@ -18,6 +18,8 @@ import PlaylistRepairPanel from "../tracks/PlaylistRepairPanel";
 import SetJourneyPanel from "../tracks/SetJourneyPanel";
 import SetlistGeneratorModal from "../tracks/SetlistGeneratorModal";
 
+import PlaylistCreator from "./PlaylistCreator";
+
 import type { Playlist } from "../../types/playlist";
 import type { CurrentSet } from "../../types/setlist";
 import type {
@@ -193,91 +195,103 @@ export default function LiveSetWorkspace({
   }
 
   return (
-    <section className="live-set-workspace">
-      <header className="live-set-workspace__header">
-        <div>
-          <span>TEMPORARY LIVE PLAYLIST</span>
-          <strong>{currentSet.name || "Current Set"}</strong>
-          <small>{currentSet.items.length} tracks · changes remain in Current Set until you clear or replace it.</small>
-        </div>
-      </header>
-
-      <div className="live-set-workspace__loader">
-        <select
-          value={selectedPlaylistId}
-          onChange={(event) => setSelectedPlaylistId(event.target.value)}
-        >
-          <option value="">Choose a playlist...</option>
-          {playlists.map((playlist) => (
-            <option key={playlist.id} value={playlist.id}>
-              {playlist.name} · {playlist.trackIds.length} tracks
-            </option>
-          ))}
-        </select>
-
-        <button type="button" disabled={!selectedPlaylist} onClick={replaceWithPlaylist}>
-          <ListMusic size={15} /> Load as temporary set
-        </button>
-
-        <button type="button" disabled={!selectedPlaylist} onClick={appendPlaylist}>
-          <Plus size={15} /> Add playlist
-        </button>
-      </div>
-
-      <div className="live-set-workspace__actions">
-        <button type="button" disabled={currentSet.items.length === 0} onClick={() => setIsJourneyOpen(true)}>
-          <Activity size={15} /> Set Journey
-        </button>
-        <button type="button" disabled={currentSet.items.length < 2} onClick={() => setIsRepairOpen(true)}>
-          <Wrench size={15} /> Repair Set
-        </button>
-        <button type="button" onClick={() => setIsGeneratorOpen(true)}>
-          <WandSparkles size={15} /> Generate Set
-        </button>
-        <button type="button" disabled={currentSet.items.length === 0} onClick={clearTemporarySet}>
-          <RotateCcw size={15} /> Clear temporary set
-        </button>
-      </div>
-
-      {temporaryTracks.length > 0 && (
-        <div className="live-set-workspace__preview">
-          {temporaryTracks.slice(0, 8).map((track, index) => (
-            <span key={track.id} title={`${track.title} · ${track.artist}`}>
-              <b>{index + 1}</b> {track.title}
-            </span>
-          ))}
-          {temporaryTracks.length > 8 && (
-            <span>+{temporaryTracks.length - 8} more</span>
-          )}
-        </div>
-      )}
-
-      <SetJourneyPanel
-        isOpen={isJourneyOpen}
-        currentSet={currentSet}
+    <>
+      <PlaylistCreator
         tracks={tracks}
-        eventPlan={eventPlan}
-        onClose={() => setIsJourneyOpen(false)}
+        playlists={playlists}
+        setCurrentSet={setCurrentSet}
       />
 
-      <PlaylistRepairPanel
-        isOpen={isRepairOpen}
-        playlistName={currentSet.name || "Temporary Live Set"}
-        playlistTracks={temporaryTracks}
-        allTracks={tracks}
-        onClose={() => setIsRepairOpen(false)}
-        onInsertBridge={insertBridge}
-        onReplaceTrack={replaceTrack}
-        onApplyOrder={applyOrder}
-      />
+      <section className="live-set-workspace">
+        <header className="live-set-workspace__header">
+          <div>
+            <span>TEMPORARY LIVE PLAYLIST</span>
+            <strong>{currentSet.name || "Current Set"}</strong>
+            <small>{currentSet.items.length} tracks · changes remain in Current Set until you clear or replace it.</small>
+          </div>
+        </header>
 
-      <SetlistGeneratorModal
-        isOpen={isGeneratorOpen}
-        tracks={tracks}
-        selectedTrack={temporaryTracks[temporaryTracks.length - 1] ?? null}
-        onClose={() => setIsGeneratorOpen(false)}
-        onApply={applyGeneratedSet}
-      />
-    </section>
+        <div className="live-set-workspace__loader">
+          <select
+            value={selectedPlaylistId}
+            onChange={(event) => setSelectedPlaylistId(event.target.value)}
+          >
+            <option value="">Choose a playlist...</option>
+            {playlists.map((playlist) => (
+              <option key={playlist.id} value={playlist.id}>
+                {playlist.name} · {playlist.trackIds.length} tracks
+              </option>
+            ))}
+          </select>
+
+          <button type="button" disabled={!selectedPlaylist} onClick={replaceWithPlaylist}>
+            <ListMusic size={15} /> Load as temporary set
+          </button>
+
+          <button type="button" disabled={!selectedPlaylist} onClick={appendPlaylist}>
+            <Plus size={15} /> Add playlist
+          </button>
+        </div>
+
+        <div className="live-set-workspace__actions">
+          <button type="button" disabled={currentSet.items.length === 0} onClick={() => setIsJourneyOpen(true)}>
+            <Activity size={15} /> Set Journey
+          </button>
+
+          <button type="button" disabled={currentSet.items.length < 2} onClick={() => setIsRepairOpen(true)}>
+            <Wrench size={15} /> Repair Set
+          </button>
+
+          <button type="button" onClick={() => setIsGeneratorOpen(true)}>
+            <WandSparkles size={15} /> Quick Generate
+          </button>
+
+          <button type="button" disabled={currentSet.items.length === 0} onClick={clearTemporarySet}>
+            <RotateCcw size={15} /> Clear temporary set
+          </button>
+        </div>
+
+        {temporaryTracks.length > 0 && (
+          <div className="live-set-workspace__preview">
+            {temporaryTracks.slice(0, 8).map((track, index) => (
+              <span key={track.id} title={`${track.title} · ${track.artist}`}>
+                <b>{index + 1}</b> {track.title}
+              </span>
+            ))}
+
+            {temporaryTracks.length > 8 && (
+              <span>+{temporaryTracks.length - 8} more</span>
+            )}
+          </div>
+        )}
+
+        <SetJourneyPanel
+          isOpen={isJourneyOpen}
+          currentSet={currentSet}
+          tracks={tracks}
+          eventPlan={eventPlan}
+          onClose={() => setIsJourneyOpen(false)}
+        />
+
+        <PlaylistRepairPanel
+          isOpen={isRepairOpen}
+          playlistName={currentSet.name || "Temporary Live Set"}
+          playlistTracks={temporaryTracks}
+          allTracks={tracks}
+          onClose={() => setIsRepairOpen(false)}
+          onInsertBridge={insertBridge}
+          onReplaceTrack={replaceTrack}
+          onApplyOrder={applyOrder}
+        />
+
+        <SetlistGeneratorModal
+          isOpen={isGeneratorOpen}
+          tracks={tracks}
+          selectedTrack={temporaryTracks[temporaryTracks.length - 1] ?? null}
+          onClose={() => setIsGeneratorOpen(false)}
+          onApply={applyGeneratedSet}
+        />
+      </section>
+    </>
   );
 }

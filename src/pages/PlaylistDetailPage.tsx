@@ -22,6 +22,15 @@ import CopyMoveTracksModal, {
   type TransferMode,
 } from "../components/playlists/CopyMoveTracksModal";
 
+import SpotifyPlaylistSyncPanel from "../components/spotify/SpotifyPlaylistSyncPanel";
+
+import playlistSpotifyLinks from "../data/JSON/config/playlist-spotify-links.json";
+
+import {
+  loadPlaylistSyncLocal,
+  loadPlaylistSyncRecord,
+} from "../utils/playlistCloudSync";
+
 import BulkActionsBar from "../components/tracks/BulkActionsBar";
 import ColumnManager from "../components/tracks/ColumnManager";
 import CurrentSetPanel from "../components/tracks/CurrentSetPanel";
@@ -337,16 +346,16 @@ export default function PlaylistDetailPage() {
     sortField,
     setSortField,
   ] =
-    useState<TrackSortField>(
-      "spotifyPopularity",
+    useState<TrackSortField | null>(
+      null,
     );
 
   const [
     sortDirection,
     setSortDirection,
   ] =
-    useState<TrackSortDirection>(
-      "desc",
+    useState<TrackSortDirection | null>(
+      null,
     );
 
   const [
@@ -369,6 +378,189 @@ export default function PlaylistDetailPage() {
       (item) =>
         item.id === playlistId,
     );
+
+
+  const legacySpotifyLink =
+    useMemo(() => {
+      if (!playlist) {
+        return {
+          spotifyPlaylistId:
+            null,
+
+          spotifyPlaylistName:
+            null,
+        };
+      }
+
+      const config =
+        playlistSpotifyLinks as {
+          playlists?: Record<
+            string,
+            {
+              spotifyPlaylistId?: string;
+              spotifyPlaylistName?: string;
+            }
+          >;
+        };
+
+      const link =
+        config.playlists?.[
+          playlist.name
+        ];
+
+      return {
+        spotifyPlaylistId:
+          link?.spotifyPlaylistId ??
+          null,
+
+        spotifyPlaylistName:
+          link?.spotifyPlaylistName ??
+          null,
+      };
+    }, [
+      playlist,
+    ]);
+
+  /*
+   * Persistent curated Play Order.
+   *
+   * GitHub JSON remains the baseline source.
+   * A local/Supabase saved trackIds override is applied after load.
+   *
+   * This preserves:
+   * - Spotify Pull membership/order
+   * - Party Sort order
+   * - Push-created Spotify association
+   * across refreshes.
+   */
+  useEffect(() => {
+    if (
+      !playlistId
+    ) {
+      return;
+    }
+
+    const applyTrackIds = (
+      trackIds: string[],
+    ) => {
+      if (
+        trackIds.length ===
+        0
+      ) {
+        return;
+      }
+
+      setPlaylists(
+        (currentPlaylists) =>
+          currentPlaylists.map(
+            (currentPlaylist) =>
+              currentPlaylist.id ===
+              playlistId
+                ? {
+                    ...currentPlaylist,
+
+                    trackIds,
+
+                    updatedAt:
+                      "Synced",
+                  }
+                : currentPlaylist,
+          ),
+      );
+    };
+
+    const local =
+      loadPlaylistSyncLocal(
+        playlistId,
+      );
+
+    if (
+      local?.trackIds.length
+    ) {
+      applyTrackIds(
+        local.trackIds,
+      );
+    }
+
+    let cancelled =
+      false;
+
+    void loadPlaylistSyncRecord(
+      playlistId,
+    ).then(
+      (record) => {
+        if (
+          cancelled ||
+          !record ||
+          record.trackIds.length ===
+            0
+        ) {
+          return;
+        }
+
+        applyTrackIds(
+          record.trackIds,
+        );
+      },
+    );
+
+    return () => {
+      cancelled =
+        true;
+    };
+  }, [
+    playlistId,
+  ]);
+
+  const isGeneratedPlaylist =
+    useMemo(() => {
+      if (!playlist) {
+        return false;
+      }
+
+      const category =
+        String(
+          playlist.category ?? "",
+        )
+          .trim()
+          .toLowerCase();
+
+      const description =
+        String(
+          playlist.description ?? "",
+        )
+          .trim()
+          .toLowerCase();
+
+      const keywords =
+        Array.isArray(
+          playlist.keywords,
+        )
+          ? playlist.keywords.map(
+              (keyword) =>
+                String(keyword)
+                  .trim()
+                  .toLowerCase(),
+            )
+          : [];
+
+      return (
+        category ===
+          "flamingo generated" ||
+        description.startsWith(
+          "flamingo generated",
+        ) ||
+        keywords.includes(
+          "flamingo-generated",
+        ) ||
+        keywords.includes(
+          "playlist-creator",
+        )
+      );
+    }, [
+      playlist,
+    ]);
+
 
   useLazyTrackExtras({
     tracks,
@@ -534,6 +726,39 @@ export default function PlaylistDetailPage() {
         ),
       [selectedTrackIds],
     );
+
+
+  useEffect(() => {
+    setSelectedTrackIds([]);
+    setLastSelectedTrackId(
+      null,
+    );
+
+    if (
+      isGeneratedPlaylist
+    ) {
+      setSortField(
+        null,
+      );
+
+      setSortDirection(
+        null,
+      );
+
+      return;
+    }
+
+    setSortField(
+      "spotifyPopularity",
+    );
+
+    setSortDirection(
+      "desc",
+    );
+  }, [
+    playlistId,
+    isGeneratedPlaylist,
+  ]);
 
   useEffect(() => {
     savePlaylists(
@@ -703,7 +928,7 @@ export default function PlaylistDetailPage() {
           .toLowerCase();
 
       const filteredTracks =
-        playlistTracks.filter(
+        playlistOrderedTracks.filter(
           (track) => {
             const matchesSearch =
               normalizedSearch
@@ -773,6 +998,13 @@ export default function PlaylistDetailPage() {
           },
         );
 
+      if (
+        sortField === null ||
+        sortDirection === null
+      ) {
+        return filteredTracks;
+      }
+
       return sortTracks(
         filteredTracks,
         sortField,
@@ -781,7 +1013,7 @@ export default function PlaylistDetailPage() {
     }, [
       advancedFilters,
       genreFilter,
-      playlistTracks,
+      playlistOrderedTracks,
       searchTerm,
       sortDirection,
       sortField,
@@ -821,6 +1053,109 @@ export default function PlaylistDetailPage() {
                 }
               : currentPlaylist,
         ),
+    );
+  }
+
+  function handleApplySyncedOrder(
+    orderedTracks: Track[],
+  ) {
+    if (
+      !playlistId
+    ) {
+      return;
+    }
+
+    /*
+     * A future Spotify resolver may return tracks not already in the
+     * global React catalog. Merge those tracks before setting trackIds.
+     */
+    setTracks(
+      (currentTracks) => {
+        const existingIds =
+          new Set(
+            currentTracks.map(
+              (track) =>
+                track.id,
+            ),
+          );
+
+        const additions =
+          orderedTracks.filter(
+            (track) =>
+              !existingIds.has(
+                track.id,
+              ),
+          );
+
+        if (
+          additions.length ===
+          0
+        ) {
+          return currentTracks;
+        }
+
+        return [
+          ...currentTracks,
+          ...additions,
+        ];
+      },
+    );
+
+    const orderedTrackIds =
+      Array.from(
+        new Set(
+          orderedTracks.map(
+            (track) =>
+              track.id,
+          ),
+        ),
+      );
+
+    setPlaylists(
+      (currentPlaylists) =>
+        currentPlaylists.map(
+          (currentPlaylist) =>
+            currentPlaylist.id ===
+            playlistId
+              ? {
+                  ...currentPlaylist,
+
+                  trackIds:
+                    orderedTrackIds,
+
+                  updatedAt:
+                    "Synced",
+                }
+              : currentPlaylist,
+        ),
+    );
+
+    /*
+     * Party/Pull order must immediately become the visible Play Order.
+     * Any active table sort would otherwise hide the newly generated order.
+     */
+    setSortField(
+      null,
+    );
+
+    setSortDirection(
+      null,
+    );
+
+    setSelectedTrackIds(
+      [],
+    );
+
+    setLastSelectedTrackId(
+      null,
+    );
+
+    setDetailsTrackId(
+      null,
+    );
+
+    setMatchTrackId(
+      null,
     );
   }
 
@@ -992,28 +1327,52 @@ export default function PlaylistDetailPage() {
     field: TrackSortField,
   ) {
     if (
-      field === sortField
+      field !== sortField ||
+      sortField === null ||
+      sortDirection === null
     ) {
+      setSortField(
+        field,
+      );
+
       setSortDirection(
-        (
-          currentDirection,
-        ) =>
-          currentDirection ===
-          "asc"
-            ? "desc"
-            : "asc",
+        field ===
+          "spotifyPopularity"
+          ? "desc"
+          : "asc",
       );
 
       return;
     }
 
-    setSortField(field);
+    if (
+      sortDirection ===
+      "asc"
+    ) {
+      setSortDirection(
+        "desc",
+      );
+
+      return;
+    }
+
+    // Third state: no sorting, restore canonical playlist.trackIds order.
+    setSortField(
+      null,
+    );
 
     setSortDirection(
-      field ===
-        "spotifyPopularity"
-        ? "desc"
-        : "asc",
+      null,
+    );
+  }
+
+  function handleResetPlayOrder() {
+    setSortField(
+      null,
+    );
+
+    setSortDirection(
+      null,
     );
   }
 
@@ -2303,6 +2662,30 @@ export default function PlaylistDetailPage() {
           </div>
         </div>
 
+        <SpotifyPlaylistSyncPanel
+          playlistId={
+            playlist.id
+          }
+          playlistName={
+            playlist.name
+          }
+          initialSpotifyPlaylistId={
+            legacySpotifyLink.spotifyPlaylistId
+          }
+          initialSpotifyPlaylistName={
+            legacySpotifyLink.spotifyPlaylistName
+          }
+          playlistTracks={
+            playlistOrderedTracks
+          }
+          allTracks={
+            tracks
+          }
+          onApplyOrderedTracks={
+            handleApplySyncedOrder
+          }
+        />
+
         <BulkActionsBar
           selectedCount={
             selectedTrackIds.length
@@ -2359,6 +2742,12 @@ export default function PlaylistDetailPage() {
             handleOpenTrackDetails
           }
           onSort={handleSort}
+          showPlayOrderReset={
+            isGeneratedPlaylist
+          }
+          onResetPlayOrder={
+            handleResetPlayOrder
+          }
           onOpenContextMenu={
             handleOpenContextMenu
           }
