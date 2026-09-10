@@ -72,7 +72,8 @@
         "musicBrainzId": "3c8a8696-e176-4c46-a2d3-48b6b1525c7f",
         "popularity": 66,
         "followers": 4412976
-      }
+      },
+      "spotifyTrackId": "7f1Dmr246cJ9uQYdbplTbh"
     },
     {
       "id": "9443",
@@ -114,7 +115,8 @@
         "musicBrainzId": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
         "popularity": 70,
         "followers": 2184179
-      }
+      },
+      "spotifyTrackId": "1m2xMsxbtxv21Brome189p"
     },
     {
       "id": "1274842996",
@@ -160,7 +162,8 @@
         "musicBrainzId": "01872118-3238-4f46-a849-26a0901a0da7",
         "popularity": 60,
         "followers": 1220277
-      }
+      },
+      "spotifyTrackId": "6uSa5iCMwPr10Ftpz8w09b"
     },
     {
       "id": "1267941",
@@ -203,7 +206,8 @@
         "musicBrainzId": null,
         "popularity": 49,
         "followers": 79380
-      }
+      },
+      "spotifyTrackId": "4hElE1DmCfpoFVjczvfB5U"
     },
     {
       "id": "1274818328",
@@ -226,13 +230,10 @@
       "overallVolume": "-11.2",
       "cuePoints": "7",
       "clippedPeaks": 721,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Em - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274818000-1274818999\\1274818328__Snoop Dogg, Master P, Nate Dogg, Butch Cassidy, Tha Eastsidaz__Lay Low.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "311",
@@ -264,7 +265,8 @@
         "musicBrainzId": "f90e8b26-9e52-4669-a5c9-e28529c47894",
         "popularity": 84,
         "followers": 14860906
-      }
+      },
+      "spotifyTrackId": "0YHI5hydPPth6J5UOzdLDX"
     },
     {
       "id": "1274837797",
@@ -317,7 +319,8 @@
         "musicBrainzId": "23d1dfc6-0281-488a-8e32-ef7ddc279fbc",
         "popularity": 64,
         "followers": 1839122
-      }
+      },
+      "spotifyTrackId": "3PJivN5BZ2ckFa22igIu4a"
     },
     {
       "id": "1274828184",
@@ -340,10 +343,7 @@
       "overallVolume": "-10.3",
       "cuePoints": "8",
       "clippedPeaks": 1946,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "D#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828184__No More__Ruff Endz.mp3",
       "dateAdded": "2026-08-21",
@@ -362,7 +362,8 @@
         "musicBrainzId": "ab9b26bf-7a4e-4abb-ba2e-14a51e89cdb0",
         "popularity": 46,
         "followers": 356962
-      }
+      },
+      "spotifyTrackId": "2WfhlEjoUII31H6imnQdvF"
     },
     {
       "id": "1274842494",
@@ -415,7 +416,8 @@
         "musicBrainzId": "c3da3346-2643-48a7-93cd-011f6834b3d7",
         "popularity": 84,
         "followers": 5144181
-      }
+      },
+      "spotifyTrackId": "0ru8bc0XnKjUL2O1Fl1k7a"
     },
     {
       "id": "1267164",
@@ -464,7 +466,8 @@
         "musicBrainzId": "dfa715ac-b536-44df-af43-570d3ea3edec",
         "popularity": 62,
         "followers": 724031
-      }
+      },
+      "spotifyTrackId": "7orBBkQgdmanhPCD0FyHHZ"
     },
     {
       "id": "1274815931",
@@ -510,7 +513,8 @@
         "musicBrainzId": "6fd44ae7-097d-4979-94ba-5dfc40d9f7ad",
         "popularity": 63,
         "followers": 1586705
-      }
+      },
+      "spotifyTrackId": "3RnLEACttdwU6futFsaflI"
     },
     {
       "id": "35990",
@@ -559,7 +563,8 @@
         "musicBrainzId": "b42eca0f-9381-43db-badb-1cba080a7dc2",
         "popularity": 70,
         "followers": 3471271
-      }
+      },
+      "spotifyTrackId": "37CefexBHcKUSHVXg9dZ5u"
     },
     {
       "id": "1274836540",
@@ -602,7 +607,8 @@
         "musicBrainzId": "cde7486e-68c3-4867-a3b6-fb88f8ef8b84",
         "popularity": 45,
         "followers": 70876
-      }
+      },
+      "spotifyTrackId": "3Z1dOVkyrqTh6CuDluKDcc"
     },
     {
       "id": "1267032",
@@ -645,7 +651,8 @@
         "musicBrainzId": "e50519c1-6940-40fe-b920-f73f522005e2",
         "popularity": 53,
         "followers": 881227
-      }
+      },
+      "spotifyTrackId": "2ZSp1BC7agz2TkgSATdi9U"
     },
     {
       "id": "1267262",
@@ -688,7 +695,8 @@
         "musicBrainzId": "f8cbda92-d06c-4791-ad0b-8871c4b8be46",
         "popularity": 33,
         "followers": 38035
-      }
+      },
+      "spotifyTrackId": "1gsaKZJuYe7R30yFdHo1aw"
     },
     {
       "id": "1274810541",
@@ -735,7 +743,8 @@
         "musicBrainzId": "3c8a8696-e176-4c46-a2d3-48b6b1525c7f",
         "popularity": 66,
         "followers": 4412976
-      }
+      },
+      "spotifyTrackId": "14RbJChSU6plBlAfUhAkGM"
     },
     {
       "id": "1238650",
@@ -784,7 +793,8 @@
         "musicBrainzId": "b202beb7-99bd-47e7-8b72-195c8d72ebdd",
         "popularity": 80,
         "followers": 8986982
-      }
+      },
+      "spotifyTrackId": "6onLnWywmbSnXDFPVY1mM6"
     },
     {
       "id": "772",
@@ -807,19 +817,10 @@
       "overallVolume": "-10.9",
       "cuePoints": "8",
       "clippedPeaks": 1104,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap",
-        "hip hop",
-        "rap",
-        "west coast",
-        "west coast rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap, hip hop, rap, west coast, west coast rap",
       "comments": "G#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\0-999\\772__No Scrubs__TLC.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "456",
@@ -839,7 +840,8 @@
         "musicBrainzId": "99790314-885a-4975-8614-9c5bc890364d",
         "popularity": 71,
         "followers": 4366404
-      }
+      },
+      "spotifyTrackId": "1KGi9sZVMeszgZOWivFpxs"
     },
     {
       "id": "1888",
@@ -862,12 +864,7 @@
       "overallVolume": "-11.0",
       "cuePoints": "8",
       "clippedPeaks": 621,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "Cm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1000-1999\\1888__Say My Name__Destiny's Child.mp3",
       "dateAdded": "2026-08-21",
@@ -892,7 +889,8 @@
         "musicBrainzId": "a796b92e-c137-4895-9c89-10f900617a4f",
         "popularity": 74,
         "followers": 8748043
-      }
+      },
+      "spotifyTrackId": "7H6ev70Weq6DdpZyyTmUXk"
     },
     {
       "id": "1274822571",
@@ -915,12 +913,7 @@
       "overallVolume": "-11.3",
       "cuePoints": "8",
       "clippedPeaks": 3,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "C#m - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822571__Thong Song__Sisqo.mp3",
       "dateAdded": "2026-08-21",
@@ -943,7 +936,8 @@
         "musicBrainzId": "25e0497c-faa4-4765-b232-baa20e5e35a7",
         "popularity": 62,
         "followers": 1190537
-      }
+      },
+      "spotifyTrackId": "5Mmk2ii6laakqfeCT7OnVD"
     },
     {
       "id": "5609",
@@ -966,10 +960,7 @@
       "overallVolume": "-10.9",
       "cuePoints": "8",
       "clippedPeaks": 1452,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "Bm - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\5000-5999\\5609__Bills, Bills, Bills__Destiny's Child.mp3",
       "dateAdded": "2026-08-21",
@@ -994,7 +985,8 @@
         "musicBrainzId": "a796b92e-c137-4895-9c89-10f900617a4f",
         "popularity": 74,
         "followers": 8748043
-      }
+      },
+      "spotifyTrackId": "1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
       "id": "1274818858",
@@ -1017,15 +1009,10 @@
       "overallVolume": "-10.1",
       "cuePoints": "8",
       "clippedPeaks": 2786,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "west coast",
-        "west coast rap"
-      ],
+      "keywords": "hip hop, rap, west coast, west coast rap",
       "comments": "Cm - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274818000-1274818999\\1274818858__Dr. Dre, Hittman, Six-Two, Nate Dogg, Kurupt__Xxplosive.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "310",
@@ -1051,7 +1038,8 @@
         "musicBrainzId": "5f6ab597-f57a-40da-be9e-adad48708203",
         "popularity": 83,
         "followers": 10303
-      }
+      },
+      "spotifyTrackId": "0Ed7MeXx64f6OcIuoTRCg1"
     },
     {
       "id": "7521",
@@ -1101,7 +1089,8 @@
         "musicBrainzId": "bf75ef89-7b4c-4771-ac43-4d5c10617190",
         "popularity": 62,
         "followers": 1672469
-      }
+      },
+      "spotifyTrackId": "6mwA6YiKDjAUG8kWvRRUPh"
     },
     {
       "id": "1274808982",
@@ -1144,7 +1133,8 @@
         "musicBrainzId": "9e5fd95d-c0c1-412c-be11-06e7fbe99556",
         "popularity": 67,
         "followers": 2752944
-      }
+      },
+      "spotifyTrackId": "6t8JpJtI0PgVRSuMDGWZlH"
     },
     {
       "id": "1274816359",
@@ -1167,10 +1157,7 @@
       "overallVolume": "-12.7",
       "cuePoints": "8",
       "clippedPeaks": 513,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "Bm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274816000-1274816999\\1274816359__If You Had My Love__Jennifer Lopez.mp3",
       "dateAdded": "2026-08-21",
@@ -1198,7 +1185,8 @@
         "musicBrainzId": "f0602f55-1770-483d-89bd-4bae0d0ac086",
         "popularity": 78,
         "followers": 13577146
-      }
+      },
+      "spotifyTrackId": "3x4yV0hW5Ve3TKhFkXSqFn"
     },
     {
       "id": "1274824480",
@@ -1247,7 +1235,8 @@
         "musicBrainzId": "b202beb7-99bd-47e7-8b72-195c8d72ebdd",
         "popularity": 80,
         "followers": 8986982
-      }
+      },
+      "spotifyTrackId": "5bGmuxShUba9maPswDnhCs"
     },
     {
       "id": "1274822635",
@@ -1270,10 +1259,7 @@
       "overallVolume": "-11.8",
       "cuePoints": "8",
       "clippedPeaks": 338,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "A#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822635__Waiting for Tonight__Jennifer Lopez.mp3",
       "dateAdded": "2026-08-21",
@@ -1301,7 +1287,8 @@
         "musicBrainzId": "f0602f55-1770-483d-89bd-4bae0d0ac086",
         "popularity": 78,
         "followers": 13577146
-      }
+      },
+      "spotifyTrackId": "5yaCquc7koPqtgj7v0lwHX"
     },
     {
       "id": "1274824483",
@@ -1350,7 +1337,8 @@
         "musicBrainzId": "b202beb7-99bd-47e7-8b72-195c8d72ebdd",
         "popularity": 80,
         "followers": 8986982
-      }
+      },
+      "spotifyTrackId": "7A0apkTSTvMbSI7yplcmlh"
     },
     {
       "id": "1274812555",
@@ -1401,7 +1389,8 @@
         "musicBrainzId": "2469950a-f0ca-425a-bfbc-baf55ea3afde",
         "popularity": 71,
         "followers": 2717635
-      }
+      },
+      "spotifyTrackId": "0CUEc6T65lrU6rVW3HVYsl"
     },
     {
       "id": "1290745",
@@ -1454,7 +1443,8 @@
         "musicBrainzId": "a15dd07b-0112-44e8-9904-592e57dfd069",
         "popularity": 70,
         "followers": 3970648
-      }
+      },
+      "spotifyTrackId": "3PDuPLArSTzKH2W2hKYjh0"
     },
     {
       "id": "1274824486",
@@ -1503,7 +1493,8 @@
         "musicBrainzId": "b202beb7-99bd-47e7-8b72-195c8d72ebdd",
         "popularity": 80,
         "followers": 8986982
-      }
+      },
+      "spotifyTrackId": "4Do68W4FWO2hRAJCzG1lus"
     },
     {
       "id": "1274824199",
@@ -1565,7 +1556,8 @@
         "musicBrainzId": "494e8d09-f85b-4543-892f-a5096aed1cd4",
         "popularity": 80,
         "followers": 11445825
-      }
+      },
+      "spotifyTrackId": "1RS3LStQYhju50eBdD9Uul"
     },
     {
       "id": "1274842839",
@@ -1608,7 +1600,8 @@
         "musicBrainzId": "9e5fd95d-c0c1-412c-be11-06e7fbe99556",
         "popularity": 67,
         "followers": 2752944
-      }
+      },
+      "spotifyTrackId": "1iIsl8Z9WG4V5DarICRCja"
     },
     {
       "id": "187659",
@@ -1660,7 +1653,8 @@
         "musicBrainzId": "f368568b-1f9f-4d29-99e7-89a2125d0cfe",
         "popularity": 60,
         "followers": 1197190
-      }
+      },
+      "spotifyTrackId": "4gOXXoIOkur9FZsRpReV9x"
     },
     {
       "id": "1274828095",
@@ -1683,10 +1677,7 @@
       "overallVolume": "-12.2",
       "cuePoints": "8",
       "clippedPeaks": 721,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "D#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828095__U Know What's Up__Donell Jones.mp3",
       "dateAdded": "2026-08-21",
@@ -1709,7 +1700,8 @@
         "musicBrainzId": "ff1d04f2-2bbd-47d8-b722-6ac8c53b71b3",
         "popularity": 57,
         "followers": 1283547
-      }
+      },
+      "spotifyTrackId": "1sZLO7n7ap5F6w9KhCRPPm"
     },
     {
       "id": "1267548",
@@ -1760,7 +1752,8 @@
         "musicBrainzId": "2469950a-f0ca-425a-bfbc-baf55ea3afde",
         "popularity": 71,
         "followers": 2717635
-      }
+      },
+      "spotifyTrackId": "4nzDQbFM3LzBZomZ0BD85A"
     },
     {
       "id": "1274843618",
@@ -1806,7 +1799,8 @@
         "musicBrainzId": "99790314-885a-4975-8614-9c5bc890364d",
         "popularity": 71,
         "followers": 4366404
-      }
+      },
+      "spotifyTrackId": "79Dduf9L3DBCsmqgv5feXO"
     },
     {
       "id": "1274823505",
@@ -2177,7 +2171,8 @@
         "musicBrainzId": null,
         "popularity": 29,
         "followers": 2658
-      }
+      },
+      "spotifyTrackId": "5OvcsMheIV9Mi7TemfxvLF"
     },
     {
       "id": "1274815936",
@@ -2200,10 +2195,7 @@
       "overallVolume": "-12.0",
       "cuePoints": "8",
       "clippedPeaks": 2485,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "C#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274815000-1274815999\\1274815936__Brandy, Monica__The Boy Is Mine.mp3",
       "dateAdded": "2026-08-21",
@@ -2227,7 +2219,8 @@
         "musicBrainzId": "01e60eba-52df-4694-8f09-39f43abe54e9",
         "popularity": 68,
         "followers": 3966497
-      }
+      },
+      "spotifyTrackId": "6sHsXIJoEN5JpdkGMQDJxt"
     },
     {
       "id": "1274824819",
@@ -2281,7 +2274,8 @@
         "musicBrainzId": "0307edfc-437c-4b48-8700-80680e66a228",
         "popularity": 79,
         "followers": 11185278
-      }
+      },
+      "spotifyTrackId": "1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
       "id": "1274822657",
@@ -2304,10 +2298,7 @@
       "overallVolume": "-12.1",
       "cuePoints": "7",
       "clippedPeaks": 1006,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "Cm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822657__It's Not Right But It's Okay__Whitney Houston.mp3",
       "dateAdded": "2026-08-21",
@@ -2338,7 +2329,8 @@
         "musicBrainzId": "0307edfc-437c-4b48-8700-80680e66a228",
         "popularity": 79,
         "followers": 11185278
-      }
+      },
+      "spotifyTrackId": "7861kBrZ5aw7o4NfggcyYW"
     },
     {
       "id": "1274800650",
@@ -2361,10 +2353,7 @@
       "overallVolume": "-11.7",
       "cuePoints": "8",
       "clippedPeaks": 610,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "C - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274800000-1274800999\\1274800650__Love Like This__Faith Evans.mp3",
       "dateAdded": "2026-08-21",
@@ -2385,7 +2374,8 @@
         "musicBrainzId": "ebcd0bad-75ef-4203-b7b3-7af38a9ef198",
         "popularity": 66,
         "followers": 1776989
-      }
+      },
+      "spotifyTrackId": "7MQywXGHEev7JmwwIzMcao"
     },
     {
       "id": "1285037",
@@ -2439,7 +2429,8 @@
         "musicBrainzId": "0307edfc-437c-4b48-8700-80680e66a228",
         "popularity": 79,
         "followers": 11185278
-      }
+      },
+      "spotifyTrackId": "0JN7vUgUolHGHFrOR8xk7S"
     },
     {
       "id": "1267077",
@@ -2481,7 +2472,8 @@
         "musicBrainzId": "2d7d0a67-ae5d-4ac0-93aa-aa52ef3a976a",
         "popularity": 58,
         "followers": 1622912
-      }
+      },
+      "spotifyTrackId": "60NvAO9lx0KmBNAVHIlWN6"
     },
     {
       "id": "1274809274",
@@ -2525,7 +2517,8 @@
         "musicBrainzId": "5523ed49-38bc-44fa-8670-2a9c354de0b1",
         "popularity": 60,
         "followers": 1190116
-      }
+      },
+      "spotifyTrackId": "5KVPav34JaKkXwBTJHnPgo"
     },
     {
       "id": "1274828322",
@@ -2548,10 +2541,7 @@
       "overallVolume": "-11.9",
       "cuePoints": "8",
       "clippedPeaks": 27,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Cm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828322__Anywhere__112.mp3",
       "dateAdded": "2026-08-21",
@@ -2581,7 +2571,8 @@
         "musicBrainzId": "9132d515-dc0e-4494-85ae-20f06eed14f9",
         "popularity": 68,
         "followers": 1325047
-      }
+      },
+      "spotifyTrackId": "0Zze3tFRSNwL6KllmYjLgZ"
     },
     {
       "id": "253052",
@@ -2628,7 +2619,8 @@
         "musicBrainzId": "01e60eba-52df-4694-8f09-39f43abe54e9",
         "popularity": 68,
         "followers": 3966497
-      }
+      },
+      "spotifyTrackId": "6tBD4yjOf9P8rWwUlXdJFm"
     },
     {
       "id": "1267140",
@@ -2684,7 +2676,8 @@
         "musicBrainzId": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
         "popularity": 77,
         "followers": 3183339
-      }
+      },
+      "spotifyTrackId": "4GdB5M7GbwLZLouktYocFC"
     },
     {
       "id": "1274820407",
@@ -2732,7 +2725,8 @@
         "musicBrainzId": "af84073d-3b6d-4390-9d3f-bf65a91c824f",
         "popularity": 29,
         "followers": 1241
-      }
+      },
+      "spotifyTrackId": "2b29qJRy4asbQNFjPO96XC"
     },
     {
       "id": "1274820164",
@@ -2792,7 +2786,8 @@
         "musicBrainzId": "685332a4-12ed-4c3b-8d0e-04e6a37e28f0",
         "popularity": 64,
         "followers": 1859837
-      }
+      },
+      "spotifyTrackId": "0bGyh9iwb37ElctPNsxdwX"
     },
     {
       "id": "1274815711",
@@ -2815,12 +2810,7 @@
       "overallVolume": "-12.8",
       "cuePoints": "4",
       "clippedPeaks": 4089,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "west coast",
-        "west coast rap"
-      ],
+      "keywords": "hip hop, rap, west coast, west coast rap",
       "comments": "Bm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274815000-1274815999\\1274815711__2Pac, Snoop Dogg, Nate Dogg, Dru Down__All About U.mp3",
       "dateAdded": "2026-08-21",
@@ -2860,7 +2850,8 @@
         "musicBrainzId": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
         "popularity": 81,
         "followers": 21574145
-      }
+      },
+      "spotifyTrackId": "2GtgLDMkFr4QL6ZU8uretH"
     },
     {
       "id": "1274841004",
@@ -2904,7 +2895,8 @@
         "musicBrainzId": "5523ed49-38bc-44fa-8670-2a9c354de0b1",
         "popularity": 60,
         "followers": 1190116
-      }
+      },
+      "spotifyTrackId": "3Zf0BzU8CPFyyGAXtoSf5p"
     },
     {
       "id": "1259799",
@@ -2946,7 +2938,8 @@
         "musicBrainzId": "2de9f057-67d8-429d-b899-759be13131a9",
         "popularity": 65,
         "followers": 1979020
-      }
+      },
+      "spotifyTrackId": "1ZtIJQbu42AO2o7lTRuDOL"
     },
     {
       "id": "1242745",
@@ -2988,7 +2981,8 @@
         "musicBrainzId": "2de9f057-67d8-429d-b899-759be13131a9",
         "popularity": 65,
         "followers": 1979020
-      }
+      },
+      "spotifyTrackId": "0kOlaLLq3AnlHPq4anO9ff"
     },
     {
       "id": "1274834927",
@@ -3032,7 +3026,8 @@
         "musicBrainzId": "5ca67d4f-d909-4cb7-9f43-89f8b4cf7e95",
         "popularity": 38,
         "followers": 77226
-      }
+      },
+      "spotifyTrackId": "0sNBN7sJDH1kCexnwQZ3yS"
     },
     {
       "id": "1274836438",
@@ -3078,7 +3073,8 @@
         "musicBrainzId": "d252cca8-8214-43e5-b81a-101eb4a1447e",
         "popularity": 61,
         "followers": 1762230
-      }
+      },
+      "spotifyTrackId": "2M8tI5gnzbtV2Cy4jejI7e"
     },
     {
       "id": "1274836433",
@@ -3124,7 +3120,8 @@
         "musicBrainzId": "d252cca8-8214-43e5-b81a-101eb4a1447e",
         "popularity": 61,
         "followers": 1762230
-      }
+      },
+      "spotifyTrackId": "7D9Hh0RulrwluNTD6K6vHX"
     },
     {
       "id": "1267184",
@@ -3168,7 +3165,8 @@
         "musicBrainzId": "201ac6bb-c268-4e9d-9390-5305512d5ee2",
         "popularity": 39,
         "followers": 133340
-      }
+      },
+      "spotifyTrackId": "02Lb9asWxa7wlsSTngHJbc"
     },
     {
       "id": "1274836430",
@@ -3214,7 +3212,8 @@
         "musicBrainzId": "d252cca8-8214-43e5-b81a-101eb4a1447e",
         "popularity": 61,
         "followers": 1762230
-      }
+      },
+      "spotifyTrackId": "7EIw9zb7XfRhZuRBBvqwhT"
     },
     {
       "id": "1274836440",
@@ -3260,7 +3259,8 @@
         "musicBrainzId": "d252cca8-8214-43e5-b81a-101eb4a1447e",
         "popularity": 61,
         "followers": 1762230
-      }
+      },
+      "spotifyTrackId": "45sNc5mPxBXOFk2xEvd3Af"
     },
     {
       "id": "7377",
@@ -3313,7 +3313,8 @@
         "musicBrainzId": "23d1dfc6-0281-488a-8e32-ef7ddc279fbc",
         "popularity": 64,
         "followers": 1839122
-      }
+      },
+      "spotifyTrackId": "5GorFaKkP2mLREQvhSblIg"
     },
     {
       "id": "8317",
@@ -3336,10 +3337,7 @@
       "overallVolume": "-13.0",
       "cuePoints": "8",
       "clippedPeaks": 96,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Cm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\8000-8999\\8317__You Make Me Wanna__USHER.mp3",
       "dateAdded": "2026-08-21",
@@ -3361,7 +3359,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "47TqCCnEliDp8NRDyIQoQq"
     },
     {
       "id": "1274828284",
@@ -3384,10 +3383,7 @@
       "overallVolume": "-14.9",
       "cuePoints": "5",
       "clippedPeaks": 10,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Bm - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828284__Too Close__Next.mp3",
       "dateAdded": "2026-08-21",
@@ -3406,7 +3402,8 @@
         "musicBrainzId": "7700b039-cba9-46fa-a863-dcfb4c916d99",
         "popularity": 22,
         "followers": 4535
-      }
+      },
+      "spotifyTrackId": "5IFCyWplye09HytIP80RCF"
     },
     {
       "id": "1274824884",
@@ -3432,7 +3429,7 @@
       "keywords": [],
       "comments": "Em - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274824000-1274824999\\1274824884__The Notorious B.I.G., 112__Sky's the Limit (feat. 112) - 2014 Remaster.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "711",
@@ -3456,7 +3453,8 @@
         "musicBrainzId": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
         "popularity": 79,
         "followers": 12168260
-      }
+      },
+      "spotifyTrackId": "0xdYzkbBBfTevSyOJqWUSX"
     },
     {
       "id": "1274818121",
@@ -3501,7 +3499,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "5L0KDoZklMgs9GPoonneEl"
     },
     {
       "id": "1274841297",
@@ -3543,7 +3542,8 @@
         "musicBrainzId": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
         "popularity": 70,
         "followers": 2184179
-      }
+      },
+      "spotifyTrackId": "3UGNdLrhhsK0SY9gNqe8TT"
     },
     {
       "id": "1274843938",
@@ -3592,7 +3592,8 @@
         "musicBrainzId": "cc30e630-8c75-4d78-b205-8e2edc6bdaa7",
         "popularity": 71,
         "followers": 1673289
-      }
+      },
+      "spotifyTrackId": "6uWez0py1zc17F7hjp7jIt"
     },
     {
       "id": "1274819887",
@@ -3635,7 +3636,8 @@
         "musicBrainzId": "7fec1c34-13e2-4cb5-ba15-3e478d716c6d",
         "popularity": 55,
         "followers": 583805
-      }
+      },
+      "spotifyTrackId": "4OK1XrubP6GJs4f6czk8Jg"
     },
     {
       "id": "1274822712",
@@ -3658,10 +3660,7 @@
       "overallVolume": "-11.7",
       "cuePoints": "8",
       "clippedPeaks": 65,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "D#m - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822712__You Might Need Somebody__Shola Ama.mp3",
       "dateAdded": "2026-08-21",
@@ -3685,7 +3684,8 @@
         "musicBrainzId": "b4806361-a71f-4bf3-981b-e65412b5e536",
         "popularity": 45,
         "followers": 65296
-      }
+      },
+      "spotifyTrackId": "24IFYP3J99HK3aB6xG5jtP"
     },
     {
       "id": "1274809273",
@@ -3734,7 +3734,8 @@
         "musicBrainzId": "b42eca0f-9381-43db-badb-1cba080a7dc2",
         "popularity": 70,
         "followers": 3471271
-      }
+      },
+      "spotifyTrackId": "027tq4cWr0kRxLTfdxvM1L"
     },
     {
       "id": "1274843950",
@@ -3783,7 +3784,8 @@
         "musicBrainzId": "cc30e630-8c75-4d78-b205-8e2edc6bdaa7",
         "popularity": 71,
         "followers": 1673289
-      }
+      },
+      "spotifyTrackId": "0JDpQYEIgXGI1MFLzFNQAT"
     },
     {
       "id": "1267779",
@@ -3848,7 +3850,8 @@
         "musicBrainzId": "93117a67-55b4-4b18-94c4-35c8a75fefc2",
         "popularity": 51,
         "followers": 111729
-      }
+      },
+      "spotifyTrackId": "1CLNWD0IK5YXc9KpTKaRF2"
     },
     {
       "id": "1274843937",
@@ -3897,7 +3900,8 @@
         "musicBrainzId": "cc30e630-8c75-4d78-b205-8e2edc6bdaa7",
         "popularity": 71,
         "followers": 1673289
-      }
+      },
+      "spotifyTrackId": "7lm57RyuKBqcRtDikkkSBQ"
     },
     {
       "id": "1274817069",
@@ -3941,7 +3945,8 @@
         "musicBrainzId": "fffc6a35-ae65-48be-bcc0-9d604e05665e",
         "popularity": 63,
         "followers": 2137391
-      }
+      },
+      "spotifyTrackId": "3e2Bo9TD1mtlqysEJa7Mep"
     },
     {
       "id": "10270",
@@ -3990,7 +3995,8 @@
         "musicBrainzId": "33ecb3d1-9ece-4462-b231-ce6e7a82dd50",
         "popularity": 61,
         "followers": 2210371
-      }
+      },
+      "spotifyTrackId": "69QIVIjPMnI1ABLBqh9P1b"
     },
     {
       "id": "1274810152",
@@ -4013,10 +4019,7 @@
       "overallVolume": "-13.2",
       "cuePoints": "6",
       "clippedPeaks": 0,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "B - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274810000-1274810999\\1274810152__I Don't Want to Wait__Paula Cole.mp3",
       "dateAdded": "2026-08-21",
@@ -4047,7 +4050,8 @@
         "musicBrainzId": "d3ba9251-215f-4ef3-a6de-8aa256b9c30c",
         "popularity": 52,
         "followers": 182700
-      }
+      },
+      "spotifyTrackId": "5MDQNJ7SZTytJwCbWKqJDL"
     },
     {
       "id": "1274828123",
@@ -4070,10 +4074,7 @@
       "overallVolume": "-13.1",
       "cuePoints": "8",
       "clippedPeaks": 515,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "F#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828123__One In A Million__Aaliyah.mp3",
       "dateAdded": "2026-08-21",
@@ -4105,7 +4106,8 @@
         "musicBrainzId": "bc85da58-52d9-457d-ae8d-5d8d4ec870a9",
         "popularity": 68,
         "followers": 4882260
-      }
+      },
+      "spotifyTrackId": "3j64qSBGg8zPn4zRa9Wok1"
     },
     {
       "id": "1274824036",
@@ -4128,12 +4130,7 @@
       "overallVolume": "-10.2",
       "cuePoints": "7",
       "clippedPeaks": 176,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "west coast",
-        "west coast rap"
-      ],
+      "keywords": "hip hop, rap, west coast, west coast rap",
       "comments": "Dm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274824000-1274824999\\1274824036__2Pac, Big Syke, C-PO, Danny Boy__Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke).mp3",
       "dateAdded": "2026-08-21",
@@ -4173,7 +4170,8 @@
         "musicBrainzId": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
         "popularity": 81,
         "followers": 21574145
-      }
+      },
+      "spotifyTrackId": "1zB0kXKLQr7tYifth69jlG"
     },
     {
       "id": "1267171",
@@ -4220,7 +4218,8 @@
         "musicBrainzId": "3c8a8696-e176-4c46-a2d3-48b6b1525c7f",
         "popularity": 66,
         "followers": 4412976
-      }
+      },
+      "spotifyTrackId": "5bJ796cOnGBzSN5bm4mwMj"
     },
     {
       "id": "1274831241",
@@ -4263,7 +4262,8 @@
         "musicBrainzId": "9a0038da-314c-4cfa-a320-9a620d20cf34",
         "popularity": 55,
         "followers": 738966
-      }
+      },
+      "spotifyTrackId": "6Xo9osN1HErsEJoqwj4eDg"
     },
     {
       "id": "1274842840",
@@ -4306,7 +4306,8 @@
         "musicBrainzId": "9e5fd95d-c0c1-412c-be11-06e7fbe99556",
         "popularity": 67,
         "followers": 2752944
-      }
+      },
+      "spotifyTrackId": "54huym3Clwn8vsqDeTVETg"
     },
     {
       "id": "1274824192",
@@ -4368,7 +4369,8 @@
         "musicBrainzId": "494e8d09-f85b-4543-892f-a5096aed1cd4",
         "popularity": 80,
         "followers": 11445825
-      }
+      },
+      "spotifyTrackId": "7ySbfLwdCwl1EM0zNCJZ38"
     },
     {
       "id": "1267256",
@@ -4413,7 +4415,8 @@
         "musicBrainzId": "55808e24-5150-4abd-b86b-7c3d7a080da3",
         "popularity": 50,
         "followers": 238549
-      }
+      },
+      "spotifyTrackId": "78ujFEl6ZHZF8wRy7dYo0T"
     },
     {
       "id": "1274843652",
@@ -4467,7 +4470,8 @@
         "musicBrainzId": "0307edfc-437c-4b48-8700-80680e66a228",
         "popularity": 79,
         "followers": 11185278
-      }
+      },
+      "spotifyTrackId": "7mVV7fepIMUAE4FDyihupV"
     },
     {
       "id": "1267213",
@@ -4510,7 +4514,8 @@
         "musicBrainzId": "8bc9464e-5967-477e-a9c3-ad5639d24517",
         "popularity": 41,
         "followers": 56903
-      }
+      },
+      "spotifyTrackId": "0784emAlDLuQtgeL4QV4tJ"
     },
     {
       "id": "1267286",
@@ -4553,7 +4558,8 @@
         "musicBrainzId": "0135e5ec-4ffd-46e5-9c3c-566b3df46a8d",
         "popularity": 55,
         "followers": 543027
-      }
+      },
+      "spotifyTrackId": "0t4J6vsfIb5wtYcSdht9yy"
     },
     {
       "id": "1267289",
@@ -4596,7 +4602,8 @@
         "musicBrainzId": "8bc9464e-5967-477e-a9c3-ad5639d24517",
         "popularity": 41,
         "followers": 56903
-      }
+      },
+      "spotifyTrackId": "5zYaTZt4dfJUbgQoTp9vhq"
     },
     {
       "id": "1274822602",
@@ -4619,10 +4626,7 @@
       "overallVolume": "-10.1",
       "cuePoints": "6",
       "clippedPeaks": 896,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "G#m - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822602__Kiss from a Rose__Seal.mp3",
       "dateAdded": "2026-08-21",
@@ -4655,7 +4659,8 @@
         "musicBrainzId": "f053ae01-dae6-4aae-9883-e8c279fdbef4",
         "popularity": 65,
         "followers": 2013752
-      }
+      },
+      "spotifyTrackId": "3YKptz29AsOlm7WAVnztBh"
     },
     {
       "id": "3800",
@@ -4678,10 +4683,7 @@
       "overallVolume": "-12.1",
       "cuePoints": "8",
       "clippedPeaks": 244,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "A#m - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\3000-3999\\3800__Waterfalls__TLC.mp3",
       "dateAdded": "2026-08-21",
@@ -4704,7 +4706,8 @@
         "musicBrainzId": "99790314-885a-4975-8614-9c5bc890364d",
         "popularity": 71,
         "followers": 4366404
-      }
+      },
+      "spotifyTrackId": "6qspW4YKycviDFjHBOaqUY"
     },
     {
       "id": "1274808612",
@@ -4753,7 +4756,8 @@
         "musicBrainzId": "b42eca0f-9381-43db-badb-1cba080a7dc2",
         "popularity": 70,
         "followers": 3471271
-      }
+      },
+      "spotifyTrackId": "4Gmkqn3V7IMTkOmmiX7cbb"
     },
     {
       "id": "1274815795",
@@ -4801,7 +4805,8 @@
         "musicBrainzId": "ef9df4c9-0e76-451b-b174-2244bcc31f0c",
         "popularity": 59,
         "followers": 891016
-      }
+      },
+      "spotifyTrackId": "4WUnM4KNZ0kjp0CUeoyOnS"
     },
     {
       "id": "1274822691",
@@ -4824,12 +4829,7 @@
       "overallVolume": "-13.2",
       "cuePoints": "8",
       "clippedPeaks": 152,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "Cm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822691__Creep__TLC.mp3",
       "dateAdded": "2026-08-21",
@@ -4852,7 +4852,8 @@
         "musicBrainzId": "99790314-885a-4975-8614-9c5bc890364d",
         "popularity": 71,
         "followers": 4366404
-      }
+      },
+      "spotifyTrackId": "1aWV3uY3SIEZVbmv45oFWS"
     },
     {
       "id": "1274822588",
@@ -4875,10 +4876,7 @@
       "overallVolume": "-13.7",
       "cuePoints": "8",
       "clippedPeaks": 3,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "C - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822588__You Gotta Be__Des'ree.mp3",
       "dateAdded": "2026-08-21",
@@ -4899,7 +4897,8 @@
         "musicBrainzId": "250504d4-eca1-4b23-bea6-db1dc7d2eaf9",
         "popularity": 57,
         "followers": 326293
-      }
+      },
+      "spotifyTrackId": "6CU0zWIWVTEnmWpSjVHM93"
     },
     {
       "id": "1274843257",
@@ -4945,7 +4944,8 @@
         "musicBrainzId": "d72d000b-b860-44f4-9ac1-5d82e3fff9a9",
         "popularity": 66,
         "followers": 937422
-      }
+      },
+      "spotifyTrackId": "2rkVoKVEMuct8SmEIGKzBw"
     },
     {
       "id": "1274836289",
@@ -4996,7 +4996,8 @@
         "musicBrainzId": "2469950a-f0ca-425a-bfbc-baf55ea3afde",
         "popularity": 71,
         "followers": 2717635
-      }
+      },
+      "spotifyTrackId": "2GUESfQxaSuauM5fwiRkXb"
     },
     {
       "id": "1274815935",
@@ -5045,7 +5046,8 @@
         "musicBrainzId": "b42eca0f-9381-43db-badb-1cba080a7dc2",
         "popularity": 70,
         "followers": 3471271
-      }
+      },
+      "spotifyTrackId": "1i1H1aogIEHNLtNLxCxQsF"
     },
     {
       "id": "1274815906",
@@ -5091,7 +5093,8 @@
         "musicBrainzId": "d72d000b-b860-44f4-9ac1-5d82e3fff9a9",
         "popularity": 66,
         "followers": 937422
-      }
+      },
+      "spotifyTrackId": "08TTz3bxSStwQKxZ8bEJ8C"
     },
     {
       "id": "43676",
@@ -5135,7 +5138,8 @@
         "musicBrainzId": "2258c0cf-77d7-4ddd-9440-f36e3c7a5e22",
         "popularity": 51,
         "followers": 492362
-      }
+      },
+      "spotifyTrackId": "7LcBP7lQSp9BojdqulANFE"
     },
     {
       "id": "1274816552",
@@ -5189,7 +5193,8 @@
         "musicBrainzId": "816d9b5d-eaf9-4a97-b5f7-6e82cd01aafe",
         "popularity": 66,
         "followers": 3645297
-      }
+      },
+      "spotifyTrackId": "6IJKQ0Qx44YypTSxOMc5AM"
     },
     {
       "id": "1274841273",
@@ -5242,7 +5247,8 @@
         "musicBrainzId": "6be2828f-6c0d-4059-99d4-fa18acf1a296",
         "popularity": 70,
         "followers": 4057729
-      }
+      },
+      "spotifyTrackId": "29rQJydAlO0uMyWvRIZxQg"
     },
     {
       "id": "1274818317",
@@ -5265,12 +5271,7 @@
       "overallVolume": "-13.4",
       "cuePoints": "6",
       "clippedPeaks": 4,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "west coast",
-        "west coast rap"
-      ],
+      "keywords": "hip hop, rap, west coast, west coast rap",
       "comments": "Cm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274818000-1274818999\\1274818317__Snoop Dogg, Nate Dogg, Warren G, Kurupt__Ain’t No Fun (If The Homies Can’t Have None).mp3",
       "dateAdded": "2026-08-21",
@@ -5305,7 +5306,8 @@
         "musicBrainzId": "f90e8b26-9e52-4669-a5c9-e28529c47894",
         "popularity": 84,
         "followers": 14860906
-      }
+      },
+      "spotifyTrackId": "3g1mP8c79KbkWDhED5tyKZ"
     },
     {
       "id": "1274828281",
@@ -5328,10 +5330,7 @@
       "overallVolume": "-14.3",
       "cuePoints": "8",
       "clippedPeaks": 24,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "E - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828281__Bump n' Grind__R. Kelly.mp3",
       "dateAdded": "2026-08-21",
@@ -5368,7 +5367,8 @@
         "musicBrainzId": "c2d25856-a09a-4d15-b404-77dd19c19e63",
         "popularity": 71,
         "followers": 3603985
-      }
+      },
+      "spotifyTrackId": "0DBIL8arX0Zo6eAuxNIpik"
     },
     {
       "id": "1274817152",
@@ -5415,7 +5415,8 @@
         "musicBrainzId": "3c8a8696-e176-4c46-a2d3-48b6b1525c7f",
         "popularity": 66,
         "followers": 4412976
-      }
+      },
+      "spotifyTrackId": "70iDnqYvxCPl3mPd3ddxgD"
     },
     {
       "id": "63869",
@@ -5456,7 +5457,8 @@
         "musicBrainzId": null,
         "popularity": 11,
         "followers": 1022
-      }
+      },
+      "spotifyTrackId": "2ocrEAYiUJAQozXzhuxejF"
     },
     {
       "id": "1274824814",
@@ -5510,7 +5512,8 @@
         "musicBrainzId": "0307edfc-437c-4b48-8700-80680e66a228",
         "popularity": 79,
         "followers": 11185278
-      }
+      },
+      "spotifyTrackId": "31er9IGsfFbwqy1pH4aiTP"
     },
     {
       "id": "1274824815",
@@ -5564,7 +5567,8 @@
         "musicBrainzId": "0307edfc-437c-4b48-8700-80680e66a228",
         "popularity": 79,
         "followers": 11185278
-      }
+      },
+      "spotifyTrackId": "4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
       "id": "8230",
@@ -5608,7 +5612,8 @@
         "musicBrainzId": "fffc6a35-ae65-48be-bcc0-9d604e05665e",
         "popularity": 63,
         "followers": 2137391
-      }
+      },
+      "spotifyTrackId": "71EHOyEOhNx1SzTebRRyng"
     },
     {
       "id": "1274824821",
@@ -5662,7 +5667,8 @@
         "musicBrainzId": "0307edfc-437c-4b48-8700-80680e66a228",
         "popularity": 79,
         "followers": 11185278
-      }
+      },
+      "spotifyTrackId": "6M1M6cRtVkm5d0qTzkSEuK"
     },
     {
       "id": "1274841711",
@@ -5706,7 +5712,8 @@
         "musicBrainzId": "fffc6a35-ae65-48be-bcc0-9d604e05665e",
         "popularity": 63,
         "followers": 2137391
-      }
+      },
+      "spotifyTrackId": "7tUEDtHchueeUJTfEFEhii"
     },
     {
       "id": "1274824823",
@@ -5760,7 +5767,8 @@
         "musicBrainzId": "0307edfc-437c-4b48-8700-80680e66a228",
         "popularity": 79,
         "followers": 11185278
-      }
+      },
+      "spotifyTrackId": "2eHj0klWkwRQuIrNlPpCPa"
     },
     {
       "id": "43648",
@@ -5804,7 +5812,8 @@
         "musicBrainzId": "95c71d6b-2b4d-498f-bd0e-b26e83a2dcfb",
         "popularity": 49,
         "followers": 35395
-      }
+      },
+      "spotifyTrackId": "0QxHxD5A0qzNBIMobsQT4X"
     },
     {
       "id": "5457",
@@ -5853,7 +5862,8 @@
         "musicBrainzId": "b42eca0f-9381-43db-badb-1cba080a7dc2",
         "popularity": 70,
         "followers": 3471271
-      }
+      },
+      "spotifyTrackId": "3l3xTXsUXeWlkPqzMs7mPD"
     },
     {
       "id": "1274809947",
@@ -5916,7 +5926,8 @@
         "musicBrainzId": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
         "popularity": 72,
         "followers": 2561716
-      }
+      },
+      "spotifyTrackId": "0j5FJJOmmnXPd0XajFWkMF"
     },
     {
       "id": "1274822728",
@@ -5939,10 +5950,7 @@
       "overallVolume": "-15.7",
       "cuePoints": "3",
       "clippedPeaks": 1,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "G#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822728__I'm Your Baby Tonight__Whitney Houston.mp3",
       "dateAdded": "2026-08-21",
@@ -5973,7 +5981,8 @@
         "musicBrainzId": "0307edfc-437c-4b48-8700-80680e66a228",
         "popularity": 79,
         "followers": 11185278
-      }
+      },
+      "spotifyTrackId": "3SmPl0CGxvvkQCrTv7edEE"
     },
     {
       "id": "1274847133",
@@ -5985,7 +5994,7 @@
       "durationSeconds": 257,
       "durationDisplay": "04:17",
       "releaseDate": "2004-09-21",
-      "genre": "Rap/Hip Hop",
+      "genre": "dance pop, r&b, southern hip hop, urban contemporary",
       "country": "US",
       "spotifyPopularity": 80,
       "spotifyUrl": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff",
@@ -6016,7 +6025,8 @@
         "musicBrainzId": "f236134b-7ebb-4ba8-b155-1791193d05ec",
         "popularity": 69,
         "followers": 3819154
-      }
+      },
+      "spotifyTrackId": "3ibKnFDaa3GhpPGlOUj7ff"
     },
     {
       "id": "1274847134",
@@ -6067,7 +6077,8 @@
         "musicBrainzId": "f0602f55-1770-483d-89bd-4bae0d0ac086",
         "popularity": 78,
         "followers": 13577146
-      }
+      },
+      "spotifyTrackId": "6MLsahMK3VvH9NUwXOktdS"
     },
     {
       "id": "3199",
@@ -6090,12 +6101,7 @@
       "overallVolume": "-10.3",
       "cuePoints": "8",
       "clippedPeaks": 5318,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "Cm - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\3000-3999\\3199__What's Luv___Fat Joe.mp3",
       "dateAdded": "2026-08-21",
@@ -6116,7 +6122,8 @@
         "musicBrainzId": "a6a4c910-2b22-4a6f-aebe-805b176c47b8",
         "popularity": 70,
         "followers": 2029943
-      }
+      },
+      "spotifyTrackId": "2mKouqwAIdQnMP43zxR89r"
     },
     {
       "id": "1274828167",
@@ -6139,10 +6146,7 @@
       "overallVolume": "-10.4",
       "cuePoints": "8",
       "clippedPeaks": 754,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Cm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828167__Ja Rule, Ashanti__Mesmerize.mp3",
       "dateAdded": "2026-08-21",
@@ -6165,7 +6169,8 @@
         "musicBrainzId": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
         "popularity": 73,
         "followers": 2074197
-      }
+      },
+      "spotifyTrackId": "2iclfHORMqpR3TxuhwVRhD"
     },
     {
       "id": "1274808393",
@@ -6218,7 +6223,8 @@
         "musicBrainzId": "1138a764-2212-4d0a-b02d-0dc14df91e08",
         "popularity": 86,
         "followers": 6994532
-      }
+      },
+      "spotifyTrackId": "7I6DceMT3utDOHjcYCbrr4"
     },
     {
       "id": "120269",
@@ -6241,12 +6247,7 @@
       "overallVolume": "-10.6",
       "cuePoints": "8",
       "clippedPeaks": 1511,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "Fm - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\120000-120999\\120269__Smack That__Akon.mp3",
       "dateAdded": "2026-08-21",
@@ -6276,7 +6277,8 @@
         "musicBrainzId": "1138a764-2212-4d0a-b02d-0dc14df91e08",
         "popularity": 86,
         "followers": 6994532
-      }
+      },
+      "spotifyTrackId": "2kQuhkFX7uSVepCD3h29g5"
     },
     {
       "id": "1274801726",
@@ -6321,7 +6323,8 @@
         "musicBrainzId": "5508631d-697f-4839-a669-06637e5bcb90",
         "popularity": 65,
         "followers": 2490810
-      }
+      },
+      "spotifyTrackId": "1jUA4rb6ZCv4gby4YU53xq"
     },
     {
       "id": "1274828048",
@@ -6344,10 +6347,7 @@
       "overallVolume": "-10.3",
       "cuePoints": "8",
       "clippedPeaks": 2260,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Dm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828048__Right Thurr__Chingy.mp3",
       "dateAdded": "2026-08-21",
@@ -6370,7 +6370,8 @@
         "musicBrainzId": "2c311e1d-5da3-4ffb-a46e-572981b5849f",
         "popularity": 62,
         "followers": 1035015
-      }
+      },
+      "spotifyTrackId": "0l3GEbH3CviUytD6iX4wzg"
     },
     {
       "id": "1274847135",
@@ -6425,7 +6426,8 @@
         "musicBrainzId": "bc85da58-52d9-457d-ae8d-5d8d4ec870a9",
         "popularity": 68,
         "followers": 4882260
-      }
+      },
+      "spotifyTrackId": "54uLTcjNraWuwjqLrDhG23"
     },
     {
       "id": "1274801595",
@@ -6448,12 +6450,7 @@
       "overallVolume": "-7.8",
       "cuePoints": "8",
       "clippedPeaks": 2318,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "Am - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274801000-1274801999\\1274801595__JAŸ-Z, Beyoncé__03' Bonnie & Clyde.mp3",
       "dateAdded": "2026-08-21",
@@ -6489,7 +6486,8 @@
         "musicBrainzId": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
         "popularity": 86,
         "followers": 10119480
-      }
+      },
+      "spotifyTrackId": "5ljCWsDlSyJ41kwqym2ORw"
     },
     {
       "id": "1274822713",
@@ -6512,12 +6510,7 @@
       "overallVolume": "-12.3",
       "cuePoints": "8",
       "clippedPeaks": 2256,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "F#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822713__Gettin' Jiggy Wit It__Will Smith.mp3",
       "dateAdded": "2026-08-21",
@@ -6551,7 +6544,8 @@
         "musicBrainzId": "5bae7081-64ef-4473-825a-38d310deb14c",
         "popularity": 71,
         "followers": 1124233
-      }
+      },
+      "spotifyTrackId": "0weAUscowxeqDtpCgtbpgp"
     },
     {
       "id": "540433",
@@ -6574,12 +6568,7 @@
       "overallVolume": "-7.4",
       "cuePoints": "8",
       "clippedPeaks": 842,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "G# - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\540000-540999\\540433__Kanye West__Gold Digger.mp3",
       "dateAdded": "2026-08-21",
@@ -6628,7 +6617,8 @@
         "musicBrainzId": "0eb17834-1d29-47ef-a422-9dc68d73c5e4",
         "popularity": 93,
         "followers": 30318373
-      }
+      },
+      "spotifyTrackId": "1PS1QMdUqOal0ai3Gt7sDQ"
     },
     {
       "id": "3329",
@@ -6700,7 +6690,8 @@
         "musicBrainzId": "0eb17834-1d29-47ef-a422-9dc68d73c5e4",
         "popularity": 93,
         "followers": 30318373
-      }
+      },
+      "spotifyTrackId": "4mmkhcEm1Ljy1U9nwtsxUo"
     },
     {
       "id": "442",
@@ -6723,12 +6714,7 @@
       "overallVolume": "-7.4",
       "cuePoints": "6",
       "clippedPeaks": 11103,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "F# - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\0-999\\442__Empire State Of Mind__JAY-Z.mp3",
       "dateAdded": "2026-08-21",
@@ -6764,7 +6750,8 @@
         "musicBrainzId": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
         "popularity": 86,
         "followers": 10119480
-      }
+      },
+      "spotifyTrackId": "2igwFfvr1OAGX9SKDCPBwO"
     },
     {
       "id": "858",
@@ -6790,7 +6777,7 @@
       "keywords": [],
       "comments": "G#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\0-999\\858__The Game, 50 Cent__Hate It Or Love It.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "499",
@@ -6811,7 +6798,8 @@
         "musicBrainzId": "07cc14fb-4784-4a25-804b-2686ed5ef52c",
         "popularity": 72,
         "followers": 5098559
-      }
+      },
+      "spotifyTrackId": "2wGSgTmgSF3xjRrHkTc25R"
     },
     {
       "id": "9547",
@@ -6834,10 +6822,7 @@
       "overallVolume": "-10.3",
       "cuePoints": "8",
       "clippedPeaks": 33,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "D#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\9000-9999\\9547__Señorita__Justin Timberlake.mp3",
       "dateAdded": "2026-08-21",
@@ -6865,7 +6850,8 @@
         "musicBrainzId": "596ffa74-3d08-44ef-b113-765d43d12738",
         "popularity": 83,
         "followers": 15399940
-      }
+      },
+      "spotifyTrackId": "0aj2QKJvz6CePykmlTApiD"
     },
     {
       "id": "1267052",
@@ -6911,7 +6897,8 @@
         "musicBrainzId": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
         "popularity": 73,
         "followers": 3056253
-      }
+      },
+      "spotifyTrackId": "0YImOCkIJ2PWhCXaURCZnY"
     },
     {
       "id": "7554",
@@ -6962,7 +6949,8 @@
         "musicBrainzId": "596ffa74-3d08-44ef-b113-765d43d12738",
         "popularity": 83,
         "followers": 15399940
-      }
+      },
+      "spotifyTrackId": "1MBM7CyZbwJpVbbZJnHHRg"
     },
     {
       "id": "3663",
@@ -6985,15 +6973,10 @@
       "overallVolume": "-9.8",
       "cuePoints": "3",
       "clippedPeaks": 1380,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "east coast",
-        "east coast rap"
-      ],
+      "keywords": "hip hop, rap, east coast, east coast rap",
       "comments": "E - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\3000-3999\\3663__The Notorious B.I.G__Mo Money Mo Problems.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "711",
@@ -7017,7 +7000,8 @@
         "musicBrainzId": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
         "popularity": 79,
         "followers": 12168260
-      }
+      },
+      "spotifyTrackId": "4INDiWSKvqSKDEu7mh8HFz"
     },
     {
       "id": "2906",
@@ -7040,15 +7024,10 @@
       "overallVolume": "-14.8",
       "cuePoints": "7",
       "clippedPeaks": 0,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "east coast",
-        "east coast rap"
-      ],
+      "keywords": "hip hop, rap, east coast, east coast rap",
       "comments": "G#m - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\2000-2999\\2906__21 Questions__50 Cent.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "407",
@@ -7079,7 +7058,8 @@
         "musicBrainzId": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
         "popularity": 85,
         "followers": 17786306
-      }
+      },
+      "spotifyTrackId": "41bIQPBE1lFN0mmw6Lmssz"
     },
     {
       "id": "1274818890",
@@ -7102,10 +7082,7 @@
       "overallVolume": "-10.4",
       "cuePoints": "8",
       "clippedPeaks": 5269,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "Bm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274818000-1274818999\\1274818890__Like I Love You__Justin Timberlake.mp3",
       "dateAdded": "2026-08-21",
@@ -7133,7 +7110,8 @@
         "musicBrainzId": "596ffa74-3d08-44ef-b113-765d43d12738",
         "popularity": 83,
         "followers": 15399940
-      }
+      },
+      "spotifyTrackId": "6W2Ef5Ph6ILTUAedoQ3QIv"
     },
     {
       "id": "1274847136",
@@ -7159,7 +7137,7 @@
       "keywords": [],
       "comments": "A#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847136__Nas, Ms. Lauryn Hill__If I Ruled the World (Imagine That) (feat. Lauryn Hill).mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "2295",
@@ -7185,7 +7163,8 @@
         "musicBrainzId": "cfbc0924-0035-4d6c-8197-f024653af823",
         "popularity": 43,
         "followers": 132215
-      }
+      },
+      "spotifyTrackId": "5PQmSHzWnlgG4EBuIqjac2"
     },
     {
       "id": "1267026",
@@ -7208,10 +7187,7 @@
       "overallVolume": "-8.3",
       "cuePoints": "8",
       "clippedPeaks": 1396,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Dm - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267026__Are You That Somebody__Aaliyah.mp3",
       "dateAdded": "2026-08-21",
@@ -7243,7 +7219,8 @@
         "musicBrainzId": "bc85da58-52d9-457d-ae8d-5d8d4ec870a9",
         "popularity": 68,
         "followers": 4882260
-      }
+      },
+      "spotifyTrackId": "4QTO9eLRONw0rzOVWU4uB4"
     },
     {
       "id": "1274824886",
@@ -7293,7 +7270,8 @@
         "musicBrainzId": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
         "popularity": 79,
         "followers": 12168260
-      }
+      },
+      "spotifyTrackId": "4GIsskMpViPkt0uzPJTJSp"
     },
     {
       "id": "1274847137",
@@ -7351,7 +7329,8 @@
         "musicBrainzId": "c3c82bdc-d9e7-4836-9746-c24ead47ca19",
         "popularity": 77,
         "followers": 1234723
-      }
+      },
+      "spotifyTrackId": "4WimB4Ei0LU3MotHhL3kBL"
     },
     {
       "id": "1274847138",
@@ -7393,7 +7372,8 @@
         "musicBrainzId": "f28cabfc-3cf5-4886-b832-36ab708fbb0a",
         "popularity": 64,
         "followers": 343300
-      }
+      },
+      "spotifyTrackId": "0q3lwFiwQYQynThTulLKGN"
     },
     {
       "id": "1274847139",
@@ -7439,32 +7419,33 @@
         "musicBrainzId": "b14191fa-24c5-44d8-b42d-5017b22b0430",
         "popularity": 74,
         "followers": 3335239
-      }
+      },
+      "spotifyTrackId": "7t86fVeDAd63ThaR0ZkxXS"
     },
     {
-      "id": "1274847140",
-      "externalSongId": "1274847140",
+      "id": "1274799401",
+      "externalSongId": "1274799401",
       "title": "Baby Boy (feat. Sean Paul)",
       "artist": "Beyoncé, Sean Paul",
       "album": "Dangerously In Love",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1",
-      "durationSeconds": 245,
-      "durationDisplay": "04:05",
-      "releaseDate": "2003-06-24",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a9fd4a0405945cd51e8de130",
+      "durationSeconds": 244,
+      "durationDisplay": "04:04",
+      "releaseDate": "2003-03-10",
       "genre": "Pop",
       "country": "US",
-      "spotifyPopularity": 73,
-      "spotifyUrl": "https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe",
+      "spotifyPopularity": 74,
+      "spotifyUrl": "https://open.spotify.com/track/6dF5QhnUT1pjG0mDCbEYVf",
       "tempo": 91.0,
       "musicalKey": "Cm",
       "camelot": "5A",
-      "energy": "7.0",
-      "overallVolume": "-11.1",
+      "energy": "7",
+      "overallVolume": "-8.6 dB",
       "cuePoints": "8",
       "clippedPeaks": 202,
-      "keywords": [],
+      "keywords": "hip hop, rap",
       "comments": "Cm - Energy 7",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847140__Beyoncé, Sean Paul__Baby Boy (feat. Sean Paul).mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\HIP HOP\\Sean Paul - Baby Boy.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -7522,7 +7503,8 @@
         "musicBrainzId": "859d0860-d480-4efd-970c-c05d5f1776b8",
         "popularity": 88,
         "followers": 40388503
-      }
+      },
+      "spotifyTrackId": "6dF5QhnUT1pjG0mDCbEYVf"
     },
     {
       "id": "1274824196",
@@ -7584,32 +7566,33 @@
         "musicBrainzId": "494e8d09-f85b-4543-892f-a5096aed1cd4",
         "popularity": 80,
         "followers": 11445825
-      }
+      },
+      "spotifyTrackId": "2AlO5CLisJAA9X5JybMtuz"
     },
     {
-      "id": "1274847141",
-      "externalSongId": "1274847141",
+      "id": "1274808563",
+      "externalSongId": "1274808563",
       "title": "Naughty Girl",
       "artist": "Beyoncé",
       "album": "Dangerously In Love",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1",
-      "durationSeconds": 209,
-      "durationDisplay": "03:29",
-      "releaseDate": "2003-06-24",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a9fd4a0405945cd51e8de130",
+      "durationSeconds": 208,
+      "durationDisplay": "03:28",
+      "releaseDate": "2003-03-10",
       "genre": "Pop",
       "country": "US",
-      "spotifyPopularity": 72,
-      "spotifyUrl": "https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg",
+      "spotifyPopularity": 74,
+      "spotifyUrl": "https://open.spotify.com/track/0CPLnPUUHh44vAzDSM5ZlR",
       "tempo": 100.0,
       "musicalKey": "Bm",
       "camelot": "10A",
-      "energy": "6.0",
-      "overallVolume": "-12.7",
+      "energy": "6",
+      "overallVolume": "-12.7 dB",
       "cuePoints": "8",
       "clippedPeaks": 912,
-      "keywords": [],
+      "keywords": "dance, pop",
       "comments": "Bm - Energy 6",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847141__Beyoncé__Naughty Girl.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\DANCE\\2000\\Beyoncé - Naughty Girl.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -7667,7 +7650,8 @@
         "musicBrainzId": "859d0860-d480-4efd-970c-c05d5f1776b8",
         "popularity": 88,
         "followers": 40388503
-      }
+      },
+      "spotifyTrackId": "0CPLnPUUHh44vAzDSM5ZlR"
     },
     {
       "id": "1274829100",
@@ -7715,7 +7699,8 @@
         "musicBrainzId": "a796b92e-c137-4895-9c89-10f900617a4f",
         "popularity": 74,
         "followers": 8748043
-      }
+      },
+      "spotifyTrackId": "2n4uOdMHzEvcZ0KP7iQnay"
     },
     {
       "id": "1274817480",
@@ -7738,10 +7723,7 @@
       "overallVolume": "-9.9",
       "cuePoints": "8",
       "clippedPeaks": 4312,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Em - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274817000-1274817999\\1274817480__I Just Wanna Love U (Give It 2 Me)__JAŸ-Z.mp3",
       "dateAdded": "2026-08-21",
@@ -7777,7 +7759,8 @@
         "musicBrainzId": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
         "popularity": 86,
         "followers": 10119480
-      }
+      },
+      "spotifyTrackId": "0s46SltT4On0Z6kglK1I5c"
     },
     {
       "id": "1274822714",
@@ -7800,12 +7783,7 @@
       "overallVolume": "-10.5",
       "cuePoints": "8",
       "clippedPeaks": 0,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "F#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822714__Pras, Ol' Dirty Bastard, Mýa__Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & Mýa).mp3",
       "dateAdded": "2026-08-21",
@@ -7824,7 +7802,8 @@
         "musicBrainzId": "1e053993-38bc-4479-8355-b7429f37ff21",
         "popularity": 65,
         "followers": 50985
-      }
+      },
+      "spotifyTrackId": "31bf9SEOppLU6lQ85d8om6"
     },
     {
       "id": "1274847142",
@@ -7836,7 +7815,7 @@
       "durationSeconds": 236,
       "durationDisplay": "03:56",
       "releaseDate": "2005",
-      "genre": "Rap/Hip Hop",
+      "genre": "gangster rap, hip hop, pop rap, rap, southern hip hop, trap",
       "country": "US",
       "spotifyPopularity": 79,
       "spotifyUrl": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p",
@@ -7847,10 +7826,10 @@
       "overallVolume": "-9.1",
       "cuePoints": "8",
       "clippedPeaks": 255,
-      "keywords": [],
+      "keywords": "hip hop, rap, hip hop, rap, west coast, west coast rap",
       "comments": "Em - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847142__The Game, 50 Cent__How We Do.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "499",
@@ -7871,7 +7850,8 @@
         "musicBrainzId": "07cc14fb-4784-4a25-804b-2686ed5ef52c",
         "popularity": 72,
         "followers": 5098559
-      }
+      },
+      "spotifyTrackId": "4PmMVdIFpJTB9WQbmILf4p"
     },
     {
       "id": "1274828065",
@@ -7894,10 +7874,7 @@
       "overallVolume": "-9.2",
       "cuePoints": "8",
       "clippedPeaks": 3469,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "C#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828065__Cam'ron, Juelz Santana__Oh Boy.mp3",
       "dateAdded": "2026-08-21",
@@ -7918,7 +7895,8 @@
         "musicBrainzId": "ea6b7199-901d-4c0e-8242-6d7bc2bf62b7",
         "popularity": 61,
         "followers": 850284
-      }
+      },
+      "spotifyTrackId": "4X1odWLrLSSahaK6Hi15AA"
     },
     {
       "id": "1274828092",
@@ -7941,10 +7919,7 @@
       "overallVolume": "-11.2",
       "cuePoints": "8",
       "clippedPeaks": 0,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Fm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828092__Ciara, Petey Pablo__Goodies (feat. Petey Pablo).mp3",
       "dateAdded": "2026-08-21",
@@ -7971,7 +7946,8 @@
         "musicBrainzId": "03172286-f7ed-4864-a4db-459cd5ca9790",
         "popularity": 73,
         "followers": 7152825
-      }
+      },
+      "spotifyTrackId": "3dFwpxh2yH7C7p9BGEKLVB"
     },
     {
       "id": "1274828067",
@@ -7994,10 +7970,7 @@
       "overallVolume": "-11.1",
       "cuePoints": "8",
       "clippedPeaks": 11,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "G - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828067__Ciara, Ludacris__Oh (feat. Ludacris).mp3",
       "dateAdded": "2026-08-21",
@@ -8024,7 +7997,8 @@
         "musicBrainzId": "03172286-f7ed-4864-a4db-459cd5ca9790",
         "popularity": 73,
         "followers": 7152825
-      }
+      },
+      "spotifyTrackId": "7i7UIbm5E0DD7aSOYvwp2v"
     },
     {
       "id": "1274847143",
@@ -8068,7 +8042,8 @@
         "musicBrainzId": "76716b81-e361-427e-a931-19373388387d",
         "popularity": 72,
         "followers": 1531958
-      }
+      },
+      "spotifyTrackId": "6hxn98poTu1O4YZfafvC18"
     },
     {
       "id": "1274828256",
@@ -8091,10 +8066,7 @@
       "overallVolume": "-9.8",
       "cuePoints": "8",
       "clippedPeaks": 3747,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Gm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828256__Rock The Boat__Aaliyah.mp3",
       "dateAdded": "2026-08-21",
@@ -8126,7 +8098,8 @@
         "musicBrainzId": "bc85da58-52d9-457d-ae8d-5d8d4ec870a9",
         "popularity": 68,
         "followers": 4882260
-      }
+      },
+      "spotifyTrackId": "0szij2qJqCH1PyrPfZcpi0"
     },
     {
       "id": "1267279",
@@ -8188,32 +8161,33 @@
         "musicBrainzId": "35e3200c-a82c-4357-910e-76b1a9cbaf05",
         "popularity": 56,
         "followers": 239442
-      }
+      },
+      "spotifyTrackId": "2J2hVpwVV25EK8Bvd3OgCK"
     },
     {
-      "id": "1274847144",
-      "externalSongId": "1274847144",
+      "id": "1274808776",
+      "externalSongId": "1274808776",
       "title": "Bootylicious",
       "artist": "Destiny's Child",
-      "album": "#1's",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b5a1b7c7397205e6d5d57cb3",
-      "durationSeconds": 208,
-      "durationDisplay": "03:28",
-      "releaseDate": "2005",
+      "album": "Survivor",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273163cdae7f1e2c82786a84e3e",
+      "durationSeconds": 207,
+      "durationDisplay": "03:27",
+      "releaseDate": "2001-05-01",
       "genre": "Pop",
       "country": "US",
-      "spotifyPopularity": 48,
-      "spotifyUrl": "https://open.spotify.com/track/2jZESuj23z92RqbooSsMqV",
+      "spotifyPopularity": 64,
+      "spotifyUrl": "https://open.spotify.com/track/41nT1Sp6ChR65FbsdLlFHW",
       "tempo": 103.0,
       "musicalKey": "D#m",
       "camelot": "2A",
-      "energy": "7.0",
-      "overallVolume": "-8.2",
-      "cuePoints": "6",
+      "energy": "7",
+      "overallVolume": "-8.4 dB",
+      "cuePoints": "5",
       "clippedPeaks": 7235,
-      "keywords": [],
+      "keywords": "hip hop, rap",
       "comments": "D#m - Energy 7",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847144__Destiny's Child__Bootylicious.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\HIP HOP\\Destiny's Child - Bootylicious.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -8236,7 +8210,8 @@
         "musicBrainzId": "a796b92e-c137-4895-9c89-10f900617a4f",
         "popularity": 74,
         "followers": 8748043
-      }
+      },
+      "spotifyTrackId": "41nT1Sp6ChR65FbsdLlFHW"
     },
     {
       "id": "1274818125",
@@ -8259,10 +8234,7 @@
       "overallVolume": "-12.2",
       "cuePoints": "8",
       "clippedPeaks": 1209,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Fm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274818000-1274818999\\1274818125__U Don't Have to Call__USHER.mp3",
       "dateAdded": "2026-08-21",
@@ -8284,7 +8256,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "5PCJldueshnwqQVjS16543"
     },
     {
       "id": "1274828172",
@@ -8307,10 +8280,7 @@
       "overallVolume": "-12.4",
       "cuePoints": "8",
       "clippedPeaks": 1699,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Gm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828172__Happy__Ashanti.mp3",
       "dateAdded": "2026-08-21",
@@ -8333,7 +8303,8 @@
         "musicBrainzId": "a47ed6d5-480e-428c-8ce9-d7a6a571e857",
         "popularity": 74,
         "followers": 3434902
-      }
+      },
+      "spotifyTrackId": "6CbcdeTQKj0qTaZTt0xkdk"
     },
     {
       "id": "1274847145",
@@ -8381,7 +8352,8 @@
         "musicBrainzId": "8b4d99eb-7a54-4648-b299-8e1564d11385",
         "popularity": 63,
         "followers": 2235738
-      }
+      },
+      "spotifyTrackId": "5mNV8Mz59bzyuQ53gTw0c0"
     },
     {
       "id": "1274847146",
@@ -8422,7 +8394,8 @@
         "musicBrainzId": "b8e3a524-0f55-42ad-a5f8-253ddad02f18",
         "popularity": 64,
         "followers": 1043682
-      }
+      },
+      "spotifyTrackId": "6kLZ1DzSxBkNVvdQm6CX0N"
     },
     {
       "id": "1267282",
@@ -8445,10 +8418,7 @@
       "overallVolume": "-10.4",
       "cuePoints": "8",
       "clippedPeaks": 0,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Cm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267282__What'chu Like (Explicit Version)__Da Brat.mp3",
       "dateAdded": "2026-08-21",
@@ -8477,7 +8447,8 @@
         "musicBrainzId": "603ba565-3967-4be1-931e-9cb945394e86",
         "popularity": 73,
         "followers": 2973476
-      }
+      },
+      "spotifyTrackId": "79w0LgtORjHKr621y6dcPh"
     },
     {
       "id": "1274846798",
@@ -8521,7 +8492,8 @@
         "musicBrainzId": "66bdd1c9-d1c5-40b7-a487-5061fffbd87d",
         "popularity": 43,
         "followers": 132215
-      }
+      },
+      "spotifyTrackId": "0WgLpgUdThEpA5L5K0SKq7"
     },
     {
       "id": "1274847147",
@@ -8563,7 +8535,8 @@
         "musicBrainzId": "4822d466-5c1f-4e04-80e9-e33e8295c26b",
         "popularity": 27,
         "followers": 34515
-      }
+      },
+      "spotifyTrackId": "4VSyH8AkIt3kaR5xIPFVVi"
     },
     {
       "id": "1274847148",
@@ -8604,7 +8577,8 @@
         "musicBrainzId": "7c5e39c3-7645-4e37-968d-a4e45cd38c5d",
         "popularity": 64,
         "followers": 1530246
-      }
+      },
+      "spotifyTrackId": "1ak0S3NhwWrUgNlQhJ1412"
     },
     {
       "id": "1274847149",
@@ -8652,7 +8626,8 @@
         "musicBrainzId": "8b4d99eb-7a54-4648-b299-8e1564d11385",
         "popularity": 63,
         "followers": 2235738
-      }
+      },
+      "spotifyTrackId": "0mDSPvA2OAgIsSiGGGAesm"
     },
     {
       "id": "1274847150",
@@ -8698,7 +8673,8 @@
         "musicBrainzId": "0fc6441d-ee08-4088-8a70-1d6ed2ad5a35",
         "popularity": 52,
         "followers": 169147
-      }
+      },
+      "spotifyTrackId": "6NenX8oihDhKJPQlMbJN8b"
     },
     {
       "id": "1274847151",
@@ -8741,7 +8717,8 @@
         "musicBrainzId": "f236134b-7ebb-4ba8-b155-1791193d05ec",
         "popularity": 69,
         "followers": 3819154
-      }
+      },
+      "spotifyTrackId": "2cxbxpHrND6i4uvUGVvC9J"
     },
     {
       "id": "1274847152",
@@ -8785,7 +8762,8 @@
         "musicBrainzId": "f5bad1a5-53cf-40c1-b03b-c5cf05c65768",
         "popularity": 52,
         "followers": 720332
-      }
+      },
+      "spotifyTrackId": "5AIA8TpGhuilLpHbA6c1bq"
     },
     {
       "id": "1267106",
@@ -8808,10 +8786,7 @@
       "overallVolume": "-10.1",
       "cuePoints": "8",
       "clippedPeaks": 2403,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Dm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267106__Ride wit U__Joe.mp3",
       "dateAdded": "2026-08-21",
@@ -8830,7 +8805,8 @@
         "musicBrainzId": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
         "popularity": 70,
         "followers": 2184179
-      }
+      },
+      "spotifyTrackId": "6EhWEvgOrOfqMcnuwIkbiL"
     },
     {
       "id": "1274847154",
@@ -8878,7 +8854,8 @@
         "musicBrainzId": "a796b92e-c137-4895-9c89-10f900617a4f",
         "popularity": 74,
         "followers": 8748043
-      }
+      },
+      "spotifyTrackId": "2PcN49v9n4KBVLFVXfCgNJ"
     },
     {
       "id": "1267031",
@@ -8920,7 +8897,8 @@
         "musicBrainzId": "8985348a-1024-4c99-b284-19d3b983e1f4",
         "popularity": 40,
         "followers": 25540
-      }
+      },
+      "spotifyTrackId": "1PB6gllaq5kUUSpb5jzWjn"
     },
     {
       "id": "1267218",
@@ -8968,7 +8946,8 @@
         "musicBrainzId": "4e3f4f52-968c-43ec-b165-741122d7cc28",
         "popularity": 13,
         "followers": 649
-      }
+      },
+      "spotifyTrackId": "3tHAB8FI4rfULUHHG1d2Ct"
     },
     {
       "id": "1274847155",
@@ -9010,7 +8989,8 @@
         "musicBrainzId": "23c598be-b0ba-4067-8566-348e272a663f",
         "popularity": 56,
         "followers": 764930
-      }
+      },
+      "spotifyTrackId": "4j1Bk0BEIGCF9hR7cSwl9d"
     },
     {
       "id": "5061",
@@ -9086,7 +9066,8 @@
         "musicBrainzId": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
         "popularity": 85,
         "followers": 35820586
-      }
+      },
+      "spotifyTrackId": "3wuCCNCnBhJlwkIJTBZFiv"
     },
     {
       "id": "1274824195",
@@ -9148,7 +9129,8 @@
         "musicBrainzId": "494e8d09-f85b-4543-892f-a5096aed1cd4",
         "popularity": 80,
         "followers": 11445825
-      }
+      },
+      "spotifyTrackId": "5NaOWLOmVjcA3M5spRATN9"
     },
     {
       "id": "1274847156",
@@ -9199,7 +9181,8 @@
         "musicBrainzId": "321531fc-db73-4ffa-a959-61a61a2908c1",
         "popularity": 69,
         "followers": 3140993
-      }
+      },
+      "spotifyTrackId": "6s4xndGKUhW0xXPYvFlwcL"
     },
     {
       "id": "1274847157",
@@ -9246,7 +9229,8 @@
         "musicBrainzId": "9a883a69-436b-4d17-9ffd-122a9bf4419a",
         "popularity": 59,
         "followers": 1454279
-      }
+      },
+      "spotifyTrackId": "3R97rNX7JnmshCWBwOSFet"
     },
     {
       "id": "1274818076",
@@ -9322,7 +9306,8 @@
         "musicBrainzId": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
         "popularity": 85,
         "followers": 35820586
-      }
+      },
+      "spotifyTrackId": "5Fy40smNxk0j5OpFMtvfaU"
     },
     {
       "id": "1274847158",
@@ -9366,7 +9351,8 @@
         "musicBrainzId": "fffc6a35-ae65-48be-bcc0-9d604e05665e",
         "popularity": 63,
         "followers": 2137391
-      }
+      },
+      "spotifyTrackId": "1iXtpeHC0i6c7JBrKi3yaq"
     },
     {
       "id": "1274847159",
@@ -9412,7 +9398,8 @@
         "musicBrainzId": "9b214042-4154-4571-8f6c-5643eb4bc06f",
         "popularity": 50,
         "followers": 499462
-      }
+      },
+      "spotifyTrackId": "0BTGqPIW9acmhhUmENkq5r"
     },
     {
       "id": "1274847160",
@@ -9461,7 +9448,8 @@
         "musicBrainzId": "b42eca0f-9381-43db-badb-1cba080a7dc2",
         "popularity": 70,
         "followers": 3471271
-      }
+      },
+      "spotifyTrackId": "4LxIGAVfcQIw0zAQRyFhU8"
     },
     {
       "id": "1274824193",
@@ -9523,7 +9511,8 @@
         "musicBrainzId": "494e8d09-f85b-4543-892f-a5096aed1cd4",
         "popularity": 80,
         "followers": 11445825
-      }
+      },
+      "spotifyTrackId": "0jsANwwkkHyyeNyuTFq2XO"
     },
     {
       "id": "1274844749",
@@ -9546,11 +9535,7 @@
       "overallVolume": "-11.4",
       "cuePoints": "8",
       "clippedPeaks": 373,
-      "keywords": [
-        "latin house",
-        "house",
-        "latino"
-      ],
+      "keywords": "latin house, house, latino",
       "comments": "A#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274844000-1274844999\\1274844749__Sade__Feel No Pain.mp3",
       "dateAdded": "2026-08-21",
@@ -9587,7 +9572,8 @@
         "musicBrainzId": "67930b3e-e00b-469f-8c74-fd69f20522ec",
         "popularity": 22,
         "followers": 1215
-      }
+      },
+      "spotifyTrackId": "3r0Q8oUYyHjViM43bAUP3D"
     },
     {
       "id": "1274843861",
@@ -9634,7 +9620,8 @@
         "musicBrainzId": "01e60eba-52df-4694-8f09-39f43abe54e9",
         "popularity": 68,
         "followers": 3966497
-      }
+      },
+      "spotifyTrackId": "0YwUJOHKYxlm5gVfIkl8Ym"
     },
     {
       "id": "1274818081",
@@ -9710,7 +9697,8 @@
         "musicBrainzId": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
         "popularity": 85,
         "followers": 35820586
-      }
+      },
+      "spotifyTrackId": "1euDTbMNRPNfKd8zZz4zTT"
     },
     {
       "id": "1274847161",
@@ -9761,7 +9749,8 @@
         "musicBrainzId": "321531fc-db73-4ffa-a959-61a61a2908c1",
         "popularity": 69,
         "followers": 3140993
-      }
+      },
+      "spotifyTrackId": "2jAn0rAOyLW6hIEuIDNcoT"
     },
     {
       "id": "1274828360",
@@ -9784,12 +9773,7 @@
       "overallVolume": "-12.5",
       "cuePoints": "3",
       "clippedPeaks": 37,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "west coast",
-        "west coast rap"
-      ],
+      "keywords": "hip hop, rap, west coast, west coast rap",
       "comments": "F# - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828360__The Gap Band__Outstanding.mp3",
       "dateAdded": "2026-08-21",
@@ -9810,7 +9794,8 @@
         "musicBrainzId": "00aab979-da36-4efd-9086-e409cda07f9c",
         "popularity": 57,
         "followers": 1143201
-      }
+      },
+      "spotifyTrackId": "2yd0XI7g0BhAgY9GkpPClU"
     },
     {
       "id": "1274847162",
@@ -9862,7 +9847,8 @@
         "musicBrainzId": "cabb4fcf-4067-4ba5-908d-76ee66fcf0c6",
         "popularity": 73,
         "followers": 1919678
-      }
+      },
+      "spotifyTrackId": "5fii2C2yImI0KvaAZZDKrC"
     },
     {
       "id": "1274847163",
@@ -9912,7 +9898,8 @@
         "musicBrainzId": "e33755fb-961d-452d-a944-705130436d67",
         "popularity": 51,
         "followers": 727455
-      }
+      },
+      "spotifyTrackId": "3lqT89gv8p3PYwXtr3ODjv"
     },
     {
       "id": "1274802994",
@@ -9988,7 +9975,8 @@
         "musicBrainzId": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
         "popularity": 85,
         "followers": 35820586
-      }
+      },
+      "spotifyTrackId": "7EsjkelQuoUlJXEw7SeVV4"
     },
     {
       "id": "1274847164",
@@ -10034,7 +10022,8 @@
         "musicBrainzId": "d72d000b-b860-44f4-9ac1-5d82e3fff9a9",
         "popularity": 66,
         "followers": 937422
-      }
+      },
+      "spotifyTrackId": "13oGc1Mi9niBlo5eTmgGMa"
     },
     {
       "id": "1274847165",
@@ -10078,7 +10067,8 @@
         "musicBrainzId": "fc6548d9-cc7e-4311-bd6c-6eba9c0cd06f",
         "popularity": 53,
         "followers": 247472
-      }
+      },
+      "spotifyTrackId": "33I3oS8UkebR3KRvqxD9X0"
     },
     {
       "id": "1274847166",
@@ -10126,7 +10116,8 @@
         "musicBrainzId": "a81f7041-7cd7-4080-ba88-9ce5fe50dc19",
         "popularity": 55,
         "followers": 825363
-      }
+      },
+      "spotifyTrackId": "6KbwCku0kfegSak3qJYDlh"
     },
     {
       "id": "1274847167",
@@ -10174,7 +10165,8 @@
         "musicBrainzId": "ed7e12c4-0c08-477c-bd64-5eaa96b9f853",
         "popularity": 59,
         "followers": 2088471
-      }
+      },
+      "spotifyTrackId": "63uR29DnkNPUiorL30cHnj"
     },
     {
       "id": "1274847168",
@@ -10220,7 +10212,8 @@
         "musicBrainzId": "99790314-885a-4975-8614-9c5bc890364d",
         "popularity": 71,
         "followers": 4366404
-      }
+      },
+      "spotifyTrackId": "0BUoLE4o9eVahDHvTqak67"
     },
     {
       "id": "1274804209",
@@ -10280,7 +10273,8 @@
         "musicBrainzId": "67930b3e-e00b-469f-8c74-fd69f20522ec",
         "popularity": 22,
         "followers": 1215
-      }
+      },
+      "spotifyTrackId": "6unbYrzh7coxp0WFnleFyD"
     },
     {
       "id": "1274818087",
@@ -10356,7 +10350,8 @@
         "musicBrainzId": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
         "popularity": 85,
         "followers": 35820586
-      }
+      },
+      "spotifyTrackId": "64KrFHj9p5AyCX2yZQr4YJ"
     },
     {
       "id": "1274847169",
@@ -10402,7 +10397,8 @@
         "musicBrainzId": "b14191fa-24c5-44d8-b42d-5017b22b0430",
         "popularity": 74,
         "followers": 3335239
-      }
+      },
+      "spotifyTrackId": "12Y1GaS44vga0G3rUtjFAY"
     },
     {
       "id": "1274847170",
@@ -10453,7 +10449,8 @@
         "musicBrainzId": "321531fc-db73-4ffa-a959-61a61a2908c1",
         "popularity": 69,
         "followers": 3140993
-      }
+      },
+      "spotifyTrackId": "2ilGFcW82jinSytbJIyzCm"
     },
     {
       "id": "1274847171",
@@ -10500,7 +10497,8 @@
         "musicBrainzId": "9a883a69-436b-4d17-9ffd-122a9bf4419a",
         "popularity": 59,
         "followers": 1454279
-      }
+      },
+      "spotifyTrackId": "3ZqjDpr3qCZnZBPcd0Hpj2"
     },
     {
       "id": "1274847172",
@@ -10553,32 +10551,33 @@
         "musicBrainzId": "9132d515-dc0e-4494-85ae-20f06eed14f9",
         "popularity": 68,
         "followers": 1325047
-      }
+      },
+      "spotifyTrackId": "7jg3Irt0hqnss3HvaPP2D2"
     },
     {
-      "id": "1274847173",
-      "externalSongId": "1274847173",
+      "id": "1274828249",
+      "externalSongId": "1274828249",
       "title": "Tambourine",
       "artist": "Eve",
       "album": "Tambourine",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733685aa31cad5ba9df8d349b5",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273600cc8c1dd41409058d742e4",
       "durationSeconds": 192,
       "durationDisplay": "03:12",
       "releaseDate": "2007-01-01",
       "genre": "Pop",
       "country": "US",
-      "spotifyPopularity": 0,
-      "spotifyUrl": "https://open.spotify.com/track/3WdYF0MLo2W9flzksSNS6o",
+      "spotifyPopularity": 70,
+      "spotifyUrl": "https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj",
       "tempo": 103.0,
       "musicalKey": "Cm",
       "camelot": "5A",
-      "energy": "6.0",
-      "overallVolume": "-10.4",
+      "energy": "6",
+      "overallVolume": "-10.4 dB",
       "cuePoints": "8",
       "clippedPeaks": 1773,
-      "keywords": [],
+      "keywords": "hip hop, rap",
       "comments": "Cm - Energy 6",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847173__Eve__Tambourine.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\HIP HOP\\Eve - Tambourine.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -10597,32 +10596,33 @@
         "musicBrainzId": "66bdd1c9-d1c5-40b7-a487-5061fffbd87d",
         "popularity": 43,
         "followers": 132215
-      }
+      },
+      "spotifyTrackId": "1U16aNzvnlfARgjWXjKmQj"
     },
     {
-      "id": "1274847174",
-      "externalSongId": "1274847174",
+      "id": "1274828182",
+      "externalSongId": "1274828182",
       "title": "Always On Time",
       "artist": "Ja Rule, Ashanti",
-      "album": "Pain Is Love (International Version)",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e32189a249c2e0550eb97236",
+      "album": "Pain Is Love",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27398590fd341411b3ba27d0554",
       "durationSeconds": 245,
       "durationDisplay": "04:05",
-      "releaseDate": "2001-10-29",
-      "genre": "R&B",
+      "releaseDate": "2001-10-02",
+      "genre": "east coast hip hop",
       "country": "US",
-      "spotifyPopularity": 1,
-      "spotifyUrl": "https://open.spotify.com/track/0zaWQBwkfh9OmK77CiDmRI",
+      "spotifyPopularity": 77,
+      "spotifyUrl": "https://open.spotify.com/track/2hNf1rawV2XAZ6Jld2Fxwf",
       "tempo": 97.0,
       "musicalKey": "Cm",
       "camelot": "5A",
-      "energy": "7.0",
-      "overallVolume": "-9.0",
+      "energy": "7",
+      "overallVolume": "-9.0 dB",
       "cuePoints": "8",
       "clippedPeaks": 1395,
-      "keywords": [],
+      "keywords": "hip hop, rap",
       "comments": "Cm - Energy 7",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847174__Ja Rule, Ashanti__Always On Time.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\HIP HOP\\Ja Rule - Always On Time.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -10643,7 +10643,8 @@
         "musicBrainzId": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
         "popularity": 73,
         "followers": 2074197
-      }
+      },
+      "spotifyTrackId": "2hNf1rawV2XAZ6Jld2Fxwf"
     },
     {
       "id": "1274847175",
@@ -10682,32 +10683,33 @@
         "musicBrainzId": null,
         "popularity": 0,
         "followers": 652
-      }
+      },
+      "spotifyTrackId": "3DLZnkbfVGxvdplqddi8WN"
     },
     {
-      "id": "1274847176",
-      "externalSongId": "1274847176",
+      "id": "1274810356",
+      "externalSongId": "1274810356",
       "title": "Angel",
       "artist": "Shaggy, Rayvon",
-      "album": "Hot Shot (International Version #2)",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d6ab2ff415cc6b28ab27ac5d",
+      "album": "Hot Shot",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739449f9491c364d28a9668e17",
       "durationSeconds": 235,
       "durationDisplay": "03:55",
-      "releaseDate": "2000",
+      "releaseDate": "2000-08-08",
       "genre": "Pop",
       "country": "JM",
-      "spotifyPopularity": 1,
-      "spotifyUrl": "https://open.spotify.com/track/6dViIgkYIRccNImPln58rS",
+      "spotifyPopularity": 82,
+      "spotifyUrl": "https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd",
       "tempo": 85.0,
       "musicalKey": "F#",
       "camelot": "2B",
-      "energy": "7.0",
-      "overallVolume": "-10.3",
+      "energy": "7",
+      "overallVolume": "-10.3 dB",
       "cuePoints": "8",
       "clippedPeaks": 3149,
-      "keywords": [],
+      "keywords": "hip hop, rap",
       "comments": "F# - Energy 7",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847176__Shaggy, Rayvon__Angel.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\HIP HOP\\Shaggy - Angel.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -10732,22 +10734,23 @@
         "musicBrainzId": "fc63d806-ca89-4ea3-a404-ee6de695743f",
         "popularity": 75,
         "followers": 2397804
-      }
+      },
+      "spotifyTrackId": "7FDV5ELOJHCGLe52AnttEd"
     },
     {
-      "id": "1274847177",
-      "externalSongId": "1274847177",
+      "id": "1274814652",
+      "externalSongId": "1274814652",
       "title": "Hate That I Love You",
       "artist": "Rihanna, Ne-Yo",
-      "album": "Good Girl Gone Bad (Deluxe)",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f26d912884c30e1b18980cc9",
-      "durationSeconds": 219,
-      "durationDisplay": "03:39",
-      "releaseDate": "2008-01-01",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+      "durationSeconds": 218,
+      "durationDisplay": "03:38",
+      "releaseDate": "2008-06-02",
       "genre": "R&B",
       "country": "BB",
-      "spotifyPopularity": 41,
-      "spotifyUrl": "https://open.spotify.com/track/4PnD8mnkDCbFAegRx7b8fJ",
+      "spotifyPopularity": 75,
+      "spotifyUrl": "https://open.spotify.com/track/7iu0WYLdo4yksKf3seaxzI",
       "tempo": 94.0,
       "musicalKey": "G#",
       "camelot": "4B",
@@ -10797,7 +10800,8 @@
         "musicBrainzId": "73e5e69d-3554-40d8-8516-00cb38737a1c",
         "popularity": 92,
         "followers": 67160323
-      }
+      },
+      "spotifyTrackId": "7iu0WYLdo4yksKf3seaxzI"
     },
     {
       "id": "1274847179",
@@ -10839,7 +10843,8 @@
         "musicBrainzId": "7700b039-cba9-46fa-a863-dcfb4c916d99",
         "popularity": 22,
         "followers": 4535
-      }
+      },
+      "spotifyTrackId": "1NNDZc9BHaWe9JqIsPRlNV"
     },
     {
       "id": "1274847180",
@@ -10883,7 +10888,8 @@
         "musicBrainzId": "d2299099-e617-46dd-b013-ba0b4c72bc63",
         "popularity": 67,
         "followers": 2731042
-      }
+      },
+      "spotifyTrackId": "4b5aJdOgxps6z0dPe6wCHF"
     },
     {
       "id": "1274847181",
@@ -10936,7 +10942,8 @@
         "musicBrainzId": "6be2828f-6c0d-4059-99d4-fa18acf1a296",
         "popularity": 70,
         "followers": 4057729
-      }
+      },
+      "spotifyTrackId": "1GrikfH0jDejDvrxo84n4P"
     },
     {
       "id": "1274847182",
@@ -10982,22 +10989,23 @@
         "musicBrainzId": "0bc858a1-3573-4216-9423-c96dd8c72919",
         "popularity": 67,
         "followers": 1194564
-      }
+      },
+      "spotifyTrackId": "1boHm9rjmvzxpJASd9dnGK"
     },
     {
-      "id": "1274847183",
-      "externalSongId": "1274847183",
+      "id": "1274803359",
+      "externalSongId": "1274803359",
       "title": "Move Ya Body",
       "artist": "Nina Sky, Jabba",
       "album": "Nina Sky",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b0fa9a630fcc488c6d4ebc82",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e0c595c1a9a2f98535072fdd",
       "durationSeconds": 232,
       "durationDisplay": "03:52",
       "releaseDate": "2004-01-01",
       "genre": "R&B",
       "country": "US",
-      "spotifyPopularity": 59,
-      "spotifyUrl": "https://open.spotify.com/track/5hWqzvli5G9puxbZSAfi7y",
+      "spotifyPopularity": 72,
+      "spotifyUrl": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW",
       "tempo": 121.0,
       "musicalKey": "F#m",
       "camelot": "11A",
@@ -11030,32 +11038,33 @@
         "musicBrainzId": "d06d5f9c-b047-4035-80b4-d4fbd79c93ed",
         "popularity": 62,
         "followers": 158080
-      }
+      },
+      "spotifyTrackId": "2ndnVdR8si7CW9T8vJRHyW"
     },
     {
-      "id": "1274847184",
-      "externalSongId": "1274847184",
+      "id": "2616",
+      "externalSongId": "2616",
       "title": "Doo Wop (That Thing)",
       "artist": "Ms. Lauryn Hill",
       "album": "The Miseducation of Lauryn Hill",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27365d1c805f762520723ddb8d0",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9",
       "durationSeconds": 320,
       "durationDisplay": "05:20",
       "releaseDate": "1998-08-25",
       "genre": "Pop",
       "country": "US",
-      "spotifyPopularity": 1,
-      "spotifyUrl": "https://open.spotify.com/track/2bZfoRmADhlF5gMCSZ4pDS",
+      "spotifyPopularity": 79,
+      "spotifyUrl": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg",
       "tempo": 100.0,
       "musicalKey": "Am",
       "camelot": "8A",
-      "energy": "6.0",
-      "overallVolume": "-12.3",
+      "energy": "6",
+      "overallVolume": "-12.3 dB",
       "cuePoints": "8",
       "clippedPeaks": 10,
-      "keywords": [],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "Am - Energy 6",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847184__Ms. Lauryn Hill__Doo Wop (That Thing).mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\DANCE\\1990\\Lauryn Hill - Doo Wop (That Thing).mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -11076,32 +11085,33 @@
         "musicBrainzId": "b14191fa-24c5-44d8-b42d-5017b22b0430",
         "popularity": 74,
         "followers": 3335239
-      }
+      },
+      "spotifyTrackId": "0uEp9E98JB5awlA084uaIg"
     },
     {
-      "id": "1274847185",
-      "externalSongId": "1274847185",
+      "id": "1274828195",
+      "externalSongId": "1274828195",
       "title": "Livin' It Up",
       "artist": "Ja Rule, Case",
-      "album": "Pain Is Love (International Version)",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e32189a249c2e0550eb97236",
+      "album": "Pain Is Love",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27398590fd341411b3ba27d0554",
       "durationSeconds": 257,
       "durationDisplay": "04:17",
-      "releaseDate": "2001-10-29",
-      "genre": "Rap/Hip Hop",
+      "releaseDate": "2001-10-02",
+      "genre": "east coast hip hop",
       "country": "US",
-      "spotifyPopularity": 0,
-      "spotifyUrl": "https://open.spotify.com/track/4r3MJuJIArZTQfOinh1HFa",
+      "spotifyPopularity": 68,
+      "spotifyUrl": "https://open.spotify.com/track/68ZXSfqZbAVgObLCt8Gvbi",
       "tempo": 106.0,
       "musicalKey": "G#m",
       "camelot": "1A",
-      "energy": "7.0",
-      "overallVolume": "-8.7",
+      "energy": "7",
+      "overallVolume": "-8.7 dB",
       "cuePoints": "8",
       "clippedPeaks": 2645,
-      "keywords": [],
+      "keywords": "hip hop, rap",
       "comments": "G#m - Energy 7",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847185__Ja Rule, Case__Livin' It Up.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\HIP HOP\\Ja Rule - Livin' It Up.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -11122,7 +11132,8 @@
         "musicBrainzId": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
         "popularity": 73,
         "followers": 2074197
-      }
+      },
+      "spotifyTrackId": "68ZXSfqZbAVgObLCt8Gvbi"
     },
     {
       "id": "1274847186",
@@ -11165,7 +11176,8 @@
         "musicBrainzId": "dbe35fab-1b3a-469b-87f0-6a54ef8de3c4",
         "popularity": 53,
         "followers": 387282
-      }
+      },
+      "spotifyTrackId": "493CPxYEHHzXeSdnp8Ul73"
     },
     {
       "id": "5383",
@@ -11188,12 +11200,7 @@
       "overallVolume": "-14.5",
       "cuePoints": "5",
       "clippedPeaks": 0,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "west coast",
-        "west coast rap"
-      ],
+      "keywords": "hip hop, rap, west coast, west coast rap",
       "comments": "D#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\5000-5999\\5383__Straight Outta Compton__N.W.A.mp3",
       "dateAdded": "2026-08-21",
@@ -11214,22 +11221,23 @@
         "musicBrainzId": "3a54bffa-2314-44a2-927b-60144119c780",
         "popularity": 65,
         "followers": 6995377
-      }
+      },
+      "spotifyTrackId": "4LujRMTMwAfFKjm45tixHY"
     },
     {
-      "id": "1274847187",
-      "externalSongId": "1274847187",
+      "id": "105287",
+      "externalSongId": "105287",
       "title": "So Sick",
       "artist": "Ne-Yo",
       "album": "In My Own Words",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739aeedbb4cb36e64f3ed65a3b",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457",
       "durationSeconds": 207,
       "durationDisplay": "03:27",
       "releaseDate": "2006-01-01",
       "genre": "R&B",
       "country": "US",
-      "spotifyPopularity": 65,
-      "spotifyUrl": "https://open.spotify.com/track/5203pcq3cNteJuOVhIEnt6",
+      "spotifyPopularity": 82,
+      "spotifyUrl": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT",
       "tempo": 95.0,
       "musicalKey": "F#",
       "camelot": "2B",
@@ -11258,32 +11266,33 @@
         "musicBrainzId": null,
         "popularity": 83,
         "followers": 10924382
-      }
+      },
+      "spotifyTrackId": "6brl7bwOHmGFkNw3MBqssT"
     },
     {
-      "id": "1274847188",
-      "externalSongId": "1274847188",
+      "id": "1274822500",
+      "externalSongId": "1274822500",
       "title": "Hot In Herre",
       "artist": "Nelly",
       "album": "Nellyville",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273367bb42d6ff622f44303bae5",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a8b9f97b9ea065b9a857e93f",
       "durationSeconds": 228,
       "durationDisplay": "03:48",
       "releaseDate": "2002-06-25",
       "genre": "Rap/Hip Hop",
       "country": "US",
-      "spotifyPopularity": 52,
-      "spotifyUrl": "https://open.spotify.com/track/5FLctoy4mpCxLJ1QPneTOV",
+      "spotifyPopularity": 79,
+      "spotifyUrl": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY",
       "tempo": 107.0,
       "musicalKey": "Em",
       "camelot": "9A",
-      "energy": "6.0",
-      "overallVolume": "-11.9",
+      "energy": "6",
+      "overallVolume": "-11.9 dB",
       "cuePoints": "8",
       "clippedPeaks": 1024,
-      "keywords": [],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "Em - Energy 6",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847188__Nelly__Hot In Herre.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\DANCE\\2000\\Nelly - Hot In Herre.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -11307,7 +11316,8 @@
         "musicBrainzId": "811900b2-68fc-4d41-8bad-69b7a1f4d628",
         "popularity": 77,
         "followers": 3470599
-      }
+      },
+      "spotifyTrackId": "04KTF78FFg8sOHC1BADqbY"
     },
     {
       "id": "1274847189",
@@ -11354,7 +11364,8 @@
         "musicBrainzId": "cc1f4763-a306-4ae7-8ba7-331872199f9e",
         "popularity": 60,
         "followers": 935633
-      }
+      },
+      "spotifyTrackId": "1yRBHnXfl6wjCnM6dYRXq0"
     },
     {
       "id": "1274847190",
@@ -11400,7 +11411,8 @@
         "musicBrainzId": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
         "popularity": 73,
         "followers": 2074197
-      }
+      },
+      "spotifyTrackId": "0VGHoMRGfUf2CMFokyuhaC"
     },
     {
       "id": "1274847191",
@@ -11445,33 +11457,34 @@
         "musicBrainzId": "ed29398b-bbf3-42a0-8eff-8631509c271d",
         "popularity": 64,
         "followers": 2434209
-      }
+      },
+      "spotifyTrackId": "2vziPPj6OlZjLqIeoaeBrZ"
     },
     {
-      "id": "1274847192",
-      "externalSongId": "1274847192",
+      "id": "1274847307",
+      "externalSongId": "1274847307",
       "title": "Regulate",
       "artist": "Warren G, Nate Dogg",
-      "album": "Regulate… G Funk Era (Special Edition)",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730728b2c9070279778afeb150",
+      "album": "Regulate… G Funk Era",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f6b9b62ea130943d371b69ef",
       "durationSeconds": 249,
       "durationDisplay": "04:09",
       "releaseDate": "1994-06-07",
       "genre": "Pop",
       "country": "US",
-      "spotifyPopularity": 1,
-      "spotifyUrl": "https://open.spotify.com/track/68pWLkspLFIfIPPtzyTkQy",
+      "spotifyPopularity": 74,
+      "spotifyUrl": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J",
       "tempo": 95.0,
       "musicalKey": "Em",
       "camelot": "9A",
-      "energy": "4.0",
+      "energy": "3.0",
       "overallVolume": "-12.6",
       "cuePoints": "6",
       "clippedPeaks": 0,
       "keywords": [],
-      "comments": "Em - Energy 4",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847192__Warren G, Nate Dogg__Regulate.mp3",
-      "dateAdded": "2026-08-21",
+      "comments": "Em - Energy 3",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847307__Warren G, Nate Dogg__Regulate.mp3",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "2520",
@@ -11492,7 +11505,8 @@
         "musicBrainzId": "85d7666c-d3ce-4e2c-8b1b-f20db7cdae4f",
         "popularity": 65,
         "followers": 2632952
-      }
+      },
+      "spotifyTrackId": "7nYvUtkQMx1v80S2FH2s9J"
     },
     {
       "id": "1274847193",
@@ -11536,32 +11550,33 @@
         "musicBrainzId": "b79247ee-9870-4a26-8cbc-88d13044d7f6",
         "popularity": 58,
         "followers": 1737725
-      }
+      },
+      "spotifyTrackId": "1zyqZONW985Cs4osz9wlsu"
     },
     {
-      "id": "1274847194",
-      "externalSongId": "1274847194",
+      "id": "1274828101",
+      "externalSongId": "1274828101",
       "title": "Air Force Ones",
       "artist": "Nelly, Murphy Lee, Ali, Kyjuan",
       "album": "Nellyville",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273367bb42d6ff622f44303bae5",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a8b9f97b9ea065b9a857e93f",
       "durationSeconds": 304,
       "durationDisplay": "05:04",
       "releaseDate": "2002-06-25",
       "genre": "Rap/Hip Hop",
       "country": "US",
-      "spotifyPopularity": 25,
-      "spotifyUrl": "https://open.spotify.com/track/5UG2d2YQgLwaN84ZlJt4U1",
+      "spotifyPopularity": 66,
+      "spotifyUrl": "https://open.spotify.com/track/7kAFSrTIOiVZ0gnHBuAH3l",
       "tempo": 82.0,
       "musicalKey": "Dm",
       "camelot": "7A",
-      "energy": "6.0",
-      "overallVolume": "-11.9",
+      "energy": "6",
+      "overallVolume": "-11.9 dB",
       "cuePoints": "8",
       "clippedPeaks": 484,
-      "keywords": [],
+      "keywords": "hip hop, rap",
       "comments": "Dm - Energy 6",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847194__Nelly, Murphy Lee, Ali, Kyjuan__Air Force Ones.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\HIP HOP\\Nelly - Air Force Ones.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -11585,7 +11600,8 @@
         "musicBrainzId": "811900b2-68fc-4d41-8bad-69b7a1f4d628",
         "popularity": 77,
         "followers": 3470599
-      }
+      },
+      "spotifyTrackId": "7kAFSrTIOiVZ0gnHBuAH3l"
     },
     {
       "id": "1274828296",
@@ -11608,10 +11624,7 @@
       "overallVolume": "-12.5",
       "cuePoints": "8",
       "clippedPeaks": 2,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Fm - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828296__Ol' Dirty Bastard, Kelis__Got Your Money (feat. Kelis).mp3",
       "dateAdded": "2026-08-21",
@@ -11642,7 +11655,8 @@
         "musicBrainzId": "d50548a0-3cfd-4d7a-964b-0aef6545d819",
         "popularity": 65,
         "followers": 1164507
-      }
+      },
+      "spotifyTrackId": "6YYd5MLpu45J0uLrMdivF7"
     },
     {
       "id": "1274847196",
@@ -11694,32 +11708,33 @@
         "musicBrainzId": "5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0",
         "popularity": 64,
         "followers": 1467027
-      }
+      },
+      "spotifyTrackId": "7g7tyb8zM9UeKsdvosW9W3"
     },
     {
-      "id": "1274847197",
-      "externalSongId": "1274847197",
+      "id": "1274828116",
+      "externalSongId": "1274828116",
       "title": "Hey Ma",
       "artist": "Cam'ron, Juelz Santana, Freekey Zeekey, Toya",
-      "album": "Ultimate R&B (International Version)",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739bed08e504376f553b51ea3d",
+      "album": "Come Home With Me",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273df5352d458100973dbb329cc",
       "durationSeconds": 221,
       "durationDisplay": "03:41",
-      "releaseDate": "2006-01-01",
-      "genre": "Rap/Hip Hop",
+      "releaseDate": "2002-01-01",
+      "genre": "east coast hip hop",
       "country": "US",
-      "spotifyPopularity": 1,
-      "spotifyUrl": "https://open.spotify.com/track/2PSdA7XgtmuYu8dKLxTF3e",
+      "spotifyPopularity": 67,
+      "spotifyUrl": "https://open.spotify.com/track/2fE1hcjUxlLxXrZusTEJlq",
       "tempo": 90.0,
       "musicalKey": "A#m",
       "camelot": "3A",
-      "energy": "6.0",
-      "overallVolume": "-11.5",
+      "energy": "6",
+      "overallVolume": "-11.5 dB",
       "cuePoints": "5",
       "clippedPeaks": 1659,
-      "keywords": [],
+      "keywords": "hip hop, rap, hip hop, rap, west coast, west coast rap",
       "comments": "A#m - Energy 6",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847197__Cam'ron, Juelz Santana, Freekey Zeekey, Toya__Hey Ma.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\HIP HOP\\Cam'Ron - Hey Ma.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -11738,33 +11753,34 @@
         "musicBrainzId": "ea6b7199-901d-4c0e-8242-6d7bc2bf62b7",
         "popularity": 61,
         "followers": 850284
-      }
+      },
+      "spotifyTrackId": "2fE1hcjUxlLxXrZusTEJlq"
     },
     {
-      "id": "1274847198",
-      "externalSongId": "1274847198",
+      "id": "1274847654",
+      "externalSongId": "1274847654",
       "title": "All I Have",
       "artist": "Jennifer Lopez, LL COOL J",
-      "album": "This Is Me...Then",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734898e6f89d6f1d2ecf9f8039",
+      "album": "10",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27348c0496e47a66a39b1932cf6",
       "durationSeconds": 254,
       "durationDisplay": "04:14",
-      "releaseDate": "2002-11-20",
+      "releaseDate": "2002-10-08",
       "genre": "Pop",
       "country": "US",
-      "spotifyPopularity": 0,
-      "spotifyUrl": "https://open.spotify.com/track/6xGDXrZQoisoWkKWsgplcZ",
+      "spotifyPopularity": 43,
+      "spotifyUrl": "https://open.spotify.com/track/1RQE33QW6K4YFKGPLHjbcC",
       "tempo": 83.0,
       "musicalKey": "A#m",
       "camelot": "3A",
-      "energy": "6.0",
+      "energy": "7.0",
       "overallVolume": "-12.1",
       "cuePoints": "6",
       "clippedPeaks": 1608,
       "keywords": [],
-      "comments": "A#m - Energy 6",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847198__Jennifer Lopez, LL COOL J__All I Have.mp3",
-      "dateAdded": "2026-08-21",
+      "comments": "A#m - Energy 7",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847654__Jennifer Lopez__All I Have.mp3",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "749",
@@ -11789,7 +11805,8 @@
         "musicBrainzId": "f0602f55-1770-483d-89bd-4bae0d0ac086",
         "popularity": 78,
         "followers": 13577146
-      }
+      },
+      "spotifyTrackId": "1RQE33QW6K4YFKGPLHjbcC"
     },
     {
       "id": "1274808778",
@@ -11812,12 +11829,7 @@
       "overallVolume": "-10.0",
       "cuePoints": "8",
       "clippedPeaks": 1916,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "G# - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274808000-1274808999\\1274808778__Jumpin', Jumpin'__Destiny's Child.mp3",
       "dateAdded": "2026-08-21",
@@ -11842,7 +11854,8 @@
         "musicBrainzId": "a796b92e-c137-4895-9c89-10f900617a4f",
         "popularity": 74,
         "followers": 8748043
-      }
+      },
+      "spotifyTrackId": "4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "id": "1274828248",
@@ -11865,10 +11878,7 @@
       "overallVolume": "-9.5",
       "cuePoints": "6",
       "clippedPeaks": 6013,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Em - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828248__Peaches & Cream__112.mp3",
       "dateAdded": "2026-08-21",
@@ -11898,7 +11908,8 @@
         "musicBrainzId": "9132d515-dc0e-4494-85ae-20f06eed14f9",
         "popularity": 68,
         "followers": 1325047
-      }
+      },
+      "spotifyTrackId": "2SLZ2rX5773RS16mcqBxG7"
     },
     {
       "id": "1274847199",
@@ -11947,7 +11958,8 @@
         "musicBrainzId": "811900b2-68fc-4d41-8bad-69b7a1f4d628",
         "popularity": 77,
         "followers": 3470599
-      }
+      },
+      "spotifyTrackId": "5Fcbkv9keLe7URvwxWkjoz"
     },
     {
       "id": "1274847200",
@@ -11998,7 +12010,8 @@
         "musicBrainzId": "6b77fc81-cc4f-4c31-bb4a-dc97cbd284f7",
         "popularity": 43,
         "followers": 70610
-      }
+      },
+      "spotifyTrackId": "1C3rm7SjV83iXQrL4eThEU"
     },
     {
       "id": "1274847201",
@@ -12044,7 +12057,8 @@
         "musicBrainzId": "d72d000b-b860-44f4-9ac1-5d82e3fff9a9",
         "popularity": 66,
         "followers": 937422
-      }
+      },
+      "spotifyTrackId": "4l2ecMeHvDg2Y9OOkqfucN"
     },
     {
       "id": "1274847202",
@@ -12086,7 +12100,8 @@
         "musicBrainzId": "82e6f49b-1693-4812-b914-96b0c450240b",
         "popularity": 65,
         "followers": 1061019
-      }
+      },
+      "spotifyTrackId": "0r2Bul2NuCViraT2zX1l5j"
     },
     {
       "id": "1274828155",
@@ -12105,19 +12120,14 @@
       "tempo": 112.0,
       "musicalKey": "F#m",
       "camelot": "11A",
-      "energy": "6.0",
+      "energy": "5.0",
       "overallVolume": "-8.3",
       "cuePoints": "4",
       "clippedPeaks": 2447,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "east coast",
-        "east coast rap"
-      ],
-      "comments": "F#m - Energy 6",
+      "keywords": "hip hop, rap, east coast, east coast rap",
+      "comments": "F#m - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828155__Diddy, Black Rob, Mark Curry__Bad Boy for Life.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "2567",
@@ -12143,7 +12153,8 @@
         "musicBrainzId": "cabb4fcf-4067-4ba5-908d-76ee66fcf0c6",
         "popularity": 73,
         "followers": 1919678
-      }
+      },
+      "spotifyTrackId": "2eOuL8KesslTLQERQPu11D"
     },
     {
       "id": "1274847203",
@@ -12189,7 +12200,8 @@
         "musicBrainzId": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
         "popularity": 73,
         "followers": 2074197
-      }
+      },
+      "spotifyTrackId": "7rCZFNXNAg2tGWaDFqVlZc"
     },
     {
       "id": "1274847204",
@@ -12235,22 +12247,23 @@
         "musicBrainzId": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
         "popularity": 73,
         "followers": 2074197
-      }
+      },
+      "spotifyTrackId": "5MTqczrMNkxZbFghiopgHL"
     },
     {
-      "id": "1274847205",
-      "externalSongId": "1274847205",
+      "id": "1274847256",
+      "externalSongId": "1274847256",
       "title": "Real Love",
       "artist": "Mary J. Blige",
       "album": "What's The 411?",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273676830e51116671d27189583",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27321110eef2bacdfe409af6903",
       "durationSeconds": 270,
       "durationDisplay": "04:30",
       "releaseDate": "1992-01-01",
       "genre": "R&B",
       "country": "US",
-      "spotifyPopularity": 0,
-      "spotifyUrl": "https://open.spotify.com/track/22sTMbJk27SLWMtsdYLt4u",
+      "spotifyPopularity": 67,
+      "spotifyUrl": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt",
       "tempo": 95.0,
       "musicalKey": "Am",
       "camelot": "8A",
@@ -12288,7 +12301,8 @@
         "musicBrainzId": "db76c5ca-d555-4f09-b1db-baa1b713d875",
         "popularity": 73,
         "followers": 4226911
-      }
+      },
+      "spotifyTrackId": "3XG801WWhqC753dekEBkMt"
     },
     {
       "id": "1274828043",
@@ -12311,11 +12325,7 @@
       "overallVolume": "-8.9",
       "cuePoints": "8",
       "clippedPeaks": 201,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "pop"
-      ],
+      "keywords": "hip hop, rap, pop",
       "comments": "Gm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828043__Wait (The Whisper Song)__Ying Yang Twins.mp3",
       "dateAdded": "2026-08-21",
@@ -12338,32 +12348,33 @@
         "musicBrainzId": "2e80ba15-ec0f-4bd4-b263-7e0671f38255",
         "popularity": 66,
         "followers": 1196921
-      }
+      },
+      "spotifyTrackId": "5Y78yINSOCW6xbOfGWNBg4"
     },
     {
-      "id": "1274847207",
-      "externalSongId": "1274847207",
+      "id": "1895",
+      "externalSongId": "1895",
       "title": "Just A Lil Bit",
       "artist": "50 Cent",
       "album": "The Massacre",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27391bcf08238602bd2206d8f0e",
-      "durationSeconds": 238,
-      "durationDisplay": "03:58",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27391f7222996c531b981e7bb3d",
+      "durationSeconds": 237,
+      "durationDisplay": "03:57",
       "releaseDate": "2005-03-03",
       "genre": "Rap/Hip Hop",
       "country": "US",
-      "spotifyPopularity": 0,
-      "spotifyUrl": "https://open.spotify.com/track/2JxeAupAiJdB8I2cieG4rP",
+      "spotifyPopularity": 85,
+      "spotifyUrl": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9",
       "tempo": 97.0,
       "musicalKey": "Fm",
       "camelot": "4A",
-      "energy": "6.0",
-      "overallVolume": "-9.6",
+      "energy": "6",
+      "overallVolume": "-9.6 dB",
       "cuePoints": "7",
       "clippedPeaks": 651,
-      "keywords": [],
+      "keywords": "dance, pop",
       "comments": "Fm - Energy 6",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847207__50 Cent__Just A Lil Bit.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\DANCE\\2000\\50 Cent - Just A Lil Bit.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -12395,7 +12406,8 @@
         "musicBrainzId": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
         "popularity": 85,
         "followers": 17786306
-      }
+      },
+      "spotifyTrackId": "4nva9EpKntUTs6CRSGBCn9"
     },
     {
       "id": "1274828105",
@@ -12418,10 +12430,7 @@
       "overallVolume": "-11.5",
       "cuePoints": "8",
       "clippedPeaks": 1679,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Em - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828105__Chingy, Jason Weaver__One Call Away.mp3",
       "dateAdded": "2026-08-21",
@@ -12444,7 +12453,8 @@
         "musicBrainzId": "2c311e1d-5da3-4ffb-a46e-572981b5849f",
         "popularity": 62,
         "followers": 1035015
-      }
+      },
+      "spotifyTrackId": "0UNTBB02C1aB55Fu4H63qd"
     },
     {
       "id": "1274847208",
@@ -12501,7 +12511,8 @@
         "musicBrainzId": "5bae7081-64ef-4473-825a-38d310deb14c",
         "popularity": 71,
         "followers": 1124233
-      }
+      },
+      "spotifyTrackId": "5Jaju68YS0OV6k3b3WLejP"
     },
     {
       "id": "1274847209",
@@ -12545,32 +12556,33 @@
         "musicBrainzId": "f9db232d-6513-43b7-b6cd-1d73bcd65a58",
         "popularity": 65,
         "followers": 620447
-      }
+      },
+      "spotifyTrackId": "6lob8yGQuretKACtogsaQL"
     },
     {
-      "id": "1274847210",
-      "externalSongId": "1274847210",
+      "id": "1274828176",
+      "externalSongId": "1274828176",
       "title": "Bump, Bump, Bump (feat. P. Diddy)",
       "artist": "B2K, Diddy",
-      "album": "Greatest Hits",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731bb76b3632abe850098895fc",
+      "album": "Pandemonium!",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273415629746831002b3f0d0457",
       "durationSeconds": 283,
       "durationDisplay": "04:43",
-      "releaseDate": "2004",
+      "releaseDate": "2003-03-06",
       "genre": "Pop",
       "country": "US",
-      "spotifyPopularity": 58,
-      "spotifyUrl": "https://open.spotify.com/track/74jMwg2zsFMICzW3Wems6h",
+      "spotifyPopularity": 67,
+      "spotifyUrl": "https://open.spotify.com/track/75lRRdjplzfpmBjNzMPyjR",
       "tempo": 96.0,
       "musicalKey": "G#m",
       "camelot": "1A",
-      "energy": "7.0",
-      "overallVolume": "-9.2",
-      "cuePoints": "3",
+      "energy": "7",
+      "overallVolume": "-8.3 dB",
+      "cuePoints": "7",
       "clippedPeaks": 77,
-      "keywords": [],
+      "keywords": "hip hop, rap",
       "comments": "G#m - Energy 7",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847210__B2K, Diddy__Bump, Bump, Bump (feat. P. Diddy).mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\HIP HOP\\B2K - Bump, Bump, Bump.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -12588,7 +12600,8 @@
         "musicBrainzId": "e50519c1-6940-40fe-b920-f73f522005e2",
         "popularity": 53,
         "followers": 881227
-      }
+      },
+      "spotifyTrackId": "75lRRdjplzfpmBjNzMPyjR"
     },
     {
       "id": "1274822536",
@@ -12611,12 +12624,7 @@
       "overallVolume": "-9.8",
       "cuePoints": "8",
       "clippedPeaks": 2267,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "Cm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822536__Outkast, Sleepy Brown__The Way You Move (feat. Sleepy Brown).mp3",
       "dateAdded": "2026-08-21",
@@ -12649,7 +12657,8 @@
         "musicBrainzId": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
         "popularity": 77,
         "followers": 3183339
-      }
+      },
+      "spotifyTrackId": "5z7mYFfhw6N6f23VwrokJD"
     },
     {
       "id": "1267054",
@@ -12672,10 +12681,7 @@
       "overallVolume": "-8.3",
       "cuePoints": "8",
       "clippedPeaks": 2534,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Am - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267054__Hotel__Cassidy.mp3",
       "dateAdded": "2026-08-21",
@@ -12696,22 +12702,23 @@
         "musicBrainzId": "32090ac9-6e46-47c5-b9ce-69c504a4a7bc",
         "popularity": 45,
         "followers": 17625
-      }
+      },
+      "spotifyTrackId": "0B1J7lh3ej57Nk09UYNlrj"
     },
     {
-      "id": "1274847212",
-      "externalSongId": "1274847212",
+      "id": "1274814540",
+      "externalSongId": "1274814540",
       "title": "Heard 'Em Say",
       "artist": "Kanye West, Adam Levine",
       "album": "Late Registration",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734c7dd2b7fc516356e037bf68",
-      "durationSeconds": 204,
-      "durationDisplay": "03:24",
-      "releaseDate": "2005-01-01",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
+      "durationSeconds": 203,
+      "durationDisplay": "03:23",
+      "releaseDate": "2005-08-30",
       "genre": "Rap/Hip Hop",
       "country": "US",
-      "spotifyPopularity": 0,
-      "spotifyUrl": "https://open.spotify.com/track/6xTHfOkgqjaIOKEWxYwsAu",
+      "spotifyPopularity": 70,
+      "spotifyUrl": "https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF",
       "tempo": 95.0,
       "musicalKey": "F",
       "camelot": "7B",
@@ -12768,7 +12775,8 @@
         "musicBrainzId": "0eb17834-1d29-47ef-a422-9dc68d73c5e4",
         "popularity": 93,
         "followers": 30318373
-      }
+      },
+      "spotifyTrackId": "6yIjtVtnOBeC8SwdVHzAuF"
     },
     {
       "id": "1274828004",
@@ -12791,10 +12799,7 @@
       "overallVolume": "-10.9",
       "cuePoints": "8",
       "clippedPeaks": 1651,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Bm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828004__Missy Elliott, Ludacris__Gossip Folks (feat. Ludacris).mp3",
       "dateAdded": "2026-08-21",
@@ -12817,7 +12822,8 @@
         "musicBrainzId": "a0b8cb9e-7532-45fe-a74c-30e7c4009a39",
         "popularity": 72,
         "followers": 2663837
-      }
+      },
+      "spotifyTrackId": "75DjPjiIp2fvJDjtt41Jfs"
     },
     {
       "id": "1274847214",
@@ -12868,22 +12874,23 @@
         "musicBrainzId": "f0602f55-1770-483d-89bd-4bae0d0ac086",
         "popularity": 78,
         "followers": 13577146
-      }
+      },
+      "spotifyTrackId": "28pCepAdwvCSfqdoVWDw67"
     },
     {
-      "id": "1274847215",
-      "externalSongId": "1274847215",
+      "id": "1274817996",
+      "externalSongId": "1274817996",
       "title": "Candy Shop",
       "artist": "50 Cent, Olivia",
-      "album": "The Massacre (Ecopac Reissue Explicit)",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b3f1c8c18639b5fbff918920",
+      "album": "The Massacre",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27391f7222996c531b981e7bb3d",
       "durationSeconds": 209,
       "durationDisplay": "03:29",
       "releaseDate": "2005-03-03",
       "genre": "Rap/Hip Hop",
       "country": "US",
-      "spotifyPopularity": 2,
-      "spotifyUrl": "https://open.spotify.com/track/0h5m65o5KnMFB4Gq47mbKt",
+      "spotifyPopularity": 83,
+      "spotifyUrl": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh",
       "tempo": 98.0,
       "musicalKey": "F#m",
       "camelot": "11A",
@@ -12925,32 +12932,33 @@
         "musicBrainzId": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
         "popularity": 85,
         "followers": 17786306
-      }
+      },
+      "spotifyTrackId": "5D2mYZuzcgjpchVY1pmTPh"
     },
     {
-      "id": "1274847218",
-      "externalSongId": "1274847218",
+      "id": "1274822520",
+      "externalSongId": "1274822520",
       "title": "Milkshake",
       "artist": "Kelis",
-      "album": "Tasty",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e928de086eef7d3491b4390b",
+      "album": "The Hits",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736575b1bd7db306ab468ac327",
       "durationSeconds": 183,
       "durationDisplay": "03:03",
-      "releaseDate": "2003-12-05",
+      "releaseDate": "2008",
       "genre": "R&B",
       "country": "US",
-      "spotifyPopularity": 5,
-      "spotifyUrl": "https://open.spotify.com/track/2cMTIlktg3M9mXYqCPqw1J",
+      "spotifyPopularity": 61,
+      "spotifyUrl": "https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O",
       "tempo": 113.0,
       "musicalKey": "Dm",
       "camelot": "7A",
-      "energy": "7.0",
-      "overallVolume": "-8.4",
+      "energy": "7",
+      "overallVolume": "-8.3 dB",
       "cuePoints": "8",
       "clippedPeaks": 2333,
-      "keywords": [],
+      "keywords": "dance, pop",
       "comments": "Dm - Energy 7",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847218__Kelis__Milkshake.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\DANCE\\2000\\Kelis - Milkshake.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -12975,7 +12983,8 @@
         "musicBrainzId": "1239d1bc-cc09-43e0-bcd0-374f60346138",
         "popularity": 65,
         "followers": 670207
-      }
+      },
+      "spotifyTrackId": "4LmzPJDil70LpiApWfOI6O"
     },
     {
       "id": "1274847219",
@@ -13031,7 +13040,8 @@
         "musicBrainzId": "94dbfe2e-ca48-4e08-a5a8-e1e74136c63d",
         "popularity": 69,
         "followers": 2308877
-      }
+      },
+      "spotifyTrackId": "6w6v6KCc7YcTuheIUzsxzo"
     },
     {
       "id": "1274847220",
@@ -13074,7 +13084,8 @@
         "musicBrainzId": "995d7339-ff57-498e-9c8e-faf955eba696",
         "popularity": 53,
         "followers": 289230
-      }
+      },
+      "spotifyTrackId": "6H7w7e8zC8QYJyqe7fZHVa"
     },
     {
       "id": "1267057",
@@ -13123,32 +13134,33 @@
         "musicBrainzId": "b202beb7-99bd-47e7-8b72-195c8d72ebdd",
         "popularity": 80,
         "followers": 8986982
-      }
+      },
+      "spotifyTrackId": "0cv1Mnb47oMvjVKMc2cyZw"
     },
     {
-      "id": "1274847221",
-      "externalSongId": "1274847221",
+      "id": "1274818315",
+      "externalSongId": "1274818315",
       "title": "Signs",
       "artist": "Snoop Dogg, Charlie Wilson, Justin Timberlake",
-      "album": "R&G (Rhythm & Gangsta): The Masterpiece [Explicit Version]",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273822027075184368c5be419d5",
+      "album": "R&G (Rhythm & Gangsta): The Masterpiece",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e803716268c173c3f9a0c057",
       "durationSeconds": 236,
       "durationDisplay": "03:56",
       "releaseDate": "2004-01-01",
       "genre": "Rap/Hip Hop",
       "country": "US",
-      "spotifyPopularity": 0,
-      "spotifyUrl": "https://open.spotify.com/track/1sMDGAeqO3poTu1rjnEgKB",
+      "spotifyPopularity": 72,
+      "spotifyUrl": "https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO",
       "tempo": 113.0,
       "musicalKey": "Am",
       "camelot": "8A",
-      "energy": "6.0",
-      "overallVolume": "-9.7",
+      "energy": "6",
+      "overallVolume": "-9.7 dB",
       "cuePoints": "8",
       "clippedPeaks": 2362,
-      "keywords": [],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "Am - Energy 6",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847221__Snoop Dogg, Charlie Wilson, Justin Timberlake__Signs.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\DANCE\\2000\\Snoop Dogg - Signs.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -13181,7 +13193,8 @@
         "musicBrainzId": "f90e8b26-9e52-4669-a5c9-e28529c47894",
         "popularity": 84,
         "followers": 14860906
-      }
+      },
+      "spotifyTrackId": "4HSAJpNocVNJbwbQvtCMdO"
     },
     {
       "id": "1274847222",
@@ -13233,7 +13246,8 @@
         "musicBrainzId": "5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0",
         "popularity": 64,
         "followers": 1467027
-      }
+      },
+      "spotifyTrackId": "6PYRmDxsODnCIOu7nngi9E"
     },
     {
       "id": "1274847223",
@@ -13284,32 +13298,33 @@
         "musicBrainzId": "f0602f55-1770-483d-89bd-4bae0d0ac086",
         "popularity": 78,
         "followers": 13577146
-      }
+      },
+      "spotifyTrackId": "0vYMzeTmfbnrAhGPRcJqVP"
     },
     {
-      "id": "1274847224",
-      "externalSongId": "1274847224",
+      "id": "1274828166",
+      "externalSongId": "1274828166",
       "title": "Summertime",
       "artist": "DJ Jazzy Jeff & The Fresh Prince",
-      "album": "R & B Summertime",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736e999ef4562e515b1e4bdd4f",
+      "album": "Homebase",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738f8697f6ee69d4b8ea74c9d6",
       "durationSeconds": 268,
       "durationDisplay": "04:28",
-      "releaseDate": "2006-07-01",
-      "genre": "Pop",
+      "releaseDate": "1991-07-09",
+      "genre": "old school hip hop",
       "country": "US",
-      "spotifyPopularity": 32,
-      "spotifyUrl": "https://open.spotify.com/track/5qvBFZhU5MCu3Fo0vjgt04",
+      "spotifyPopularity": 64,
+      "spotifyUrl": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd",
       "tempo": 95.0,
       "musicalKey": "Gm",
       "camelot": "6A",
-      "energy": "7.0",
-      "overallVolume": "-10.3",
-      "cuePoints": "8",
+      "energy": "7",
+      "overallVolume": "-8.7 dB",
+      "cuePoints": "4",
       "clippedPeaks": 154,
-      "keywords": [],
+      "keywords": "hip hop, rap",
       "comments": "Gm - Energy 7",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847224__DJ Jazzy Jeff & The Fresh Prince__Summertime.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\HIP HOP\\DJ Jazzy Jeff & The Fresh Prince - Summertime (Single Edit).mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -13325,7 +13340,8 @@
         "musicBrainzId": "87628382-c3be-49e0-94e2-60f2aa5f6ac2",
         "popularity": 53,
         "followers": 416347
-      }
+      },
+      "spotifyTrackId": "20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "id": "1274847225",
@@ -13382,7 +13398,8 @@
         "musicBrainzId": "0febdcf7-4e1f-4661-9493-b40427de2c13",
         "popularity": 70,
         "followers": 3607410
-      }
+      },
+      "spotifyTrackId": "2tNmhDlMbwQZLxQtWMt2EU"
     },
     {
       "id": "1274847226",
@@ -13424,7 +13441,8 @@
         "musicBrainzId": "17cd668d-457c-459b-907b-219032d9bb6c",
         "popularity": 62,
         "followers": 930079
-      }
+      },
+      "spotifyTrackId": "52FpkyImUt9LDI9mCWDryr"
     },
     {
       "id": "1267114",
@@ -13447,15 +13465,10 @@
       "overallVolume": "-11.8",
       "cuePoints": "8",
       "clippedPeaks": 423,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "east coast",
-        "east coast rap"
-      ],
+      "keywords": "hip hop, rap, east coast, east coast rap",
       "comments": "Dm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267114__Magic Stick__Lil' Kim.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "50274",
@@ -13478,7 +13491,8 @@
         "musicBrainzId": "bc1b5c95-e6d6-46b5-957a-5e8908b02c1e",
         "popularity": 68,
         "followers": 1872595
-      }
+      },
+      "spotifyTrackId": "0aULRU35N9kTj6O1xMULRR"
     },
     {
       "id": "1274847227",
@@ -13524,7 +13538,8 @@
         "musicBrainzId": "b66771cc-45fa-4a32-b14f-5337d7223d7a",
         "popularity": 59,
         "followers": 279074
-      }
+      },
+      "spotifyTrackId": "7AjfklMN4WpQYz5FkT4E66"
     },
     {
       "id": "1274809988",
@@ -13600,7 +13615,8 @@
         "musicBrainzId": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
         "popularity": 85,
         "followers": 35820586
-      }
+      },
+      "spotifyTrackId": "4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "id": "1274824191",
@@ -13623,10 +13639,7 @@
       "overallVolume": "-13.6",
       "cuePoints": "8",
       "clippedPeaks": 15,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Em - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274824000-1274824999\\1274824191__Fantasy__Mariah Carey.mp3",
       "dateAdded": "2026-08-21",
@@ -13665,7 +13678,8 @@
         "musicBrainzId": "494e8d09-f85b-4543-892f-a5096aed1cd4",
         "popularity": 80,
         "followers": 11445825
-      }
+      },
+      "spotifyTrackId": "6xkryXuiZU360Lngd4sx13"
     },
     {
       "id": "1274847228",
@@ -13711,7 +13725,8 @@
         "musicBrainzId": "b66771cc-45fa-4a32-b14f-5337d7223d7a",
         "popularity": 59,
         "followers": 279074
-      }
+      },
+      "spotifyTrackId": "2voXNGgRrosxCJA6foTVau"
     },
     {
       "id": "1274809932",
@@ -13734,19 +13749,10 @@
       "overallVolume": "-9.1",
       "cuePoints": "8",
       "clippedPeaks": 510,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap",
-        "hip hop",
-        "rap",
-        "west coast",
-        "west coast rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap, hip hop, rap, west coast, west coast rap",
       "comments": "Am - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274809000-1274809999\\1274809932__Return of the Mack__Mark Morrison.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "1355",
@@ -13781,7 +13787,8 @@
         "musicBrainzId": "1ecc1f71-2512-442a-a85e-3c79d9ddc5cc",
         "popularity": 67,
         "followers": 139383
-      }
+      },
+      "spotifyTrackId": "3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "id": "1274828220",
@@ -13804,10 +13811,7 @@
       "overallVolume": "-9.8",
       "cuePoints": "8",
       "clippedPeaks": 15,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "F#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828220__Poison__Bell Biv DeVoe.mp3",
       "dateAdded": "2026-08-21",
@@ -13829,7 +13833,8 @@
         "musicBrainzId": "9b16908a-a78c-45a7-8366-d2a41967f745",
         "popularity": 61,
         "followers": 1112509
-      }
+      },
+      "spotifyTrackId": "6m59VvDUi0UQsB2eZ9wVbH"
     },
     {
       "id": "1274847229",
@@ -13875,7 +13880,8 @@
         "musicBrainzId": "b66771cc-45fa-4a32-b14f-5337d7223d7a",
         "popularity": 59,
         "followers": 279074
-      }
+      },
+      "spotifyTrackId": "7rt0kEDWRg3pgTZJKuszoE"
     },
     {
       "id": "1274847230",
@@ -13932,7 +13938,8 @@
         "musicBrainzId": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
         "popularity": 73,
         "followers": 3680138
-      }
+      },
+      "spotifyTrackId": "3XKIUb7HzIF1Vu9usunMzc"
     },
     {
       "id": "1274847231",
@@ -13992,7 +13999,8 @@
         "musicBrainzId": "67930b3e-e00b-469f-8c74-fd69f20522ec",
         "popularity": 22,
         "followers": 1215
-      }
+      },
+      "spotifyTrackId": "4S0NYVAQdIb81uLoZoQmgq"
     },
     {
       "id": "1274839068",
@@ -14038,7 +14046,8 @@
         "musicBrainzId": "b14191fa-24c5-44d8-b42d-5017b22b0430",
         "popularity": 74,
         "followers": 3335239
-      }
+      },
+      "spotifyTrackId": "2GFExyKXf9383tSRSrEHEt"
     },
     {
       "id": "1274847233",
@@ -14083,7 +14092,8 @@
         "musicBrainzId": "609e7afd-3552-4102-9501-7611858ea320",
         "popularity": 64,
         "followers": 1570286
-      }
+      },
+      "spotifyTrackId": "5PG3h38oiQLEJlOuOvIs80"
     },
     {
       "id": "624070",
@@ -14143,7 +14153,8 @@
         "musicBrainzId": "67930b3e-e00b-469f-8c74-fd69f20522ec",
         "popularity": 22,
         "followers": 1215
-      }
+      },
+      "spotifyTrackId": "4PEGwWH4tL6H7dGl4uVSPg"
     },
     {
       "id": "1274846336",
@@ -14189,7 +14200,8 @@
         "musicBrainzId": "b14191fa-24c5-44d8-b42d-5017b22b0430",
         "popularity": 74,
         "followers": 3335239
-      }
+      },
+      "spotifyTrackId": "2VjXGuPVVxyhMgER3Uz2Fe"
     },
     {
       "id": "1274847235",
@@ -14243,7 +14255,8 @@
         "musicBrainzId": "80b3cf5e-18fe-4c59-98c7-e5bb87210710",
         "popularity": 62,
         "followers": 1463884
-      }
+      },
+      "spotifyTrackId": "4pdLZsxq0y5oJDb6Cxlokw"
     },
     {
       "id": "1274847236",
@@ -14296,7 +14309,8 @@
         "musicBrainzId": "db76c5ca-d555-4f09-b1db-baa1b713d875",
         "popularity": 73,
         "followers": 4226911
-      }
+      },
+      "spotifyTrackId": "2zwmugV2IbUwKq5JgOWEpv"
     },
     {
       "id": "1274841621",
@@ -14356,7 +14370,8 @@
         "musicBrainzId": "67930b3e-e00b-469f-8c74-fd69f20522ec",
         "popularity": 22,
         "followers": 1215
-      }
+      },
+      "spotifyTrackId": "22QiTJqDn1BIRSh4mkNJ5w"
     },
     {
       "id": "1274847237",
@@ -14407,7 +14422,8 @@
         "musicBrainzId": "321531fc-db73-4ffa-a959-61a61a2908c1",
         "popularity": 69,
         "followers": 3140993
-      }
+      },
+      "spotifyTrackId": "0tNuJpBgtE65diL6Q8Q7fI"
     },
     {
       "id": "1274847238",
@@ -14450,7 +14466,8 @@
         "musicBrainzId": "9e5fd95d-c0c1-412c-be11-06e7fbe99556",
         "popularity": 67,
         "followers": 2752944
-      }
+      },
+      "spotifyTrackId": "6mz1fBdKATx6qP4oP1I65G"
     },
     {
       "id": "1274847239",
@@ -14496,7 +14513,8 @@
         "musicBrainzId": "b14191fa-24c5-44d8-b42d-5017b22b0430",
         "popularity": 74,
         "followers": 3335239
-      }
+      },
+      "spotifyTrackId": "7x6hO9VMAee9x1iWaeNkL6"
     },
     {
       "id": "1274804212",
@@ -14556,7 +14574,8 @@
         "musicBrainzId": "67930b3e-e00b-469f-8c74-fd69f20522ec",
         "popularity": 22,
         "followers": 1215
-      }
+      },
+      "spotifyTrackId": "1oaaSrDJimABpOdCEbw2DJ"
     },
     {
       "id": "1274845093",
@@ -14604,7 +14623,8 @@
         "musicBrainzId": "a81f7041-7cd7-4080-ba88-9ce5fe50dc19",
         "popularity": 55,
         "followers": 825363
-      }
+      },
+      "spotifyTrackId": "18sytW2s53Of6NVudQyUlH"
     },
     {
       "id": "1274847240",
@@ -14657,7 +14677,8 @@
         "musicBrainzId": "6be2828f-6c0d-4059-99d4-fa18acf1a296",
         "popularity": 70,
         "followers": 4057729
-      }
+      },
+      "spotifyTrackId": "1EhvYd5e7vkoN3udEN1Vyl"
     },
     {
       "id": "1274804210",
@@ -14717,7 +14738,8 @@
         "musicBrainzId": "67930b3e-e00b-469f-8c74-fd69f20522ec",
         "popularity": 22,
         "followers": 1215
-      }
+      },
+      "spotifyTrackId": "104gvc1JDyW1PXCW9GCP17"
     },
     {
       "id": "1274831778",
@@ -14759,7 +14781,8 @@
         "musicBrainzId": "51b59633-b9cc-48b8-b7db-72a06452069a",
         "popularity": 55,
         "followers": 363357
-      }
+      },
+      "spotifyTrackId": "6eB35pgMXdfhz5Z0WjwF1O"
     },
     {
       "id": "1274847242",
@@ -14805,7 +14828,8 @@
         "musicBrainzId": "d252cca8-8214-43e5-b81a-101eb4a1447e",
         "popularity": 61,
         "followers": 1762230
-      }
+      },
+      "spotifyTrackId": "6l4TNbfPtNAOOlGIfceSaO"
     },
     {
       "id": "1274847244",
@@ -14847,7 +14871,8 @@
         "musicBrainzId": "ac35fe80-f514-485b-94dd-337949c34c57",
         "popularity": 52,
         "followers": 232868
-      }
+      },
+      "spotifyTrackId": "2lp8xjq0WTm3HZKHuDEweg"
     },
     {
       "id": "1274847245",
@@ -14886,7 +14911,8 @@
         "musicBrainzId": "76696314-41f4-49fa-9085-cd1fea8b5557",
         "popularity": 49,
         "followers": 19902
-      }
+      },
+      "spotifyTrackId": "47t8t4OPGwiIC9JHLbFZ7c"
     },
     {
       "id": "1274847247",
@@ -14939,7 +14965,8 @@
         "musicBrainzId": "db76c5ca-d555-4f09-b1db-baa1b713d875",
         "popularity": 73,
         "followers": 4226911
-      }
+      },
+      "spotifyTrackId": "4MTHIKGWNTBoubzDMkXFfa"
     },
     {
       "id": "1274843863",
@@ -14986,7 +15013,8 @@
         "musicBrainzId": "01e60eba-52df-4694-8f09-39f43abe54e9",
         "popularity": 68,
         "followers": 3966497
-      }
+      },
+      "spotifyTrackId": "6N9uyMZf9pbNOuomveWscp"
     },
     {
       "id": "1274847248",
@@ -15033,7 +15061,8 @@
         "musicBrainzId": "9a883a69-436b-4d17-9ffd-122a9bf4419a",
         "popularity": 59,
         "followers": 1454279
-      }
+      },
+      "spotifyTrackId": "06TuMCjDEYjTOJScCRzmjf"
     },
     {
       "id": "1274847249",
@@ -15077,7 +15106,8 @@
         "musicBrainzId": "fffc6a35-ae65-48be-bcc0-9d604e05665e",
         "popularity": 63,
         "followers": 2137391
-      }
+      },
+      "spotifyTrackId": "4G1qRhOk1YY0kewtMaCrMC"
     },
     {
       "id": "1274828039",
@@ -15100,10 +15130,7 @@
       "overallVolume": "-9.0",
       "cuePoints": "8",
       "clippedPeaks": 653,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Bm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828039__Freak Like Me__Adina Howard.mp3",
       "dateAdded": "2026-08-21",
@@ -15127,7 +15154,8 @@
         "musicBrainzId": "5c8d5115-163b-4725-9dd7-ab7ed7debbbd",
         "popularity": 50,
         "followers": 474495
-      }
+      },
+      "spotifyTrackId": "6Vas6h9lB5mmeVDXdFqlQA"
     },
     {
       "id": "114981",
@@ -15169,7 +15197,8 @@
         "musicBrainzId": "2de9f057-67d8-429d-b899-759be13131a9",
         "popularity": 65,
         "followers": 1979020
-      }
+      },
+      "spotifyTrackId": "3c6afiysmB7OnxQzzSqRfD"
     },
     {
       "id": "1274847250",
@@ -15220,7 +15249,8 @@
         "musicBrainzId": "321531fc-db73-4ffa-a959-61a61a2908c1",
         "popularity": 69,
         "followers": 3140993
-      }
+      },
+      "spotifyTrackId": "6sIMSl1n3KDPr03Fw8mujd"
     },
     {
       "id": "1274847251",
@@ -15263,7 +15293,8 @@
         "musicBrainzId": "9e5fd95d-c0c1-412c-be11-06e7fbe99556",
         "popularity": 67,
         "followers": 2752944
-      }
+      },
+      "spotifyTrackId": "2zbjlcLi1VQWqDNYdhyx1l"
     },
     {
       "id": "1274847252",
@@ -15305,22 +15336,23 @@
         "musicBrainzId": "23c598be-b0ba-4067-8566-348e272a663f",
         "popularity": 56,
         "followers": 764930
-      }
+      },
+      "spotifyTrackId": "5u3rsmRYRSKJpFHXPT4p07"
     },
     {
-      "id": "1274847253",
-      "externalSongId": "1274847253",
+      "id": "1274804946",
+      "externalSongId": "1274804946",
       "title": "Can We Talk",
       "artist": "Tevin Campbell",
-      "album": "The Best of Tevin Campbell",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739af0046f069d64b650914ed8",
-      "durationSeconds": 285,
-      "durationDisplay": "04:45",
-      "releaseDate": "2001",
-      "genre": "R&B",
+      "album": "I'm Ready",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ead20a924dbf94bcf9d05065",
+      "durationSeconds": 284,
+      "durationDisplay": "04:44",
+      "releaseDate": "1993",
+      "genre": "new jack swing, quiet storm",
       "country": "US",
-      "spotifyPopularity": 65,
-      "spotifyUrl": "https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9",
+      "spotifyPopularity": 70,
+      "spotifyUrl": "https://open.spotify.com/track/3eRE1KwnUma75nu1HhoNY4",
       "tempo": 86.0,
       "musicalKey": "Dm",
       "camelot": "7A",
@@ -15357,7 +15389,8 @@
         "musicBrainzId": "f368568b-1f9f-4d29-99e7-89a2125d0cfe",
         "popularity": 60,
         "followers": 1197190
-      }
+      },
+      "spotifyTrackId": "3eRE1KwnUma75nu1HhoNY4"
     },
     {
       "id": "1274847258",
@@ -15402,7 +15435,8 @@
         "musicBrainzId": "511562a6-c381-44df-9bc4-27be779716b8",
         "popularity": 56,
         "followers": 1120267
-      }
+      },
+      "spotifyTrackId": "4cRR2gUTOerkUOW5iZpm91"
     },
     {
       "id": "1274841267",
@@ -15444,7 +15478,8 @@
         "musicBrainzId": "22bec108-cd77-4b50-a9dd-449239909bf9",
         "popularity": 50,
         "followers": 118194
-      }
+      },
+      "spotifyTrackId": "7tsRp7QKUBp6hc9bth0h7x"
     },
     {
       "id": "1274809112",
@@ -15499,7 +15534,8 @@
         "musicBrainzId": "bc85da58-52d9-457d-ae8d-5d8d4ec870a9",
         "popularity": 68,
         "followers": 4882260
-      }
+      },
+      "spotifyTrackId": "4lRrk574qIHpoEEKC1zuam"
     },
     {
       "id": "1274847259",
@@ -15552,7 +15588,8 @@
         "musicBrainzId": "db76c5ca-d555-4f09-b1db-baa1b713d875",
         "popularity": 73,
         "followers": 4226911
-      }
+      },
+      "spotifyTrackId": "5X82VFLvjpeWQlTSShqqj0"
     },
     {
       "id": "1274847260",
@@ -15596,7 +15633,8 @@
         "musicBrainzId": "c7f33343-7870-4e03-9892-65ad81d18db5",
         "popularity": 52,
         "followers": 555507
-      }
+      },
+      "spotifyTrackId": "3lsse1FoSHnNXc6y0jHxvd"
     },
     {
       "id": "1274847262",
@@ -15640,7 +15678,8 @@
         "musicBrainzId": "fffc6a35-ae65-48be-bcc0-9d604e05665e",
         "popularity": 63,
         "followers": 2137391
-      }
+      },
+      "spotifyTrackId": "5A0aUvnfAEcmUx3hoXjI8R"
     },
     {
       "id": "1274847263",
@@ -15695,7 +15734,8 @@
         "musicBrainzId": "bc85da58-52d9-457d-ae8d-5d8d4ec870a9",
         "popularity": 68,
         "followers": 4882260
-      }
+      },
+      "spotifyTrackId": "45wneA2j0Z0WMnYNDO6Ad0"
     },
     {
       "id": "1274847264",
@@ -15769,7 +15809,8 @@
         "musicBrainzId": "070d193a-845c-479f-980e-bef15710653e",
         "popularity": 73,
         "followers": 7708370
-      }
+      },
+      "spotifyTrackId": "4mfyehYgUP2V8jsjW9UzYj"
     },
     {
       "id": "108274",
@@ -15813,7 +15854,8 @@
         "musicBrainzId": null,
         "popularity": 83,
         "followers": 10924382
-      }
+      },
+      "spotifyTrackId": "34ceTg8ChN5HjrqiIYCn9Q"
     },
     {
       "id": "2791",
@@ -15858,7 +15900,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "68vgtRHr7iZHpzGpon6Jlo"
     },
     {
       "id": "1274803298",
@@ -15881,10 +15924,7 @@
       "overallVolume": "-10.8",
       "cuePoints": "8",
       "clippedPeaks": 934,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Dm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274803000-1274803999\\1274803298__Nelly, Kelly Rowland__Dilemma.mp3",
       "dateAdded": "2026-08-21",
@@ -15910,7 +15950,8 @@
         "musicBrainzId": "811900b2-68fc-4d41-8bad-69b7a1f4d628",
         "popularity": 77,
         "followers": 3470599
-      }
+      },
+      "spotifyTrackId": "0ARK753YaiJbpLUk7z5yIM"
     },
     {
       "id": "1274818761",
@@ -15933,10 +15974,7 @@
       "overallVolume": "-8.9",
       "cuePoints": "5",
       "clippedPeaks": 0,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "Cm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274818000-1274818999\\1274818761__Because Of You__Ne-Yo.mp3",
       "dateAdded": "2026-08-21",
@@ -15957,7 +15995,8 @@
         "musicBrainzId": null,
         "popularity": 83,
         "followers": 10924382
-      }
+      },
+      "spotifyTrackId": "6CFPFnS9EcLs2I0nWqtWci"
     },
     {
       "id": "1274818764",
@@ -16001,7 +16040,8 @@
         "musicBrainzId": null,
         "popularity": 83,
         "followers": 10924382
-      }
+      },
+      "spotifyTrackId": "10aWGOqSDBqvNzJ9NeKDbK"
     },
     {
       "id": "3948",
@@ -16064,7 +16104,8 @@
         "musicBrainzId": "c234fa42-e6a6-443e-937e-2f4b073538a3",
         "popularity": 90,
         "followers": 26579183
-      }
+      },
+      "spotifyTrackId": "5Lgcn7u07bHuqbOtXkN62u"
     },
     {
       "id": "1274840264",
@@ -16113,7 +16154,8 @@
         "musicBrainzId": "811900b2-68fc-4d41-8bad-69b7a1f4d628",
         "popularity": 77,
         "followers": 3470599
-      }
+      },
+      "spotifyTrackId": "3Gf5nttwcX9aaSQXRWidEZ"
     },
     {
       "id": "1274818123",
@@ -16158,7 +16200,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "4719foL6R25RSHSJ1shNaj"
     },
     {
       "id": "1274815033",
@@ -16221,7 +16264,8 @@
         "musicBrainzId": "c234fa42-e6a6-443e-937e-2f4b073538a3",
         "popularity": 90,
         "followers": 26579183
-      }
+      },
+      "spotifyTrackId": "5F7IJrXD6Fa3EmqoYE0gU4"
     },
     {
       "id": "1129",
@@ -16279,7 +16323,8 @@
         "musicBrainzId": "8ef1df30-ae4f-4dbd-9351-1a32b208a01e",
         "popularity": 80,
         "followers": 12607307
-      }
+      },
+      "spotifyTrackId": "3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "id": "1274818766",
@@ -16323,32 +16368,33 @@
         "musicBrainzId": null,
         "popularity": 83,
         "followers": 10924382
-      }
+      },
+      "spotifyTrackId": "3QE7ObGjkt1kYnhLvZPRUy"
     },
     {
-      "id": "1274847266",
-      "externalSongId": "1274847266",
+      "id": "1274810407",
+      "externalSongId": "1274810407",
       "title": "I Wanna Love You",
       "artist": "Akon, Snoop Dogg",
-      "album": "Konvicted (Complete Edition)",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b339bb65a381f7345296e0d0",
+      "album": "Konvicted",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d9bcf5565005950b353bc9cf",
       "durationSeconds": 247,
       "durationDisplay": "04:07",
-      "releaseDate": "2022-03-04",
+      "releaseDate": "2006-01-01",
       "genre": "Rap/Hip Hop",
       "country": "US",
-      "spotifyPopularity": 72,
-      "spotifyUrl": "https://open.spotify.com/track/1OKvqRUG3QbaqLWGn7bhzF",
+      "spotifyPopularity": 80,
+      "spotifyUrl": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc",
       "tempo": 100.0,
       "musicalKey": "Am",
       "camelot": "8A",
-      "energy": "5.0",
-      "overallVolume": "-8.2",
+      "energy": "6",
+      "overallVolume": "-8.2 dB",
       "cuePoints": "4",
       "clippedPeaks": 41,
-      "keywords": [],
+      "keywords": "hip hop, rap",
       "comments": "Am - Energy 5",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847266__Akon, Snoop Dogg__I Wanna Love You.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\HIP HOP\\Akon - I Wanna Love You.mp3",
       "dateAdded": "2026-08-21",
       "rating": null,
       "artistDetails": {
@@ -16376,7 +16422,8 @@
         "musicBrainzId": "1138a764-2212-4d0a-b02d-0dc14df91e08",
         "popularity": 86,
         "followers": 6994532
-      }
+      },
+      "spotifyTrackId": "0CXVjQI9wsqaGeIARkkpYc"
     },
     {
       "id": "1274818122",
@@ -16421,7 +16468,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "5rPzPAaOUceS8HiAculegz"
     },
     {
       "id": "7555",
@@ -16464,7 +16512,8 @@
         "musicBrainzId": "f236134b-7ebb-4ba8-b155-1791193d05ec",
         "popularity": 69,
         "followers": 3819154
-      }
+      },
+      "spotifyTrackId": "174rZBKJAqD10VBnOjlQQ3"
     },
     {
       "id": "1274847267",
@@ -16510,7 +16559,8 @@
         "musicBrainzId": "a47ed6d5-480e-428c-8ce9-d7a6a571e857",
         "popularity": 74,
         "followers": 3434902
-      }
+      },
+      "spotifyTrackId": "6zMUIb4uce1CzpbjR3vMdN"
     },
     {
       "id": "1274847268",
@@ -16563,7 +16613,8 @@
         "musicBrainzId": "9a07de5c-37e5-4907-ac77-ba9674a9bd6a",
         "popularity": 57,
         "followers": 700207
-      }
+      },
+      "spotifyTrackId": "1q51MejmtLKEv8mABG8XRE"
     },
     {
       "id": "1274799786",
@@ -16586,10 +16637,7 @@
       "overallVolume": "-9.9",
       "cuePoints": "8",
       "clippedPeaks": 1694,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "E - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274799000-1274799999\\1274799786__Yo (Excuse Me Miss)__Chris Brown.mp3",
       "dateAdded": "2026-08-21",
@@ -16629,7 +16677,8 @@
         "musicBrainzId": "c234fa42-e6a6-443e-937e-2f4b073538a3",
         "popularity": 90,
         "followers": 26579183
-      }
+      },
+      "spotifyTrackId": "7DFnq8FYhHMCylykf6ZCxA"
     },
     {
       "id": "1274818116",
@@ -16674,7 +16723,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "7wBThXx7BGZHJJ3aN3OPvv"
     },
     {
       "id": "1274847269",
@@ -16720,7 +16770,8 @@
         "musicBrainzId": "a47ed6d5-480e-428c-8ce9-d7a6a571e857",
         "popularity": 74,
         "followers": 3434902
-      }
+      },
+      "spotifyTrackId": "6dZ6qWl1e9GsMndBG7vqB9"
     },
     {
       "id": "1274818115",
@@ -16765,7 +16816,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "id": "1274847270",
@@ -16777,7 +16829,7 @@
       "durationSeconds": 338,
       "durationDisplay": "05:38",
       "releaseDate": "2005-09-05",
-      "genre": "R&B",
+      "genre": "pop rap",
       "country": "US",
       "spotifyPopularity": 71,
       "spotifyUrl": "https://open.spotify.com/track/2TFsx3B0hLSSTambrudXs3",
@@ -16818,7 +16870,8 @@
         "musicBrainzId": "9a07de5c-37e5-4907-ac77-ba9674a9bd6a",
         "popularity": 57,
         "followers": 700207
-      }
+      },
+      "spotifyTrackId": "2TFsx3B0hLSSTambrudXs3"
     },
     {
       "id": "1274847271",
@@ -16841,7 +16894,7 @@
       "overallVolume": "-9.9",
       "cuePoints": "7",
       "clippedPeaks": 2794,
-      "keywords": [],
+      "keywords": "dance, pop",
       "comments": "Em - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847271__Ne-Yo__Closer.mp3",
       "dateAdded": "2026-08-21",
@@ -16862,7 +16915,8 @@
         "musicBrainzId": null,
         "popularity": 83,
         "followers": 10924382
-      }
+      },
+      "spotifyTrackId": "0GX5oOKtU0nnx5OkhenW2i"
     },
     {
       "id": "3342",
@@ -16927,7 +16981,8 @@
         "musicBrainzId": "73e5e69d-3554-40d8-8516-00cb38737a1c",
         "popularity": 92,
         "followers": 67160323
-      }
+      },
+      "spotifyTrackId": "3goSVuTt3fDYDP6kRnFwuL"
     },
     {
       "id": "1274819094",
@@ -16950,10 +17005,7 @@
       "overallVolume": "-11.8",
       "cuePoints": "8",
       "clippedPeaks": 47,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Cm - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274819000-1274819999\\1274819094__I'm Sprung__T-Pain.mp3",
       "dateAdded": "2026-08-21",
@@ -16974,7 +17026,8 @@
         "musicBrainzId": "84d5a9df-dd85-43e9-92f3-ed87bcd59b58",
         "popularity": 81,
         "followers": 5488042
-      }
+      },
+      "spotifyTrackId": "0DLOyyQvwPTSDKuhpzMMwA"
     },
     {
       "id": "1267070",
@@ -16997,12 +17050,7 @@
       "overallVolume": "-11.4",
       "cuePoints": "8",
       "clippedPeaks": 57,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap, hip hop, rap",
       "comments": "C#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267070__I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]__Diddy.mp3",
       "dateAdded": "2026-08-21",
@@ -17031,7 +17079,8 @@
         "musicBrainzId": "cabb4fcf-4067-4ba5-908d-76ee66fcf0c6",
         "popularity": 73,
         "followers": 1919678
-      }
+      },
+      "spotifyTrackId": "6Wt5QBzHp9vdSLAFlvdnDQ"
     },
     {
       "id": "1274819093",
@@ -17054,10 +17103,7 @@
       "overallVolume": "-9.2",
       "cuePoints": "8",
       "clippedPeaks": 45,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "A#m - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274819000-1274819999\\1274819093__T-Pain, Yung Joc__Buy U a Drank (Shawty Snappin') (feat. Yung Joc).mp3",
       "dateAdded": "2026-08-21",
@@ -17078,7 +17124,8 @@
         "musicBrainzId": "84d5a9df-dd85-43e9-92f3-ed87bcd59b58",
         "popularity": 81,
         "followers": 5488042
-      }
+      },
+      "spotifyTrackId": "1tkMs9wDPknQ3ZHcKDw1ES"
     },
     {
       "id": "1274818767",
@@ -17122,7 +17169,8 @@
         "musicBrainzId": null,
         "popularity": 83,
         "followers": 10924382
-      }
+      },
+      "spotifyTrackId": "0JKjqJLo145b1mqA6MnhIl"
     },
     {
       "id": "1274847272",
@@ -17169,7 +17217,8 @@
         "musicBrainzId": "4d7304f6-7fe3-4959-9d98-01a5af84afe6",
         "popularity": 72,
         "followers": 7695019
-      }
+      },
+      "spotifyTrackId": "5cU50IAoAFF7qFWOtdbEjr"
     },
     {
       "id": "1274822469",
@@ -17192,10 +17241,7 @@
       "overallVolume": "-10.0",
       "cuePoints": "7",
       "clippedPeaks": 395,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "E - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274822000-1274822999\\1274822469__It Girl__Jason Derulo.mp3",
       "dateAdded": "2026-08-21",
@@ -17221,7 +17267,8 @@
         "musicBrainzId": "6de0f914-3e60-4418-be3b-42e0feb6eb4d",
         "popularity": 79,
         "followers": 12486632
-      }
+      },
+      "spotifyTrackId": "4fINc8dnfcz7AdhFYVA4i7"
     },
     {
       "id": "1274801553",
@@ -17244,10 +17291,7 @@
       "overallVolume": "-9.3",
       "cuePoints": "8",
       "clippedPeaks": 2791,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "G#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274801000-1274801999\\1274801553__Whatcha Say__Jason Derulo.mp3",
       "dateAdded": "2026-08-21",
@@ -17273,7 +17317,8 @@
         "musicBrainzId": "6de0f914-3e60-4418-be3b-42e0feb6eb4d",
         "popularity": 79,
         "followers": 12486632
-      }
+      },
+      "spotifyTrackId": "2zJZwWF7BTGIIvrAlgzJEx"
     },
     {
       "id": "1274819095",
@@ -17317,7 +17362,8 @@
         "musicBrainzId": "84d5a9df-dd85-43e9-92f3-ed87bcd59b58",
         "popularity": 81,
         "followers": 5488042
-      }
+      },
+      "spotifyTrackId": "4CHLYbx8NB1LUn5WqT0SzV"
     },
     {
       "id": "1274847273",
@@ -17363,7 +17409,8 @@
         "musicBrainzId": "6fd44ae7-097d-4979-94ba-5dfc40d9f7ad",
         "popularity": 63,
         "followers": 1586705
-      }
+      },
+      "spotifyTrackId": "6oUGAx0vkBcnGzYkvw0ZsA"
     },
     {
       "id": "1274808706",
@@ -17426,7 +17473,8 @@
         "musicBrainzId": "c234fa42-e6a6-443e-937e-2f4b073538a3",
         "popularity": 90,
         "followers": 26579183
-      }
+      },
+      "spotifyTrackId": "1vwUsp52io0AGQ5yv470IC"
     },
     {
       "id": "1274818763",
@@ -17470,7 +17518,8 @@
         "musicBrainzId": null,
         "popularity": 83,
         "followers": 10924382
-      }
+      },
+      "spotifyTrackId": "6Hn9Uc1mMNfqChXU3txNke"
     },
     {
       "id": "3341",
@@ -17532,7 +17581,8 @@
         "musicBrainzId": "494e8d09-f85b-4543-892f-a5096aed1cd4",
         "popularity": 80,
         "followers": 11445825
-      }
+      },
+      "spotifyTrackId": "2aEuXA1KswHlCGPOuPmCOW"
     },
     {
       "id": "4563",
@@ -17555,10 +17605,7 @@
       "overallVolume": "-9.9",
       "cuePoints": "7",
       "clippedPeaks": 304,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Fm - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\4000-4999\\4563__T-Pain, Akon__Bartender.mp3",
       "dateAdded": "2026-08-21",
@@ -17579,22 +17626,23 @@
         "musicBrainzId": "84d5a9df-dd85-43e9-92f3-ed87bcd59b58",
         "popularity": 81,
         "followers": 5488042
-      }
+      },
+      "spotifyTrackId": "1RGIjMFMgJxkZHMDXVYzOJ"
     },
     {
-      "id": "1274847274",
-      "externalSongId": "1274847274",
+      "id": "1274809664",
+      "externalSongId": "1274809664",
       "title": "Love Don't Change",
       "artist": "Jeremih",
       "album": "All About You",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ee6271e9d8488289b6a4aa63",
-      "durationSeconds": 257,
-      "durationDisplay": "04:17",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ffbe24215d37792901e3bd21",
+      "durationSeconds": 256,
+      "durationDisplay": "04:16",
       "releaseDate": "2010-01-01",
       "genre": "R&B",
       "country": "US",
-      "spotifyPopularity": 2,
-      "spotifyUrl": "https://open.spotify.com/track/6PmjWl0phNxc0R5OwkDdiZ",
+      "spotifyPopularity": 68,
+      "spotifyUrl": "https://open.spotify.com/track/2gm0DvJILF5m2KvujJmqV2",
       "tempo": 118.0,
       "musicalKey": "B",
       "camelot": "1B",
@@ -17624,7 +17672,8 @@
         "musicBrainzId": "1c009a08-74d1-4682-bc56-8bfbe9e66b62",
         "popularity": 76,
         "followers": 7048913
-      }
+      },
+      "spotifyTrackId": "2gm0DvJILF5m2KvujJmqV2"
     },
     {
       "id": "3939",
@@ -17686,7 +17735,8 @@
         "musicBrainzId": "494e8d09-f85b-4543-892f-a5096aed1cd4",
         "popularity": 80,
         "followers": 11445825
-      }
+      },
+      "spotifyTrackId": "4EI8VuxUuIHKfafU72emqz"
     },
     {
       "id": "1274846533",
@@ -17746,7 +17796,8 @@
         "musicBrainzId": "c2d25856-a09a-4d15-b404-77dd19c19e63",
         "popularity": 71,
         "followers": 3603985
-      }
+      },
+      "spotifyTrackId": "6OSmeoh8kXhCfz9WqvzDoJ"
     },
     {
       "id": "1274842235",
@@ -17795,7 +17846,8 @@
         "musicBrainzId": "6de0f914-3e60-4418-be3b-42e0feb6eb4d",
         "popularity": 79,
         "followers": 12486632
-      }
+      },
+      "spotifyTrackId": "0TyOpxlWwDx98bjkIVHUgY"
     },
     {
       "id": "4679",
@@ -17840,7 +17892,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "5j0McHPthKpOXRr3fBq8M0"
     },
     {
       "id": "1274805203",
@@ -17885,7 +17938,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "2QsZVnbWVSjKMXK6K3uRBL"
     },
     {
       "id": "1267952",
@@ -17908,10 +17962,7 @@
       "overallVolume": "-6.7",
       "cuePoints": "8",
       "clippedPeaks": 761,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Bm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267952__Kiss Me Thru The Phone__Soulja Boy Tell'em.mp3",
       "dateAdded": "2026-08-21",
@@ -17937,7 +17988,8 @@
         "musicBrainzId": "29eead4d-3793-4625-8727-c03edbb38b8b",
         "popularity": 71,
         "followers": 2307202
-      }
+      },
+      "spotifyTrackId": "2q4rjDy9WhaN3o9MvDbO21"
     },
     {
       "id": "1274847275",
@@ -17984,7 +18036,8 @@
         "musicBrainzId": "4d7304f6-7fe3-4959-9d98-01a5af84afe6",
         "popularity": 72,
         "followers": 7695019
-      }
+      },
+      "spotifyTrackId": "6jvvpPJQJy5rMOEkLlADl6"
     },
     {
       "id": "1274847276",
@@ -18032,7 +18085,8 @@
         "musicBrainzId": "a796b92e-c137-4895-9c89-10f900617a4f",
         "popularity": 74,
         "followers": 8748043
-      }
+      },
+      "spotifyTrackId": "0FZvjrHpAmLKj574M4VwrF"
     },
     {
       "id": "1274847277",
@@ -18081,7 +18135,8 @@
         "musicBrainzId": "6de0f914-3e60-4418-be3b-42e0feb6eb4d",
         "popularity": 79,
         "followers": 12486632
-      }
+      },
+      "spotifyTrackId": "4qiVbHlE4gdQHM79Hx4hPD"
     },
     {
       "id": "1274820030",
@@ -18136,7 +18191,8 @@
         "musicBrainzId": "4995a475-1580-4217-a11b-448711e41910",
         "popularity": 54,
         "followers": 1686735
-      }
+      },
+      "spotifyTrackId": "6TlRNJaezOdzdECnQeRuMM"
     },
     {
       "id": "1274817182",
@@ -18181,7 +18237,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "id": "1274847278",
@@ -18226,7 +18283,8 @@
         "musicBrainzId": "3ca09fae-fdee-4771-bab9-244708515a98",
         "popularity": 63,
         "followers": 3174630
-      }
+      },
+      "spotifyTrackId": "5qhlC4Rzals34zxovrPzKp"
     },
     {
       "id": "2357",
@@ -18249,10 +18307,7 @@
       "overallVolume": "-8.3",
       "cuePoints": "8",
       "clippedPeaks": 35,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "B - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\2000-2999\\2357__Forever__Chris Brown.mp3",
       "dateAdded": "2026-08-21",
@@ -18292,7 +18347,8 @@
         "musicBrainzId": "c234fa42-e6a6-443e-937e-2f4b073538a3",
         "popularity": 90,
         "followers": 26579183
-      }
+      },
+      "spotifyTrackId": "3NZJlJemX3mzjf56MqC5ML"
     },
     {
       "id": "1904",
@@ -18315,10 +18371,7 @@
       "overallVolume": "-7.6",
       "cuePoints": "8",
       "clippedPeaks": 1745,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Fm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1000-1999\\1904__Best I Ever Had__Drake.mp3",
       "dateAdded": "2026-08-21",
@@ -18357,7 +18410,8 @@
         "musicBrainzId": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
         "popularity": 97,
         "followers": 98940838
-      }
+      },
+      "spotifyTrackId": "3QLjDkgLh9AOEHlhQtDuhs"
     },
     {
       "id": "1274804073",
@@ -18422,7 +18476,8 @@
         "musicBrainzId": "73e5e69d-3554-40d8-8516-00cb38737a1c",
         "popularity": 92,
         "followers": 67160323
-      }
+      },
+      "spotifyTrackId": "49FYlytm3dAAraYgpoJZux"
     },
     {
       "id": "1274847280",
@@ -18464,7 +18519,8 @@
         "musicBrainzId": "2de9f057-67d8-429d-b899-759be13131a9",
         "popularity": 65,
         "followers": 1979020
-      }
+      },
+      "spotifyTrackId": "57zCPgJ2xnD552JTmOaWdQ"
     },
     {
       "id": "1274812602",
@@ -18506,7 +18562,8 @@
         "musicBrainzId": "82e6f49b-1693-4812-b914-96b0c450240b",
         "popularity": 65,
         "followers": 1061019
-      }
+      },
+      "spotifyTrackId": "41PWz0hAiU9FqsmjR9Wh62"
     },
     {
       "id": "1274847281",
@@ -18550,7 +18607,8 @@
         "musicBrainzId": null,
         "popularity": 83,
         "followers": 10924382
-      }
+      },
+      "spotifyTrackId": "5FXOEdfNW7nYQrBWtW49Cl"
     },
     {
       "id": "1274847282",
@@ -18596,7 +18654,8 @@
         "musicBrainzId": "72f62a4c-0042-49f6-b4dc-2f5b27dd289f",
         "popularity": 65,
         "followers": 1985195
-      }
+      },
+      "spotifyTrackId": "0exb0K7vsjf5bXWLJJhAuF"
     },
     {
       "id": "1274847283",
@@ -18640,7 +18699,8 @@
         "musicBrainzId": "6255c59a-de38-44de-b966-a3c4686f9941",
         "popularity": 57,
         "followers": 1557650
-      }
+      },
+      "spotifyTrackId": "18cMxAuSTWkljxRYk1Fma1"
     },
     {
       "id": "1274847284",
@@ -18683,7 +18743,8 @@
         "musicBrainzId": "f236134b-7ebb-4ba8-b155-1791193d05ec",
         "popularity": 69,
         "followers": 3819154
-      }
+      },
+      "spotifyTrackId": "1KKpOFUTS8B9pD5x3PevoX"
     },
     {
       "id": "1274847285",
@@ -18796,7 +18857,8 @@
         "musicBrainzId": "66a4b9d2-d5a6-40b8-93d5-0bdd1dbb4b43",
         "popularity": 68,
         "followers": 1368800
-      }
+      },
+      "spotifyTrackId": "3RBGG1be9aBaSvjnw6ABkh"
     },
     {
       "id": "1274847286",
@@ -18849,7 +18911,8 @@
         "musicBrainzId": "76ac0243-204f-4769-bd1e-160bbda66f65",
         "popularity": 51,
         "followers": 1368174
-      }
+      },
+      "spotifyTrackId": "5klW2KKu4GaHWfTR01ywrj"
     },
     {
       "id": "1274847287",
@@ -18895,7 +18958,8 @@
         "musicBrainzId": "72f62a4c-0042-49f6-b4dc-2f5b27dd289f",
         "popularity": 65,
         "followers": 1985195
-      }
+      },
+      "spotifyTrackId": "3LN41NUdHkyNqQhi9gExMm"
     },
     {
       "id": "1274847288",
@@ -18955,7 +19019,8 @@
         "musicBrainzId": "c2d25856-a09a-4d15-b404-77dd19c19e63",
         "popularity": 71,
         "followers": 3603985
-      }
+      },
+      "spotifyTrackId": "6w1DBbA8akxHPiBQ6nAyJq"
     },
     {
       "id": "1274843928",
@@ -19001,7 +19066,8 @@
         "musicBrainzId": "2c311e1d-5da3-4ffb-a46e-572981b5849f",
         "popularity": 62,
         "followers": 1035015
-      }
+      },
+      "spotifyTrackId": "5hF2LnbkpnXCkksMSeWcxZ"
     },
     {
       "id": "1274847289",
@@ -19045,7 +19111,8 @@
         "musicBrainzId": "b79247ee-9870-4a26-8cbc-88d13044d7f6",
         "popularity": 58,
         "followers": 1737725
-      }
+      },
+      "spotifyTrackId": "3B7i9OKRRmIsSBHEbJz58Y"
     },
     {
       "id": "1274828252",
@@ -19068,10 +19135,7 @@
       "overallVolume": "-8.5",
       "cuePoints": "8",
       "clippedPeaks": 145,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Fm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828252__I Luv Your Girl__THE-DREAM.mp3",
       "dateAdded": "2026-08-21",
@@ -19161,7 +19225,8 @@
         "musicBrainzId": "66a4b9d2-d5a6-40b8-93d5-0bdd1dbb4b43",
         "popularity": 68,
         "followers": 1368800
-      }
+      },
+      "spotifyTrackId": "3wkNK8tJZ2stygNJm8RCRD"
     },
     {
       "id": "1274847290",
@@ -19207,7 +19272,8 @@
         "musicBrainzId": "6fd44ae7-097d-4979-94ba-5dfc40d9f7ad",
         "popularity": 63,
         "followers": 1586705
-      }
+      },
+      "spotifyTrackId": "3jEqrIfwKO0M8ALu3TGilF"
     },
     {
       "id": "1274847291",
@@ -19320,7 +19386,8 @@
         "musicBrainzId": "66a4b9d2-d5a6-40b8-93d5-0bdd1dbb4b43",
         "popularity": 68,
         "followers": 1368800
-      }
+      },
+      "spotifyTrackId": "5RC9YDHON0nXKmcQrL6WV6"
     },
     {
       "id": "1274828153",
@@ -19343,10 +19410,7 @@
       "overallVolume": "-8.8",
       "cuePoints": "8",
       "clippedPeaks": 2866,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Am - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828153__Rock Wit U (Awww Baby)__Ashanti.mp3",
       "dateAdded": "2026-08-21",
@@ -19369,7 +19433,8 @@
         "musicBrainzId": "a47ed6d5-480e-428c-8ce9-d7a6a571e857",
         "popularity": 74,
         "followers": 3434902
-      }
+      },
+      "spotifyTrackId": "6pWzCKTrKrwbUPzY8RLCoP"
     },
     {
       "id": "1274847292",
@@ -19413,7 +19478,8 @@
         "musicBrainzId": "6255c59a-de38-44de-b966-a3c4686f9941",
         "popularity": 57,
         "followers": 1557650
-      }
+      },
+      "spotifyTrackId": "3g6SuyjGaGyAXmjvdNI1IU"
     },
     {
       "id": "1274847294",
@@ -19458,7 +19524,8 @@
         "musicBrainzId": "981d39fc-bd00-4cc6-ac67-6410f8b89098",
         "popularity": 57,
         "followers": 625563
-      }
+      },
+      "spotifyTrackId": "4s0o8TJHfX9LLHa0umnOzT"
     },
     {
       "id": "1274847295",
@@ -19499,7 +19566,8 @@
         "musicBrainzId": "b8e3a524-0f55-42ad-a5f8-253ddad02f18",
         "popularity": 64,
         "followers": 1043682
-      }
+      },
+      "spotifyTrackId": "4Ilen0VxPEsVRLpnePji8P"
     },
     {
       "id": "1274830411",
@@ -19540,7 +19608,8 @@
         "musicBrainzId": "d791111a-9fcc-4ebe-bb16-b785719a642b",
         "popularity": 53,
         "followers": 84287
-      }
+      },
+      "spotifyTrackId": "3K67L83YEiEo6Wyir4pkDU"
     },
     {
       "id": "1274836096",
@@ -19583,7 +19652,8 @@
         "musicBrainzId": "9e5fd95d-c0c1-412c-be11-06e7fbe99556",
         "popularity": 67,
         "followers": 2752944
-      }
+      },
+      "spotifyTrackId": "5ojJNnX5ND2gMGojPd3NiO"
     },
     {
       "id": "1274847297",
@@ -19629,7 +19699,8 @@
         "musicBrainzId": "a47ed6d5-480e-428c-8ce9-d7a6a571e857",
         "popularity": 74,
         "followers": 3434902
-      }
+      },
+      "spotifyTrackId": "2IyL2CyHoenwQLds5jSuqK"
     },
     {
       "id": "1274847298",
@@ -19680,7 +19751,8 @@
         "musicBrainzId": "31bea673-d23a-4889-8da1-7cb040863268",
         "popularity": 71,
         "followers": 3603985
-      }
+      },
+      "spotifyTrackId": "4Cv5dkUBqepa0siwGREihD"
     },
     {
       "id": "1274828274",
@@ -19703,10 +19775,7 @@
       "overallVolume": "-9.6",
       "cuePoints": "8",
       "clippedPeaks": 2155,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "Em - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828274__Your Body__Pretty Ricky.mp3",
       "dateAdded": "2026-08-21",
@@ -19727,7 +19796,8 @@
         "musicBrainzId": "b79247ee-9870-4a26-8cbc-88d13044d7f6",
         "popularity": 58,
         "followers": 1737725
-      }
+      },
+      "spotifyTrackId": "5y4TDQdYzlT4eoQIPOgNDz"
     },
     {
       "id": "1274847299",
@@ -19770,7 +19840,8 @@
         "musicBrainzId": "e82500a8-70ce-46ad-a028-b0690420d560",
         "popularity": 63,
         "followers": 670358
-      }
+      },
+      "spotifyTrackId": "5ZelMPn7vupvsTToUTvcbF"
     },
     {
       "id": "1238976",
@@ -19793,10 +19864,7 @@
       "overallVolume": "-9.9",
       "cuePoints": "3",
       "clippedPeaks": 4468,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "Em - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1238000-1238999\\1238976__My Love__Justin Timberlake.mp3",
       "dateAdded": "2026-08-21",
@@ -19824,7 +19892,8 @@
         "musicBrainzId": "596ffa74-3d08-44ef-b113-765d43d12738",
         "popularity": 83,
         "followers": 15399940
-      }
+      },
+      "spotifyTrackId": "4NeOWqHmlrGRuBvsLJC9rL"
     },
     {
       "id": "1274847300",
@@ -19884,7 +19953,8 @@
         "musicBrainzId": "c2d25856-a09a-4d15-b404-77dd19c19e63",
         "popularity": 71,
         "followers": 3603985
-      }
+      },
+      "spotifyTrackId": "5dNfHmqgr128gMY2tc5CeJ"
     },
     {
       "id": "1274801977",
@@ -19931,7 +20001,8 @@
         "musicBrainzId": null,
         "popularity": 70,
         "followers": 2102590
-      }
+      },
+      "spotifyTrackId": "58FUwmyGUqkt53YPUcm7cJ"
     },
     {
       "id": "4557",
@@ -19978,7 +20049,8 @@
         "musicBrainzId": "980ee2d8-2ee9-407b-b48e-48360fbc7437",
         "popularity": 73,
         "followers": 2660546
-      }
+      },
+      "spotifyTrackId": "5Y77SQxEr1eiofPeUTPHxM"
     },
     {
       "id": "1274847302",
@@ -20025,7 +20097,8 @@
         "musicBrainzId": "4d7304f6-7fe3-4959-9d98-01a5af84afe6",
         "popularity": 72,
         "followers": 7695019
-      }
+      },
+      "spotifyTrackId": "5k3VjTwIsOjQ2woGz3Yx71"
     },
     {
       "id": "1274847303",
@@ -20077,7 +20150,8 @@
         "musicBrainzId": "cabb4fcf-4067-4ba5-908d-76ee66fcf0c6",
         "popularity": 73,
         "followers": 1919678
-      }
+      },
+      "spotifyTrackId": "1yy2DlSDtEt90d54rPDPXz"
     },
     {
       "id": "1274823368",
@@ -20158,7 +20232,8 @@
         "musicBrainzId": "89e39f67-65cc-4f90-b145-b1b56c209f8a",
         "popularity": 67,
         "followers": 960881
-      }
+      },
+      "spotifyTrackId": "0gPQTLaqHDgdupKEok7J2x"
     },
     {
       "id": "1274847305",
@@ -20205,7 +20280,8 @@
         "musicBrainzId": "7fa62c0b-2c74-491e-a2a1-17c3b043f326",
         "popularity": 64,
         "followers": 359340
-      }
+      },
+      "spotifyTrackId": "2ezqQeBiC72gwMJoO4w1hA"
     },
     {
       "id": "1274847306",
@@ -20217,7 +20293,7 @@
       "durationSeconds": 237,
       "durationDisplay": "03:57",
       "releaseDate": "1994-08-30",
-      "genre": "Pop",
+      "genre": "boy band, contemporary r&b, new jack swing, r&b, urban contemporary",
       "country": "US",
       "spotifyPopularity": 71,
       "spotifyUrl": "https://open.spotify.com/track/7dfl9X38RhIvB3oSmmneq3",
@@ -20254,7 +20330,8 @@
         "musicBrainzId": "b42eca0f-9381-43db-badb-1cba080a7dc2",
         "popularity": 70,
         "followers": 3471271
-      }
+      },
+      "spotifyTrackId": "7dfl9X38RhIvB3oSmmneq3"
     },
     {
       "id": "1889",
@@ -20277,12 +20354,7 @@
       "overallVolume": "-10.6",
       "cuePoints": "6",
       "clippedPeaks": 5653,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "C#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1000-1999\\1889__Family Affair__Mary J. Blige.mp3",
       "dateAdded": "2026-08-21",
@@ -20312,7 +20384,8 @@
         "musicBrainzId": "db76c5ca-d555-4f09-b1db-baa1b713d875",
         "popularity": 73,
         "followers": 4226911
-      }
+      },
+      "spotifyTrackId": "3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "id": "1274847308",
@@ -20358,7 +20431,8 @@
         "musicBrainzId": "25e0497c-faa4-4765-b232-baa20e5e35a7",
         "popularity": 62,
         "followers": 1190537
-      }
+      },
+      "spotifyTrackId": "3w8Mw9GHYepoTWOSdiyosj"
     },
     {
       "id": "7330",
@@ -20381,12 +20455,7 @@
       "overallVolume": "-9.9",
       "cuePoints": "8",
       "clippedPeaks": 1299,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap",
       "comments": "Cm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\7000-7999\\7330__Work It__Missy Elliott.mp3",
       "dateAdded": "2026-08-21",
@@ -20409,7 +20478,8 @@
         "musicBrainzId": "a0b8cb9e-7532-45fe-a74c-30e7c4009a39",
         "popularity": 72,
         "followers": 2663837
-      }
+      },
+      "spotifyTrackId": "3jagJCUbdqhDSPuxP8cAqF"
     },
     {
       "id": "167",
@@ -20454,7 +20524,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "5rb9QrpfcKFHM1EUbSIurX"
     },
     {
       "id": "1274847309",
@@ -20537,7 +20608,8 @@
         "musicBrainzId": "859d0860-d480-4efd-970c-c05d5f1776b8",
         "popularity": 88,
         "followers": 40388503
-      }
+      },
+      "spotifyTrackId": "5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "id": "1274847279",
@@ -20578,7 +20650,8 @@
         "musicBrainzId": "4a8ac23a-e27a-44db-814a-f8c31beb68e6",
         "popularity": 68,
         "followers": 1827199
-      }
+      },
+      "spotifyTrackId": "7k6IzwMGpxnRghE7YosnXT"
     },
     {
       "id": "2815",
@@ -20627,7 +20700,8 @@
         "musicBrainzId": "8d552dfc-648f-401f-90de-e925013ca537",
         "popularity": 67,
         "followers": 3723850
-      }
+      },
+      "spotifyTrackId": "7wZUrN8oemZfsEd1CGkbXE"
     },
     {
       "id": "1274815027",
@@ -20650,10 +20724,7 @@
       "overallVolume": "-9.8",
       "cuePoints": "8",
       "clippedPeaks": 5,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "D#m - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274815000-1274815999\\1274815027__Chris Brown, T-Pain__Kiss Kiss (feat. T-Pain).mp3",
       "dateAdded": "2026-08-21",
@@ -20693,7 +20764,8 @@
         "musicBrainzId": "c234fa42-e6a6-443e-937e-2f4b073538a3",
         "popularity": 90,
         "followers": 26579183
-      }
+      },
+      "spotifyTrackId": "3wKKkGVn7cVSfgPeYYIiXG"
     },
     {
       "id": "1274815028",
@@ -20716,10 +20788,7 @@
       "overallVolume": "-10.6",
       "cuePoints": "6",
       "clippedPeaks": 1787,
-      "keywords": [
-        "hip hop",
-        "rap"
-      ],
+      "keywords": "hip hop, rap",
       "comments": "C#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274815000-1274815999\\1274815028__Chris Brown, Juelz Santana__Run It! (feat. Juelz Santana).mp3",
       "dateAdded": "2026-08-21",
@@ -20759,7 +20828,8 @@
         "musicBrainzId": "c234fa42-e6a6-443e-937e-2f4b073538a3",
         "popularity": 90,
         "followers": 26579183
-      }
+      },
+      "spotifyTrackId": "7xYnUQigPoIDAMPVK79NEq"
     },
     {
       "id": "779",
@@ -20782,17 +20852,10 @@
       "overallVolume": "-12.8",
       "cuePoints": "5",
       "clippedPeaks": 999,
-      "keywords": [
-        "dance",
-        "pop",
-        "hip hop",
-        "rap",
-        "east coast",
-        "east coast rap"
-      ],
+      "keywords": "dance, pop, hip hop, rap, east coast, east coast rap",
       "comments": "Am - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\0-999\\779__Ms. Jackson__Outkast.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "364",
@@ -20822,7 +20885,8 @@
         "musicBrainzId": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
         "popularity": 77,
         "followers": 3183339
-      }
+      },
+      "spotifyTrackId": "0I3q5fE6wg7LIfHGngUTnV"
     },
     {
       "id": "130926",
@@ -20848,7 +20912,7 @@
       "keywords": [],
       "comments": "Em - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\130000-130999\\130926__Big Poppa - 2005 Remaster__The Notorious B.I.G.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "711",
@@ -20872,7 +20936,8 @@
         "musicBrainzId": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
         "popularity": 79,
         "followers": 12168260
-      }
+      },
+      "spotifyTrackId": "2g8HN35AnVGIk7B8yMucww"
     },
     {
       "id": "3198",
@@ -20895,12 +20960,7 @@
       "overallVolume": "-10.0",
       "cuePoints": "4",
       "clippedPeaks": 574,
-      "keywords": [
-        "hip hop",
-        "rap",
-        "east coast",
-        "east coast rap"
-      ],
+      "keywords": "hip hop, rap, east coast, east coast rap",
       "comments": "G#m - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\3000-3999\\3198__Let Me Blow Ya Mind__Eve.mp3",
       "dateAdded": "2026-08-21",
@@ -20921,7 +20981,8 @@
         "musicBrainzId": "66bdd1c9-d1c5-40b7-a487-5061fffbd87d",
         "popularity": 43,
         "followers": 132215
-      }
+      },
+      "spotifyTrackId": "5DCA1FOUDBURlRTNg4ganf"
     },
     {
       "id": "1274847310",
@@ -20973,7 +21034,8 @@
         "musicBrainzId": "cabb4fcf-4067-4ba5-908d-76ee66fcf0c6",
         "popularity": 73,
         "followers": 1919678
-      }
+      },
+      "spotifyTrackId": "7lVNTXkI3cHFvcXiI8damb"
     },
     {
       "id": "1274818119",
@@ -21018,7 +21080,8 @@
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
         "popularity": 85,
         "followers": 13388781
-      }
+      },
+      "spotifyTrackId": "5zdUc1JRCImBYcDWgvFNpE"
     },
     {
       "id": "1274847311",
@@ -21044,7 +21107,7 @@
       "keywords": [],
       "comments": "G - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847311__Outkast__Roses.mp3",
-      "dateAdded": "2026-08-21",
+      "dateAdded": "2026-08-23",
       "rating": null,
       "artistDetails": {
         "artistId": "364",
@@ -21074,7 +21137,8 @@
         "musicBrainzId": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
         "popularity": 77,
         "followers": 3183339
-      }
+      },
+      "spotifyTrackId": "6bUNEbXT7HovLW6BgPCBsb"
     },
     {
       "id": "3777",
@@ -21124,7 +21188,8 @@
         "musicBrainzId": "03172286-f7ed-4864-a4db-459cd5ca9790",
         "popularity": 73,
         "followers": 7152825
-      }
+      },
+      "spotifyTrackId": "7uKcScNXuO3MWw6LowBjW1"
     },
     {
       "id": "144",
@@ -21171,7 +21236,8 @@
         "musicBrainzId": "285e1285-aecc-478f-a8da-0c8cf69e1217",
         "popularity": 81,
         "followers": 5902770
-      }
+      },
+      "spotifyTrackId": "0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "id": "336",
@@ -21194,10 +21260,7 @@
       "overallVolume": "-9.6",
       "cuePoints": "7",
       "clippedPeaks": 1092,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "Em - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\0-999\\336__CUFF IT__Beyoncé.mp3",
       "dateAdded": "2026-08-21",
@@ -21257,7 +21320,8 @@
         "musicBrainzId": "859d0860-d480-4efd-970c-c05d5f1776b8",
         "popularity": 88,
         "followers": 40388503
-      }
+      },
+      "spotifyTrackId": "1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "id": "170",
@@ -21280,10 +21344,7 @@
       "overallVolume": "-9.2",
       "cuePoints": "7",
       "clippedPeaks": 114,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "Am - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\0-999\\170__Under The Influence__Chris Brown.mp3",
       "dateAdded": "2026-08-21",
@@ -21323,7 +21384,8 @@
         "musicBrainzId": "c234fa42-e6a6-443e-937e-2f4b073538a3",
         "popularity": 90,
         "followers": 26579183
-      }
+      },
+      "spotifyTrackId": "5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "id": "53",
@@ -21346,10 +21408,7 @@
       "overallVolume": "-8.2",
       "cuePoints": "8",
       "clippedPeaks": 13,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "A#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\0-999\\53__Kill Bill__SZA.mp3",
       "dateAdded": "2026-08-21",
@@ -21375,7 +21434,8 @@
         "musicBrainzId": "272989c8-5535-492d-a25c-9f58803e027f",
         "popularity": 93,
         "followers": 31815126
-      }
+      },
+      "spotifyTrackId": "3OHfY25tqY28d16oZczHc8"
     },
     {
       "id": "81",
@@ -21398,10 +21458,7 @@
       "overallVolume": "-9.6",
       "cuePoints": "8",
       "clippedPeaks": 29,
-      "keywords": [
-        "dance",
-        "pop"
-      ],
+      "keywords": "dance, pop",
       "comments": "Dm - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\0-999\\81__Snooze__SZA.mp3",
       "dateAdded": "2026-08-21",
@@ -21427,7 +21484,8 @@
         "musicBrainzId": "272989c8-5535-492d-a25c-9f58803e027f",
         "popularity": 93,
         "followers": 31815126
-      }
+      },
+      "spotifyTrackId": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     }
   ],
   "source": {
@@ -21437,5 +21495,6 @@
     "mixedInKeyCsv": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\_FLAMINGO - MASTER\\PLAYLIST_JSON\\R&B 90-2000\\R&B 90-2000.csv",
     "audioLibrary": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY",
     "outputDirectory": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\src\\data\\JSON\\playlists"
-  }
+  },
+  "canonicalSyncAt": "2026-09-04T23:04:10"
 }

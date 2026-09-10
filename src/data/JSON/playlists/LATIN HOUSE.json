@@ -41,7 +41,7 @@
       "country": null,
       "spotifyPopularity": 47,
       "spotifyUrl": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "8.0",
@@ -67,7 +67,8 @@
         "musicBrainzId": "fc6d4623-d63b-4b49-bf49-2e4b5da51ab3",
         "popularity": 32,
         "followers": 6870
-      }
+      },
+      "spotifyTrackId": "464um5m6FnOIXD9s7P64OH"
     },
     {
       "id": "1274846810",
@@ -83,7 +84,7 @@
       "country": "FR",
       "spotifyPopularity": 67,
       "spotifyUrl": "https://open.spotify.com/track/1FUUe1VbjWakX9nFfd0Qki",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -112,7 +113,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "1FUUe1VbjWakX9nFfd0Qki"
     },
     {
       "id": "1274846811",
@@ -128,7 +130,7 @@
       "country": "DE",
       "spotifyPopularity": 28,
       "spotifyUrl": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -154,7 +156,8 @@
         "musicBrainzId": "6064ca35-64d5-4a48-8575-5f17cd0f200c",
         "popularity": 43,
         "followers": 9002
-      }
+      },
+      "spotifyTrackId": "6alU7gZpSPKGy1VD2gCnPb"
     },
     {
       "id": "1274846812",
@@ -170,7 +173,7 @@
       "country": null,
       "spotifyPopularity": 29,
       "spotifyUrl": "https://open.spotify.com/track/3WbuHFKaQT4Vvyp0QIO3fd",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -196,7 +199,8 @@
         "musicBrainzId": "dc2fbff3-ecbe-4697-84c4-db6b82cc0c0b",
         "popularity": 36,
         "followers": 3349
-      }
+      },
+      "spotifyTrackId": "3WbuHFKaQT4Vvyp0QIO3fd"
     },
     {
       "id": "1274846813",
@@ -212,7 +216,7 @@
       "country": null,
       "spotifyPopularity": 32,
       "spotifyUrl": "https://open.spotify.com/track/0M71wEAbgmQVirC6Ph3Jwe",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -238,7 +242,8 @@
         "musicBrainzId": null,
         "popularity": 32,
         "followers": 9750
-      }
+      },
+      "spotifyTrackId": "0M71wEAbgmQVirC6Ph3Jwe"
     },
     {
       "id": "1274846814",
@@ -254,7 +259,7 @@
       "country": "RO",
       "spotifyPopularity": 27,
       "spotifyUrl": "https://open.spotify.com/track/09CDXdpjxuvWcRlVMKdMP6",
-      "tempo": 118,
+      "tempo": 118.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -279,7 +284,8 @@
         "musicBrainzId": "6d6b10cd-8c0c-4da9-895d-1a01a804b436",
         "popularity": 26,
         "followers": 1828
-      }
+      },
+      "spotifyTrackId": "09CDXdpjxuvWcRlVMKdMP6"
     },
     {
       "id": "1274846815",
@@ -295,7 +301,7 @@
       "country": null,
       "spotifyPopularity": 44,
       "spotifyUrl": "https://open.spotify.com/track/7ICg4Hz9LuayHPuTfuSIsg",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -325,7 +331,8 @@
         "musicBrainzId": "7d80f1ab-6c4c-4c94-84ff-a092ba63cc7c",
         "popularity": 52,
         "followers": 70736
-      }
+      },
+      "spotifyTrackId": "7ICg4Hz9LuayHPuTfuSIsg"
     },
     {
       "id": "1274846816",
@@ -341,7 +348,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/1tmNTUgXNPi5UFytryl6cj",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -368,7 +375,8 @@
         "musicBrainzId": "fd3a513f-3d38-40ad-a50c-2af80755f851",
         "popularity": 37,
         "followers": 2779
-      }
+      },
+      "spotifyTrackId": "1tmNTUgXNPi5UFytryl6cj"
     },
     {
       "id": "1274846817",
@@ -384,7 +392,7 @@
       "country": null,
       "spotifyPopularity": 32,
       "spotifyUrl": "https://open.spotify.com/track/2FWsGixW6FiJA60DkFf4Db",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -410,7 +418,8 @@
         "musicBrainzId": null,
         "popularity": 24,
         "followers": 3316
-      }
+      },
+      "spotifyTrackId": "2FWsGixW6FiJA60DkFf4Db"
     },
     {
       "id": "1274846818",
@@ -426,7 +435,7 @@
       "country": null,
       "spotifyPopularity": 26,
       "spotifyUrl": "https://open.spotify.com/track/3m2hql0UrKK0xoNVzOXshl",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "7.0",
@@ -452,7 +461,8 @@
         "musicBrainzId": "42d40f68-f201-476a-90a5-c25051320ac3",
         "popularity": 40,
         "followers": 3495
-      }
+      },
+      "spotifyTrackId": "3m2hql0UrKK0xoNVzOXshl"
     },
     {
       "id": "1274846819",
@@ -468,7 +478,7 @@
       "country": "PA",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/1VK0Nb6EqY5gIMw7jlZCZJ",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -494,7 +504,8 @@
         "musicBrainzId": "5593e076-a8b2-49a5-9963-7ffc1bdea569",
         "popularity": 34,
         "followers": 17694
-      }
+      },
+      "spotifyTrackId": "1VK0Nb6EqY5gIMw7jlZCZJ"
     },
     {
       "id": "1274846820",
@@ -510,7 +521,7 @@
       "country": "PE",
       "spotifyPopularity": 36,
       "spotifyUrl": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -537,7 +548,8 @@
         "musicBrainzId": "7fe94373-cc9d-4b39-a8f7-f7923f371971",
         "popularity": 24,
         "followers": 2109
-      }
+      },
+      "spotifyTrackId": "1YcBeCPxCdPCxXOrWJEiwm"
     },
     {
       "id": "1274846821",
@@ -553,7 +565,7 @@
       "country": null,
       "spotifyPopularity": 56,
       "spotifyUrl": "https://open.spotify.com/track/5nZ9KC7vuQe8vy7N3M5YXj",
-      "tempo": 130,
+      "tempo": 130.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -580,7 +592,8 @@
         "musicBrainzId": "01b46b4c-4038-4962-90a2-b187e6abcfa5",
         "popularity": 43,
         "followers": 5276
-      }
+      },
+      "spotifyTrackId": "5nZ9KC7vuQe8vy7N3M5YXj"
     },
     {
       "id": "1274846822",
@@ -596,7 +609,7 @@
       "country": "CO",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/4i5PdBHIs92PMVckcYvZ2J",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -623,7 +636,8 @@
         "musicBrainzId": "2e4d0888-189e-47b3-8459-cd85263f00e3",
         "popularity": 29,
         "followers": 5895
-      }
+      },
+      "spotifyTrackId": "4i5PdBHIs92PMVckcYvZ2J"
     },
     {
       "id": "1274846823",
@@ -639,7 +653,7 @@
       "country": "NL",
       "spotifyPopularity": 70,
       "spotifyUrl": "https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -665,7 +679,8 @@
         "musicBrainzId": "5871a0e8-b938-4d70-838a-ad0291d443cf",
         "popularity": 52,
         "followers": 37558
-      }
+      },
+      "spotifyTrackId": "7DxrTNmUprBMQ0RV45xreb"
     },
     {
       "id": "1274825679",
@@ -681,21 +696,14 @@
       "country": "FR",
       "spotifyPopularity": 73,
       "spotifyUrl": "https://open.spotify.com/track/5PL7k9QH7Kj7B4527dHvon",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "7.0",
       "overallVolume": "-8.4",
       "cuePoints": "8",
       "clippedPeaks": 332,
-      "keywords": [
-        "edm",
-        "electronic music",
-        "house",
-        "deep house",
-        "latin house",
-        "latino"
-      ],
+      "keywords": "edm, electronic music, house, deep house, latin house, latino",
       "comments": "Bm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274825000-1274825999\\1274825679__HUGEL, Totó La Momposina__La Verdolaga.mp3",
       "dateAdded": "2026-08-20",
@@ -717,7 +725,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "5PL7k9QH7Kj7B4527dHvon"
     },
     {
       "id": "1274846824",
@@ -733,7 +742,7 @@
       "country": null,
       "spotifyPopularity": 31,
       "spotifyUrl": "https://open.spotify.com/track/7erGZfGBjEcFTgoHV4rtt9",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -758,7 +767,8 @@
         "musicBrainzId": null,
         "popularity": 20,
         "followers": 66
-      }
+      },
+      "spotifyTrackId": "7erGZfGBjEcFTgoHV4rtt9"
     },
     {
       "id": "1274846825",
@@ -774,7 +784,7 @@
       "country": null,
       "spotifyPopularity": 41,
       "spotifyUrl": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -803,7 +813,8 @@
         "musicBrainzId": "46829378-c9f8-4b5e-991c-d804086d7314",
         "popularity": 45,
         "followers": 1319
-      }
+      },
+      "spotifyTrackId": "2ZuWHrPX5Qas5lQ4fqAcXS"
     },
     {
       "id": "1274846826",
@@ -819,7 +830,7 @@
       "country": null,
       "spotifyPopularity": 52,
       "spotifyUrl": "https://open.spotify.com/track/7lhmeGlNcF564eSIMy0s3A",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "G#m",
       "camelot": "1A",
       "energy": "7.0",
@@ -846,7 +857,8 @@
         "musicBrainzId": "f7f6749c-8f87-47a4-a20c-73d3eee1614b",
         "popularity": 43,
         "followers": 102291
-      }
+      },
+      "spotifyTrackId": "7lhmeGlNcF564eSIMy0s3A"
     },
     {
       "id": "1274846827",
@@ -862,7 +874,7 @@
       "country": "US",
       "spotifyPopularity": 59,
       "spotifyUrl": "https://open.spotify.com/track/1Whq5PzDHie78rKbf88zpo",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "7.0",
@@ -890,7 +902,8 @@
         "musicBrainzId": "a6018f35-4de1-4003-8941-6f72012898e7",
         "popularity": 40,
         "followers": 6588
-      }
+      },
+      "spotifyTrackId": "1Whq5PzDHie78rKbf88zpo"
     },
     {
       "id": "1274846828",
@@ -906,7 +919,7 @@
       "country": null,
       "spotifyPopularity": 29,
       "spotifyUrl": "https://open.spotify.com/track/0R87ryCmS6STLFSQR4RjTr",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -933,7 +946,8 @@
         "musicBrainzId": null,
         "popularity": 27,
         "followers": 61
-      }
+      },
+      "spotifyTrackId": "0R87ryCmS6STLFSQR4RjTr"
     },
     {
       "id": "1168079",
@@ -949,7 +963,7 @@
       "country": "FR",
       "spotifyPopularity": 76,
       "spotifyUrl": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -978,7 +992,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "2iamvJ8dFSfapKYEtEYFun"
     },
     {
       "id": "1274846829",
@@ -994,7 +1009,7 @@
       "country": null,
       "spotifyPopularity": 25,
       "spotifyUrl": "https://open.spotify.com/track/3PT1eKCJjsNnYNt0i7yyV5",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -1020,7 +1035,8 @@
         "musicBrainzId": "7a5bbb34-0bc0-495b-8b9a-157bd7429708",
         "popularity": 18,
         "followers": 1290
-      }
+      },
+      "spotifyTrackId": "3PT1eKCJjsNnYNt0i7yyV5"
     },
     {
       "id": "1274846830",
@@ -1036,7 +1052,7 @@
       "country": null,
       "spotifyPopularity": 32,
       "spotifyUrl": "https://open.spotify.com/track/6MJ0UNVtoQMtQInG3TfiFz",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -1061,7 +1077,8 @@
         "musicBrainzId": null,
         "popularity": 20,
         "followers": 66
-      }
+      },
+      "spotifyTrackId": "6MJ0UNVtoQMtQInG3TfiFz"
     },
     {
       "id": "1274846831",
@@ -1077,7 +1094,7 @@
       "country": "BE",
       "spotifyPopularity": 46,
       "spotifyUrl": "https://open.spotify.com/track/66UK1fQARWs1Oc5LdZhVEZ",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "7.0",
@@ -1104,7 +1121,8 @@
         "musicBrainzId": "157c8305-83fb-47e5-94d1-1f1273f0dfb5",
         "popularity": 43,
         "followers": 7737
-      }
+      },
+      "spotifyTrackId": "66UK1fQARWs1Oc5LdZhVEZ"
     },
     {
       "id": "1274846832",
@@ -1120,7 +1138,7 @@
       "country": null,
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/1FB0zUGehVS3IRlx80lis5",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -1147,7 +1165,8 @@
         "musicBrainzId": null,
         "popularity": 27,
         "followers": 61
-      }
+      },
+      "spotifyTrackId": "1FB0zUGehVS3IRlx80lis5"
     },
     {
       "id": "1274846833",
@@ -1163,7 +1182,7 @@
       "country": null,
       "spotifyPopularity": 46,
       "spotifyUrl": "https://open.spotify.com/track/7sTRB7Yl0PuOh2bd95Kxn2",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "7.0",
@@ -1192,7 +1211,8 @@
         "musicBrainzId": "46829378-c9f8-4b5e-991c-d804086d7314",
         "popularity": 45,
         "followers": 1319
-      }
+      },
+      "spotifyTrackId": "7sTRB7Yl0PuOh2bd95Kxn2"
     },
     {
       "id": "1274846834",
@@ -1208,7 +1228,7 @@
       "country": null,
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/51fX6Rvz1tvLW3xTDIkDpW",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -1235,7 +1255,8 @@
         "musicBrainzId": null,
         "popularity": 27,
         "followers": 61
-      }
+      },
+      "spotifyTrackId": "51fX6Rvz1tvLW3xTDIkDpW"
     },
     {
       "id": "1274846836",
@@ -1251,7 +1272,7 @@
       "country": null,
       "spotifyPopularity": 32,
       "spotifyUrl": "https://open.spotify.com/track/7tbYwin2vjj9D8sCeG9MTf",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -1278,7 +1299,8 @@
         "musicBrainzId": null,
         "popularity": 35,
         "followers": 1463
-      }
+      },
+      "spotifyTrackId": "7tbYwin2vjj9D8sCeG9MTf"
     },
     {
       "id": "1274846837",
@@ -1294,7 +1316,7 @@
       "country": "MX",
       "spotifyPopularity": 51,
       "spotifyUrl": "https://open.spotify.com/track/2aMsVXKPil6NIoh9N8h5D0",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "7.0",
@@ -1333,7 +1355,8 @@
         "musicBrainzId": "b0eb4fac-a300-4d2b-8a26-cf03b29e5287",
         "popularity": 56,
         "followers": 87107
-      }
+      },
+      "spotifyTrackId": "2aMsVXKPil6NIoh9N8h5D0"
     },
     {
       "id": "1274846838",
@@ -1349,7 +1372,7 @@
       "country": null,
       "spotifyPopularity": 31,
       "spotifyUrl": "https://open.spotify.com/track/3MkTwUq1fAYaiCK2UfIExY",
-      "tempo": 129,
+      "tempo": 129.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -1377,7 +1400,8 @@
         "musicBrainzId": "3a83a33c-22be-4a89-8bba-a43ed8ef2b77",
         "popularity": 29,
         "followers": 4526
-      }
+      },
+      "spotifyTrackId": "3MkTwUq1fAYaiCK2UfIExY"
     },
     {
       "id": "1274846839",
@@ -1393,7 +1417,7 @@
       "country": "DE",
       "spotifyPopularity": 41,
       "spotifyUrl": "https://open.spotify.com/track/0cr1sIEBE61HceN93QLSO3",
-      "tempo": 130,
+      "tempo": 130.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -1416,7 +1440,8 @@
         "musicBrainzId": "29b2be60-08b1-4ffd-8a68-4392c27585cd",
         "popularity": 63,
         "followers": 20350
-      }
+      },
+      "spotifyTrackId": "0cr1sIEBE61HceN93QLSO3"
     },
     {
       "id": "1274846840",
@@ -1432,7 +1457,7 @@
       "country": null,
       "spotifyPopularity": 30,
       "spotifyUrl": "https://open.spotify.com/track/4pm9v0tEAaJIJ3WrLxGdIy",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -1458,7 +1483,8 @@
         "musicBrainzId": null,
         "popularity": 15,
         "followers": 46
-      }
+      },
+      "spotifyTrackId": "4pm9v0tEAaJIJ3WrLxGdIy"
     },
     {
       "id": "1274846841",
@@ -1474,7 +1500,7 @@
       "country": null,
       "spotifyPopularity": 25,
       "spotifyUrl": "https://open.spotify.com/track/5YwOFGQQcASI5jxx8k7w58",
-      "tempo": 119,
+      "tempo": 119.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "4.0",
@@ -1497,7 +1523,8 @@
         "musicBrainzId": null,
         "popularity": 11,
         "followers": 501
-      }
+      },
+      "spotifyTrackId": "5YwOFGQQcASI5jxx8k7w58"
     },
     {
       "id": "1274846842",
@@ -1513,7 +1540,7 @@
       "country": null,
       "spotifyPopularity": 53,
       "spotifyUrl": "https://open.spotify.com/track/0iVVaf9CSC02XjHgFDLYRf",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -1536,7 +1563,8 @@
         "musicBrainzId": "ab506059-b869-4c6a-985e-a7edaa5afbb5",
         "popularity": 54,
         "followers": 19004
-      }
+      },
+      "spotifyTrackId": "0iVVaf9CSC02XjHgFDLYRf"
     },
     {
       "id": "1274846843",
@@ -1552,7 +1580,7 @@
       "country": null,
       "spotifyPopularity": 44,
       "spotifyUrl": "https://open.spotify.com/track/6At0Gyrg14AtDlAdIbJzOJ",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -1575,7 +1603,8 @@
         "musicBrainzId": "ab506059-b869-4c6a-985e-a7edaa5afbb5",
         "popularity": 54,
         "followers": 19004
-      }
+      },
+      "spotifyTrackId": "6At0Gyrg14AtDlAdIbJzOJ"
     },
     {
       "id": "1274846844",
@@ -1591,7 +1620,7 @@
       "country": null,
       "spotifyPopularity": 24,
       "spotifyUrl": "https://open.spotify.com/track/3xTJJvBrHgWT07URS4mEO2",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -1617,7 +1646,8 @@
         "musicBrainzId": null,
         "popularity": 9,
         "followers": 319
-      }
+      },
+      "spotifyTrackId": "3xTJJvBrHgWT07URS4mEO2"
     },
     {
       "id": "1274846845",
@@ -1633,7 +1663,7 @@
       "country": null,
       "spotifyPopularity": 30,
       "spotifyUrl": "https://open.spotify.com/track/6LKqjUgCADoomPJsaTXqj1",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -1658,7 +1688,8 @@
         "musicBrainzId": "5852053b-10c8-4cd8-ada5-7654733eb016",
         "popularity": 13,
         "followers": 332
-      }
+      },
+      "spotifyTrackId": "6LKqjUgCADoomPJsaTXqj1"
     },
     {
       "id": "1274846846",
@@ -1674,7 +1705,7 @@
       "country": "MX",
       "spotifyPopularity": 37,
       "spotifyUrl": "https://open.spotify.com/track/3RzAFbU0puGXVhOGfXGN8C",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "8.0",
@@ -1713,7 +1744,8 @@
         "musicBrainzId": "b0eb4fac-a300-4d2b-8a26-cf03b29e5287",
         "popularity": 56,
         "followers": 87107
-      }
+      },
+      "spotifyTrackId": "3RzAFbU0puGXVhOGfXGN8C"
     },
     {
       "id": "1274846847",
@@ -1729,7 +1761,7 @@
       "country": null,
       "spotifyPopularity": 35,
       "spotifyUrl": "https://open.spotify.com/track/13NTYKO5p05Cvy3jyUqzL9",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "6.0",
@@ -1754,7 +1786,8 @@
         "musicBrainzId": null,
         "popularity": 28,
         "followers": 161
-      }
+      },
+      "spotifyTrackId": "13NTYKO5p05Cvy3jyUqzL9"
     },
     {
       "id": "1274846848",
@@ -1770,7 +1803,7 @@
       "country": null,
       "spotifyPopularity": 34,
       "spotifyUrl": "https://open.spotify.com/track/2ysWx0RNAZX0DQdLNQQjDn",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "7.0",
@@ -1796,7 +1829,8 @@
         "musicBrainzId": null,
         "popularity": 21,
         "followers": 541
-      }
+      },
+      "spotifyTrackId": "2ysWx0RNAZX0DQdLNQQjDn"
     },
     {
       "id": "1274846849",
@@ -1812,7 +1846,7 @@
       "country": "ES",
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/1VgMz97YYZNFHYdvxTqDQy",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -1838,7 +1872,8 @@
         "musicBrainzId": "3a72351d-f494-4610-8fd8-1e0c36344886",
         "popularity": 25,
         "followers": 996
-      }
+      },
+      "spotifyTrackId": "1VgMz97YYZNFHYdvxTqDQy"
     },
     {
       "id": "1274836155",
@@ -1854,18 +1889,14 @@
       "country": "FR",
       "spotifyPopularity": 64,
       "spotifyUrl": "https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "8.0",
       "overallVolume": "-10.1",
       "cuePoints": "5",
       "clippedPeaks": 209,
-      "keywords": [
-        "latin house",
-        "house",
-        "latino"
-      ],
+      "keywords": "latin house, house, latino",
       "comments": "Bm - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274836000-1274836999\\1274836155__HUGEL, Cumbiafrica__El Sueno.mp3",
       "dateAdded": "2026-08-20",
@@ -1887,7 +1918,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "4DndSKZKWXbbBxi5lO4QUP"
     },
     {
       "id": "1274846850",
@@ -1903,7 +1935,7 @@
       "country": "US",
       "spotifyPopularity": 31,
       "spotifyUrl": "https://open.spotify.com/track/60iaGy19CI2FWpoxJV5KPT",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "G#m",
       "camelot": "1A",
       "energy": "6.0",
@@ -1931,7 +1963,8 @@
         "musicBrainzId": "a6018f35-4de1-4003-8941-6f72012898e7",
         "popularity": 40,
         "followers": 6588
-      }
+      },
+      "spotifyTrackId": "60iaGy19CI2FWpoxJV5KPT"
     },
     {
       "id": "1274846851",
@@ -1947,7 +1980,7 @@
       "country": null,
       "spotifyPopularity": 29,
       "spotifyUrl": "https://open.spotify.com/track/5LhGMsBKVvqQnQbtpTw9UE",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -1972,7 +2005,8 @@
         "musicBrainzId": "ff7179c3-d5ce-40c6-b7ec-78e8359891bb",
         "popularity": 15,
         "followers": 1676
-      }
+      },
+      "spotifyTrackId": "5LhGMsBKVvqQnQbtpTw9UE"
     },
     {
       "id": "1274846852",
@@ -1988,7 +2022,7 @@
       "country": null,
       "spotifyPopularity": 38,
       "spotifyUrl": "https://open.spotify.com/track/41hSwzEfOP7KGSKtL5CGTS",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -2013,7 +2047,8 @@
         "musicBrainzId": null,
         "popularity": 28,
         "followers": 161
-      }
+      },
+      "spotifyTrackId": "41hSwzEfOP7KGSKtL5CGTS"
     },
     {
       "id": "1274846853",
@@ -2029,7 +2064,7 @@
       "country": null,
       "spotifyPopularity": 37,
       "spotifyUrl": "https://open.spotify.com/track/0UTimfdFaukRJRSI1NbgX6",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "7.0",
@@ -2055,7 +2090,8 @@
         "musicBrainzId": "36cc589f-a5cf-4f76-872e-c6ab3fb23537",
         "popularity": 24,
         "followers": 335
-      }
+      },
+      "spotifyTrackId": "0UTimfdFaukRJRSI1NbgX6"
     },
     {
       "id": "1274846854",
@@ -2071,7 +2107,7 @@
       "country": null,
       "spotifyPopularity": 24,
       "spotifyUrl": "https://open.spotify.com/track/37pAJC5Rpzx2YEAW6MGhvj",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -2097,7 +2133,8 @@
         "musicBrainzId": null,
         "popularity": 11,
         "followers": 210
-      }
+      },
+      "spotifyTrackId": "37pAJC5Rpzx2YEAW6MGhvj"
     },
     {
       "id": "1274846855",
@@ -2113,7 +2150,7 @@
       "country": null,
       "spotifyPopularity": 19,
       "spotifyUrl": "https://open.spotify.com/track/5FVYLk5pFyV6M5ihrjariB",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -2138,7 +2175,8 @@
         "musicBrainzId": null,
         "popularity": 16,
         "followers": 76
-      }
+      },
+      "spotifyTrackId": "5FVYLk5pFyV6M5ihrjariB"
     },
     {
       "id": "1274846856",
@@ -2150,18 +2188,18 @@
       "durationSeconds": 184,
       "durationDisplay": "03:04",
       "releaseDate": "2021-08-13",
-      "genre": "Electro",
+      "genre": "italian tech house, tech house",
       "country": "Verona",
       "spotifyPopularity": 68,
       "spotifyUrl": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
       "overallVolume": "-7.3",
       "cuePoints": "6",
       "clippedPeaks": 30,
-      "keywords": [],
+      "keywords": "latin house, house, latino",
       "comments": "Gm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274846000-1274846999\\1274846856__Raffa Fl__Ritmo.mp3",
       "dateAdded": "2026-08-20",
@@ -2181,7 +2219,8 @@
         "musicBrainzId": "545ccb1a-3e92-44bc-8bbc-8c28721ebf1c",
         "popularity": 55,
         "followers": 46565
-      }
+      },
+      "spotifyTrackId": "4FHXsehfIbyPCJLP7fCnIF"
     },
     {
       "id": "1274846857",
@@ -2197,7 +2236,7 @@
       "country": "FR",
       "spotifyPopularity": 75,
       "spotifyUrl": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "7.0",
@@ -2226,7 +2265,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "0pIiCv0GdhtsOjCJ5Y7zHj"
     },
     {
       "id": "1274846858",
@@ -2242,7 +2282,7 @@
       "country": null,
       "spotifyPopularity": 28,
       "spotifyUrl": "https://open.spotify.com/track/05kkbWXGniKfGsBWomOLss",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -2267,7 +2307,8 @@
         "musicBrainzId": "1a3f4bc8-0840-4d37-bf39-2cbab9ae0228",
         "popularity": 17,
         "followers": 327
-      }
+      },
+      "spotifyTrackId": "05kkbWXGniKfGsBWomOLss"
     },
     {
       "id": "1274846859",
@@ -2283,7 +2324,7 @@
       "country": "US",
       "spotifyPopularity": 18,
       "spotifyUrl": "https://open.spotify.com/track/1vuXhuVpXiSnAUWsr7CtRU",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "8.0",
@@ -2311,7 +2352,8 @@
         "musicBrainzId": "6e60deeb-a666-42c5-95cb-a5eada6bbbe5",
         "popularity": 59,
         "followers": 11563
-      }
+      },
+      "spotifyTrackId": "1vuXhuVpXiSnAUWsr7CtRU"
     },
     {
       "id": "1274846860",
@@ -2327,7 +2369,7 @@
       "country": null,
       "spotifyPopularity": 27,
       "spotifyUrl": "https://open.spotify.com/track/58bu9nSS6GAOgBQJJsDVVm",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -2355,7 +2397,8 @@
         "musicBrainzId": "d7b91e60-408a-4b82-bf6d-d579b98de5d4",
         "popularity": 35,
         "followers": 3976
-      }
+      },
+      "spotifyTrackId": "58bu9nSS6GAOgBQJJsDVVm"
     },
     {
       "id": "1274846861",
@@ -2371,7 +2414,7 @@
       "country": null,
       "spotifyPopularity": 28,
       "spotifyUrl": "https://open.spotify.com/track/3Tw8wq8LooYLgqAmsGhBmc",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -2396,7 +2439,8 @@
         "musicBrainzId": null,
         "popularity": 12,
         "followers": 193
-      }
+      },
+      "spotifyTrackId": "3Tw8wq8LooYLgqAmsGhBmc"
     },
     {
       "id": "1274846862",
@@ -2412,7 +2456,7 @@
       "country": null,
       "spotifyPopularity": 44,
       "spotifyUrl": "https://open.spotify.com/track/50Oy06vx7hqnwjZ8u4Pij3",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "5.0",
@@ -2439,7 +2483,8 @@
         "musicBrainzId": "86af2ba6-3a65-40b6-be1e-bf11fc712018",
         "popularity": 33,
         "followers": 2715
-      }
+      },
+      "spotifyTrackId": "50Oy06vx7hqnwjZ8u4Pij3"
     },
     {
       "id": "1274846863",
@@ -2455,7 +2500,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/5CjDmbV8yeto60eZsPhzgR",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -2481,7 +2526,8 @@
         "musicBrainzId": null,
         "popularity": 35,
         "followers": 1064
-      }
+      },
+      "spotifyTrackId": "5CjDmbV8yeto60eZsPhzgR"
     },
     {
       "id": "1274846864",
@@ -2497,7 +2543,7 @@
       "country": null,
       "spotifyPopularity": 34,
       "spotifyUrl": "https://open.spotify.com/track/6TK6zbxhrOjPRmTLYKTL16",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "5.0",
@@ -2523,7 +2569,8 @@
         "musicBrainzId": "a4541ef4-43e6-41e2-92a2-77970e64a606",
         "popularity": 24,
         "followers": 1520
-      }
+      },
+      "spotifyTrackId": "6TK6zbxhrOjPRmTLYKTL16"
     },
     {
       "id": "1274846865",
@@ -2539,7 +2586,7 @@
       "country": null,
       "spotifyPopularity": 45,
       "spotifyUrl": "https://open.spotify.com/track/5DWsnG1DcNJpCTjL452aMg",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "7.0",
@@ -2566,7 +2613,8 @@
         "musicBrainzId": null,
         "popularity": 46,
         "followers": 1539
-      }
+      },
+      "spotifyTrackId": "5DWsnG1DcNJpCTjL452aMg"
     },
     {
       "id": "1274846866",
@@ -2582,7 +2630,7 @@
       "country": "IT",
       "spotifyPopularity": 44,
       "spotifyUrl": "https://open.spotify.com/track/0ESdSmnsJxwplE9mI5vkJ2",
-      "tempo": 118,
+      "tempo": 118.0,
       "musicalKey": "G#m",
       "camelot": "1A",
       "energy": "6.0",
@@ -2605,7 +2653,8 @@
         "musicBrainzId": "d5d542e8-bb2b-4527-854c-bd5880b6a6e5",
         "popularity": 46,
         "followers": 14006
-      }
+      },
+      "spotifyTrackId": "0ESdSmnsJxwplE9mI5vkJ2"
     },
     {
       "id": "1274846867",
@@ -2621,7 +2670,7 @@
       "country": null,
       "spotifyPopularity": 37,
       "spotifyUrl": "https://open.spotify.com/track/7LkmYUpwYfwkr6SybssoqZ",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -2648,7 +2697,8 @@
         "musicBrainzId": null,
         "popularity": 46,
         "followers": 1539
-      }
+      },
+      "spotifyTrackId": "7LkmYUpwYfwkr6SybssoqZ"
     },
     {
       "id": "1274846868",
@@ -2664,7 +2714,7 @@
       "country": null,
       "spotifyPopularity": 43,
       "spotifyUrl": "https://open.spotify.com/track/1RF8fXcDLxdK1yJ0ZEmmdd",
-      "tempo": 127,
+      "tempo": 127.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -2691,7 +2741,8 @@
         "musicBrainzId": null,
         "popularity": 28,
         "followers": 131
-      }
+      },
+      "spotifyTrackId": "1RF8fXcDLxdK1yJ0ZEmmdd"
     },
     {
       "id": "1274846869",
@@ -2707,7 +2758,7 @@
       "country": null,
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/1GqvUarbvTagiwWzZ9DeOW",
-      "tempo": 127,
+      "tempo": 127.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -2733,7 +2784,8 @@
         "musicBrainzId": "34e8eae2-8ac2-418f-8ea0-70f2af8b20b0",
         "popularity": 25,
         "followers": 1166
-      }
+      },
+      "spotifyTrackId": "1GqvUarbvTagiwWzZ9DeOW"
     },
     {
       "id": "1274846870",
@@ -2749,7 +2801,7 @@
       "country": null,
       "spotifyPopularity": 36,
       "spotifyUrl": "https://open.spotify.com/track/0pJin8tAnEuAE8lhiHVy5Y",
-      "tempo": 130,
+      "tempo": 130.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "7.0",
@@ -2772,7 +2824,8 @@
         "musicBrainzId": null,
         "popularity": 44,
         "followers": 3467
-      }
+      },
+      "spotifyTrackId": "0pJin8tAnEuAE8lhiHVy5Y"
     },
     {
       "id": "1274846871",
@@ -2788,7 +2841,7 @@
       "country": "DE",
       "spotifyPopularity": 76,
       "spotifyUrl": "https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "7.0",
@@ -2816,7 +2869,8 @@
         "musicBrainzId": "77270af0-d0ef-4bf6-be4e-aad61e1911f5",
         "popularity": 55,
         "followers": 7680
-      }
+      },
+      "spotifyTrackId": "2KVAO2OAH6a9Tr2DqYL65g"
     },
     {
       "id": "1274846872",
@@ -2832,7 +2886,7 @@
       "country": null,
       "spotifyPopularity": 58,
       "spotifyUrl": "https://open.spotify.com/track/2ODkPkpcaZpwQPWbg39Jyy",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "E",
       "camelot": "12B",
       "energy": "6.0",
@@ -2859,7 +2913,8 @@
         "musicBrainzId": "f1f8fc1e-0cbb-412c-b35b-a5b89f8967e5",
         "popularity": 44,
         "followers": 1194
-      }
+      },
+      "spotifyTrackId": "2ODkPkpcaZpwQPWbg39Jyy"
     },
     {
       "id": "1274846873",
@@ -2875,7 +2930,7 @@
       "country": null,
       "spotifyPopularity": 40,
       "spotifyUrl": "https://open.spotify.com/track/1ZU9C5s4NbM30SI7pB3Uql",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -2905,7 +2960,8 @@
         "musicBrainzId": "7d80f1ab-6c4c-4c94-84ff-a092ba63cc7c",
         "popularity": 52,
         "followers": 70736
-      }
+      },
+      "spotifyTrackId": "1ZU9C5s4NbM30SI7pB3Uql"
     },
     {
       "id": "1274846874",
@@ -2921,7 +2977,7 @@
       "country": "IT",
       "spotifyPopularity": 43,
       "spotifyUrl": "https://open.spotify.com/track/5SGUgmoABniFC0EEPUooBD",
-      "tempo": 127,
+      "tempo": 127.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -2947,7 +3003,8 @@
         "musicBrainzId": "bdbcda7d-ed58-45ba-b22f-77590583a00f",
         "popularity": 25,
         "followers": 495
-      }
+      },
+      "spotifyTrackId": "5SGUgmoABniFC0EEPUooBD"
     },
     {
       "id": "1274846875",
@@ -2963,7 +3020,7 @@
       "country": "FR",
       "spotifyPopularity": 63,
       "spotifyUrl": "https://open.spotify.com/track/5TqvSIrg2JO71XuWEDCwJj",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -2992,7 +3049,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "5TqvSIrg2JO71XuWEDCwJj"
     },
     {
       "id": "1274846876",
@@ -3008,7 +3066,7 @@
       "country": null,
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/3uBHxOtOaFj9vfdouvWjUW",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "7.0",
@@ -3035,7 +3093,8 @@
         "musicBrainzId": "f1f8fc1e-0cbb-412c-b35b-a5b89f8967e5",
         "popularity": 44,
         "followers": 1194
-      }
+      },
+      "spotifyTrackId": "3uBHxOtOaFj9vfdouvWjUW"
     },
     {
       "id": "1274846877",
@@ -3051,7 +3110,7 @@
       "country": null,
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2",
-      "tempo": 130,
+      "tempo": 130.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -3078,7 +3137,8 @@
         "musicBrainzId": "c7df8673-68ba-45d7-87d6-10468822fa2d",
         "popularity": 34,
         "followers": 2797
-      }
+      },
+      "spotifyTrackId": "4TbPgvEeXo4tLnBS7xpfR2"
     },
     {
       "id": "1274846878",
@@ -3094,7 +3154,7 @@
       "country": null,
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "6.0",
@@ -3122,7 +3182,8 @@
         "musicBrainzId": null,
         "popularity": 33,
         "followers": 6770
-      }
+      },
+      "spotifyTrackId": "1xycDqyN6UQGEpE4Bw95kT"
     },
     {
       "id": "1274846879",
@@ -3138,7 +3199,7 @@
       "country": "MX",
       "spotifyPopularity": 56,
       "spotifyUrl": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -3166,7 +3227,8 @@
         "musicBrainzId": "1407371e-3dd3-4e83-87e5-61e3ef45f0aa",
         "popularity": 51,
         "followers": 34053
-      }
+      },
+      "spotifyTrackId": "5ls4FQAoSlAFPFnaYpeyhn"
     },
     {
       "id": "1274846880",
@@ -3182,7 +3244,7 @@
       "country": null,
       "spotifyPopularity": 38,
       "spotifyUrl": "https://open.spotify.com/track/5esXGbpOUVedDUdbM0KOxe",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "6.0",
@@ -3209,7 +3271,8 @@
         "musicBrainzId": "4ff5d59c-e341-4b66-ba2b-ba259f4d3335",
         "popularity": 32,
         "followers": 470
-      }
+      },
+      "spotifyTrackId": "5esXGbpOUVedDUdbM0KOxe"
     },
     {
       "id": "1274846881",
@@ -3225,7 +3288,7 @@
       "country": null,
       "spotifyPopularity": 47,
       "spotifyUrl": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -3252,7 +3315,8 @@
         "musicBrainzId": "06196448-a090-497f-af55-e9e581e4ff5f",
         "popularity": 56,
         "followers": 63271
-      }
+      },
+      "spotifyTrackId": "3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "id": "1274846882",
@@ -3268,7 +3332,7 @@
       "country": "CO",
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -3296,7 +3360,8 @@
         "musicBrainzId": "3a037e63-1abb-4bcb-91ad-624113cd4e27",
         "popularity": 37,
         "followers": 2755
-      }
+      },
+      "spotifyTrackId": "2KHh21KhHHNk9odrdFwXdB"
     },
     {
       "id": "1274846883",
@@ -3312,7 +3377,7 @@
       "country": null,
       "spotifyPopularity": 32,
       "spotifyUrl": "https://open.spotify.com/track/3b754z4BfL4pq9hiWAsZhM",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -3339,7 +3404,8 @@
         "musicBrainzId": "f1f8fc1e-0cbb-412c-b35b-a5b89f8967e5",
         "popularity": 44,
         "followers": 1194
-      }
+      },
+      "spotifyTrackId": "3b754z4BfL4pq9hiWAsZhM"
     },
     {
       "id": "1274846884",
@@ -3355,7 +3421,7 @@
       "country": null,
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/2konfb6o6keg0mcMI6RxCp",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -3383,7 +3449,8 @@
         "musicBrainzId": "642a672a-e9f3-4549-8ad6-64e916318f22",
         "popularity": 44,
         "followers": 31121
-      }
+      },
+      "spotifyTrackId": "2konfb6o6keg0mcMI6RxCp"
     },
     {
       "id": "1274846885",
@@ -3399,7 +3466,7 @@
       "country": "US",
       "spotifyPopularity": 41,
       "spotifyUrl": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -3427,32 +3494,33 @@
         "musicBrainzId": "4fb1e64b-0598-4db9-b0da-9c3188b030b1",
         "popularity": 47,
         "followers": 54249
-      }
+      },
+      "spotifyTrackId": "1KUQ3lq3GuwW5wAUF4tOGb"
     },
     {
-      "id": "1274846886",
-      "externalSongId": "1274846886",
+      "id": "1274825619",
+      "externalSongId": "1274825619",
       "title": "La Danza",
       "artist": "John Summit",
       "album": "La Danza",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ad133bc180b82ef68aeaed2b",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739a1ea6da97e6b778fbaed125",
       "durationSeconds": 158,
       "durationDisplay": "02:38",
       "releaseDate": "2022-03-11",
-      "genre": "Electro",
+      "genre": "house, tech house",
       "country": "US",
-      "spotifyPopularity": 5,
-      "spotifyUrl": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw",
-      "tempo": 126,
+      "spotifyPopularity": 65,
+      "spotifyUrl": "https://open.spotify.com/track/6KNlhaeBrlHUsVItPrpkyn",
+      "tempo": 126.0,
       "musicalKey": "C#m",
       "camelot": "12A",
-      "energy": "7.0",
-      "overallVolume": "-6.4",
+      "energy": "7",
+      "overallVolume": "-6.4 dB",
       "cuePoints": "8",
       "clippedPeaks": 232,
-      "keywords": [],
+      "keywords": "edm, electronic music, house, deep house, latin house, latino",
       "comments": "C#m - Energy 7",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274846000-1274846999\\1274846886__John Summit__La Danza.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\EDM\\HOUSE\\John Summit - La Danza.mp3",
       "dateAdded": "2026-08-20",
       "rating": null,
       "artistDetails": {
@@ -3472,7 +3540,8 @@
         "musicBrainzId": "2547c5e3-314c-4332-981d-f18c902a4086",
         "popularity": 76,
         "followers": 500893
-      }
+      },
+      "spotifyTrackId": "6KNlhaeBrlHUsVItPrpkyn"
     },
     {
       "id": "1274846887",
@@ -3488,7 +3557,7 @@
       "country": null,
       "spotifyPopularity": 29,
       "spotifyUrl": "https://open.spotify.com/track/7MQy3yGePPbaiTajvk18Sx",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -3513,7 +3582,8 @@
         "musicBrainzId": "63d27a4f-b50e-448e-9216-58d9c003ca44",
         "popularity": 23,
         "followers": 893
-      }
+      },
+      "spotifyTrackId": "7MQy3yGePPbaiTajvk18Sx"
     },
     {
       "id": "1274846888",
@@ -3529,7 +3599,7 @@
       "country": null,
       "spotifyPopularity": 35,
       "spotifyUrl": "https://open.spotify.com/track/1JugHSp1VpNZgacMwTnbsy",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -3555,7 +3625,8 @@
         "musicBrainzId": "b39577b1-1ac7-4aa0-a4a8-0ac5777019e3",
         "popularity": 19,
         "followers": 998
-      }
+      },
+      "spotifyTrackId": "1JugHSp1VpNZgacMwTnbsy"
     },
     {
       "id": "1274846889",
@@ -3571,7 +3642,7 @@
       "country": null,
       "spotifyPopularity": 28,
       "spotifyUrl": "https://open.spotify.com/track/6pbgDCYraWHnpiTQvgtfg8",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "8.0",
@@ -3596,7 +3667,8 @@
         "musicBrainzId": "56f7a50a-3a5e-4bb3-86bd-f8685d09fe0b",
         "popularity": 23,
         "followers": 537
-      }
+      },
+      "spotifyTrackId": "6pbgDCYraWHnpiTQvgtfg8"
     },
     {
       "id": "1274846890",
@@ -3612,7 +3684,7 @@
       "country": null,
       "spotifyPopularity": 42,
       "spotifyUrl": "https://open.spotify.com/track/57uReZVDHncSciPjTeYv0X",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -3639,7 +3711,8 @@
         "musicBrainzId": "f1f8fc1e-0cbb-412c-b35b-a5b89f8967e5",
         "popularity": 44,
         "followers": 1194
-      }
+      },
+      "spotifyTrackId": "57uReZVDHncSciPjTeYv0X"
     },
     {
       "id": "1274846891",
@@ -3655,7 +3728,7 @@
       "country": null,
       "spotifyPopularity": 35,
       "spotifyUrl": "https://open.spotify.com/track/7EmQW7a2TiPenEmv6nYfvI",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -3678,7 +3751,8 @@
         "musicBrainzId": "f0ca1e84-1bda-4848-8621-e9ac8e7004fb",
         "popularity": 38,
         "followers": 5467
-      }
+      },
+      "spotifyTrackId": "7EmQW7a2TiPenEmv6nYfvI"
     },
     {
       "id": "1274846892",
@@ -3694,7 +3768,7 @@
       "country": null,
       "spotifyPopularity": 56,
       "spotifyUrl": "https://open.spotify.com/track/1jny0xjkmeZiS2CvuJLuRX",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "8.0",
@@ -3722,7 +3796,8 @@
         "musicBrainzId": "569bfd9b-2375-472a-b87c-94fd0ff2c597",
         "popularity": 48,
         "followers": 24141
-      }
+      },
+      "spotifyTrackId": "1jny0xjkmeZiS2CvuJLuRX"
     },
     {
       "id": "1274846893",
@@ -3738,7 +3813,7 @@
       "country": "ES",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/07cIyxNp3Dsdu94hNRylnt",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -3765,7 +3840,8 @@
         "musicBrainzId": "4b63550e-e4a7-4957-b4e8-7210ba4e6377",
         "popularity": 48,
         "followers": 6167
-      }
+      },
+      "spotifyTrackId": "07cIyxNp3Dsdu94hNRylnt"
     },
     {
       "id": "1274846894",
@@ -3781,7 +3857,7 @@
       "country": null,
       "spotifyPopularity": 53,
       "spotifyUrl": "https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -3811,7 +3887,8 @@
         "musicBrainzId": "7d80f1ab-6c4c-4c94-84ff-a092ba63cc7c",
         "popularity": 52,
         "followers": 70736
-      }
+      },
+      "spotifyTrackId": "6o4BO9LLCPe5p43YKZzFuv"
     },
     {
       "id": "1274846895",
@@ -3827,7 +3904,7 @@
       "country": "US",
       "spotifyPopularity": 35,
       "spotifyUrl": "https://open.spotify.com/track/1kTABFtGtFDK77tOcrSok1",
-      "tempo": 127,
+      "tempo": 127.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "8.0",
@@ -3852,7 +3929,8 @@
         "musicBrainzId": "c4b4f13a-c2fd-47a3-aeec-ce7dc47ac1dd",
         "popularity": 36,
         "followers": 1811
-      }
+      },
+      "spotifyTrackId": "1kTABFtGtFDK77tOcrSok1"
     },
     {
       "id": "1274846896",
@@ -3868,7 +3946,7 @@
       "country": "nan",
       "spotifyPopularity": 1,
       "spotifyUrl": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -3895,7 +3973,8 @@
         "musicBrainzId": "76c712ed-3d14-4a93-a32d-c29e9fdd8731",
         "popularity": 55,
         "followers": 34043
-      }
+      },
+      "spotifyTrackId": "357iDuZ0IXAAg3Aj7UszqO"
     },
     {
       "id": "1274846897",
@@ -3911,7 +3990,7 @@
       "country": "DE",
       "spotifyPopularity": 29,
       "spotifyUrl": "https://open.spotify.com/track/0Sc5zclQACjzVwWvKGyL4p",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "8.0",
@@ -3941,7 +4020,8 @@
         "musicBrainzId": "42a22f31-1edf-4d79-843e-aadaf7f1d89a",
         "popularity": 39,
         "followers": 2414
-      }
+      },
+      "spotifyTrackId": "0Sc5zclQACjzVwWvKGyL4p"
     },
     {
       "id": "1274846898",
@@ -3957,7 +4037,7 @@
       "country": null,
       "spotifyPopularity": 32,
       "spotifyUrl": "https://open.spotify.com/track/18KHTRWqBsXwr70GkeJ7vA",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "8.0",
@@ -3982,7 +4062,8 @@
         "musicBrainzId": "db0980dc-a201-467a-bf95-cefc2a2a0035",
         "popularity": 14,
         "followers": 68
-      }
+      },
+      "spotifyTrackId": "18KHTRWqBsXwr70GkeJ7vA"
     },
     {
       "id": "1274846900",
@@ -3998,7 +4079,7 @@
       "country": "ES",
       "spotifyPopularity": 27,
       "spotifyUrl": "https://open.spotify.com/track/4KnVflzNO186OAqsc3AbLn",
-      "tempo": 127,
+      "tempo": 127.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "7.0",
@@ -4025,7 +4106,8 @@
         "musicBrainzId": "1bd235ff-6f41-4549-acce-9c51a6d4f3be",
         "popularity": 25,
         "followers": 4005
-      }
+      },
+      "spotifyTrackId": "4KnVflzNO186OAqsc3AbLn"
     },
     {
       "id": "1274846901",
@@ -4041,7 +4123,7 @@
       "country": "JP",
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/0fpA44Ez6El7yJHLgln0SU",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "8.0",
@@ -4069,7 +4151,8 @@
         "musicBrainzId": "1b6a59e4-8750-4102-a848-f63ea956a7e8",
         "popularity": 36,
         "followers": 20223
-      }
+      },
+      "spotifyTrackId": "0fpA44Ez6El7yJHLgln0SU"
     },
     {
       "id": "1274846902",
@@ -4085,7 +4168,7 @@
       "country": "MX",
       "spotifyPopularity": 30,
       "spotifyUrl": "https://open.spotify.com/track/157jn2YkxNcPZcG2dZZJz8",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -4111,7 +4194,8 @@
         "musicBrainzId": "ee724ae2-edee-46ab-92da-aa110d6d1bfa",
         "popularity": 38,
         "followers": 27456
-      }
+      },
+      "spotifyTrackId": "157jn2YkxNcPZcG2dZZJz8"
     },
     {
       "id": "1274846903",
@@ -4127,7 +4211,7 @@
       "country": "FR",
       "spotifyPopularity": 57,
       "spotifyUrl": "https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "8.0",
@@ -4156,7 +4240,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "3skLTalxT8tnSHC9qzKU9E"
     },
     {
       "id": "1274846904",
@@ -4172,7 +4257,7 @@
       "country": null,
       "spotifyPopularity": 46,
       "spotifyUrl": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di",
-      "tempo": 130,
+      "tempo": 130.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -4198,7 +4283,8 @@
         "musicBrainzId": "c162872e-fc5e-4acc-8692-513c5258a020",
         "popularity": 38,
         "followers": 10175
-      }
+      },
+      "spotifyTrackId": "3jWk66DLMnlEiNRlmVH0Di"
     },
     {
       "id": "1274846905",
@@ -4214,7 +4300,7 @@
       "country": "PT",
       "spotifyPopularity": 46,
       "spotifyUrl": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "8.0",
@@ -4242,7 +4328,8 @@
         "musicBrainzId": "f383868e-9baf-4555-95f6-da8126b7f008",
         "popularity": 60,
         "followers": 43806
-      }
+      },
+      "spotifyTrackId": "1mmgm9xT14LpjzLPtujjMJ"
     },
     {
       "id": "1274846906",
@@ -4258,7 +4345,7 @@
       "country": null,
       "spotifyPopularity": 42,
       "spotifyUrl": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -4285,7 +4372,8 @@
         "musicBrainzId": "7f43c6b2-8a68-40e5-9c8e-74867450edf2",
         "popularity": 57,
         "followers": 74845
-      }
+      },
+      "spotifyTrackId": "5lCS7wZgRyCvJia3VSAvpu"
     },
     {
       "id": "1274846907",
@@ -4301,7 +4389,7 @@
       "country": null,
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/7LrNUnWXx7ypK8jdQPH3SN",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -4331,7 +4419,8 @@
         "musicBrainzId": "7d80f1ab-6c4c-4c94-84ff-a092ba63cc7c",
         "popularity": 52,
         "followers": 70736
-      }
+      },
+      "spotifyTrackId": "7LrNUnWXx7ypK8jdQPH3SN"
     },
     {
       "id": "1274846908",
@@ -4347,7 +4436,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez",
-      "tempo": 127,
+      "tempo": 127.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "6.0",
@@ -4373,7 +4462,8 @@
         "musicBrainzId": null,
         "popularity": 36,
         "followers": 1112
-      }
+      },
+      "spotifyTrackId": "5DH3GEG0X9sRdLUPIxbhez"
     },
     {
       "id": "1274846909",
@@ -4389,7 +4479,7 @@
       "country": null,
       "spotifyPopularity": 28,
       "spotifyUrl": "https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9",
-      "tempo": 127,
+      "tempo": 127.0,
       "musicalKey": "G#m",
       "camelot": "1A",
       "energy": "6.0",
@@ -4414,7 +4504,8 @@
         "musicBrainzId": "fa50e660-23a7-400d-834f-2806af902d8d",
         "popularity": 22,
         "followers": 2932
-      }
+      },
+      "spotifyTrackId": "2ThQHv5qNDg1QtNb3gFJv9"
     },
     {
       "id": "1274846910",
@@ -4430,7 +4521,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -4456,7 +4547,8 @@
         "musicBrainzId": "fc8c55a1-06b9-470e-ab2f-285ab676cc38",
         "popularity": 54,
         "followers": 85844
-      }
+      },
+      "spotifyTrackId": "5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "id": "1274846911",
@@ -4472,7 +4564,7 @@
       "country": "AT",
       "spotifyPopularity": 40,
       "spotifyUrl": "https://open.spotify.com/track/27RRhQATbvVZZlAY4rpaa6",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -4500,7 +4592,8 @@
         "musicBrainzId": "a557b090-23cf-4193-82da-682ccb25214b",
         "popularity": 33,
         "followers": 4574
-      }
+      },
+      "spotifyTrackId": "27RRhQATbvVZZlAY4rpaa6"
     },
     {
       "id": "1274846912",
@@ -4516,7 +4609,7 @@
       "country": "US",
       "spotifyPopularity": 40,
       "spotifyUrl": "https://open.spotify.com/track/688iWL9LY6mETiU2KfRl03",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -4539,7 +4632,8 @@
         "musicBrainzId": "ccbe344f-1c05-4761-870d-ee4d2d8863ae",
         "popularity": 50,
         "followers": 58081
-      }
+      },
+      "spotifyTrackId": "688iWL9LY6mETiU2KfRl03"
     },
     {
       "id": "1274846913",
@@ -4555,7 +4649,7 @@
       "country": "CA",
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -4582,7 +4676,8 @@
         "musicBrainzId": "22a8383a-3100-466f-894a-6f5b733ad8cc",
         "popularity": 48,
         "followers": 70801
-      }
+      },
+      "spotifyTrackId": "3UwlHoQ1pEHHds28BJ2bvb"
     },
     {
       "id": "1274846914",
@@ -4598,7 +4693,7 @@
       "country": null,
       "spotifyPopularity": 44,
       "spotifyUrl": "https://open.spotify.com/track/4DDecAu1H20FSiYxgoKHoH",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -4626,7 +4721,8 @@
         "musicBrainzId": "d3585c67-2f46-4ca4-9307-018166e41289",
         "popularity": 47,
         "followers": 66619
-      }
+      },
+      "spotifyTrackId": "4DDecAu1H20FSiYxgoKHoH"
     },
     {
       "id": "1274846915",
@@ -4642,7 +4738,7 @@
       "country": "ES",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/5HImLLldvRCACBbPYHEPZK",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "7.0",
@@ -4669,7 +4765,8 @@
         "musicBrainzId": "3252837b-85a8-4f9f-a346-d83c22609446",
         "popularity": 40,
         "followers": 21497
-      }
+      },
+      "spotifyTrackId": "5HImLLldvRCACBbPYHEPZK"
     },
     {
       "id": "1274846916",
@@ -4685,7 +4782,7 @@
       "country": null,
       "spotifyPopularity": 45,
       "spotifyUrl": "https://open.spotify.com/track/5a8jcSpLLbEpPV6JOnXiLg",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -4712,7 +4809,8 @@
         "musicBrainzId": "8789936a-3584-41a2-a172-60bb2882d152",
         "popularity": 42,
         "followers": 26746
-      }
+      },
+      "spotifyTrackId": "5a8jcSpLLbEpPV6JOnXiLg"
     },
     {
       "id": "1274846917",
@@ -4728,7 +4826,7 @@
       "country": "ES",
       "spotifyPopularity": 42,
       "spotifyUrl": "https://open.spotify.com/track/13hPKoBriB6yPSqPvbRd6A",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "7.0",
@@ -4753,7 +4851,8 @@
         "musicBrainzId": "4a4f4dce-7dd1-487c-89a8-9eee29a89a3e",
         "popularity": 29,
         "followers": 14944
-      }
+      },
+      "spotifyTrackId": "13hPKoBriB6yPSqPvbRd6A"
     },
     {
       "id": "1274846918",
@@ -4769,7 +4868,7 @@
       "country": null,
       "spotifyPopularity": 47,
       "spotifyUrl": "https://open.spotify.com/track/2ArZ8ttp5eVQdGjb4rxDRO",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -4796,7 +4895,8 @@
         "musicBrainzId": "6f818a02-3ae5-40c2-b9d6-cd49a802911a",
         "popularity": 50,
         "followers": 13014
-      }
+      },
+      "spotifyTrackId": "2ArZ8ttp5eVQdGjb4rxDRO"
     },
     {
       "id": "1274846919",
@@ -4812,7 +4912,7 @@
       "country": "SE",
       "spotifyPopularity": 61,
       "spotifyUrl": "https://open.spotify.com/track/4DrUjTGCmZHbeAnRCFX5QM",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "6.0",
@@ -4839,7 +4939,8 @@
         "musicBrainzId": "39945f21-a9c4-4483-90a5-bd043dca7b46",
         "popularity": 41,
         "followers": 18068
-      }
+      },
+      "spotifyTrackId": "4DrUjTGCmZHbeAnRCFX5QM"
     },
     {
       "id": "1274846920",
@@ -4855,7 +4956,7 @@
       "country": null,
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/52t2jZe0KTx3yGEsnxekDB",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -4881,7 +4982,8 @@
         "musicBrainzId": null,
         "popularity": 22,
         "followers": 329
-      }
+      },
+      "spotifyTrackId": "52t2jZe0KTx3yGEsnxekDB"
     },
     {
       "id": "1274846921",
@@ -4897,7 +4999,7 @@
       "country": null,
       "spotifyPopularity": 29,
       "spotifyUrl": "https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "7.0",
@@ -4920,7 +5022,8 @@
         "musicBrainzId": "5f610003-1168-4bdf-af06-28bbed74e6cf",
         "popularity": 46,
         "followers": 4188
-      }
+      },
+      "spotifyTrackId": "6INdWhk0oJqeVLZQiTwpIx"
     },
     {
       "id": "1274846922",
@@ -4936,7 +5039,7 @@
       "country": null,
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/4d8gHiuOEMIAhz0KgjCH8H",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -4962,7 +5065,8 @@
         "musicBrainzId": "f1e9f72b-91fa-423e-9537-2774b3e2e3bb",
         "popularity": 38,
         "followers": 5013
-      }
+      },
+      "spotifyTrackId": "4d8gHiuOEMIAhz0KgjCH8H"
     },
     {
       "id": "1274846923",
@@ -4978,7 +5082,7 @@
       "country": "FR",
       "spotifyPopularity": 30,
       "spotifyUrl": "https://open.spotify.com/track/4iQGAkOZuoGhSKYt1iQqll",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "6.0",
@@ -5006,7 +5110,8 @@
         "musicBrainzId": "0351b68c-7daf-4e57-b586-eb0d5520a601",
         "popularity": 10,
         "followers": 18
-      }
+      },
+      "spotifyTrackId": "4iQGAkOZuoGhSKYt1iQqll"
     },
     {
       "id": "1274846924",
@@ -5022,7 +5127,7 @@
       "country": "IT",
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/2E1rGKxjaIAZ5LzwkMDaGy",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "8.0",
@@ -5047,7 +5152,8 @@
         "musicBrainzId": "17bc3221-1459-46f7-83fc-59ed1034d250",
         "popularity": 45,
         "followers": 265587
-      }
+      },
+      "spotifyTrackId": "2E1rGKxjaIAZ5LzwkMDaGy"
     },
     {
       "id": "1274846925",
@@ -5063,7 +5169,7 @@
       "country": "US",
       "spotifyPopularity": 49,
       "spotifyUrl": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -5091,7 +5197,8 @@
         "musicBrainzId": "1a4bd709-f170-4032-9611-13786b2ebcdb",
         "popularity": 54,
         "followers": 49041
-      }
+      },
+      "spotifyTrackId": "5T10GMsxlnyizGo6RL5fvI"
     },
     {
       "id": "1274825702",
@@ -5107,21 +5214,14 @@
       "country": null,
       "spotifyPopularity": 43,
       "spotifyUrl": "https://open.spotify.com/track/7eVAueNTldeMplUKSlOKs9",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "7.0",
       "overallVolume": "-6.8",
       "cuePoints": "7",
       "clippedPeaks": 2340,
-      "keywords": [
-        "edm",
-        "electronic music",
-        "house",
-        "deep house",
-        "latin house",
-        "latino"
-      ],
+      "keywords": "edm, electronic music, house, deep house, latin house, latino",
       "comments": "Em - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274825000-1274825999\\1274825702__San Pacho, Vale__Voy.mp3",
       "dateAdded": "2026-08-20",
@@ -5144,7 +5244,8 @@
         "musicBrainzId": "7d80f1ab-6c4c-4c94-84ff-a092ba63cc7c",
         "popularity": 52,
         "followers": 70736
-      }
+      },
+      "spotifyTrackId": "7eVAueNTldeMplUKSlOKs9"
     },
     {
       "id": "1274846926",
@@ -5160,7 +5261,7 @@
       "country": "AU",
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/6QheAgN6jPb6BIZ7GBb96V",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "7.0",
@@ -5185,7 +5286,8 @@
         "musicBrainzId": "bd90e308-9904-48fb-9318-918d3f595d73",
         "popularity": 55,
         "followers": 59087
-      }
+      },
+      "spotifyTrackId": "6QheAgN6jPb6BIZ7GBb96V"
     },
     {
       "id": "1274846927",
@@ -5201,7 +5303,7 @@
       "country": "US",
       "spotifyPopularity": 37,
       "spotifyUrl": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR",
-      "tempo": 127,
+      "tempo": 127.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -5229,7 +5331,8 @@
         "musicBrainzId": "4fb1e64b-0598-4db9-b0da-9c3188b030b1",
         "popularity": 47,
         "followers": 54249
-      }
+      },
+      "spotifyTrackId": "34Cc71Twm8s2IICmiIdWPR"
     },
     {
       "id": "1274846928",
@@ -5245,7 +5348,7 @@
       "country": null,
       "spotifyPopularity": 31,
       "spotifyUrl": "https://open.spotify.com/track/6v2nSzwwpoShFhE8r4siG6",
-      "tempo": 127,
+      "tempo": 127.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -5273,7 +5376,8 @@
         "musicBrainzId": "642a672a-e9f3-4549-8ad6-64e916318f22",
         "popularity": 44,
         "followers": 31121
-      }
+      },
+      "spotifyTrackId": "6v2nSzwwpoShFhE8r4siG6"
     },
     {
       "id": "1274846929",
@@ -5289,7 +5393,7 @@
       "country": "CA",
       "spotifyPopularity": 31,
       "spotifyUrl": "https://open.spotify.com/track/6dSyUYFOGOA9jSuARaV1V1",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "6.0",
@@ -5316,7 +5420,8 @@
         "musicBrainzId": "73926d66-4410-4638-aaa9-393a8d07998b",
         "popularity": 40,
         "followers": 46477
-      }
+      },
+      "spotifyTrackId": "6dSyUYFOGOA9jSuARaV1V1"
     },
     {
       "id": "1274846930",
@@ -5332,7 +5437,7 @@
       "country": "GB",
       "spotifyPopularity": 1,
       "spotifyUrl": "https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -5360,7 +5465,8 @@
         "musicBrainzId": "b643c24d-4cd6-4531-88bc-62b39ce43ee1",
         "popularity": 66,
         "followers": 204583
-      }
+      },
+      "spotifyTrackId": "6U7DCvIA93YYzyFYwmiIIe"
     },
     {
       "id": "1274846931",
@@ -5376,7 +5482,7 @@
       "country": "SE",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "6.0",
@@ -5399,7 +5505,8 @@
         "musicBrainzId": "2bf0bff0-a1df-4b43-8e89-31e8fde1df48",
         "popularity": 49,
         "followers": 57141
-      }
+      },
+      "spotifyTrackId": "0irPLXfmqwzHOamPB3rl9d"
     },
     {
       "id": "1274846932",
@@ -5415,7 +5522,7 @@
       "country": null,
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/3DqIRoiGahyDGlUYuoY4l8",
-      "tempo": 130,
+      "tempo": 130.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "7.0",
@@ -5442,7 +5549,8 @@
         "musicBrainzId": "6b31ce91-1b2e-445a-970c-ea7c67424b07",
         "popularity": 55,
         "followers": 42389
-      }
+      },
+      "spotifyTrackId": "3DqIRoiGahyDGlUYuoY4l8"
     },
     {
       "id": "1274846933",
@@ -5458,7 +5566,7 @@
       "country": "MX",
       "spotifyPopularity": 29,
       "spotifyUrl": "https://open.spotify.com/track/2wJvLzX1W7VQSx0wuTgxCp",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "6.0",
@@ -5484,7 +5592,8 @@
         "musicBrainzId": "ee724ae2-edee-46ab-92da-aa110d6d1bfa",
         "popularity": 38,
         "followers": 27456
-      }
+      },
+      "spotifyTrackId": "2wJvLzX1W7VQSx0wuTgxCp"
     },
     {
       "id": "1274846934",
@@ -5500,7 +5609,7 @@
       "country": "BR",
       "spotifyPopularity": 49,
       "spotifyUrl": "https://open.spotify.com/track/61GOXPwH81y1I7KIfBXHlB",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "7.0",
@@ -5525,7 +5634,8 @@
         "musicBrainzId": "14776bf4-1e83-4cd9-b485-5e374d05e19a",
         "popularity": 43,
         "followers": 132215
-      }
+      },
+      "spotifyTrackId": "61GOXPwH81y1I7KIfBXHlB"
     },
     {
       "id": "1274846935",
@@ -5541,7 +5651,7 @@
       "country": "FR",
       "spotifyPopularity": 2,
       "spotifyUrl": "https://open.spotify.com/track/6WLZljpPR8EiUT2LDubJ6T",
-      "tempo": 94,
+      "tempo": 94.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "6.0",
@@ -5570,7 +5680,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "6WLZljpPR8EiUT2LDubJ6T"
     },
     {
       "id": "1274846936",
@@ -5586,7 +5697,7 @@
       "country": null,
       "spotifyPopularity": 30,
       "spotifyUrl": "https://open.spotify.com/track/7ffxNMdxfzPqzBddDcmDzG",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -5612,7 +5723,8 @@
         "musicBrainzId": "0a0f14d7-0eb6-480c-8da6-ab9c8b843dc2",
         "popularity": 14,
         "followers": 602
-      }
+      },
+      "spotifyTrackId": "7ffxNMdxfzPqzBddDcmDzG"
     },
     {
       "id": "8056",
@@ -5628,18 +5740,14 @@
       "country": "nan",
       "spotifyPopularity": 71,
       "spotifyUrl": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
       "overallVolume": "-9.4",
       "cuePoints": "7",
       "clippedPeaks": 85,
-      "keywords": [
-        "latin house",
-        "house",
-        "latino"
-      ],
+      "keywords": "latin house, house, latino",
       "comments": "Dm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\8000-8999\\8056__Maria Maria__TECH IT DEEP.mp3",
       "dateAdded": "2026-08-20",
@@ -5658,7 +5766,8 @@
         "musicBrainzId": "3d1f2332-160d-472b-9150-02091c01cd54",
         "popularity": 52,
         "followers": 13768
-      }
+      },
+      "spotifyTrackId": "4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "id": "1274846937",
@@ -5674,7 +5783,7 @@
       "country": "FI",
       "spotifyPopularity": 46,
       "spotifyUrl": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -5700,7 +5809,8 @@
         "musicBrainzId": "25567315-afed-4c3a-a009-4fa95e14a982",
         "popularity": 52,
         "followers": 27620
-      }
+      },
+      "spotifyTrackId": "75JsIen4AneIFiDf9hbepF"
     },
     {
       "id": "1274846938",
@@ -5716,7 +5826,7 @@
       "country": null,
       "spotifyPopularity": 54,
       "spotifyUrl": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "6.0",
@@ -5742,7 +5852,8 @@
         "musicBrainzId": "dd1e09b9-cd75-4981-aef3-71d94082d63d",
         "popularity": 40,
         "followers": 6893
-      }
+      },
+      "spotifyTrackId": "1TVeCLmOhfvBm68Okc6xmo"
     },
     {
       "id": "1274846939",
@@ -5758,7 +5869,7 @@
       "country": null,
       "spotifyPopularity": 32,
       "spotifyUrl": "https://open.spotify.com/track/7EiXOIiVFvUIrz4E7v4eNV",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "5.0",
@@ -5800,7 +5911,8 @@
         "musicBrainzId": "508a0fa9-3ad4-4cb6-b8d7-8a83ffc3828f",
         "popularity": 42,
         "followers": 4356
-      }
+      },
+      "spotifyTrackId": "7EiXOIiVFvUIrz4E7v4eNV"
     },
     {
       "id": "1274846940",
@@ -5816,7 +5928,7 @@
       "country": "MX",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "7.0",
@@ -5844,7 +5956,8 @@
         "musicBrainzId": "1407371e-3dd3-4e83-87e5-61e3ef45f0aa",
         "popularity": 51,
         "followers": 34053
-      }
+      },
+      "spotifyTrackId": "1kYlz5hWpg8Okxcg5nzS2A"
     },
     {
       "id": "1274846941",
@@ -5860,7 +5973,7 @@
       "country": "nan",
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY",
-      "tempo": 129,
+      "tempo": 129.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -5887,7 +6000,8 @@
         "musicBrainzId": "76c712ed-3d14-4a93-a32d-c29e9fdd8731",
         "popularity": 55,
         "followers": 34043
-      }
+      },
+      "spotifyTrackId": "2xmyChXyNeUWhxQIdlk9mY"
     },
     {
       "id": "1274846942",
@@ -5903,7 +6017,7 @@
       "country": null,
       "spotifyPopularity": 47,
       "spotifyUrl": "https://open.spotify.com/track/0DQeHG1cTnvO49JNIYPfIB",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -5929,7 +6043,8 @@
         "musicBrainzId": "c6f042f2-8103-4098-af31-ab86b3f5ecc8",
         "popularity": 30,
         "followers": 3297
-      }
+      },
+      "spotifyTrackId": "0DQeHG1cTnvO49JNIYPfIB"
     },
     {
       "id": "1274846943",
@@ -5945,7 +6060,7 @@
       "country": null,
       "spotifyPopularity": 40,
       "spotifyUrl": "https://open.spotify.com/track/6IGXjn8Kn3wi4Qoc2Dzvm7",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -5973,7 +6088,8 @@
         "musicBrainzId": null,
         "popularity": 27,
         "followers": 1682
-      }
+      },
+      "spotifyTrackId": "6IGXjn8Kn3wi4Qoc2Dzvm7"
     },
     {
       "id": "1274846944",
@@ -5989,7 +6105,7 @@
       "country": "FR",
       "spotifyPopularity": 47,
       "spotifyUrl": "https://open.spotify.com/track/1lLeKTdKpvxrICyW4bD95B",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -6018,7 +6134,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "1lLeKTdKpvxrICyW4bD95B"
     },
     {
       "id": "1274846945",
@@ -6034,7 +6151,7 @@
       "country": null,
       "spotifyPopularity": 49,
       "spotifyUrl": "https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -6065,7 +6182,8 @@
         "musicBrainzId": "70f186c6-2ce2-4e51-85ca-5b0e48d01042",
         "popularity": 40,
         "followers": 31134
-      }
+      },
+      "spotifyTrackId": "0ZnMzSoVfqDRzXgagCOlKZ"
     },
     {
       "id": "1274846948",
@@ -6081,7 +6199,7 @@
       "country": null,
       "spotifyPopularity": 44,
       "spotifyUrl": "https://open.spotify.com/track/4yVmbLd5ceE8ieO2qvKLQN",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -6107,7 +6225,8 @@
         "musicBrainzId": "f1e9f72b-91fa-423e-9537-2774b3e2e3bb",
         "popularity": 38,
         "followers": 5013
-      }
+      },
+      "spotifyTrackId": "4yVmbLd5ceE8ieO2qvKLQN"
     },
     {
       "id": "1274846949",
@@ -6123,7 +6242,7 @@
       "country": "DE",
       "spotifyPopularity": 45,
       "spotifyUrl": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "6.0",
@@ -6149,7 +6268,8 @@
         "musicBrainzId": "6064ca35-64d5-4a48-8575-5f17cd0f200c",
         "popularity": 43,
         "followers": 9002
-      }
+      },
+      "spotifyTrackId": "5Un9adXHRrNedbZt9QLC2C"
     },
     {
       "id": "1274846950",
@@ -6165,7 +6285,7 @@
       "country": "BE",
       "spotifyPopularity": 24,
       "spotifyUrl": "https://open.spotify.com/track/2vtDrAGLfC4tLPeEr3pNKI",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "E",
       "camelot": "12B",
       "energy": "7.0",
@@ -6192,7 +6312,8 @@
         "musicBrainzId": "157c8305-83fb-47e5-94d1-1f1273f0dfb5",
         "popularity": 43,
         "followers": 7737
-      }
+      },
+      "spotifyTrackId": "2vtDrAGLfC4tLPeEr3pNKI"
     },
     {
       "id": "1274846951",
@@ -6208,7 +6329,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/3TIRt6DHwJqGjisk0sKb9F",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -6235,7 +6356,8 @@
         "musicBrainzId": "3c756db2-1111-4bd4-ba4b-6737028117be",
         "popularity": 29,
         "followers": 3942
-      }
+      },
+      "spotifyTrackId": "3TIRt6DHwJqGjisk0sKb9F"
     },
     {
       "id": "1274846952",
@@ -6251,7 +6373,7 @@
       "country": "GB",
       "spotifyPopularity": 36,
       "spotifyUrl": "https://open.spotify.com/track/4k0YRLXTKoVm5YnYuwbM6u",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -6278,7 +6400,8 @@
         "musicBrainzId": "0f59ccf3-71d9-43a7-8154-66037516a097",
         "popularity": 28,
         "followers": 1809
-      }
+      },
+      "spotifyTrackId": "4k0YRLXTKoVm5YnYuwbM6u"
     },
     {
       "id": "1274846953",
@@ -6294,7 +6417,7 @@
       "country": "ES",
       "spotifyPopularity": 29,
       "spotifyUrl": "https://open.spotify.com/track/3fb4U91al7o4LhdArzNrx0",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -6323,7 +6446,8 @@
         "musicBrainzId": "770a2ce7-1512-4870-b3f7-ddac1abbb3d5",
         "popularity": 42,
         "followers": 34266
-      }
+      },
+      "spotifyTrackId": "3fb4U91al7o4LhdArzNrx0"
     },
     {
       "id": "1274846954",
@@ -6339,7 +6463,7 @@
       "country": "XW",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/0xQu6gIodJ5h5jAchtbyhl",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "6.0",
@@ -6414,7 +6538,8 @@
         "musicBrainzId": "fc2bd0a3-a99b-4a2d-a3c8-3f56a06977f0",
         "popularity": 48,
         "followers": 30754
-      }
+      },
+      "spotifyTrackId": "0xQu6gIodJ5h5jAchtbyhl"
     },
     {
       "id": "1274846955",
@@ -6430,7 +6555,7 @@
       "country": "ES",
       "spotifyPopularity": 28,
       "spotifyUrl": "https://open.spotify.com/track/5R6UXpQVSJfQX8R2iMyCUe",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -6457,7 +6582,8 @@
         "musicBrainzId": "f3d44367-7d70-4d76-8099-2f47d99e4348",
         "popularity": 51,
         "followers": 134599
-      }
+      },
+      "spotifyTrackId": "5R6UXpQVSJfQX8R2iMyCUe"
     },
     {
       "id": "1274846956",
@@ -6473,7 +6599,7 @@
       "country": "Verona",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/3wAeV5YnVopXm4jynlfJQr",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -6500,7 +6626,8 @@
         "musicBrainzId": "545ccb1a-3e92-44bc-8bbc-8c28721ebf1c",
         "popularity": 55,
         "followers": 46565
-      }
+      },
+      "spotifyTrackId": "3wAeV5YnVopXm4jynlfJQr"
     },
     {
       "id": "1274846957",
@@ -6516,7 +6643,7 @@
       "country": "GB",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/0NUhccl4bo79EUsmFyAMHi",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "6.0",
@@ -6545,7 +6672,8 @@
         "musicBrainzId": "815fc432-dcb5-4681-abc1-527b4501dd6d",
         "popularity": 58,
         "followers": 70263
-      }
+      },
+      "spotifyTrackId": "0NUhccl4bo79EUsmFyAMHi"
     },
     {
       "id": "1274846958",
@@ -6561,7 +6689,7 @@
       "country": "HR",
       "spotifyPopularity": 45,
       "spotifyUrl": "https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "7.0",
@@ -6591,7 +6719,8 @@
         "musicBrainzId": "59deef00-8a8c-4b6d-bb00-15c80b834634",
         "popularity": 57,
         "followers": 148784
-      }
+      },
+      "spotifyTrackId": "5xRKvc3MJfOYh9M1E9Fnid"
     },
     {
       "id": "1274846959",
@@ -6607,7 +6736,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/160zbysYKia7DpELpVS0DW",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "6.0",
@@ -6637,7 +6766,8 @@
         "musicBrainzId": "7d80f1ab-6c4c-4c94-84ff-a092ba63cc7c",
         "popularity": 52,
         "followers": 70736
-      }
+      },
+      "spotifyTrackId": "160zbysYKia7DpELpVS0DW"
     },
     {
       "id": "1274846960",
@@ -6653,7 +6783,7 @@
       "country": "US",
       "spotifyPopularity": 28,
       "spotifyUrl": "https://open.spotify.com/track/4nu11UCEcNvEX6rLVTYZ1k",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "7.0",
@@ -6681,7 +6811,8 @@
         "musicBrainzId": "4fb1e64b-0598-4db9-b0da-9c3188b030b1",
         "popularity": 47,
         "followers": 54249
-      }
+      },
+      "spotifyTrackId": "4nu11UCEcNvEX6rLVTYZ1k"
     },
     {
       "id": "1274846961",
@@ -6697,7 +6828,7 @@
       "country": "US",
       "spotifyPopularity": 37,
       "spotifyUrl": "https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "5.0",
@@ -6725,7 +6856,8 @@
         "musicBrainzId": "abea319c-e650-4f1a-875e-5ab2fff9130c",
         "popularity": 50,
         "followers": 17480
-      }
+      },
+      "spotifyTrackId": "39fTOnYqGqM00A6xaIqtJn"
     },
     {
       "id": "1274846962",
@@ -6741,7 +6873,7 @@
       "country": "CU",
       "spotifyPopularity": 30,
       "spotifyUrl": "https://open.spotify.com/track/0yx1VTUjSck0TjK0ApGTGL",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -6768,7 +6900,8 @@
         "musicBrainzId": "20046abe-49f0-435d-b7b4-c20d7f0269bc",
         "popularity": 40,
         "followers": 32109
-      }
+      },
+      "spotifyTrackId": "0yx1VTUjSck0TjK0ApGTGL"
     },
     {
       "id": "1274846963",
@@ -6784,7 +6917,7 @@
       "country": null,
       "spotifyPopularity": 25,
       "spotifyUrl": "https://open.spotify.com/track/23WItUof5aFnfPOXHVK5EF",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -6812,7 +6945,8 @@
         "musicBrainzId": "063a13b1-e4fd-4315-83d8-bf0ff495d55f",
         "popularity": 45,
         "followers": 8393
-      }
+      },
+      "spotifyTrackId": "23WItUof5aFnfPOXHVK5EF"
     },
     {
       "id": "1274846964",
@@ -6828,7 +6962,7 @@
       "country": "US",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/0sdVCmROGifqlnlkk2d8xw",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -6856,7 +6990,8 @@
         "musicBrainzId": "abea319c-e650-4f1a-875e-5ab2fff9130c",
         "popularity": 50,
         "followers": 17480
-      }
+      },
+      "spotifyTrackId": "0sdVCmROGifqlnlkk2d8xw"
     },
     {
       "id": "1274846965",
@@ -6872,7 +7007,7 @@
       "country": "VE",
       "spotifyPopularity": 34,
       "spotifyUrl": "https://open.spotify.com/track/2kW9vIhdmDtD130sDjMJem",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -6900,7 +7035,8 @@
         "musicBrainzId": "c056ef94-807b-47a4-9867-9c819d755a9f",
         "popularity": 41,
         "followers": 12547
-      }
+      },
+      "spotifyTrackId": "2kW9vIhdmDtD130sDjMJem"
     },
     {
       "id": "1274846966",
@@ -6916,7 +7052,7 @@
       "country": "CO",
       "spotifyPopularity": 26,
       "spotifyUrl": "https://open.spotify.com/track/4LXQZvIlidRBxr85YUBO2g",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -6943,7 +7079,8 @@
         "musicBrainzId": "2e4d0888-189e-47b3-8459-cd85263f00e3",
         "popularity": 29,
         "followers": 5895
-      }
+      },
+      "spotifyTrackId": "4LXQZvIlidRBxr85YUBO2g"
     },
     {
       "id": "1274846967",
@@ -6959,7 +7096,7 @@
       "country": "DK",
       "spotifyPopularity": 27,
       "spotifyUrl": "https://open.spotify.com/track/315BNMuVr0KgnezbJWJ43d",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "7.0",
@@ -6986,32 +7123,33 @@
         "musicBrainzId": "bffc830b-f157-40c0-a383-22fef5be5960",
         "popularity": 49,
         "followers": 49179
-      }
+      },
+      "spotifyTrackId": "315BNMuVr0KgnezbJWJ43d"
     },
     {
-      "id": "1274846968",
-      "externalSongId": "1274846968",
+      "id": "1274825552",
+      "externalSongId": "1274825552",
       "title": "Where I Want 2 B",
       "artist": "CID",
       "album": "Where I Want 2 B",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a30e9508b4527cd9f75fd4b0",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c7e92ecd2ad00fe3bb746c35",
       "durationSeconds": 202,
       "durationDisplay": "03:22",
       "releaseDate": "2021-08-13",
-      "genre": "Electro",
+      "genre": "tech house, future house",
       "country": "PT",
-      "spotifyPopularity": 0,
-      "spotifyUrl": "https://open.spotify.com/track/0YEgVqBmj14YWgv7w32Qm4",
-      "tempo": 126,
+      "spotifyPopularity": 41,
+      "spotifyUrl": "https://open.spotify.com/track/51DANwCzsR67zQRSR0lvBs",
+      "tempo": 126.0,
       "musicalKey": "Am",
       "camelot": "8A",
-      "energy": "7.0",
-      "overallVolume": "-7.4",
+      "energy": "7",
+      "overallVolume": "-7.4 dB",
       "cuePoints": "8",
       "clippedPeaks": 209,
-      "keywords": [],
+      "keywords": "edm, electronic music, house, deep house, latin house, latino",
       "comments": "Am - Energy 7",
-      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274846000-1274846999\\1274846968__CID__Where I Want 2 B.mp3",
+      "folder": "C:\\Users\\fbrav\\Music\\deemix Music\\EDM\\HOUSE\\CID - Where I Want 2 B.mp3",
       "dateAdded": "2026-08-20",
       "rating": null,
       "artistDetails": {
@@ -7027,7 +7165,8 @@
         "musicBrainzId": "c0efb1ee-e36f-4d52-971a-bd8ffec15442",
         "popularity": 58,
         "followers": 143834
-      }
+      },
+      "spotifyTrackId": "51DANwCzsR67zQRSR0lvBs"
     },
     {
       "id": "1274846969",
@@ -7043,7 +7182,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/4Eshw789vkrsNrzKybWONt",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "5.0",
@@ -7069,7 +7208,8 @@
         "musicBrainzId": null,
         "popularity": 8,
         "followers": 753
-      }
+      },
+      "spotifyTrackId": "4Eshw789vkrsNrzKybWONt"
     },
     {
       "id": "1274846970",
@@ -7085,7 +7225,7 @@
       "country": "ES",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/2oHDSBJ2akJBtb4MottiXE",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "C#",
       "camelot": "3B",
       "energy": "6.0",
@@ -7113,7 +7253,8 @@
         "musicBrainzId": "ccc144dc-dd70-4808-8480-52cb7a0771fd",
         "popularity": 43,
         "followers": 14531
-      }
+      },
+      "spotifyTrackId": "2oHDSBJ2akJBtb4MottiXE"
     },
     {
       "id": "1274846971",
@@ -7129,7 +7270,7 @@
       "country": null,
       "spotifyPopularity": 25,
       "spotifyUrl": "https://open.spotify.com/track/4Wpz1KjDXqfFUHp2IEbh8L",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -7154,7 +7295,8 @@
         "musicBrainzId": null,
         "popularity": 16,
         "followers": 2628
-      }
+      },
+      "spotifyTrackId": "4Wpz1KjDXqfFUHp2IEbh8L"
     },
     {
       "id": "1274846972",
@@ -7170,7 +7312,7 @@
       "country": "DE",
       "spotifyPopularity": 16,
       "spotifyUrl": "https://open.spotify.com/track/5w0OSwh9MmgIipn79aIz3R",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -7196,7 +7338,8 @@
         "musicBrainzId": "6064ca35-64d5-4a48-8575-5f17cd0f200c",
         "popularity": 43,
         "followers": 9002
-      }
+      },
+      "spotifyTrackId": "5w0OSwh9MmgIipn79aIz3R"
     },
     {
       "id": "1274846973",
@@ -7212,7 +7355,7 @@
       "country": "ES",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/19nAcGkxEi1YPZBh7LJyjq",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "7.0",
@@ -7240,7 +7383,8 @@
         "musicBrainzId": "4142c0ea-6f92-4cab-a325-c0a4df872112",
         "popularity": 29,
         "followers": 2249
-      }
+      },
+      "spotifyTrackId": "19nAcGkxEi1YPZBh7LJyjq"
     },
     {
       "id": "1274846974",
@@ -7256,7 +7400,7 @@
       "country": "IT",
       "spotifyPopularity": 31,
       "spotifyUrl": "https://open.spotify.com/track/3NuL5GQeyR0osOkhyfLd9Y",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "6.0",
@@ -7284,7 +7428,8 @@
         "musicBrainzId": "241cc730-3c85-4ad6-9cfa-29c7ed9ce2a7",
         "popularity": 35,
         "followers": 6287
-      }
+      },
+      "spotifyTrackId": "3NuL5GQeyR0osOkhyfLd9Y"
     },
     {
       "id": "1274846975",
@@ -7300,7 +7445,7 @@
       "country": null,
       "spotifyPopularity": 53,
       "spotifyUrl": "https://open.spotify.com/track/0gCUBLmHnhWumLVzwLLavf",
-      "tempo": 127,
+      "tempo": 127.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "6.0",
@@ -7327,7 +7472,8 @@
         "musicBrainzId": "7f43c6b2-8a68-40e5-9c8e-74867450edf2",
         "popularity": 57,
         "followers": 74845
-      }
+      },
+      "spotifyTrackId": "0gCUBLmHnhWumLVzwLLavf"
     },
     {
       "id": "1274846976",
@@ -7343,7 +7489,7 @@
       "country": "HU",
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/4lGHkrfa5QPbwjsqpJhhNF",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -7371,7 +7517,8 @@
         "musicBrainzId": "b8784612-9dfe-49b0-80f1-627adfea3ff2",
         "popularity": 44,
         "followers": 27157
-      }
+      },
+      "spotifyTrackId": "4lGHkrfa5QPbwjsqpJhhNF"
     },
     {
       "id": "1274846977",
@@ -7387,7 +7534,7 @@
       "country": null,
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/4FZhgA5eJtcRqI4AIr879Q",
-      "tempo": 115,
+      "tempo": 115.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -7414,7 +7561,8 @@
         "musicBrainzId": "da474084-1673-44c7-915b-4aa28c882940",
         "popularity": 51,
         "followers": 28854
-      }
+      },
+      "spotifyTrackId": "4FZhgA5eJtcRqI4AIr879Q"
     },
     {
       "id": "1274846978",
@@ -7430,7 +7578,7 @@
       "country": "MA",
       "spotifyPopularity": 32,
       "spotifyUrl": "https://open.spotify.com/track/0zbHkxwUT6WHC8xrjZ2Hn3",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -7457,7 +7605,8 @@
         "musicBrainzId": "8c928e2d-6000-410f-af00-77d30be0f441",
         "popularity": 28,
         "followers": 4813
-      }
+      },
+      "spotifyTrackId": "0zbHkxwUT6WHC8xrjZ2Hn3"
     },
     {
       "id": "1274846979",
@@ -7473,7 +7622,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/05HttbyJ7hYl49LH3vNr1y",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -7501,7 +7650,8 @@
         "musicBrainzId": "1b885e33-05c1-491e-8ac9-e14e48842a10",
         "popularity": 43,
         "followers": 14153
-      }
+      },
+      "spotifyTrackId": "05HttbyJ7hYl49LH3vNr1y"
     },
     {
       "id": "1274846980",
@@ -7517,7 +7667,7 @@
       "country": null,
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/2aQnbMyTdpc5GG0Pi5LuC8",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -7542,7 +7692,8 @@
         "musicBrainzId": "9cacac9f-ba53-443a-828a-4b5f8f0b5bdf",
         "popularity": 32,
         "followers": 6303
-      }
+      },
+      "spotifyTrackId": "2aQnbMyTdpc5GG0Pi5LuC8"
     },
     {
       "id": "1274846981",
@@ -7558,7 +7709,7 @@
       "country": "ES",
       "spotifyPopularity": 23,
       "spotifyUrl": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "6.0",
@@ -7584,7 +7735,8 @@
         "musicBrainzId": "0fb2a2db-2f0f-4cbc-adae-4467bc0c859a",
         "popularity": 15,
         "followers": 1571
-      }
+      },
+      "spotifyTrackId": "3bfX8IHLcbE10AYhTMnMNi"
     },
     {
       "id": "1274846982",
@@ -7600,7 +7752,7 @@
       "country": null,
       "spotifyPopularity": 29,
       "spotifyUrl": "https://open.spotify.com/track/5KGjAKD2GyDAJ8s900Aud6",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -7627,7 +7779,8 @@
         "musicBrainzId": "8789936a-3584-41a2-a172-60bb2882d152",
         "popularity": 42,
         "followers": 26746
-      }
+      },
+      "spotifyTrackId": "5KGjAKD2GyDAJ8s900Aud6"
     },
     {
       "id": "1274846983",
@@ -7643,7 +7796,7 @@
       "country": null,
       "spotifyPopularity": 42,
       "spotifyUrl": "https://open.spotify.com/track/6R7WQMeijEQYgap1Mpr47B",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -7671,7 +7824,8 @@
         "musicBrainzId": "569bfd9b-2375-472a-b87c-94fd0ff2c597",
         "popularity": 48,
         "followers": 24141
-      }
+      },
+      "spotifyTrackId": "6R7WQMeijEQYgap1Mpr47B"
     },
     {
       "id": "1274846984",
@@ -7687,7 +7841,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/03H0VAs4EDG2L0vwElyf1s",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -7714,7 +7868,8 @@
         "musicBrainzId": "fd3a513f-3d38-40ad-a50c-2af80755f851",
         "popularity": 37,
         "followers": 2779
-      }
+      },
+      "spotifyTrackId": "03H0VAs4EDG2L0vwElyf1s"
     },
     {
       "id": "1274846985",
@@ -7730,7 +7885,7 @@
       "country": null,
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/7sncXbqKEMRUeU7x5vIORP",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "8.0",
@@ -7756,7 +7911,8 @@
         "musicBrainzId": "dc2fbff3-ecbe-4697-84c4-db6b82cc0c0b",
         "popularity": 36,
         "followers": 3349
-      }
+      },
+      "spotifyTrackId": "7sncXbqKEMRUeU7x5vIORP"
     },
     {
       "id": "1274846986",
@@ -7772,7 +7928,7 @@
       "country": null,
       "spotifyPopularity": 20,
       "spotifyUrl": "https://open.spotify.com/track/3dO6hNvLdmjpnhbmYI06sD",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -7800,7 +7956,8 @@
         "musicBrainzId": "1d83e4f4-7147-4cec-8068-a0138a1c8931",
         "popularity": 41,
         "followers": 6395
-      }
+      },
+      "spotifyTrackId": "3dO6hNvLdmjpnhbmYI06sD"
     },
     {
       "id": "1274846987",
@@ -7816,7 +7973,7 @@
       "country": "ES",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/44hfmhrmuBNOdHw8ravtu0",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -7843,7 +8000,8 @@
         "musicBrainzId": "f3d44367-7d70-4d76-8099-2f47d99e4348",
         "popularity": 51,
         "followers": 134599
-      }
+      },
+      "spotifyTrackId": "44hfmhrmuBNOdHw8ravtu0"
     },
     {
       "id": "1274846988",
@@ -7859,7 +8017,7 @@
       "country": null,
       "spotifyPopularity": 30,
       "spotifyUrl": "https://open.spotify.com/track/7nssXIcYb5LNOBXYifpkOa",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -7886,7 +8044,8 @@
         "musicBrainzId": "98af13ae-2bf8-4ea5-b76e-fc025a4d579e",
         "popularity": 40,
         "followers": 9833
-      }
+      },
+      "spotifyTrackId": "7nssXIcYb5LNOBXYifpkOa"
     },
     {
       "id": "1274846989",
@@ -7902,7 +8061,7 @@
       "country": "RO",
       "spotifyPopularity": 28,
       "spotifyUrl": "https://open.spotify.com/track/1Lqw2yoCGRpfQkRFk4f2ww",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "5.0",
@@ -7925,7 +8084,8 @@
         "musicBrainzId": "2f077c63-d8f9-468a-bcce-40a6f5ebd509",
         "popularity": 41,
         "followers": 14202
-      }
+      },
+      "spotifyTrackId": "1Lqw2yoCGRpfQkRFk4f2ww"
     },
     {
       "id": "1274846991",
@@ -7941,7 +8101,7 @@
       "country": null,
       "spotifyPopularity": 45,
       "spotifyUrl": "https://open.spotify.com/track/3slnB0wMqpDHdblxGZizPP",
-      "tempo": 118,
+      "tempo": 118.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "5.0",
@@ -7967,7 +8127,8 @@
         "musicBrainzId": "0841f3a1-b797-496c-bcd6-3267dd7292eb",
         "popularity": 46,
         "followers": 3480
-      }
+      },
+      "spotifyTrackId": "3slnB0wMqpDHdblxGZizPP"
     },
     {
       "id": "1274846992",
@@ -7983,7 +8144,7 @@
       "country": "MX",
       "spotifyPopularity": 38,
       "spotifyUrl": "https://open.spotify.com/track/0RKwWikigaiqPjlj68crpV",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -8010,7 +8171,8 @@
         "musicBrainzId": "d5230392-4e5d-4c77-ae43-94f65caaa8e6",
         "popularity": 56,
         "followers": 11659
-      }
+      },
+      "spotifyTrackId": "0RKwWikigaiqPjlj68crpV"
     },
     {
       "id": "1274846993",
@@ -8026,7 +8188,7 @@
       "country": null,
       "spotifyPopularity": 21,
       "spotifyUrl": "https://open.spotify.com/track/0RmSg7THWkdu2e5j8UGBTY",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "G#m",
       "camelot": "1A",
       "energy": "6.0",
@@ -8054,7 +8216,8 @@
         "musicBrainzId": null,
         "popularity": 27,
         "followers": 3346
-      }
+      },
+      "spotifyTrackId": "0RmSg7THWkdu2e5j8UGBTY"
     },
     {
       "id": "1274846994",
@@ -8070,7 +8233,7 @@
       "country": null,
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/5l9C7iY1wNA6UJ9umQ7bNY",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "8.0",
@@ -8096,7 +8259,8 @@
         "musicBrainzId": "253b9db8-2bd0-4ea4-8be6-6fa24763502b",
         "popularity": 32,
         "followers": 1638
-      }
+      },
+      "spotifyTrackId": "5l9C7iY1wNA6UJ9umQ7bNY"
     },
     {
       "id": "1274846995",
@@ -8112,7 +8276,7 @@
       "country": "FR",
       "spotifyPopularity": 37,
       "spotifyUrl": "https://open.spotify.com/track/3zMSQBKHsQcxj0zQV5StZF",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "7.0",
@@ -8141,7 +8305,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "3zMSQBKHsQcxj0zQV5StZF"
     },
     {
       "id": "1274846996",
@@ -8157,7 +8322,7 @@
       "country": null,
       "spotifyPopularity": 27,
       "spotifyUrl": "https://open.spotify.com/track/6aDkryO8oBg1qq0bIzdzxF",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "8.0",
@@ -8183,7 +8348,8 @@
         "musicBrainzId": "dc2fbff3-ecbe-4697-84c4-db6b82cc0c0b",
         "popularity": 36,
         "followers": 3349
-      }
+      },
+      "spotifyTrackId": "6aDkryO8oBg1qq0bIzdzxF"
     },
     {
       "id": "1274846997",
@@ -8199,7 +8365,7 @@
       "country": "nan",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/5pJnjDwBcdE2QHL4xkgBjF",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "6.0",
@@ -8226,7 +8392,8 @@
         "musicBrainzId": "996245a1-cfc5-499a-bb38-eab6020d301f",
         "popularity": 50,
         "followers": 37997
-      }
+      },
+      "spotifyTrackId": "5pJnjDwBcdE2QHL4xkgBjF"
     },
     {
       "id": "1274846998",
@@ -8242,7 +8409,7 @@
       "country": "FR",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/3FdtdBduxDxNzzHBhB3Pks",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -8271,7 +8438,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "3FdtdBduxDxNzzHBhB3Pks"
     },
     {
       "id": "1274846999",
@@ -8287,7 +8455,7 @@
       "country": "XE",
       "spotifyPopularity": 1,
       "spotifyUrl": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "6.0",
@@ -8314,7 +8482,8 @@
         "musicBrainzId": "598ded27-65cd-481b-b1d1-173f03e459de",
         "popularity": 70,
         "followers": 175175
-      }
+      },
+      "spotifyTrackId": "5B4gUqNKYgU38ULSWP5Bzj"
     },
     {
       "id": "1274847000",
@@ -8330,7 +8499,7 @@
       "country": null,
       "spotifyPopularity": 7,
       "spotifyUrl": "https://open.spotify.com/track/5ityPFFgWH4YJaJWHlV6Qu",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "6.0",
@@ -8358,7 +8527,8 @@
         "musicBrainzId": "569bfd9b-2375-472a-b87c-94fd0ff2c597",
         "popularity": 48,
         "followers": 24141
-      }
+      },
+      "spotifyTrackId": "5ityPFFgWH4YJaJWHlV6Qu"
     },
     {
       "id": "1274847001",
@@ -8374,7 +8544,7 @@
       "country": "US",
       "spotifyPopularity": 25,
       "spotifyUrl": "https://open.spotify.com/track/53PYD499NikR2q43c8reZv",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -8397,7 +8567,8 @@
         "musicBrainzId": "ccbe344f-1c05-4761-870d-ee4d2d8863ae",
         "popularity": 50,
         "followers": 58081
-      }
+      },
+      "spotifyTrackId": "53PYD499NikR2q43c8reZv"
     },
     {
       "id": "1274847002",
@@ -8413,7 +8584,7 @@
       "country": null,
       "spotifyPopularity": 20,
       "spotifyUrl": "https://open.spotify.com/track/71BoXVOCbruWpFvBaYyuI8",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -8441,7 +8612,8 @@
         "musicBrainzId": "5090cb47-f8b2-4e55-b70d-05244ec4ee8c",
         "popularity": 50,
         "followers": 21522
-      }
+      },
+      "spotifyTrackId": "71BoXVOCbruWpFvBaYyuI8"
     },
     {
       "id": "1274847003",
@@ -8457,7 +8629,7 @@
       "country": null,
       "spotifyPopularity": 26,
       "spotifyUrl": "https://open.spotify.com/track/1DMyfe5iSf2BJQP8SfMfY3",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -8483,7 +8655,8 @@
         "musicBrainzId": null,
         "popularity": 11,
         "followers": 675
-      }
+      },
+      "spotifyTrackId": "1DMyfe5iSf2BJQP8SfMfY3"
     },
     {
       "id": "1274847004",
@@ -8499,7 +8672,7 @@
       "country": "FR",
       "spotifyPopularity": 41,
       "spotifyUrl": "https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -8528,7 +8701,8 @@
         "musicBrainzId": "eead7215-59da-45f5-b719-62f349ef4133",
         "popularity": 81,
         "followers": 496227
-      }
+      },
+      "spotifyTrackId": "6EJuJAg1Ydjkoj9SCwMUyN"
     },
     {
       "id": "1274847005",
@@ -8544,7 +8718,7 @@
       "country": "DE",
       "spotifyPopularity": 18,
       "spotifyUrl": "https://open.spotify.com/track/54ThNa8ARJ5h1eMb6i6EA9",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "7.0",
@@ -8569,7 +8743,8 @@
         "musicBrainzId": "2f06eeb1-c3ef-45f3-8801-6fbe8d1e69cb",
         "popularity": 36,
         "followers": 11404
-      }
+      },
+      "spotifyTrackId": "54ThNa8ARJ5h1eMb6i6EA9"
     },
     {
       "id": "1274847006",
@@ -8585,7 +8760,7 @@
       "country": "MX",
       "spotifyPopularity": 27,
       "spotifyUrl": "https://open.spotify.com/track/67yhrEeXMAK2Q9zPPVprVr",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -8612,7 +8787,8 @@
         "musicBrainzId": "d5230392-4e5d-4c77-ae43-94f65caaa8e6",
         "popularity": 56,
         "followers": 11659
-      }
+      },
+      "spotifyTrackId": "67yhrEeXMAK2Q9zPPVprVr"
     },
     {
       "id": "1274847007",
@@ -8628,7 +8804,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/4fdCqzzGabb4zp8myyNcO4",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -8657,7 +8833,8 @@
         "musicBrainzId": "0ca9fef6-4d55-435e-ab02-eaa0e52dc294",
         "popularity": 46,
         "followers": 16216
-      }
+      },
+      "spotifyTrackId": "4fdCqzzGabb4zp8myyNcO4"
     },
     {
       "id": "1274847009",
@@ -8673,7 +8850,7 @@
       "country": "IT",
       "spotifyPopularity": 24,
       "spotifyUrl": "https://open.spotify.com/track/6YfyGydvTVM9ICSqKbvDNM",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -8700,7 +8877,8 @@
         "musicBrainzId": "c8b7a65a-f7b4-4bbf-8ca8-7d62a4e5f102",
         "popularity": 43,
         "followers": 11282
-      }
+      },
+      "spotifyTrackId": "6YfyGydvTVM9ICSqKbvDNM"
     },
     {
       "id": "1274847011",
@@ -8716,7 +8894,7 @@
       "country": "IT",
       "spotifyPopularity": 28,
       "spotifyUrl": "https://open.spotify.com/track/3xanc9ZUfG00MrVV3lrOEf",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -8742,7 +8920,8 @@
         "musicBrainzId": "d66db8bc-73e6-4bff-91e2-f4ab95048a43",
         "popularity": 15,
         "followers": 593
-      }
+      },
+      "spotifyTrackId": "3xanc9ZUfG00MrVV3lrOEf"
     },
     {
       "id": "1274847012",
@@ -8758,7 +8937,7 @@
       "country": null,
       "spotifyPopularity": 21,
       "spotifyUrl": "https://open.spotify.com/track/23odbrOA2gIMlPyK1Yq3Qn",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "6.0",
@@ -8786,7 +8965,8 @@
         "musicBrainzId": "dc7ecc15-39c7-4833-9042-cbebf2350c15",
         "popularity": 39,
         "followers": 4433
-      }
+      },
+      "spotifyTrackId": "23odbrOA2gIMlPyK1Yq3Qn"
     },
     {
       "id": "1274847013",
@@ -8802,7 +8982,7 @@
       "country": null,
       "spotifyPopularity": 28,
       "spotifyUrl": "https://open.spotify.com/track/0QkGGl6Xdde8Uu7Er2zDjQ",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -8830,7 +9010,8 @@
         "musicBrainzId": "5090cb47-f8b2-4e55-b70d-05244ec4ee8c",
         "popularity": 50,
         "followers": 21522
-      }
+      },
+      "spotifyTrackId": "0QkGGl6Xdde8Uu7Er2zDjQ"
     },
     {
       "id": "1274847014",
@@ -8846,7 +9027,7 @@
       "country": null,
       "spotifyPopularity": 12,
       "spotifyUrl": "https://open.spotify.com/track/5vg5xvmTsuOm30pAhYvueq",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "5.0",
@@ -8875,7 +9056,8 @@
         "musicBrainzId": null,
         "popularity": 32,
         "followers": 2787
-      }
+      },
+      "spotifyTrackId": "5vg5xvmTsuOm30pAhYvueq"
     },
     {
       "id": "1274847015",
@@ -8891,7 +9073,7 @@
       "country": "IT",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/4MtDsYqosHRSV3amCfwgZI",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -8918,7 +9100,8 @@
         "musicBrainzId": "c8b7a65a-f7b4-4bbf-8ca8-7d62a4e5f102",
         "popularity": 43,
         "followers": 11282
-      }
+      },
+      "spotifyTrackId": "4MtDsYqosHRSV3amCfwgZI"
     },
     {
       "id": "1274847016",
@@ -8934,7 +9117,7 @@
       "country": "IT",
       "spotifyPopularity": 44,
       "spotifyUrl": "https://open.spotify.com/track/6lc6OgZpWqwLdvSVOMFQNC",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "6.0",
@@ -8961,7 +9144,8 @@
         "musicBrainzId": "e4fd0bfb-593f-4330-ba2f-1d022eccbb1e",
         "popularity": 32,
         "followers": 2999
-      }
+      },
+      "spotifyTrackId": "6lc6OgZpWqwLdvSVOMFQNC"
     },
     {
       "id": "1274847017",
@@ -8977,7 +9161,7 @@
       "country": "IT",
       "spotifyPopularity": 41,
       "spotifyUrl": "https://open.spotify.com/track/7JuMuW7JIpQa3P9wZxaHIQ",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -9004,7 +9188,8 @@
         "musicBrainzId": "c8b7a65a-f7b4-4bbf-8ca8-7d62a4e5f102",
         "popularity": 43,
         "followers": 11282
-      }
+      },
+      "spotifyTrackId": "7JuMuW7JIpQa3P9wZxaHIQ"
     },
     {
       "id": "1274847018",
@@ -9020,7 +9205,7 @@
       "country": "FR",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/3hq6ybc82oimhA6q3FzeAy",
-      "tempo": 121,
+      "tempo": 121.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -9048,7 +9233,8 @@
         "musicBrainzId": "0351b68c-7daf-4e57-b586-eb0d5520a601",
         "popularity": 10,
         "followers": 18
-      }
+      },
+      "spotifyTrackId": "3hq6ybc82oimhA6q3FzeAy"
     },
     {
       "id": "1274847019",
@@ -9064,7 +9250,7 @@
       "country": null,
       "spotifyPopularity": 24,
       "spotifyUrl": "https://open.spotify.com/track/19TCih5bEdMhf61w68aWd7",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "8.0",
@@ -9090,7 +9276,8 @@
         "musicBrainzId": "a22e7181-e233-49d2-8d49-a0443107e8d5",
         "popularity": 23,
         "followers": 1247
-      }
+      },
+      "spotifyTrackId": "19TCih5bEdMhf61w68aWd7"
     },
     {
       "id": "1274847020",
@@ -9106,7 +9293,7 @@
       "country": "US",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha",
-      "tempo": 150,
+      "tempo": 150.0,
       "musicalKey": "F#",
       "camelot": "2B",
       "energy": "6.0",
@@ -9129,7 +9316,8 @@
         "musicBrainzId": "ec475fb8-d454-406e-b473-7f0b0d815f9d",
         "popularity": 53,
         "followers": 55858
-      }
+      },
+      "spotifyTrackId": "3z2aHQwr9MJ5g7DA19tpha"
     },
     {
       "id": "1274847021",
@@ -9145,7 +9333,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/4qFSkwyNv8tQKSEb0HMv0Y",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -9174,7 +9362,8 @@
         "musicBrainzId": "4c7142f0-b6e7-40d1-83a8-75deb1373530",
         "popularity": 35,
         "followers": 8890
-      }
+      },
+      "spotifyTrackId": "4qFSkwyNv8tQKSEb0HMv0Y"
     },
     {
       "id": "1274847022",
@@ -9190,7 +9379,7 @@
       "country": "MX",
       "spotifyPopularity": 6,
       "spotifyUrl": "https://open.spotify.com/track/5G1CfrwF6dU67nV9RdyYRV",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -9217,7 +9406,8 @@
         "musicBrainzId": "d5230392-4e5d-4c77-ae43-94f65caaa8e6",
         "popularity": 56,
         "followers": 11659
-      }
+      },
+      "spotifyTrackId": "5G1CfrwF6dU67nV9RdyYRV"
     },
     {
       "id": "1274847023",
@@ -9233,7 +9423,7 @@
       "country": "GB",
       "spotifyPopularity": 22,
       "spotifyUrl": "https://open.spotify.com/track/4cQk6qZABGdMFXfpkruhcs",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -9260,7 +9450,8 @@
         "musicBrainzId": "0f59ccf3-71d9-43a7-8154-66037516a097",
         "popularity": 28,
         "followers": 1809
-      }
+      },
+      "spotifyTrackId": "4cQk6qZABGdMFXfpkruhcs"
     },
     {
       "id": "1274847024",
@@ -9276,7 +9467,7 @@
       "country": null,
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/3hl5B6GYsN4K5sjfQvx8JD",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "7.0",
@@ -9301,7 +9492,8 @@
         "musicBrainzId": "449c7223-7ab1-4b33-aba5-6da9dac3497c",
         "popularity": 35,
         "followers": 9600
-      }
+      },
+      "spotifyTrackId": "3hl5B6GYsN4K5sjfQvx8JD"
     },
     {
       "id": "1274847025",
@@ -9317,7 +9509,7 @@
       "country": "IT",
       "spotifyPopularity": 10,
       "spotifyUrl": "https://open.spotify.com/track/3BxEhgKyN7k2AJI1TVhp07",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "7.0",
@@ -9345,7 +9537,8 @@
         "musicBrainzId": "ffb5bfa9-79e8-4cbc-ab9c-3d487b9a4443",
         "popularity": 35,
         "followers": 10721
-      }
+      },
+      "spotifyTrackId": "3BxEhgKyN7k2AJI1TVhp07"
     },
     {
       "id": "1274847026",
@@ -9361,7 +9554,7 @@
       "country": "FR",
       "spotifyPopularity": 21,
       "spotifyUrl": "https://open.spotify.com/track/5XK0o3AVgD8dY0RCbEjAnK",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "G#m",
       "camelot": "1A",
       "energy": "7.0",
@@ -9387,7 +9580,8 @@
         "musicBrainzId": "61f1674a-30c2-4163-8a79-628352d9f9e6",
         "popularity": 30,
         "followers": 11619
-      }
+      },
+      "spotifyTrackId": "5XK0o3AVgD8dY0RCbEjAnK"
     },
     {
       "id": "1274847027",
@@ -9403,7 +9597,7 @@
       "country": "GB",
       "spotifyPopularity": 13,
       "spotifyUrl": "https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "6.0",
@@ -9460,7 +9654,8 @@
         "musicBrainzId": "91524dcb-6daa-46bb-8006-f03328a4ede7",
         "popularity": 38,
         "followers": 5910
-      }
+      },
+      "spotifyTrackId": "3GK8ZbB59raLSX21pp05ST"
     },
     {
       "id": "1274847029",
@@ -9476,7 +9671,7 @@
       "country": "CO",
       "spotifyPopularity": 18,
       "spotifyUrl": "https://open.spotify.com/track/57CynrWPWyGc9MpkRMhb7Q",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -9505,7 +9700,8 @@
         "musicBrainzId": "7c201814-1c01-4e95-9b48-5f413ff758a6",
         "popularity": 34,
         "followers": 4104
-      }
+      },
+      "spotifyTrackId": "57CynrWPWyGc9MpkRMhb7Q"
     },
     {
       "id": "1274847030",
@@ -9521,7 +9717,7 @@
       "country": null,
       "spotifyPopularity": 35,
       "spotifyUrl": "https://open.spotify.com/track/7dmJZ0Yho613Q0SOr1Sisv",
-      "tempo": 121,
+      "tempo": 121.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -9548,7 +9744,8 @@
         "musicBrainzId": "da474084-1673-44c7-915b-4aa28c882940",
         "popularity": 51,
         "followers": 28854
-      }
+      },
+      "spotifyTrackId": "7dmJZ0Yho613Q0SOr1Sisv"
     },
     {
       "id": "1274847031",
@@ -9564,7 +9761,7 @@
       "country": "IT",
       "spotifyPopularity": 32,
       "spotifyUrl": "https://open.spotify.com/track/3ckPEl7TDqmNtnh0CR6f8T",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "6.0",
@@ -9591,7 +9788,8 @@
         "musicBrainzId": "e4fd0bfb-593f-4330-ba2f-1d022eccbb1e",
         "popularity": 32,
         "followers": 2999
-      }
+      },
+      "spotifyTrackId": "3ckPEl7TDqmNtnh0CR6f8T"
     },
     {
       "id": "1274847033",
@@ -9607,7 +9805,7 @@
       "country": "MX",
       "spotifyPopularity": 7,
       "spotifyUrl": "https://open.spotify.com/track/3mNYs5KJ5OUFGNTPZYuyLz",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -9634,7 +9832,8 @@
         "musicBrainzId": "d5230392-4e5d-4c77-ae43-94f65caaa8e6",
         "popularity": 56,
         "followers": 11659
-      }
+      },
+      "spotifyTrackId": "3mNYs5KJ5OUFGNTPZYuyLz"
     },
     {
       "id": "1274847034",
@@ -9650,7 +9849,7 @@
       "country": null,
       "spotifyPopularity": 15,
       "spotifyUrl": "https://open.spotify.com/track/2T8qHCxkePWNN8lYDW36An",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -9675,7 +9874,8 @@
         "musicBrainzId": "68e1505b-18a4-4976-bf47-2384da06f3d3",
         "popularity": 35,
         "followers": 1399
-      }
+      },
+      "spotifyTrackId": "2T8qHCxkePWNN8lYDW36An"
     },
     {
       "id": "1274847035",
@@ -9691,7 +9891,7 @@
       "country": "ES",
       "spotifyPopularity": 35,
       "spotifyUrl": "https://open.spotify.com/track/1eeNJgXPABqhDQtObchz9p",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "6.0",
@@ -9714,7 +9914,8 @@
         "musicBrainzId": "91b214df-43b3-4910-a76e-29c9a51d4c95",
         "popularity": 58,
         "followers": 192735
-      }
+      },
+      "spotifyTrackId": "1eeNJgXPABqhDQtObchz9p"
     },
     {
       "id": "1274847036",
@@ -9730,7 +9931,7 @@
       "country": "IT",
       "spotifyPopularity": 23,
       "spotifyUrl": "https://open.spotify.com/track/3MdHJXMxqAQRrjipDNQ4vA",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -9757,7 +9958,8 @@
         "musicBrainzId": "95f7c24e-2879-4abb-ba35-906c467fc704",
         "popularity": 34,
         "followers": 3281
-      }
+      },
+      "spotifyTrackId": "3MdHJXMxqAQRrjipDNQ4vA"
     },
     {
       "id": "1274847037",
@@ -9773,7 +9975,7 @@
       "country": null,
       "spotifyPopularity": 38,
       "spotifyUrl": "https://open.spotify.com/track/60eDwJZidmWYlkJJoAVRto",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -9802,7 +10004,8 @@
         "musicBrainzId": "2bdfd2d7-ee34-41c7-be9c-fc8cbde34bf5",
         "popularity": 37,
         "followers": 15480
-      }
+      },
+      "spotifyTrackId": "60eDwJZidmWYlkJJoAVRto"
     },
     {
       "id": "1274804755",
@@ -9818,18 +10021,14 @@
       "country": null,
       "spotifyPopularity": 75,
       "spotifyUrl": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "G#m",
       "camelot": "1A",
       "energy": "5.0",
       "overallVolume": "-8.8",
       "cuePoints": "8",
       "clippedPeaks": 489,
-      "keywords": [
-        "latin house",
-        "house",
-        "latino"
-      ],
+      "keywords": "latin house, house, latino",
       "comments": "G#m - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274804000-1274804999\\1274804755__Stryv, Camila Cabello, Malachiii, Adam Port, Keinemusik, Orso__Move (feat. Camila Cabello & Malachiii).mp3",
       "dateAdded": "2026-08-20",
@@ -9847,7 +10046,8 @@
         "musicBrainzId": "1dd15952-439d-4606-ad8d-a9580929ca55",
         "popularity": 75,
         "followers": 23137
-      }
+      },
+      "spotifyTrackId": "0scd3nh27AYTNXo0KHRmsG"
     },
     {
       "id": "1274847038",
@@ -9863,7 +10063,7 @@
       "country": "Verona",
       "spotifyPopularity": 0,
       "spotifyUrl": "https://open.spotify.com/track/4DaNV4xFhKDpJ3NprDGgy2",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -9890,7 +10090,8 @@
         "musicBrainzId": "545ccb1a-3e92-44bc-8bbc-8c28721ebf1c",
         "popularity": 55,
         "followers": 46565
-      }
+      },
+      "spotifyTrackId": "4DaNV4xFhKDpJ3NprDGgy2"
     },
     {
       "id": "1274825682",
@@ -9906,21 +10107,14 @@
       "country": "nan",
       "spotifyPopularity": 75,
       "spotifyUrl": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "7.0",
       "overallVolume": "-8.7",
       "cuePoints": "8",
       "clippedPeaks": 8,
-      "keywords": [
-        "edm",
-        "electronic music",
-        "house",
-        "deep house",
-        "latin house",
-        "latino"
-      ],
+      "keywords": "edm, electronic music, house, deep house, latin house, latino",
       "comments": "A#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274825000-1274825999\\1274825682__Wakyin, Carlos Vives__Beso (Fruta Fresca).mp3",
       "dateAdded": "2026-08-20",
@@ -9939,7 +10133,8 @@
         "musicBrainzId": "4817ee4b-910c-4d0c-a689-056ffdeeb1b1",
         "popularity": 63,
         "followers": 39845
-      }
+      },
+      "spotifyTrackId": "0r3nMF80NSIuPIxeod4aoG"
     },
     {
       "id": "1274824082",
@@ -9955,16 +10150,14 @@
       "country": "ES",
       "spotifyPopularity": 60,
       "spotifyUrl": "https://open.spotify.com/track/5pCOroTCQYaYbRB6Dt63VM",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
       "overallVolume": "-10.3",
       "cuePoints": "8",
       "clippedPeaks": 18,
-      "keywords": [
-        "latin house"
-      ],
+      "keywords": "latin house",
       "comments": "Dm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274824000-1274824999\\1274824082__Alejandro Sanz, Karlo, CORKIDI__Corazón Partío - Remix.mp3",
       "dateAdded": "2026-08-20",
@@ -9995,7 +10188,8 @@
         "musicBrainzId": "9bacf78f-9132-43da-8873-8a9eb49da0e9",
         "popularity": 81,
         "followers": 8060126
-      }
+      },
+      "spotifyTrackId": "5pCOroTCQYaYbRB6Dt63VM"
     },
     {
       "id": "1274847039",
@@ -10011,7 +10205,7 @@
       "country": "MX",
       "spotifyPopularity": 59,
       "spotifyUrl": "https://open.spotify.com/track/0K7YLOpJ0EEBfce8LdDRBu",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "8.0",
@@ -10050,7 +10244,8 @@
         "musicBrainzId": "b0eb4fac-a300-4d2b-8a26-cf03b29e5287",
         "popularity": 56,
         "followers": 87107
-      }
+      },
+      "spotifyTrackId": "0K7YLOpJ0EEBfce8LdDRBu"
     },
     {
       "id": "1274847040",
@@ -10066,7 +10261,7 @@
       "country": "ES",
       "spotifyPopularity": 57,
       "spotifyUrl": "https://open.spotify.com/track/44d8fHA9cOLQ0LYjzj8DtH",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -10093,7 +10288,8 @@
         "musicBrainzId": "787549fa-293c-4e4e-8e5f-e94f87d63ae8",
         "popularity": 45,
         "followers": 122265
-      }
+      },
+      "spotifyTrackId": "44d8fHA9cOLQ0LYjzj8DtH"
     },
     {
       "id": "1274847041",
@@ -10109,7 +10305,7 @@
       "country": "DK",
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/5oEBWNjYndncQZ2X4jjbtz",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "5.0",
@@ -10139,7 +10335,8 @@
         "musicBrainzId": "ceb44d44-2f1f-4ef2-92ab-21dc1d2715e5",
         "popularity": 60,
         "followers": 48819
-      }
+      },
+      "spotifyTrackId": "5oEBWNjYndncQZ2X4jjbtz"
     },
     {
       "id": "1274847042",
@@ -10155,7 +10352,7 @@
       "country": "IT",
       "spotifyPopularity": 52,
       "spotifyUrl": "https://open.spotify.com/track/1HHTFWcNRtgp4XmzyJMyjy",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -10180,7 +10377,8 @@
         "musicBrainzId": "17bc3221-1459-46f7-83fc-59ed1034d250",
         "popularity": 45,
         "followers": 265587
-      }
+      },
+      "spotifyTrackId": "1HHTFWcNRtgp4XmzyJMyjy"
     },
     {
       "id": "1274847043",
@@ -10196,7 +10394,7 @@
       "country": "US",
       "spotifyPopularity": 29,
       "spotifyUrl": "https://open.spotify.com/track/3nEbSjFZemYKLilofwKUfN",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "8.0",
@@ -10226,7 +10424,8 @@
         "musicBrainzId": "1c513fb9-e6b7-4915-b4d3-026681c83065",
         "popularity": 56,
         "followers": 161252
-      }
+      },
+      "spotifyTrackId": "3nEbSjFZemYKLilofwKUfN"
     },
     {
       "id": "1274847044",
@@ -10242,7 +10441,7 @@
       "country": null,
       "spotifyPopularity": 44,
       "spotifyUrl": "https://open.spotify.com/track/31nvAyQsd93sqGIVmE1IhW",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "7.0",
@@ -10301,7 +10500,8 @@
         "musicBrainzId": "b8838d1d-406c-46f4-8d56-6b00c20e69a2",
         "popularity": 42,
         "followers": 6094
-      }
+      },
+      "spotifyTrackId": "31nvAyQsd93sqGIVmE1IhW"
     },
     {
       "id": "1274847045",
@@ -10317,7 +10517,7 @@
       "country": "MX",
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/2t9QlRKdnYFtN0T5I6TQAM",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -10356,7 +10556,8 @@
         "musicBrainzId": "b0eb4fac-a300-4d2b-8a26-cf03b29e5287",
         "popularity": 56,
         "followers": 87107
-      }
+      },
+      "spotifyTrackId": "2t9QlRKdnYFtN0T5I6TQAM"
     },
     {
       "id": "1274847046",
@@ -10372,7 +10573,7 @@
       "country": "ES",
       "spotifyPopularity": 40,
       "spotifyUrl": "https://open.spotify.com/track/5BRw2Cwjgi7Desb9TQMX1A",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "6.0",
@@ -10399,7 +10600,8 @@
         "musicBrainzId": "787549fa-293c-4e4e-8e5f-e94f87d63ae8",
         "popularity": 45,
         "followers": 122265
-      }
+      },
+      "spotifyTrackId": "5BRw2Cwjgi7Desb9TQMX1A"
     },
     {
       "id": "1274847047",
@@ -10415,7 +10617,7 @@
       "country": null,
       "spotifyPopularity": 50,
       "spotifyUrl": "https://open.spotify.com/track/2KbqLFuAkD4mJahlzUSmtT",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "8.0",
@@ -10442,7 +10644,8 @@
         "musicBrainzId": null,
         "popularity": 37,
         "followers": 2650
-      }
+      },
+      "spotifyTrackId": "2KbqLFuAkD4mJahlzUSmtT"
     },
     {
       "id": "1274847048",
@@ -10458,7 +10661,7 @@
       "country": "ES",
       "spotifyPopularity": 18,
       "spotifyUrl": "https://open.spotify.com/track/6qGMRqUeIRYk1XNyDzKIcA",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -10485,7 +10688,8 @@
         "musicBrainzId": "c69f0fd3-e659-4c59-a90c-97ea6b89925b",
         "popularity": 26,
         "followers": 722
-      }
+      },
+      "spotifyTrackId": "6qGMRqUeIRYk1XNyDzKIcA"
     },
     {
       "id": "1274847049",
@@ -10501,7 +10705,7 @@
       "country": null,
       "spotifyPopularity": 41,
       "spotifyUrl": "https://open.spotify.com/track/5dTpGvPiNU1ZUdhXdLGQHJ",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -10527,7 +10731,8 @@
         "musicBrainzId": null,
         "popularity": 25,
         "followers": 620
-      }
+      },
+      "spotifyTrackId": "5dTpGvPiNU1ZUdhXdLGQHJ"
     },
     {
       "id": "1274847050",
@@ -10543,7 +10748,7 @@
       "country": "IT",
       "spotifyPopularity": 41,
       "spotifyUrl": "https://open.spotify.com/track/6RTfZWzrixZ9KhFB1e2Xco",
-      "tempo": 118,
+      "tempo": 118.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -10568,7 +10773,8 @@
         "musicBrainzId": "17bc3221-1459-46f7-83fc-59ed1034d250",
         "popularity": 45,
         "followers": 265587
-      }
+      },
+      "spotifyTrackId": "6RTfZWzrixZ9KhFB1e2Xco"
     },
     {
       "id": "1274847051",
@@ -10584,7 +10790,7 @@
       "country": "ES",
       "spotifyPopularity": 35,
       "spotifyUrl": "https://open.spotify.com/track/4e0jH0iqsHDVvRUlgO3m6j",
-      "tempo": 87,
+      "tempo": 87.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -10613,7 +10819,8 @@
         "musicBrainzId": "b44eab39-900f-446f-af67-0512a88e54ec",
         "popularity": 50,
         "followers": 331350
-      }
+      },
+      "spotifyTrackId": "4e0jH0iqsHDVvRUlgO3m6j"
     },
     {
       "id": "1274847052",
@@ -10629,7 +10836,7 @@
       "country": null,
       "spotifyPopularity": 30,
       "spotifyUrl": "https://open.spotify.com/track/34Ij1xILN8i79syNIBYh4u",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -10688,7 +10895,8 @@
         "musicBrainzId": "b8838d1d-406c-46f4-8d56-6b00c20e69a2",
         "popularity": 42,
         "followers": 6094
-      }
+      },
+      "spotifyTrackId": "34Ij1xILN8i79syNIBYh4u"
     },
     {
       "id": "1274847053",
@@ -10704,7 +10912,7 @@
       "country": "ES",
       "spotifyPopularity": 46,
       "spotifyUrl": "https://open.spotify.com/track/7lvaj4bURN4VvaIcDW6Amo",
-      "tempo": 100,
+      "tempo": 100.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -10729,7 +10937,8 @@
         "musicBrainzId": "954b23ec-04c2-42c0-af9a-377e204e1822",
         "popularity": 52,
         "followers": 34032
-      }
+      },
+      "spotifyTrackId": "7lvaj4bURN4VvaIcDW6Amo"
     },
     {
       "id": "1274847054",
@@ -10745,7 +10954,7 @@
       "country": "MX",
       "spotifyPopularity": 45,
       "spotifyUrl": "https://open.spotify.com/track/6tmoxIH8DXfPsC6GfgvLLn",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -10784,7 +10993,8 @@
         "musicBrainzId": "b0eb4fac-a300-4d2b-8a26-cf03b29e5287",
         "popularity": 56,
         "followers": 87107
-      }
+      },
+      "spotifyTrackId": "6tmoxIH8DXfPsC6GfgvLLn"
     },
     {
       "id": "1274847055",
@@ -10800,7 +11010,7 @@
       "country": "ES",
       "spotifyPopularity": 37,
       "spotifyUrl": "https://open.spotify.com/track/6xynk2nuWLtuT0dE8KX8On",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -10827,7 +11037,8 @@
         "musicBrainzId": "787549fa-293c-4e4e-8e5f-e94f87d63ae8",
         "popularity": 45,
         "followers": 122265
-      }
+      },
+      "spotifyTrackId": "6xynk2nuWLtuT0dE8KX8On"
     },
     {
       "id": "1274847056",
@@ -10843,7 +11054,7 @@
       "country": null,
       "spotifyPopularity": 22,
       "spotifyUrl": "https://open.spotify.com/track/4889ZK7OO4Ng600f15Fhq4",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -10870,7 +11081,8 @@
         "musicBrainzId": "da474084-1673-44c7-915b-4aa28c882940",
         "popularity": 51,
         "followers": 28854
-      }
+      },
+      "spotifyTrackId": "4889ZK7OO4Ng600f15Fhq4"
     },
     {
       "id": "1274847057",
@@ -10886,7 +11098,7 @@
       "country": null,
       "spotifyPopularity": 31,
       "spotifyUrl": "https://open.spotify.com/track/5HQJMrSaejgVeTeid6me1o",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -10913,7 +11125,8 @@
         "musicBrainzId": null,
         "popularity": 46,
         "followers": 1539
-      }
+      },
+      "spotifyTrackId": "5HQJMrSaejgVeTeid6me1o"
     },
     {
       "id": "1274847058",
@@ -10929,7 +11142,7 @@
       "country": "FR",
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/2GUfJWHWDpYC7ImpHt0HJD",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -10957,7 +11170,8 @@
         "musicBrainzId": "0351b68c-7daf-4e57-b586-eb0d5520a601",
         "popularity": 10,
         "followers": 18
-      }
+      },
+      "spotifyTrackId": "2GUfJWHWDpYC7ImpHt0HJD"
     },
     {
       "id": "1274847059",
@@ -10973,7 +11187,7 @@
       "country": null,
       "spotifyPopularity": 37,
       "spotifyUrl": "https://open.spotify.com/track/1K20G73TiqmwtpSpF8YZc4",
-      "tempo": 129,
+      "tempo": 129.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -11001,7 +11215,8 @@
         "musicBrainzId": "2e4013f2-1b7c-4fac-8c14-bd6865ec42cb",
         "popularity": 41,
         "followers": 22645
-      }
+      },
+      "spotifyTrackId": "1K20G73TiqmwtpSpF8YZc4"
     },
     {
       "id": "1274847060",
@@ -11017,7 +11232,7 @@
       "country": null,
       "spotifyPopularity": 38,
       "spotifyUrl": "https://open.spotify.com/track/5fdmlYngYV6TSwlZMK0VQi",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -11042,7 +11257,8 @@
         "musicBrainzId": null,
         "popularity": 21,
         "followers": 3524
-      }
+      },
+      "spotifyTrackId": "5fdmlYngYV6TSwlZMK0VQi"
     },
     {
       "id": "1274847061",
@@ -11058,7 +11274,7 @@
       "country": "MX",
       "spotifyPopularity": 45,
       "spotifyUrl": "https://open.spotify.com/track/1ERegTFqBZMnMzfbPQWuoX",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "G#m",
       "camelot": "1A",
       "energy": "7.0",
@@ -11097,7 +11313,8 @@
         "musicBrainzId": "b0eb4fac-a300-4d2b-8a26-cf03b29e5287",
         "popularity": 56,
         "followers": 87107
-      }
+      },
+      "spotifyTrackId": "1ERegTFqBZMnMzfbPQWuoX"
     },
     {
       "id": "1274847062",
@@ -11113,7 +11330,7 @@
       "country": "ES",
       "spotifyPopularity": 42,
       "spotifyUrl": "https://open.spotify.com/track/7ruJWGK4Uk2G6DzAshHZ95",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -11140,7 +11357,8 @@
         "musicBrainzId": "787549fa-293c-4e4e-8e5f-e94f87d63ae8",
         "popularity": 45,
         "followers": 122265
-      }
+      },
+      "spotifyTrackId": "7ruJWGK4Uk2G6DzAshHZ95"
     },
     {
       "id": "1274847063",
@@ -11156,7 +11374,7 @@
       "country": "CH",
       "spotifyPopularity": 47,
       "spotifyUrl": "https://open.spotify.com/track/7tHCrn9Z8IGb9lQSFYa7lk",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "A#m",
       "camelot": "3A",
       "energy": "8.0",
@@ -11182,7 +11400,8 @@
         "musicBrainzId": "1c45ba38-d0a2-4167-bda8-7b48d0188bfc",
         "popularity": 37,
         "followers": 11598
-      }
+      },
+      "spotifyTrackId": "7tHCrn9Z8IGb9lQSFYa7lk"
     },
     {
       "id": "1274847065",
@@ -11198,7 +11417,7 @@
       "country": null,
       "spotifyPopularity": 53,
       "spotifyUrl": "https://open.spotify.com/track/11FvxxICgpWZafrlkAfFo2",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -11224,7 +11443,8 @@
         "musicBrainzId": "7282de6a-98c5-4d44-a417-af85ab405e3e",
         "popularity": 37,
         "followers": 782
-      }
+      },
+      "spotifyTrackId": "11FvxxICgpWZafrlkAfFo2"
     },
     {
       "id": "1274847066",
@@ -11240,7 +11460,7 @@
       "country": "DE",
       "spotifyPopularity": 50,
       "spotifyUrl": "https://open.spotify.com/track/7gvyG1HlLw8DHJGFR86pgi",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -11267,7 +11487,8 @@
         "musicBrainzId": "35f536a7-c40d-45f6-bc0e-9ea397d29e0d",
         "popularity": 34,
         "followers": 1154
-      }
+      },
+      "spotifyTrackId": "7gvyG1HlLw8DHJGFR86pgi"
     },
     {
       "id": "1274847067",
@@ -11283,7 +11504,7 @@
       "country": null,
       "spotifyPopularity": 43,
       "spotifyUrl": "https://open.spotify.com/track/6iatlE4HaOG382ZljmBNdb",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -11310,7 +11531,8 @@
         "musicBrainzId": "3523cd96-0515-4c1b-9d2b-c0f9ed5fd3ab",
         "popularity": 39,
         "followers": 7418
-      }
+      },
+      "spotifyTrackId": "6iatlE4HaOG382ZljmBNdb"
     },
     {
       "id": "1274847068",
@@ -11326,7 +11548,7 @@
       "country": null,
       "spotifyPopularity": 52,
       "spotifyUrl": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "6.0",
@@ -11352,7 +11574,8 @@
         "musicBrainzId": "1c75538d-c03c-4d3f-8647-1702879f9c3f",
         "popularity": 62,
         "followers": 71242
-      }
+      },
+      "spotifyTrackId": "5Lm6Vl5RjOF77si7Tv5Usz"
     },
     {
       "id": "1274847069",
@@ -11368,7 +11591,7 @@
       "country": null,
       "spotifyPopularity": 51,
       "spotifyUrl": "https://open.spotify.com/track/4XPmmm8AzzKY5tuWIm5bvD",
-      "tempo": 130,
+      "tempo": 130.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -11396,7 +11619,8 @@
         "musicBrainzId": "58cadc32-173a-48a9-a635-e4e9e3b5c7d5",
         "popularity": 57,
         "followers": 49865
-      }
+      },
+      "spotifyTrackId": "4XPmmm8AzzKY5tuWIm5bvD"
     },
     {
       "id": "1274847070",
@@ -11412,7 +11636,7 @@
       "country": "ES",
       "spotifyPopularity": 46,
       "spotifyUrl": "https://open.spotify.com/track/6OMljVvZYVtnOVh8WKyQ8A",
-      "tempo": 118,
+      "tempo": 118.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -11439,7 +11663,8 @@
         "musicBrainzId": "787549fa-293c-4e4e-8e5f-e94f87d63ae8",
         "popularity": 45,
         "followers": 122265
-      }
+      },
+      "spotifyTrackId": "6OMljVvZYVtnOVh8WKyQ8A"
     },
     {
       "id": "1274847071",
@@ -11455,7 +11680,7 @@
       "country": null,
       "spotifyPopularity": 31,
       "spotifyUrl": "https://open.spotify.com/track/3kn2L6AB5wnBNTQdbxQpFe",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -11481,7 +11706,8 @@
         "musicBrainzId": "04b62276-9fb7-472f-8b90-e972d73d0d00",
         "popularity": 25,
         "followers": 1129
-      }
+      },
+      "spotifyTrackId": "3kn2L6AB5wnBNTQdbxQpFe"
     },
     {
       "id": "1274847072",
@@ -11497,7 +11723,7 @@
       "country": "FR",
       "spotifyPopularity": 38,
       "spotifyUrl": "https://open.spotify.com/track/5gRC0zqK5dbLJ7uuN0Fbqd",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -11523,7 +11749,8 @@
         "musicBrainzId": "3e813f0b-1947-404b-a3ca-a3c69a3797aa",
         "popularity": 31,
         "followers": 5723
-      }
+      },
+      "spotifyTrackId": "5gRC0zqK5dbLJ7uuN0Fbqd"
     },
     {
       "id": "1274847073",
@@ -11539,7 +11766,7 @@
       "country": null,
       "spotifyPopularity": 42,
       "spotifyUrl": "https://open.spotify.com/track/5l8o5CcCPNk0o2HyMh9aoe",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "6.0",
@@ -11566,7 +11793,8 @@
         "musicBrainzId": "1f32af13-8b60-40cd-94f0-37f38cb7ae4a",
         "popularity": 39,
         "followers": 2002
-      }
+      },
+      "spotifyTrackId": "5l8o5CcCPNk0o2HyMh9aoe"
     },
     {
       "id": "1274847074",
@@ -11582,7 +11810,7 @@
       "country": null,
       "spotifyPopularity": 46,
       "spotifyUrl": "https://open.spotify.com/track/5QQMe5Teqezkq690PgDNYV",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -11609,7 +11837,8 @@
         "musicBrainzId": "dcc3f2cd-83e2-4f91-b687-fa346b463d26",
         "popularity": 35,
         "followers": 376
-      }
+      },
+      "spotifyTrackId": "5QQMe5Teqezkq690PgDNYV"
     },
     {
       "id": "1274847075",
@@ -11625,7 +11854,7 @@
       "country": "HU",
       "spotifyPopularity": 37,
       "spotifyUrl": "https://open.spotify.com/track/0lujMGnx6tzvaJ1TY8Na18",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -11651,7 +11880,8 @@
         "musicBrainzId": "90167513-1d69-449a-b3c8-8c8710395e37",
         "popularity": 26,
         "followers": 1265
-      }
+      },
+      "spotifyTrackId": "0lujMGnx6tzvaJ1TY8Na18"
     },
     {
       "id": "1274847076",
@@ -11667,7 +11897,7 @@
       "country": "ES",
       "spotifyPopularity": 51,
       "spotifyUrl": "https://open.spotify.com/track/6pJeIzZiaHUUQF33jj79i6",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "6.0",
@@ -11694,7 +11924,8 @@
         "musicBrainzId": "787549fa-293c-4e4e-8e5f-e94f87d63ae8",
         "popularity": 45,
         "followers": 122265
-      }
+      },
+      "spotifyTrackId": "6pJeIzZiaHUUQF33jj79i6"
     },
     {
       "id": "1274847077",
@@ -11710,7 +11941,7 @@
       "country": "VE",
       "spotifyPopularity": 35,
       "spotifyUrl": "https://open.spotify.com/track/1bmZq4egSbOrUruGNHVgnS",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -11737,7 +11968,8 @@
         "musicBrainzId": "ae99cac6-3e45-4716-b96e-413423b8d754",
         "popularity": 43,
         "followers": 2150
-      }
+      },
+      "spotifyTrackId": "1bmZq4egSbOrUruGNHVgnS"
     },
     {
       "id": "1274847078",
@@ -11753,7 +11985,7 @@
       "country": null,
       "spotifyPopularity": 36,
       "spotifyUrl": "https://open.spotify.com/track/6COBbghyOVSzQcJ2poxmXA",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -11781,7 +12013,8 @@
         "musicBrainzId": "86b7e439-7a87-4300-beab-95599f0939eb",
         "popularity": 34,
         "followers": 1469
-      }
+      },
+      "spotifyTrackId": "6COBbghyOVSzQcJ2poxmXA"
     },
     {
       "id": "1274847079",
@@ -11797,7 +12030,7 @@
       "country": "US",
       "spotifyPopularity": 42,
       "spotifyUrl": "https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -11827,7 +12060,8 @@
         "musicBrainzId": "1c513fb9-e6b7-4915-b4d3-026681c83065",
         "popularity": 56,
         "followers": 161252
-      }
+      },
+      "spotifyTrackId": "0MlIalMAtTaIhOjmSFmCgW"
     },
     {
       "id": "1274847080",
@@ -11843,7 +12077,7 @@
       "country": null,
       "spotifyPopularity": 35,
       "spotifyUrl": "https://open.spotify.com/track/0JxXaDcApRigOu2drgpagC",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -11870,7 +12104,8 @@
         "musicBrainzId": "ca382e9e-a48f-4ca2-8881-4b6e92a5b857",
         "popularity": 25,
         "followers": 1196
-      }
+      },
+      "spotifyTrackId": "0JxXaDcApRigOu2drgpagC"
     },
     {
       "id": "1274847081",
@@ -11886,7 +12121,7 @@
       "country": "FR",
       "spotifyPopularity": 43,
       "spotifyUrl": "https://open.spotify.com/track/45PPqrpMVhwrnH9PSpheDA",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "F",
       "camelot": "7B",
       "energy": "7.0",
@@ -11913,7 +12148,8 @@
         "musicBrainzId": "484fd5f8-58ba-426c-857a-5d9e01424d84",
         "popularity": 55,
         "followers": 18714
-      }
+      },
+      "spotifyTrackId": "45PPqrpMVhwrnH9PSpheDA"
     },
     {
       "id": "1274847082",
@@ -11929,7 +12165,7 @@
       "country": "US",
       "spotifyPopularity": 43,
       "spotifyUrl": "https://open.spotify.com/track/6CyH0iwD0yoD9J9eOKoC4w",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -11957,7 +12193,8 @@
         "musicBrainzId": "7af179ed-2630-4c67-9f40-e550de71d372",
         "popularity": 42,
         "followers": 60860
-      }
+      },
+      "spotifyTrackId": "6CyH0iwD0yoD9J9eOKoC4w"
     },
     {
       "id": "1274847083",
@@ -11973,7 +12210,7 @@
       "country": "ES",
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/6DjGpfoIgjiG0H4eFaKqDe",
-      "tempo": 90,
+      "tempo": 90.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -12000,7 +12237,8 @@
         "musicBrainzId": "4b63550e-e4a7-4957-b4e8-7210ba4e6377",
         "popularity": 48,
         "followers": 6167
-      }
+      },
+      "spotifyTrackId": "6DjGpfoIgjiG0H4eFaKqDe"
     },
     {
       "id": "1274847084",
@@ -12016,7 +12254,7 @@
       "country": "US",
       "spotifyPopularity": 42,
       "spotifyUrl": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "7.0",
@@ -12043,7 +12281,8 @@
         "musicBrainzId": "fe510c08-2449-45b4-9463-e55ecf0efc55",
         "popularity": 53,
         "followers": 134215
-      }
+      },
+      "spotifyTrackId": "6slC1nzaQTGQQWl99SBigP"
     },
     {
       "id": "1274847085",
@@ -12059,7 +12298,7 @@
       "country": "VE",
       "spotifyPopularity": 34,
       "spotifyUrl": "https://open.spotify.com/track/3FULGVdv9WnLffkl8flZmI",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -12086,7 +12325,8 @@
         "musicBrainzId": "c30c3989-e773-4a8c-b8d9-5d6605cd7d7a",
         "popularity": 34,
         "followers": 4320
-      }
+      },
+      "spotifyTrackId": "3FULGVdv9WnLffkl8flZmI"
     },
     {
       "id": "1274847086",
@@ -12102,7 +12342,7 @@
       "country": null,
       "spotifyPopularity": 56,
       "spotifyUrl": "https://open.spotify.com/track/5e41siARVudhUUgs2e0Gkl",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -12130,7 +12370,8 @@
         "musicBrainzId": "59b32f07-5776-4b7d-83e9-b7f607bec385",
         "popularity": 44,
         "followers": 17812
-      }
+      },
+      "spotifyTrackId": "5e41siARVudhUUgs2e0Gkl"
     },
     {
       "id": "1274847087",
@@ -12146,7 +12387,7 @@
       "country": null,
       "spotifyPopularity": 43,
       "spotifyUrl": "https://open.spotify.com/track/2W9HRGWzfbzPDAZgaxxXuI",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -12173,7 +12414,8 @@
         "musicBrainzId": "72a5f86b-9038-470b-a778-c9cd97a91fdb",
         "popularity": 48,
         "followers": 3569
-      }
+      },
+      "spotifyTrackId": "2W9HRGWzfbzPDAZgaxxXuI"
     },
     {
       "id": "1274847088",
@@ -12189,7 +12431,7 @@
       "country": null,
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/6xldqZH55iDm08lgop5B4e",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -12217,12 +12459,13 @@
         "musicBrainzId": "3d4eb7a8-8c35-453c-8555-a2b014d68c63",
         "popularity": 26,
         "followers": 1158
-      }
+      },
+      "spotifyTrackId": "6xldqZH55iDm08lgop5B4e"
     },
     {
       "id": "1274847089",
       "externalSongId": "1274847089",
-      "title": "Asereje - Remix",
+      "title": "Asereje - Remixed",
       "artist": "MESTIZA, Las Ketchup",
       "album": "Asereje (Remix)",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c44487ee056fbf46cb5a131e",
@@ -12233,11 +12476,11 @@
       "country": "ES",
       "spotifyPopularity": 57,
       "spotifyUrl": "https://open.spotify.com/track/7yiZOX1floHlpZEskbbZnk",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "D#m",
       "camelot": "2A",
-      "energy": 7,
-      "overallVolume": -11.3,
+      "energy": "7",
+      "overallVolume": "-11.3",
       "cuePoints": "5",
       "clippedPeaks": 88,
       "keywords": [],
@@ -12260,7 +12503,8 @@
         "musicBrainzId": "787549fa-293c-4e4e-8e5f-e94f87d63ae8",
         "popularity": 45,
         "followers": 122265
-      }
+      },
+      "spotifyTrackId": "7yiZOX1floHlpZEskbbZnk"
     },
     {
       "id": "1274847090",
@@ -12276,7 +12520,7 @@
       "country": "GB",
       "spotifyPopularity": 38,
       "spotifyUrl": "https://open.spotify.com/track/6SbArrU7uCp3n9Gb9nCQA6",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "7.0",
@@ -12302,7 +12546,8 @@
         "musicBrainzId": "dcb645bd-ec79-4673-b2ab-d3b9b454dd61",
         "popularity": 47,
         "followers": 79187
-      }
+      },
+      "spotifyTrackId": "6SbArrU7uCp3n9Gb9nCQA6"
     },
     {
       "id": "1274847091",
@@ -12318,7 +12563,7 @@
       "country": null,
       "spotifyPopularity": 46,
       "spotifyUrl": "https://open.spotify.com/track/5dhrh5DBHbKdDeOGzFly9d",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -12345,7 +12590,8 @@
         "musicBrainzId": "3523cd96-0515-4c1b-9d2b-c0f9ed5fd3ab",
         "popularity": 39,
         "followers": 7418
-      }
+      },
+      "spotifyTrackId": "5dhrh5DBHbKdDeOGzFly9d"
     },
     {
       "id": "1274847092",
@@ -12361,7 +12607,7 @@
       "country": null,
       "spotifyPopularity": 35,
       "spotifyUrl": "https://open.spotify.com/track/5ObzfgloKnalXBOm89KCet",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "6.0",
@@ -12389,7 +12635,8 @@
         "musicBrainzId": "039f5eea-72ce-4319-8ca5-5827a3f676ea",
         "popularity": 31,
         "followers": 2000
-      }
+      },
+      "spotifyTrackId": "5ObzfgloKnalXBOm89KCet"
     },
     {
       "id": "1274847093",
@@ -12405,7 +12652,7 @@
       "country": null,
       "spotifyPopularity": 47,
       "spotifyUrl": "https://open.spotify.com/track/6yzybOwjtrCB5C24FwPOVV",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "C#m",
       "camelot": "12A",
       "energy": "7.0",
@@ -12431,7 +12678,8 @@
         "musicBrainzId": "8c027271-ac5f-471c-92e0-7b278a0f5894",
         "popularity": 31,
         "followers": 5028
-      }
+      },
+      "spotifyTrackId": "6yzybOwjtrCB5C24FwPOVV"
     },
     {
       "id": "1274847094",
@@ -12447,7 +12695,7 @@
       "country": null,
       "spotifyPopularity": 26,
       "spotifyUrl": "https://open.spotify.com/track/5GI8gqkVcIvhEAKipC55sM",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -12476,7 +12724,8 @@
         "musicBrainzId": "93a942ef-fb62-4ddf-8355-8f80e18dbc73",
         "popularity": 26,
         "followers": 1401
-      }
+      },
+      "spotifyTrackId": "5GI8gqkVcIvhEAKipC55sM"
     },
     {
       "id": "1274847095",
@@ -12492,7 +12741,7 @@
       "country": null,
       "spotifyPopularity": 49,
       "spotifyUrl": "https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -12519,7 +12768,8 @@
         "musicBrainzId": "52091eda-4b16-47eb-92ce-505b7c61a561",
         "popularity": 44,
         "followers": 13557
-      }
+      },
+      "spotifyTrackId": "5TUiAVSMflM4URvewjSNjF"
     },
     {
       "id": "1274847096",
@@ -12535,7 +12785,7 @@
       "country": null,
       "spotifyPopularity": 42,
       "spotifyUrl": "https://open.spotify.com/track/6uwAEjpPaWDkjcwtg4Iil5",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -12562,7 +12812,8 @@
         "musicBrainzId": "09e4e3b9-1d4e-43e2-a676-ce1060451324",
         "popularity": 32,
         "followers": 1253
-      }
+      },
+      "spotifyTrackId": "6uwAEjpPaWDkjcwtg4Iil5"
     },
     {
       "id": "1274847097",
@@ -12578,7 +12829,7 @@
       "country": "DE",
       "spotifyPopularity": 38,
       "spotifyUrl": "https://open.spotify.com/track/3MJT8KsTFVUipHG7nUIFVR",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "7.0",
@@ -12606,7 +12857,8 @@
         "musicBrainzId": "1577f48a-dc2d-45f1-b7ac-64c25b44bca8",
         "popularity": 43,
         "followers": 18577
-      }
+      },
+      "spotifyTrackId": "3MJT8KsTFVUipHG7nUIFVR"
     },
     {
       "id": "1274847098",
@@ -12622,7 +12874,7 @@
       "country": "DE",
       "spotifyPopularity": 44,
       "spotifyUrl": "https://open.spotify.com/track/74gBakAVoXdYopdAUCvrlJ",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -12650,7 +12902,8 @@
         "musicBrainzId": "d2392bfa-d64e-4a78-9635-b604aa14cee1",
         "popularity": 40,
         "followers": 10826
-      }
+      },
+      "spotifyTrackId": "74gBakAVoXdYopdAUCvrlJ"
     },
     {
       "id": "1274847099",
@@ -12666,7 +12919,7 @@
       "country": "VE",
       "spotifyPopularity": 36,
       "spotifyUrl": "https://open.spotify.com/track/7xbxgV9sNkLAS3Ur4d6OO0",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "8.0",
@@ -12694,7 +12947,8 @@
         "musicBrainzId": "ca8fda15-2c2b-4f77-8cb2-5d8db0cf08aa",
         "popularity": 43,
         "followers": 1476
-      }
+      },
+      "spotifyTrackId": "7xbxgV9sNkLAS3Ur4d6OO0"
     },
     {
       "id": "1274847100",
@@ -12710,7 +12964,7 @@
       "country": "ES",
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/2sl2u5MW5nblSoS8X5Tul0",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "7.0",
@@ -12737,7 +12991,8 @@
         "musicBrainzId": "787549fa-293c-4e4e-8e5f-e94f87d63ae8",
         "popularity": 45,
         "followers": 122265
-      }
+      },
+      "spotifyTrackId": "2sl2u5MW5nblSoS8X5Tul0"
     },
     {
       "id": "1274847101",
@@ -12753,7 +13008,7 @@
       "country": null,
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/1ccdgzS6nNBYsLE4f0fug8",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -12783,7 +13038,8 @@
         "musicBrainzId": "c408419e-2104-4916-bc41-138a8efb2c5c",
         "popularity": 38,
         "followers": 5925
-      }
+      },
+      "spotifyTrackId": "1ccdgzS6nNBYsLE4f0fug8"
     },
     {
       "id": "1274847102",
@@ -12799,7 +13055,7 @@
       "country": null,
       "spotifyPopularity": 38,
       "spotifyUrl": "https://open.spotify.com/track/2MU0oRAOCQj9eiEpkBSYFi",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "G#m",
       "camelot": "1A",
       "energy": "6.0",
@@ -12827,7 +13083,8 @@
         "musicBrainzId": "039f5eea-72ce-4319-8ca5-5827a3f676ea",
         "popularity": 31,
         "followers": 2000
-      }
+      },
+      "spotifyTrackId": "2MU0oRAOCQj9eiEpkBSYFi"
     },
     {
       "id": "1274847103",
@@ -12843,7 +13100,7 @@
       "country": "RO",
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/26vk0Xdt4Z9bCqgOLRt4MG",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "8.0",
@@ -12868,7 +13125,8 @@
         "musicBrainzId": "dc8e4b21-863e-4dee-aa18-b35ff6b35178",
         "popularity": 37,
         "followers": 1567
-      }
+      },
+      "spotifyTrackId": "26vk0Xdt4Z9bCqgOLRt4MG"
     },
     {
       "id": "1274847104",
@@ -12884,7 +13142,7 @@
       "country": null,
       "spotifyPopularity": 38,
       "spotifyUrl": "https://open.spotify.com/track/2Bz7vNcWHR4eGXCCmRZwgU",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "7.0",
@@ -12910,7 +13168,8 @@
         "musicBrainzId": "04b62276-9fb7-472f-8b90-e972d73d0d00",
         "popularity": 25,
         "followers": 1129
-      }
+      },
+      "spotifyTrackId": "2Bz7vNcWHR4eGXCCmRZwgU"
     },
     {
       "id": "1274847105",
@@ -12926,7 +13185,7 @@
       "country": "IT",
       "spotifyPopularity": 43,
       "spotifyUrl": "https://open.spotify.com/track/4IwUuC1xvAS1klTOFl5mHl",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -12953,7 +13212,8 @@
         "musicBrainzId": "c8b7a65a-f7b4-4bbf-8ca8-7d62a4e5f102",
         "popularity": 43,
         "followers": 11282
-      }
+      },
+      "spotifyTrackId": "4IwUuC1xvAS1klTOFl5mHl"
     },
     {
       "id": "1274847106",
@@ -12969,7 +13229,7 @@
       "country": "MX",
       "spotifyPopularity": 49,
       "spotifyUrl": "https://open.spotify.com/track/5mQRdRLA6nONfw7SC4vb4k",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Bm",
       "camelot": "10A",
       "energy": "7.0",
@@ -13008,7 +13268,8 @@
         "musicBrainzId": "b0eb4fac-a300-4d2b-8a26-cf03b29e5287",
         "popularity": 56,
         "followers": 87107
-      }
+      },
+      "spotifyTrackId": "5mQRdRLA6nONfw7SC4vb4k"
     },
     {
       "id": "1274847107",
@@ -13024,7 +13285,7 @@
       "country": "US",
       "spotifyPopularity": 36,
       "spotifyUrl": "https://open.spotify.com/track/7wudvcHO12dfRQSRoghUxC",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Fm",
       "camelot": "4A",
       "energy": "7.0",
@@ -13049,7 +13310,8 @@
         "musicBrainzId": "c98426ce-5f63-4240-8dcd-3a5b169979d8",
         "popularity": 35,
         "followers": 26902
-      }
+      },
+      "spotifyTrackId": "7wudvcHO12dfRQSRoghUxC"
     },
     {
       "id": "1274847108",
@@ -13065,7 +13327,7 @@
       "country": null,
       "spotifyPopularity": 56,
       "spotifyUrl": "https://open.spotify.com/track/06uxVLAbj4sZOMQbN77qS5",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "D#m",
       "camelot": "2A",
       "energy": "7.0",
@@ -13093,7 +13355,8 @@
         "musicBrainzId": "e317db45-e31e-4bee-8669-a5c0b8908886",
         "popularity": 42,
         "followers": 3277
-      }
+      },
+      "spotifyTrackId": "06uxVLAbj4sZOMQbN77qS5"
     },
     {
       "id": "1274847109",
@@ -13109,7 +13372,7 @@
       "country": "FR",
       "spotifyPopularity": 48,
       "spotifyUrl": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "7.0",
@@ -13137,7 +13400,8 @@
         "musicBrainzId": "141472ac-0262-4e57-85ac-2850a7793e35",
         "popularity": 52,
         "followers": 133316
-      }
+      },
+      "spotifyTrackId": "0Rgi5EktdB5EFgMjU4YTnx"
     },
     {
       "id": "1274847110",
@@ -13153,7 +13417,7 @@
       "country": "US",
       "spotifyPopularity": 46,
       "spotifyUrl": "https://open.spotify.com/track/2hT13V1Tk7HhsiR4IFWDxu",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -13180,7 +13444,8 @@
         "musicBrainzId": "4021533e-f499-4de6-8325-b2cd4bf5105e",
         "popularity": 34,
         "followers": 1936
-      }
+      },
+      "spotifyTrackId": "2hT13V1Tk7HhsiR4IFWDxu"
     },
     {
       "id": "1274847111",
@@ -13196,7 +13461,7 @@
       "country": null,
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/20pMlskVtdMZ4dYwYVa8F1",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -13221,7 +13486,8 @@
         "musicBrainzId": null,
         "popularity": 21,
         "followers": 144
-      }
+      },
+      "spotifyTrackId": "20pMlskVtdMZ4dYwYVa8F1"
     },
     {
       "id": "1274847112",
@@ -13237,7 +13503,7 @@
       "country": null,
       "spotifyPopularity": 61,
       "spotifyUrl": "https://open.spotify.com/track/1y6m3Qd5qqcq4HDhy97XnR",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -13275,7 +13541,8 @@
         "musicBrainzId": "e5a59a2e-ce26-40f1-b3fe-e21143507759",
         "popularity": 47,
         "followers": 7781
-      }
+      },
+      "spotifyTrackId": "1y6m3Qd5qqcq4HDhy97XnR"
     },
     {
       "id": "1274847113",
@@ -13291,7 +13558,7 @@
       "country": null,
       "spotifyPopularity": 25,
       "spotifyUrl": "https://open.spotify.com/track/15GfdIMbDp2Xa2F9qqan6Y",
-      "tempo": 129,
+      "tempo": 129.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -13316,7 +13583,8 @@
         "musicBrainzId": null,
         "popularity": 14,
         "followers": 304
-      }
+      },
+      "spotifyTrackId": "15GfdIMbDp2Xa2F9qqan6Y"
     },
     {
       "id": "1274847114",
@@ -13332,7 +13600,7 @@
       "country": null,
       "spotifyPopularity": 46,
       "spotifyUrl": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -13359,7 +13627,8 @@
         "musicBrainzId": "61e5ff56-d6af-4818-9ee9-4bcc4d1f7d9a",
         "popularity": 46,
         "followers": 10260
-      }
+      },
+      "spotifyTrackId": "7Jy94rhQOwizzFMRop4xBc"
     },
     {
       "id": "1274847115",
@@ -13375,7 +13644,7 @@
       "country": null,
       "spotifyPopularity": 36,
       "spotifyUrl": "https://open.spotify.com/track/7a5evY4g66VuvU3DqeCdix",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -13402,7 +13671,8 @@
         "musicBrainzId": null,
         "popularity": 18,
         "followers": 245
-      }
+      },
+      "spotifyTrackId": "7a5evY4g66VuvU3DqeCdix"
     },
     {
       "id": "1274847116",
@@ -13418,7 +13688,7 @@
       "country": "NL",
       "spotifyPopularity": 31,
       "spotifyUrl": "https://open.spotify.com/track/7h84kkGWk5WMo31VBnQZpx",
-      "tempo": 128,
+      "tempo": 128.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "8.0",
@@ -13446,7 +13716,8 @@
         "musicBrainzId": "2751f939-3073-4ce4-9deb-01a4c754caa0",
         "popularity": 44,
         "followers": 66439
-      }
+      },
+      "spotifyTrackId": "7h84kkGWk5WMo31VBnQZpx"
     },
     {
       "id": "1274847117",
@@ -13462,7 +13733,7 @@
       "country": null,
       "spotifyPopularity": 25,
       "spotifyUrl": "https://open.spotify.com/track/1ereDKEOhQz7Z0xxdEmUoF",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "8.0",
@@ -13488,7 +13759,8 @@
         "musicBrainzId": "5ad40338-d064-4cd9-a1ec-631d3820aca2",
         "popularity": 22,
         "followers": 11607
-      }
+      },
+      "spotifyTrackId": "1ereDKEOhQz7Z0xxdEmUoF"
     },
     {
       "id": "1274847118",
@@ -13504,7 +13776,7 @@
       "country": null,
       "spotifyPopularity": 32,
       "spotifyUrl": "https://open.spotify.com/track/1SlrniWAFGryHhmqxJUqne",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "7.0",
@@ -13533,7 +13805,8 @@
         "musicBrainzId": null,
         "popularity": 39,
         "followers": 10501
-      }
+      },
+      "spotifyTrackId": "1SlrniWAFGryHhmqxJUqne"
     },
     {
       "id": "1274847119",
@@ -13549,7 +13822,7 @@
       "country": null,
       "spotifyPopularity": 34,
       "spotifyUrl": "https://open.spotify.com/track/1mnkZzNVrmAWTgr4eSKFW2",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -13578,7 +13851,8 @@
         "musicBrainzId": "71394720-279b-4068-985d-f5c4f6947b1f",
         "popularity": 46,
         "followers": 24589
-      }
+      },
+      "spotifyTrackId": "1mnkZzNVrmAWTgr4eSKFW2"
     },
     {
       "id": "1274847120",
@@ -13594,7 +13868,7 @@
       "country": null,
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/7al4TP57jGgnUrHyqEScdk",
-      "tempo": 120,
+      "tempo": 120.0,
       "musicalKey": "F#",
       "camelot": "2B",
       "energy": "6.0",
@@ -13622,7 +13896,8 @@
         "musicBrainzId": null,
         "popularity": 19,
         "followers": 444
-      }
+      },
+      "spotifyTrackId": "7al4TP57jGgnUrHyqEScdk"
     },
     {
       "id": "1274847121",
@@ -13638,7 +13913,7 @@
       "country": null,
       "spotifyPopularity": 45,
       "spotifyUrl": "https://open.spotify.com/track/2nXLbyB5DT39DpX8diZGyg",
-      "tempo": 126,
+      "tempo": 126.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -13666,7 +13941,8 @@
         "musicBrainzId": "59b32f07-5776-4b7d-83e9-b7f607bec385",
         "popularity": 44,
         "followers": 17812
-      }
+      },
+      "spotifyTrackId": "2nXLbyB5DT39DpX8diZGyg"
     },
     {
       "id": "1274847122",
@@ -13682,7 +13958,7 @@
       "country": null,
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/7obadJJcC51vD5Eq9EdZcz",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Cm",
       "camelot": "5A",
       "energy": "6.0",
@@ -13710,7 +13986,8 @@
         "musicBrainzId": null,
         "popularity": 15,
         "followers": 189
-      }
+      },
+      "spotifyTrackId": "7obadJJcC51vD5Eq9EdZcz"
     },
     {
       "id": "1274847123",
@@ -13726,7 +14003,7 @@
       "country": null,
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/4d5LWXmnl0vJtz84GsTR8G",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -13752,7 +14029,8 @@
         "musicBrainzId": "179e4d3a-37a7-4600-a4e9-a55e1259fa09",
         "popularity": 25,
         "followers": 2421
-      }
+      },
+      "spotifyTrackId": "4d5LWXmnl0vJtz84GsTR8G"
     },
     {
       "id": "1274847124",
@@ -13768,7 +14046,7 @@
       "country": "IT",
       "spotifyPopularity": 51,
       "spotifyUrl": "https://open.spotify.com/track/53dcqxcGIC4FfC18JkKVZF",
-      "tempo": 122,
+      "tempo": 122.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "7.0",
@@ -13795,7 +14073,8 @@
         "musicBrainzId": "95f7c24e-2879-4abb-ba35-906c467fc704",
         "popularity": 34,
         "followers": 3281
-      }
+      },
+      "spotifyTrackId": "53dcqxcGIC4FfC18JkKVZF"
     },
     {
       "id": "1274847125",
@@ -13811,7 +14090,7 @@
       "country": null,
       "spotifyPopularity": 42,
       "spotifyUrl": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "F#m",
       "camelot": "11A",
       "energy": "7.0",
@@ -13838,7 +14117,8 @@
         "musicBrainzId": "de633ead-df0d-41f5-ab30-6000efaa9ab6",
         "popularity": 40,
         "followers": 3893
-      }
+      },
+      "spotifyTrackId": "4P043YdrPKrNrF8aqRgGrB"
     },
     {
       "id": "1274847126",
@@ -13854,7 +14134,7 @@
       "country": null,
       "spotifyPopularity": 26,
       "spotifyUrl": "https://open.spotify.com/track/4kqOmCec2jdBP8BhWPFK2V",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "6.0",
@@ -13882,7 +14162,8 @@
         "musicBrainzId": "039f5eea-72ce-4319-8ca5-5827a3f676ea",
         "popularity": 31,
         "followers": 2000
-      }
+      },
+      "spotifyTrackId": "4kqOmCec2jdBP8BhWPFK2V"
     },
     {
       "id": "1274847127",
@@ -13898,7 +14179,7 @@
       "country": "ES",
       "spotifyPopularity": 39,
       "spotifyUrl": "https://open.spotify.com/track/0Za39zQ6MJY87Q9UyUBCiA",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Dm",
       "camelot": "7A",
       "energy": "7.0",
@@ -13925,7 +14206,8 @@
         "musicBrainzId": "4b63550e-e4a7-4957-b4e8-7210ba4e6377",
         "popularity": 48,
         "followers": 6167
-      }
+      },
+      "spotifyTrackId": "0Za39zQ6MJY87Q9UyUBCiA"
     },
     {
       "id": "1274847128",
@@ -13941,7 +14223,7 @@
       "country": "ES",
       "spotifyPopularity": 32,
       "spotifyUrl": "https://open.spotify.com/track/3ial7N7D73jkdujmKlJbYd",
-      "tempo": 119,
+      "tempo": 119.0,
       "musicalKey": "Em",
       "camelot": "9A",
       "energy": "6.0",
@@ -13968,7 +14250,8 @@
         "musicBrainzId": "787549fa-293c-4e4e-8e5f-e94f87d63ae8",
         "popularity": 45,
         "followers": 122265
-      }
+      },
+      "spotifyTrackId": "3ial7N7D73jkdujmKlJbYd"
     },
     {
       "id": "1274847129",
@@ -13984,7 +14267,7 @@
       "country": null,
       "spotifyPopularity": 41,
       "spotifyUrl": "https://open.spotify.com/track/3cKLle122U9gqRgR1CK6NJ",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "6.0",
@@ -14010,7 +14293,8 @@
         "musicBrainzId": null,
         "popularity": 27,
         "followers": 164
-      }
+      },
+      "spotifyTrackId": "3cKLle122U9gqRgR1CK6NJ"
     },
     {
       "id": "1274847130",
@@ -14026,7 +14310,7 @@
       "country": "ES",
       "spotifyPopularity": 35,
       "spotifyUrl": "https://open.spotify.com/track/5hfu0iQ5wta5pfePFBLi6c",
-      "tempo": 124,
+      "tempo": 124.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -14054,7 +14338,8 @@
         "musicBrainzId": "ccc144dc-dd70-4808-8480-52cb7a0771fd",
         "popularity": 43,
         "followers": 14531
-      }
+      },
+      "spotifyTrackId": "5hfu0iQ5wta5pfePFBLi6c"
     },
     {
       "id": "1274847131",
@@ -14070,7 +14355,7 @@
       "country": null,
       "spotifyPopularity": 33,
       "spotifyUrl": "https://open.spotify.com/track/1By1GxoNtG0PazXvVxs7lM",
-      "tempo": 123,
+      "tempo": 123.0,
       "musicalKey": "Am",
       "camelot": "8A",
       "energy": "7.0",
@@ -14098,7 +14383,8 @@
         "musicBrainzId": "14bb90ff-55ba-43a7-8731-7e7789e36361",
         "popularity": 39,
         "followers": 12470
-      }
+      },
+      "spotifyTrackId": "1By1GxoNtG0PazXvVxs7lM"
     },
     {
       "id": "1274847132",
@@ -14114,7 +14400,7 @@
       "country": "US",
       "spotifyPopularity": 38,
       "spotifyUrl": "https://open.spotify.com/track/6ufRphxqocGaTYy09DOXtZ",
-      "tempo": 125,
+      "tempo": 125.0,
       "musicalKey": "Gm",
       "camelot": "6A",
       "energy": "6.0",
@@ -14142,7 +14428,8 @@
         "musicBrainzId": "7af179ed-2630-4c67-9f40-e550de71d372",
         "popularity": 42,
         "followers": 60860
-      }
+      },
+      "spotifyTrackId": "6ufRphxqocGaTYy09DOXtZ"
     }
   ],
   "source": {
@@ -14153,5 +14440,6 @@
     "audioLibrary": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY",
     "outputDirectory": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\src\\data\\JSON\\playlists"
   },
-  "updatedAt": "2026-08-22T23:47:40.044Z"
+  "updatedAt": "2026-08-22T23:47:40.044Z",
+  "canonicalSyncAt": "2026-09-04T23:04:10"
 }
