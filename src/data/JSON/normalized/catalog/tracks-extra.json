@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
   "catalogType": "extra",
-  "updatedAt": "2026-09-14T15:01:30",
+  "updatedAt": "2026-09-14T19:52:05",
   "tracks": {
     "53": {
       "album": "SOS",
@@ -146959,7 +146959,21 @@
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274853000-1274853999\\1274853950__Santaferia__Me Voy.mp3",
       "dateAdded": "2026-09-14",
       "rating": null,
-      "artistDetails": null
+      "artistDetails": {
+        "artistId": "65354",
+        "name": "Santaferia",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb6eb05b1dc7314a6364c9eda4",
+        "genres": [
+          "cumbia",
+          "mambo"
+        ],
+        "country": null,
+        "spotifyUrl": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o",
+        "spotifyId": "22QaKKmBIH3QiotuG30W3o",
+        "musicBrainzId": "6e2145a6-5374-4464-8dfd-b50ce4f957dc",
+        "popularity": 61,
+        "followers": 1484143
+      }
     },
     "1274853951": {
       "album": "Compilado Santiago Caliente Cumbia Chilena",
@@ -157182,7 +157196,7 @@
       "album": "Comenzó el Frenesí",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b7ff72048d458b12c050ff85",
       "genre": "cumbia",
-      "country": null,
+      "country": "US",
       "spotifyUrl": "https://open.spotify.com/track/3G4BKeUWOEwzfYijaE1LdC",
       "camelot": "9A",
       "overallVolume": "-9.3",
@@ -157198,7 +157212,28 @@
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274837000-1274837999\\1274837090__Comenzó el Frenesí__La Poco Original.mp3",
       "dateAdded": "2026-09-14",
       "rating": null,
-      "artistDetails": null
+      "artistDetails": {
+        "artistId": "98732",
+        "name": "La Poco Original",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe0b5da583369a995896db340",
+        "genres": [
+          "rock",
+          "folk rock",
+          "country rock",
+          "soft rock",
+          "pop rock",
+          "yacht rock",
+          "aor",
+          "2008 universal fire victim",
+          "cumbia"
+        ],
+        "country": "US",
+        "spotifyUrl": "https://open.spotify.com/artist/40fMXMGZaqK6uVJQKAcSPC",
+        "spotifyId": "40fMXMGZaqK6uVJQKAcSPC",
+        "musicBrainzId": null,
+        "popularity": 1,
+        "followers": 1056
+      }
     },
     "1274837295": {
       "album": "Comenzó el Frenesí",
@@ -157376,7 +157411,7 @@
       "album": "Comenzó el Frenesí",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b7ff72048d458b12c050ff85",
       "genre": "cumbia",
-      "country": null,
+      "country": "US",
       "spotifyUrl": "https://open.spotify.com/track/63eo1NTJx0pmOPBTFm422w",
       "camelot": "10A",
       "overallVolume": "-11.5",
@@ -157392,7 +157427,28 @@
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274837000-1274837999\\1274837152__El Santo__La Poco Original.mp3",
       "dateAdded": "2026-09-14",
       "rating": null,
-      "artistDetails": null
+      "artistDetails": {
+        "artistId": "98732",
+        "name": "La Poco Original",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe0b5da583369a995896db340",
+        "genres": [
+          "rock",
+          "folk rock",
+          "country rock",
+          "soft rock",
+          "pop rock",
+          "yacht rock",
+          "aor",
+          "2008 universal fire victim",
+          "cumbia"
+        ],
+        "country": "US",
+        "spotifyUrl": "https://open.spotify.com/artist/40fMXMGZaqK6uVJQKAcSPC",
+        "spotifyId": "40fMXMGZaqK6uVJQKAcSPC",
+        "musicBrainzId": null,
+        "popularity": 1,
+        "followers": 1056
+      }
     },
     "1274837218": {
       "album": "Comenzó el Frenesí",
@@ -158227,7 +158283,7 @@
         "country": null,
         "spotifyUrl": "https://open.spotify.com/artist/0f0DkSCV6j8lR4UviNAP6C",
         "spotifyId": "0f0DkSCV6j8lR4UviNAP6C",
-        "musicBrainzId": null,
+        "musicBrainzId": "9bd5e921-b75a-4822-acd0-528491c4cc7f",
         "popularity": 12,
         "followers": 6859
       }
@@ -159081,6 +159137,398 @@
         "musicBrainzId": "7fdcc6b6-267f-4df9-95e5-454f90572db7",
         "popularity": 37,
         "followers": 91099
+      }
+    },
+    "1274853905": {
+      "album": "La triste realidad",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a4f2a6b81956ff689df6b29c",
+      "genre": "Pop",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/6lEk7bnyxoABOownxhgi6O",
+      "camelot": "11B",
+      "overallVolume": "-9.9",
+      "cuePoints": "8",
+      "clippedPeaks": 42,
+      "keywords": [],
+      "comments": "A - Energy 5",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274853000-1274853999\\1274853905__Guachupé__Cuando quieras.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "15690",
+        "name": "Guachupé",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9acc78b80886a0a9424c0577",
+        "genres": [
+          "cumbia"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K",
+        "spotifyId": "1IbUoO6fomi5BxFk5X6n1K",
+        "musicBrainzId": "c52f0134-0a34-4fdb-a51e-d2661499f855",
+        "popularity": 37,
+        "followers": 63204
+      }
+    },
+    "1274853994": {
+      "album": "Terapia Intensiva",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a4c0ffe5088a8fd721cfb394",
+      "genre": "Latin Music",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/46PnVvF3wWiKyAfyMr1gUr",
+      "camelot": "7A",
+      "overallVolume": "-11.9",
+      "cuePoints": "8",
+      "clippedPeaks": 10,
+      "keywords": [],
+      "comments": "Dm - Energy 7",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274853000-1274853999\\1274853994__Villa Cariño__Clandestino.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "13020",
+        "name": "Villa Cariño",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb315f4c419fcda6a351e5ec3c",
+        "genres": [
+          "cumbia",
+          "mambo"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1",
+        "spotifyId": "3BBhJ4tssZm6vSQQ5xPDC1",
+        "musicBrainzId": "d519d914-9244-46b3-9356-883232403fe5",
+        "popularity": 47,
+        "followers": 319204
+      }
+    },
+    "1274854092": {
+      "album": "La triste realidad",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a4f2a6b81956ff689df6b29c",
+      "genre": "Pop",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/28uEDb3lNMGtvfbjDZDBiX",
+      "camelot": "9A",
+      "overallVolume": "-10.3",
+      "cuePoints": "4",
+      "clippedPeaks": 41,
+      "keywords": [],
+      "comments": "Em - Energy 7",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854092__Guachupé__Morir de vino.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "15690",
+        "name": "Guachupé",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9acc78b80886a0a9424c0577",
+        "genres": [
+          "cumbia"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K",
+        "spotifyId": "1IbUoO6fomi5BxFk5X6n1K",
+        "musicBrainzId": "c52f0134-0a34-4fdb-a51e-d2661499f855",
+        "popularity": 37,
+        "followers": 63204
+      }
+    },
+    "1274854093": {
+      "album": "La triste realidad",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a4f2a6b81956ff689df6b29c",
+      "genre": "Pop",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/2Nco3rWLTLb1IcJYwPLUHF",
+      "camelot": "8A",
+      "overallVolume": "-11.0",
+      "cuePoints": "5",
+      "clippedPeaks": 21,
+      "keywords": [],
+      "comments": "Am - Energy 7",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854093__Guachupé__La ruta perdida.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "15690",
+        "name": "Guachupé",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9acc78b80886a0a9424c0577",
+        "genres": [
+          "cumbia"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K",
+        "spotifyId": "1IbUoO6fomi5BxFk5X6n1K",
+        "musicBrainzId": "c52f0134-0a34-4fdb-a51e-d2661499f855",
+        "popularity": 37,
+        "followers": 63204
+      }
+    },
+    "1274854094": {
+      "album": "La triste realidad",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a4f2a6b81956ff689df6b29c",
+      "genre": "Pop",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/6srBUAaXOlN1SjJ8S4efC0",
+      "camelot": "10A",
+      "overallVolume": "-9.9",
+      "cuePoints": "6",
+      "clippedPeaks": 75,
+      "keywords": [],
+      "comments": "Bm - Energy 6",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854094__Guachupé__Delincuentes.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "15690",
+        "name": "Guachupé",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9acc78b80886a0a9424c0577",
+        "genres": [
+          "cumbia"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K",
+        "spotifyId": "1IbUoO6fomi5BxFk5X6n1K",
+        "musicBrainzId": "c52f0134-0a34-4fdb-a51e-d2661499f855",
+        "popularity": 37,
+        "followers": 63204
+      }
+    },
+    "1274854095": {
+      "album": "La triste realidad",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a4f2a6b81956ff689df6b29c",
+      "genre": "Pop",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/6Kzlo06xuqVdjy1yVDJGLm",
+      "camelot": "11B",
+      "overallVolume": "-9.5",
+      "cuePoints": "8",
+      "clippedPeaks": 68,
+      "keywords": [],
+      "comments": "A - Energy 6",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854095__Guachupé__Las capsulocas.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "15690",
+        "name": "Guachupé",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9acc78b80886a0a9424c0577",
+        "genres": [
+          "cumbia"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K",
+        "spotifyId": "1IbUoO6fomi5BxFk5X6n1K",
+        "musicBrainzId": "c52f0134-0a34-4fdb-a51e-d2661499f855",
+        "popularity": 37,
+        "followers": 63204
+      }
+    },
+    "1274854142": {
+      "album": "Prohibido",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b8ca1e0244a12872ef2147da",
+      "genre": "Latin Music",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/7scEdtchGNBYNJcoTRQCAN",
+      "camelot": "7A",
+      "overallVolume": "-9.6",
+      "cuePoints": "8",
+      "clippedPeaks": 4951,
+      "keywords": [],
+      "comments": "Dm - Energy 7",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854142__Tomo Como Rey__El Mundo No Se Va a Acabar.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "16699",
+        "name": "Tomo Como Rey",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9f85ddac0a549ce98b329fa5",
+        "genres": [
+          "cumbia"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD",
+        "spotifyId": "7DGQ1BwG33jSlcQC6krZLD",
+        "musicBrainzId": "7fdcc6b6-267f-4df9-95e5-454f90572db7",
+        "popularity": 37,
+        "followers": 91099
+      }
+    },
+    "1274854145": {
+      "album": "Prohibido",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b8ca1e0244a12872ef2147da",
+      "genre": "Latin Music",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/3cy1YLinil0foqijVVIODQ",
+      "camelot": "7A",
+      "overallVolume": "-10.4",
+      "cuePoints": "8",
+      "clippedPeaks": 3760,
+      "keywords": [],
+      "comments": "Dm - Energy 7",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854145__Tomo Como Rey__La Partusa.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "16699",
+        "name": "Tomo Como Rey",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9f85ddac0a549ce98b329fa5",
+        "genres": [
+          "cumbia"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD",
+        "spotifyId": "7DGQ1BwG33jSlcQC6krZLD",
+        "musicBrainzId": "7fdcc6b6-267f-4df9-95e5-454f90572db7",
+        "popularity": 37,
+        "followers": 91099
+      }
+    },
+    "1274854149": {
+      "album": "Prohibido",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b8ca1e0244a12872ef2147da",
+      "genre": "Latin Music",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/7liaxt3mMeE5Opff9LJrfJ",
+      "camelot": "1A",
+      "overallVolume": "-10.0",
+      "cuePoints": "8",
+      "clippedPeaks": 5500,
+      "keywords": [],
+      "comments": "G#m - Energy 7",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854149__Tomo Como Rey__Gozadora.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "16699",
+        "name": "Tomo Como Rey",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9f85ddac0a549ce98b329fa5",
+        "genres": [
+          "cumbia"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD",
+        "spotifyId": "7DGQ1BwG33jSlcQC6krZLD",
+        "musicBrainzId": "7fdcc6b6-267f-4df9-95e5-454f90572db7",
+        "popularity": 37,
+        "followers": 91099
+      }
+    },
+    "1274854151": {
+      "album": "Prohibido",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b8ca1e0244a12872ef2147da",
+      "genre": "Latin Music",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/60pLzabBh8kHY4UghGx2Ce",
+      "camelot": "6A",
+      "overallVolume": "-10.1",
+      "cuePoints": "8",
+      "clippedPeaks": 3525,
+      "keywords": [],
+      "comments": "Gm - Energy 7",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854151__Tomo Como Rey__No Hace Falta.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "16699",
+        "name": "Tomo Como Rey",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9f85ddac0a549ce98b329fa5",
+        "genres": [
+          "cumbia"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD",
+        "spotifyId": "7DGQ1BwG33jSlcQC6krZLD",
+        "musicBrainzId": "7fdcc6b6-267f-4df9-95e5-454f90572db7",
+        "popularity": 37,
+        "followers": 91099
+      }
+    },
+    "1274854153": {
+      "album": "Prohibido",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b8ca1e0244a12872ef2147da",
+      "genre": "Latin Music",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/7EDJbNrOm6azuROD70FQJw",
+      "camelot": "5A",
+      "overallVolume": "-10.3",
+      "cuePoints": "5",
+      "clippedPeaks": 4209,
+      "keywords": [],
+      "comments": "Cm - Energy 7",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854153__Tomo Como Rey__No Podrás Olvidarte de Mi.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "16699",
+        "name": "Tomo Como Rey",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9f85ddac0a549ce98b329fa5",
+        "genres": [
+          "cumbia"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD",
+        "spotifyId": "7DGQ1BwG33jSlcQC6krZLD",
+        "musicBrainzId": "7fdcc6b6-267f-4df9-95e5-454f90572db7",
+        "popularity": 37,
+        "followers": 91099
+      }
+    },
+    "1274854182": {
+      "album": "Compilado Santiago Caliente Cumbia Chilena",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273085c8c9bc7522b74aca3ead8",
+      "genre": null,
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/51dLj7DdLxfX2zzNYGJmc9",
+      "camelot": "9A",
+      "overallVolume": "-9.8",
+      "cuePoints": "8",
+      "clippedPeaks": 1245,
+      "keywords": [],
+      "comments": "Em - Energy 6",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854182__Combo Ginebra__Pasto seco.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "94411",
+        "name": "Combo Ginebra",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eba9aeca16eaf381f13ef58d2f",
+        "genres": [
+          "cumbia"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/2L5b3yHGpn7RQi4wd3vcU2",
+        "spotifyId": "2L5b3yHGpn7RQi4wd3vcU2",
+        "musicBrainzId": "703dee0b-a2c3-4a7f-a0f9-6f02dd633d63",
+        "popularity": 23,
+        "followers": 17307
+      }
+    },
+    "1274854191": {
+      "album": "Terapia Intensiva",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a4c0ffe5088a8fd721cfb394",
+      "genre": "Latin Music",
+      "country": "CL",
+      "spotifyUrl": "https://open.spotify.com/track/2mXG3oAxFkMG6kekC0QqGT",
+      "camelot": "11A",
+      "overallVolume": "-10.9",
+      "cuePoints": "8",
+      "clippedPeaks": 62,
+      "keywords": [],
+      "comments": "F#m - Energy 6",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854191__Villa Cariño__El Mandamiento.mp3",
+      "dateAdded": "2026-09-14",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "13020",
+        "name": "Villa Cariño",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb315f4c419fcda6a351e5ec3c",
+        "genres": [
+          "cumbia",
+          "mambo"
+        ],
+        "country": "CL",
+        "spotifyUrl": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1",
+        "spotifyId": "3BBhJ4tssZm6vSQQ5xPDC1",
+        "musicBrainzId": "d519d914-9244-46b3-9356-883232403fe5",
+        "popularity": 47,
+        "followers": 319204
       }
     }
   }
