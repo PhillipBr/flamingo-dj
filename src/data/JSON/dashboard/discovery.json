@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T18:55:56",
+  "generatedAt": "2026-09-23T19:36:33",
   "currentWeek": "2026-W39",
   "rules": {
     "popularityMin": 30,
@@ -21,18 +21,18 @@
   },
   "summary": {
     "currentRelevant": 3051,
-    "newThisWeek": 8,
+    "newThisWeek": 0,
     "alreadyDjComplete": 265,
     "needsDjProcessing": 2786,
-    "newDownloadCandidates": 6
+    "newDownloadCandidates": 0
   },
   "spotifyPlaylist": {
     "created": false,
-    "reason": "ALREADY_EXISTS_IN_STATE",
-    "name": "FLAMINGO DISCOVERY 2026-W39",
-    "id": "7m0qrHDX9HYHL5533Cp1ov",
-    "url": "https://open.spotify.com/playlist/7m0qrHDX9HYHL5533Cp1ov",
-    "trackCount": 300
+    "reason": "DISABLED_OR_EMPTY",
+    "name": null,
+    "id": null,
+    "url": null,
+    "trackCount": 0
   },
   "currentRelevantIds": [
     "4",
@@ -3087,24 +3087,8 @@
     "1274857677",
     "1274857681"
   ],
-  "newThisWeekIds": [
-    "99",
-    "124",
-    "1889",
-    "4698",
-    "17056",
-    "622433",
-    "1274285",
-    "1274801749"
-  ],
-  "downloadCandidateIds": [
-    "99",
-    "4698",
-    "17056",
-    "622433",
-    "1274285",
-    "1274801749"
-  ],
+  "newThisWeekIds": [],
+  "downloadCandidateIds": [],
   "tracks": [
     {
       "songId": "1274848093",
@@ -29761,7 +29745,7 @@
       "freshness": 25.0,
       "platformCount": 1,
       "countryCount": 1,
-      "isNewDiscovery": true,
+      "isNewDiscovery": false,
       "firstSeenWeek": "2026-W39",
       "currentWeek": "2026-W39",
       "inDjLibrary": true,
@@ -31235,7 +31219,7 @@
       "freshness": 25.0,
       "platformCount": 1,
       "countryCount": 1,
-      "isNewDiscovery": true,
+      "isNewDiscovery": false,
       "firstSeenWeek": "2026-W39",
       "currentWeek": "2026-W39",
       "inDjLibrary": true,
@@ -45791,7 +45775,7 @@
       "freshness": 25.0,
       "platformCount": 2,
       "countryCount": 7,
-      "isNewDiscovery": true,
+      "isNewDiscovery": false,
       "firstSeenWeek": "2026-W39",
       "currentWeek": "2026-W39",
       "inDjLibrary": false,
@@ -53442,7 +53426,7 @@
       "freshness": 25.0,
       "platformCount": 1,
       "countryCount": 1,
-      "isNewDiscovery": true,
+      "isNewDiscovery": false,
       "firstSeenWeek": "2026-W39",
       "currentWeek": "2026-W39",
       "inDjLibrary": false,
@@ -100018,7 +100002,7 @@
       "freshness": 25.0,
       "platformCount": 2,
       "countryCount": 11,
-      "isNewDiscovery": true,
+      "isNewDiscovery": false,
       "firstSeenWeek": "2026-W39",
       "currentWeek": "2026-W39",
       "inDjLibrary": false,
@@ -107183,7 +107167,7 @@
       "freshness": 25.0,
       "platformCount": 1,
       "countryCount": 1,
-      "isNewDiscovery": true,
+      "isNewDiscovery": false,
       "firstSeenWeek": "2026-W39",
       "currentWeek": "2026-W39",
       "inDjLibrary": false,
@@ -107456,7 +107440,7 @@
       "freshness": 25.0,
       "platformCount": 1,
       "countryCount": 1,
-      "isNewDiscovery": true,
+      "isNewDiscovery": false,
       "firstSeenWeek": "2026-W39",
       "currentWeek": "2026-W39",
       "inDjLibrary": false,
@@ -113216,7 +113200,7 @@
       "freshness": 38.0,
       "platformCount": 2,
       "countryCount": 2,
-      "isNewDiscovery": true,
+      "isNewDiscovery": false,
       "firstSeenWeek": "2026-W39",
       "currentWeek": "2026-W39",
       "inDjLibrary": false,
