@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T07:39:45",
+  "generatedAt": "2026-09-29T00:45:02",
   "currentWeek": "2026-W39",
   "rules": {
     "popularityMin": 30,
@@ -20,10 +20,10 @@
     ]
   },
   "summary": {
-    "currentRelevant": 3034,
+    "currentRelevant": 3033,
     "newThisWeek": 0,
     "alreadyDjComplete": 95,
-    "needsDjProcessing": 2939,
+    "needsDjProcessing": 2938,
     "newDownloadCandidates": 0
   },
   "spotifyPlaylist": {
@@ -2862,7 +2862,6 @@
     "1274857106",
     "1274857110",
     "1274857111",
-    "1274857112",
     "1274857115",
     "1274857116",
     "1274857117",
@@ -86556,45 +86555,6 @@
       "source": "MASTER_DISCOVERY"
     },
     {
-      "songId": "1274857112",
-      "title": "Ne vale la pena feat. Sayf",
-      "artist": "22simba, Sayf",
-      "album": "Miria",
-      "artworkUrl": null,
-      "spotifyUrl": "https://open.spotify.com/track/4SwCfaa4bSDcmviaT9hFbf",
-      "spotifyTrackId": "4SwCfaa4bSDcmviaT9hFbf",
-      "spotifyPopularity": 62,
-      "releaseDate": "2026-09-17",
-      "genre": null,
-      "trend": "NEW_ENTRY",
-      "trendScore": 47.212,
-      "dailyScore": 51.9268,
-      "monthlyScore": 41.9326,
-      "generalScore": 41.4044,
-      "currentStrength": 54.04,
-      "momentum": 68.0,
-      "persistence": 35.472,
-      "crossPlatform": 30.0,
-      "geographicReach": 11.0,
-      "billboard": 0.0,
-      "freshness": 100.0,
-      "platformCount": 1,
-      "countryCount": 1,
-      "isNewDiscovery": false,
-      "firstSeenWeek": "2026-W39",
-      "currentWeek": "2026-W39",
-      "inDjLibrary": false,
-      "djComplete": false,
-      "djReasons": [
-        "NO_DJ_RECORD"
-      ],
-      "tempo": null,
-      "musicalKey": null,
-      "camelot": null,
-      "energy": null,
-      "source": "MASTER_DISCOVERY"
-    },
-    {
       "songId": "1274842644",
       "title": "Khatem",
       "artist": "Zaid Khaled, Ahmed Diaa",
@@ -97428,7 +97388,7 @@
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737cb0a001128e34161596840b",
       "spotifyUrl": "https://open.spotify.com/track/2GuzpPh1ps0R1wwIidc3k9",
       "spotifyTrackId": "2GuzpPh1ps0R1wwIidc3k9",
-      "spotifyPopularity": 32,
+      "spotifyPopularity": 42,
       "releaseDate": "2024-03-29",
       "genre": "latvian hip hop",
       "trend": "NEW_ENTRY",
