@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 4,
+  "playlistId": "reggaeton 2010 2019",
+  "playlistName": "REGGAETON 2010-2019",
+  "description": "Incremental Flamingo DJ playlist. Existing complete tracks are preserved; current MIXNKEY batch is merged by unique SongID.",
+  "totalTracks": 0,
+  "batchCompletedTracks": 700,
+  "excludedIncompleteTracks": 153,
+  "generatedAt": "2026-09-10T19:34:57",
+  "filters": {
+    "genres_any": [],
+    "genres_exclude": [],
+    "popularity_min": null,
+    "popularity_max": null,
+    "release_date_from": null,
+    "release_date_to": null,
+    "artists_any": [],
+    "title_contains_any": [],
+    "keywords_any": [],
+    "countries_any": [],
+    "require_complete_track": true
+  },
+  "sort": {
+    "field": "spotify_playlist_order",
+    "descending": false,
+    "secondaryField": null,
+    "secondaryDescending": false
+  },
+  "tracks": [],
+  "source": {
+    "catalogDatabase": "MASTER_CLEAN.db",
+    "djDatabase": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\_FLAMINGO - MASTER\\DJ.db",
+    "spotifyPlaylistJson": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\_FLAMINGO - MASTER\\PLAYLIST_JSON\\REGGAETON 2010-2019\\REGGAETON 2010-2019.json",
+    "mixedInKeyCsv": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\_FLAMINGO - MASTER\\PLAYLIST_JSON\\REGGAETON 2010-2019\\REGGAETON 2010-2019.csv",
+    "audioLibrary": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY",
+    "outputDirectory": "C:\\Users\\fbrav\\OneDrive\\Desktop\\__DB_FILES\\FLAMINGOAPP_DJ_REACT\\src\\data\\JSON\\playlists"
+  },
+  "releaseYearFilter": "UNKNOWN_DATE",
+  "releaseYearFilteredAt": "2026-10-10T17:07:22-04:00"
+}
