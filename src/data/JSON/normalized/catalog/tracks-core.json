@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
   "catalogType": "core",
-  "updatedAt": "2026-10-24T12:56:19",
+  "updatedAt": "2026-10-24T17:29:09",
   "tracks": {
     "53": {
       "id": "53",
@@ -871,8 +871,8 @@
       "releaseDate": "2002-11-26",
       "spotifyPopularity": 71,
       "tempo": 86.0,
-      "musicalKey": "A#m",
-      "energy": "5.0"
+      "musicalKey": "D#m",
+      "energy": "6.0"
     },
     "1267054": {
       "id": "1267054",
@@ -2016,7 +2016,7 @@
       "spotifyPopularity": 79,
       "tempo": 80.0,
       "musicalKey": "A#m",
-      "energy": "5.0"
+      "energy": "7.0"
     },
     "1274819094": {
       "id": "1274819094",
@@ -2640,7 +2640,7 @@
       "spotifyPopularity": 70,
       "tempo": 102.0,
       "musicalKey": "Fm",
-      "energy": "6.0"
+      "energy": "5.0"
     },
     "1274828095": {
       "id": "1274828095",
@@ -2887,7 +2887,7 @@
       "spotifyPopularity": 70,
       "tempo": 119.0,
       "musicalKey": "Cm",
-      "energy": "7.0"
+      "energy": "8.0"
     },
     "1274830411": {
       "id": "1274830411",
@@ -57201,7 +57201,7 @@
       "spotifyPopularity": 50,
       "tempo": 103.0,
       "musicalKey": "D#m",
-      "energy": "7.0"
+      "energy": "8.0"
     },
     "1274854388": {
       "id": "1274854388",
@@ -57656,7 +57656,7 @@
       "spotifyPopularity": 73,
       "tempo": 95.0,
       "musicalKey": "D#m",
-      "energy": "7.0"
+      "energy": "6.0"
     },
     "1274854413": {
       "id": "1274854413",
@@ -59112,7 +59112,7 @@
       "spotifyPopularity": 59,
       "tempo": 96.0,
       "musicalKey": "Cm",
-      "energy": "7.0"
+      "energy": "8.0"
     },
     "1274854524": {
       "id": "1274854524",
@@ -60657,9 +60657,9 @@
       "durationDisplay": "04:14",
       "releaseDate": "1999-03-23",
       "spotifyPopularity": 39,
-      "tempo": 96.0,
-      "musicalKey": "C",
-      "energy": "6.0"
+      "tempo": 97.0,
+      "musicalKey": "Am",
+      "energy": "7.0"
     },
     "1274854647": {
       "id": "1274854647",
@@ -93537,6 +93537,71 @@
       "tempo": 157.0,
       "musicalKey": "Em",
       "energy": "7.0"
+    },
+    "1274854545": {
+      "id": "1274854545",
+      "externalSongId": "1274854545",
+      "title": "Grind With Me",
+      "artist": "Pretty Ricky",
+      "durationSeconds": 239,
+      "durationDisplay": "03:59",
+      "releaseDate": "2005-05-24",
+      "spotifyPopularity": 48,
+      "tempo": 136.0,
+      "musicalKey": "D#m",
+      "energy": "6.0"
+    },
+    "1274854506": {
+      "id": "1274854506",
+      "externalSongId": "1274854506",
+      "title": "Always On Time",
+      "artist": "Ja Rule, Ashanti",
+      "durationSeconds": 245,
+      "durationDisplay": "04:05",
+      "releaseDate": "2001-10-02",
+      "spotifyPopularity": 60,
+      "tempo": 97.0,
+      "musicalKey": "Cm",
+      "energy": "7.0"
+    },
+    "1274854619": {
+      "id": "1274854619",
+      "externalSongId": "1274854619",
+      "title": "I'm Sprung",
+      "artist": "T-Pain",
+      "durationSeconds": 231,
+      "durationDisplay": "03:51",
+      "releaseDate": "2005",
+      "spotifyPopularity": 1,
+      "tempo": 100.0,
+      "musicalKey": "Cm",
+      "energy": "5.0"
+    },
+    "1274854615": {
+      "id": "1274854615",
+      "externalSongId": "1274854615",
+      "title": "Smack That",
+      "artist": "Akon, Eminem",
+      "durationSeconds": 212,
+      "durationDisplay": "03:32",
+      "releaseDate": "2006",
+      "spotifyPopularity": 6,
+      "tempo": 119.0,
+      "musicalKey": "Fm",
+      "energy": "4.0"
+    },
+    "1274824270": {
+      "id": "1274824270",
+      "externalSongId": "1274824270",
+      "title": "Give It To Me",
+      "artist": "Timbaland, Justin Timberlake, Nelly Furtado",
+      "durationSeconds": 234,
+      "durationDisplay": "03:54",
+      "releaseDate": "2007-04-02",
+      "spotifyPopularity": 77,
+      "tempo": 111.0,
+      "musicalKey": "G#m",
+      "energy": "6.0"
     }
   }
 }

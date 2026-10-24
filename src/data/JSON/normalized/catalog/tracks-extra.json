@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
   "catalogType": "extra",
-  "updatedAt": "2026-10-24T12:56:19",
+  "updatedAt": "2026-10-24T17:29:09",
   "tracks": {
     "53": {
       "album": "SOS",
@@ -348,12 +348,12 @@
       ],
       "comments": "G#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\0-999\\772__No Scrubs__TLC.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "456",
         "name": "TLC",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb7356ae4581e46319f99c813a",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb26f367a12bb6de3ca17d6c1d",
         "genres": [
           "contemporary r&b",
           "crunk",
@@ -366,8 +366,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq",
         "spotifyId": "0TImkz4nPqjegtVSMZnMRq",
         "musicBrainzId": "99790314-885a-4975-8614-9c5bc890364d",
-        "popularity": 71,
-        "followers": 4366404
+        "popularity": 75,
+        "followers": 4939148
       }
     },
     "779": {
@@ -828,7 +828,7 @@
       "album": "Scorpion",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730a825fea8b9095572e5130ef",
       "genre": "contemporary r&b, dance pop, hip pop, philly rap, r&b, urban contemporary",
-      "country": "US",
+      "country": "JP",
       "spotifyUrl": "https://open.spotify.com/track/5DCA1FOUDBURlRTNg4ganf",
       "camelot": "1A",
       "overallVolume": "-10.0",
@@ -842,24 +842,19 @@
       ],
       "comments": "G#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\3000-3999\\3198__Let Me Blow Ya Mind__Eve.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
-        "artistId": "1348",
+        "artistId": "103812",
         "name": "Eve",
-        "imageUrl": "https://i.scdn.co/image/0078316432cdfb6733c3bde0dc61754d45442d0f",
-        "genres": [
-          "j-pop",
-          "pop punk",
-          "singer-songwriter",
-          "utaite"
-        ],
-        "country": "US",
-        "spotifyUrl": "https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe",
-        "spotifyId": "3kYFawNQVZ00FQbgs4rVBe",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb62423f0aa64340b1fe57c0a3",
+        "genres": [],
+        "country": "JP",
+        "spotifyUrl": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC",
+        "spotifyId": "4d3yvTptO48nOYTPBcPFZC",
         "musicBrainzId": "66bdd1c9-d1c5-40b7-a487-5061fffbd87d",
-        "popularity": 43,
-        "followers": 132215
+        "popularity": 72,
+        "followers": 1782122
       }
     },
     "3199": {
@@ -1086,7 +1081,7 @@
       ],
       "comments": "E - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\3000-3999\\3663__The Notorious B.I.G__Mo Money Mo Problems.mp3",
-      "dateAdded": "2026-10-23",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "19395",
@@ -2645,7 +2640,7 @@
       ],
       "comments": "Dm - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267026__Are You That Somebody__Aaliyah.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "2563",
@@ -2672,8 +2667,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4",
         "spotifyId": "0urTpYCsixqZwgNTkPJOJ4",
         "musicBrainzId": "bc85da58-52d9-457d-ae8d-5d8d4ec870a9",
-        "popularity": 68,
-        "followers": 4882260
+        "popularity": 69,
+        "followers": 5398015
       }
     },
     "1267031": {
@@ -2720,7 +2715,7 @@
       "keywords": [],
       "comments": "Em - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267032__B2K__Badaboom.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "4276",
@@ -2742,22 +2737,22 @@
     "1267052": {
       "album": "It Ain't Safe No More. . .",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ac8e6d7dae57f0c1c87e230c",
-      "genre": "Pop",
+      "genre": "Rap/Hip Hop",
       "country": "US",
       "spotifyUrl": "https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY",
-      "camelot": "3A",
+      "camelot": "2A",
       "overallVolume": "-10.7",
       "cuePoints": "8",
-      "clippedPeaks": 4027,
+      "clippedPeaks": 4071,
       "keywords": [],
-      "comments": "A#m - Energy 5",
+      "comments": "D#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267052__Busta Rhymes__Lil' Homies.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "1769",
         "name": "Busta Rhymes",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb649ab26ed0fa2f60b3a9ed51",
         "genres": [
           "2008 universal fire victim",
           "east coast hip hop",
@@ -2770,8 +2765,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK",
         "spotifyId": "1YfEcTuGvBQ8xSD1f53UnK",
         "musicBrainzId": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
-        "popularity": 73,
-        "followers": 3056253
+        "popularity": 75,
+        "followers": 3523244
       }
     },
     "1267054": {
@@ -2823,12 +2818,12 @@
       "keywords": [],
       "comments": "Cm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267057__Can't Hold Us Down__Christina Aguilera.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "619",
         "name": "Christina Aguilera",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb1fb7a2d94b56df1f8a61d779",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb4a69ef1c3d566709985ce452",
         "genres": [
           "adult contemporary",
           "contemporary r&b",
@@ -2845,7 +2840,7 @@
         "spotifyId": "1l7ZsJRRS8wlW3WfJfPfNS",
         "musicBrainzId": "b202beb7-99bd-47e7-8b72-195c8d72ebdd",
         "popularity": 80,
-        "followers": 8986982
+        "followers": 9999769
       }
     },
     "1267070": {
@@ -2907,7 +2902,7 @@
       "keywords": [],
       "comments": "D#m - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267077__Dru Hill__How Deep Is Your Love.mp3",
-      "dateAdded": "2026-10-23",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "4552",
@@ -3199,7 +3194,7 @@
       "keywords": [],
       "comments": "A#m - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267218__Ideal__Whatever (Radio Edit).mp3",
-      "dateAdded": "2026-10-23",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "89078",
@@ -4306,12 +4301,12 @@
       "keywords": [],
       "comments": "D#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274805000-1274805999\\1274805203__U Remind Me__USHER.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "65394",
         "name": "USHER",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb13684907cd609d10d41f0b8",
         "genres": [
           "hip hop rnb and dance hall",
           "pop rap",
@@ -4323,8 +4318,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj",
         "spotifyId": "23zg3TcAtWQy7J6upgbUnj",
         "musicBrainzId": "3414d446-735a-443c-931f-10634f57e5b9",
-        "popularity": 85,
-        "followers": 13388781
+        "popularity": 84,
+        "followers": 15445756
       }
     },
     "1274808393": {
@@ -6093,38 +6088,26 @@
       ],
       "comments": "Cm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274818000-1274818999\\1274818317__Snoop Dogg, Nate Dogg, Warren G, Kurupt__Ain’t No Fun (If The Homies Can’t Have None).mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
-        "artistId": "311",
+        "artistId": "4275",
         "name": "Snoop Dogg",
         "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc19a88576ebe6fcbb325c297",
         "genres": [
-          "2008 universal fire victim",
-          "american",
-          "contemporary christian",
-          "criminal",
           "g-funk",
-          "gangsta rap",
           "gangster rap",
           "hip hop",
-          "hip hop rnb and dance hall",
-          "hip-hop",
-          "kevin haden",
           "old school hip hop",
-          "pro trump",
           "rap",
-          "reggae",
-          "relic inn",
-          "west coast hip hop",
-          "west coast hip-hop"
+          "west coast hip hop"
         ],
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG",
         "spotifyId": "7hJcb9fa4alzcOq3EaNPoG",
         "musicBrainzId": "f90e8b26-9e52-4669-a5c9-e28529c47894",
-        "popularity": 84,
-        "followers": 14860906
+        "popularity": 85,
+        "followers": 17841418
       }
     },
     "1274818328": {
@@ -6438,7 +6421,7 @@
       "album": "Epiphany (Expanded Edition)",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273baf2f329d4feeb19761eddf4",
       "genre": "Rap/Hip Hop",
-      "country": "SE",
+      "country": "US",
       "spotifyUrl": "https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES",
       "camelot": "3A",
       "overallVolume": "-9.2",
@@ -6448,26 +6431,30 @@
         "hip hop",
         "rap"
       ],
-      "comments": "A#m - Energy 5",
+      "comments": "A#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274819000-1274819999\\1274819093__T-Pain, Yung Joc__Buy U a Drank (Shawty Snappin') (feat. Yung Joc).mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
-        "artistId": "3229",
-        "name": "Pain",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb99a856ab4ab752d85e50a750",
+        "artistId": "49523",
+        "name": "T-Pain",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb23981d9ba3b853b4534b80a9",
         "genres": [
-          "alternative metal",
-          "industrial metal",
-          "metal",
-          "swedish"
+          "contemporary r&b",
+          "electropop",
+          "hip hop",
+          "pop",
+          "pop rap",
+          "rap",
+          "soul and reggae",
+          "southern hip hop"
         ],
-        "country": "SE",
+        "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy",
         "spotifyId": "3aQeKQSyrW4qWr35idm0cy",
-        "musicBrainzId": "84d5a9df-dd85-43e9-92f3-ed87bcd59b58",
-        "popularity": 81,
-        "followers": 5488042
+        "musicBrainzId": "ce55e49a-32f4-4757-9849-bf04d06d5fcc",
+        "popularity": 82,
+        "followers": 6634631
       }
     },
     "1274819094": {
@@ -7659,7 +7646,7 @@
       ],
       "comments": "Dm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274824000-1274824999\\1274824036__2Pac, Big Syke, C-PO, Danny Boy__Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke).mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "867",
@@ -7694,8 +7681,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh",
         "spotifyId": "1ZwdS5xdxEREPySFridCfh",
         "musicBrainzId": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
-        "popularity": 81,
-        "followers": 21574145
+        "popularity": 82,
+        "followers": 25017065
       }
     },
     "1274824082": {
@@ -7758,7 +7745,7 @@
       ],
       "comments": "Em - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274824000-1274824999\\1274824191__Fantasy__Mariah Carey.mp3",
-      "dateAdded": "2026-10-23",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "98",
@@ -8623,7 +8610,7 @@
       ],
       "comments": "Bm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828039__Freak Like Me__Adina Howard.mp3",
-      "dateAdded": "2026-10-23",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "2521",
@@ -8813,14 +8800,14 @@
         "hip hop",
         "rap"
       ],
-      "comments": "Fm - Energy 6",
+      "comments": "Fm - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828092__Ciara, Petey Pablo__Goodies (feat. Petey Pablo).mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "1530",
         "name": "Ciara",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6a28d3c64b3bcf6675ddfe3",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb5d1fbc6d7d17e7ba6b587eaf",
         "genres": [
           "contemporary r&b",
           "crunk&b",
@@ -8838,7 +8825,7 @@
         "spotifyId": "2NdeV5rLm47xAvogXrYhJX",
         "musicBrainzId": "03172286-f7ed-4864-a4db-459cd5ca9790",
         "popularity": 73,
-        "followers": 7152825
+        "followers": 7882839
       }
     },
     "1274828095": {
@@ -9138,7 +9125,7 @@
       ],
       "comments": "D#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828184__No More__Ruff Endz.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "12997",
@@ -9209,7 +9196,7 @@
       ],
       "comments": "Em - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828248__Peaches & Cream__112.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "3749",
@@ -9492,7 +9479,7 @@
       ],
       "comments": "Bm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828284__Too Close__Next.mp3",
-      "dateAdded": "2026-10-23",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "102038",
@@ -9649,9 +9636,9 @@
       "cuePoints": "8",
       "clippedPeaks": 562,
       "keywords": [],
-      "comments": "Cm - Energy 7",
+      "comments": "Cm - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274829000-1274829999\\1274829100__Lose My Breath__Destiny's Child.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "896",
@@ -9672,7 +9659,7 @@
         "spotifyId": "1Y8cdNmUJH7yBTd9yOvr5i",
         "musicBrainzId": "a796b92e-c137-4895-9c89-10f900617a4f",
         "popularity": 74,
-        "followers": 8748043
+        "followers": 8816820
       }
     },
     "1274830411": {
@@ -10404,7 +10391,7 @@
       "keywords": [],
       "comments": "Am - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274841000-1274841999\\1274841711__SWV__Right Here - Human Nature Radio Mix.mp3",
-      "dateAdded": "2026-10-23",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "2710",
@@ -10772,12 +10759,12 @@
       "keywords": [],
       "comments": "F#m - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274843000-1274843999\\1274843861__Brandy__Best Friend.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "3931",
         "name": "Brandy",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb39417aaafb9c373e78594ef",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb80f1892455aa69437185ab0d",
         "genres": [
           "american",
           "contemporary r&b",
@@ -10791,8 +10778,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee",
         "spotifyId": "05oH07COxkXKIMt6mIPRee",
         "musicBrainzId": "01e60eba-52df-4694-8f09-39f43abe54e9",
-        "popularity": 68,
-        "followers": 3966497
+        "popularity": 70,
+        "followers": 4476966
       }
     },
     "1274843863": {
@@ -10844,7 +10831,7 @@
       "keywords": [],
       "comments": "Em - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274843000-1274843999\\1274843928__Chingy, Tyrese__Pullin' Me Back.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "2784",
@@ -22373,7 +22360,7 @@
       "album": "702",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730100a4e7e46b63b46e03b158",
       "genre": "R&B",
-      "country": "US",
+      "country": "CL",
       "spotifyUrl": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi",
       "camelot": "4A",
       "overallVolume": "-13.5",
@@ -22382,22 +22369,19 @@
       "keywords": [],
       "comments": "Fm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847147__702__Where My Girls At.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
-        "artistId": "2739",
-        "name": "702",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730af3c90998a7ee6e401ed67a",
-        "genres": [
-          "contemporary r&b",
-          "hip hop rnb and dance hall"
-        ],
-        "country": "US",
+        "artistId": "94818",
+        "name": "NSFS",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c11d1e623868027634bb8a6",
+        "genres": [],
+        "country": "CL",
         "spotifyUrl": "https://open.spotify.com/artist/2Sf2VjK8vpOU9i9VfshmO7",
         "spotifyId": "2Sf2VjK8vpOU9i9VfshmO7",
-        "musicBrainzId": "4822d466-5c1f-4e04-80e9-e33e8295c26b",
-        "popularity": 27,
-        "followers": 34515
+        "musicBrainzId": null,
+        "popularity": 24,
+        "followers": 37151
       }
     },
     "1274847148": {
@@ -22515,7 +22499,7 @@
       "keywords": [],
       "comments": "Gm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847151__Mario__Just a Friend 2002 - Radio Edit.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "36922",
@@ -22530,8 +22514,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w",
         "spotifyId": "20s0P9QLxGqKuCsGwFsp7w",
         "musicBrainzId": "f236134b-7ebb-4ba8-b155-1791193d05ec",
-        "popularity": 69,
-        "followers": 3819154
+        "popularity": 71,
+        "followers": 4455663
       }
     },
     "1274847152": {
@@ -22547,7 +22531,7 @@
       "keywords": [],
       "comments": "Em - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847152__Eric Benét, Faith Evans__Georgy Porgy (feat. Faith Evans).mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "26266",
@@ -22563,8 +22547,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov",
         "spotifyId": "1kjO72M26jZkv0aaGxJaov",
         "musicBrainzId": "f5bad1a5-53cf-40c1-b03b-c5cf05c65768",
-        "popularity": 52,
-        "followers": 720332
+        "popularity": 53,
+        "followers": 778759
       }
     },
     "1274847154": {
@@ -22580,7 +22564,7 @@
       "keywords": [],
       "comments": "Cm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847154__Destiny's Child, Wyclef Jean__No, No, No Pt. 2 (feat. Wyclef Jean).mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "896",
@@ -22601,7 +22585,7 @@
         "spotifyId": "1Y8cdNmUJH7yBTd9yOvr5i",
         "musicBrainzId": "a796b92e-c137-4895-9c89-10f900617a4f",
         "popularity": 74,
-        "followers": 8748043
+        "followers": 8816820
       }
     },
     "1274847155": {
@@ -22757,7 +22741,7 @@
       "keywords": [],
       "comments": "Bm - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847159__Brownstone__If You Love Me.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "4692",
@@ -22830,7 +22814,7 @@
       "keywords": [],
       "comments": "Bm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847161__Erykah Badu__Appletree.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "2738",
@@ -23238,7 +23222,7 @@
       "keywords": [],
       "comments": "Fm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847172__112, The Notorious B.I.G__Only You (feat. The Notorious B.I.G.) - Radio Mix.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "3749",
@@ -23870,7 +23854,7 @@
       "keywords": [],
       "comments": "G#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847190__Ja Rule, Vita, Lil' Mo__Put It On Me.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "3013",
@@ -23889,7 +23873,7 @@
         "spotifyId": "1J2VVASYAamtQ3Bt8wGgA6",
         "musicBrainzId": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
         "popularity": 73,
-        "followers": 2074197
+        "followers": 2367277
       }
     },
     "1274847191": {
@@ -24342,7 +24326,7 @@
       "keywords": [],
       "comments": "Bm - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847204__Ja Rule, R. Kelly, Ashanti__Wonderful.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "3013",
@@ -24361,7 +24345,7 @@
         "spotifyId": "1J2VVASYAamtQ3Bt8wGgA6",
         "musicBrainzId": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
         "popularity": 73,
-        "followers": 2074197
+        "followers": 2367277
       }
     },
     "1274847256": {
@@ -25198,7 +25182,7 @@
       "keywords": [],
       "comments": "Am - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847230__Santana, The Product G&B__Maria Maria (feat. The Product G&B).mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "95",
@@ -25227,8 +25211,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P",
         "spotifyId": "6GI52t8N5F02MxU0g5U69P",
         "musicBrainzId": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
-        "popularity": 73,
-        "followers": 3680138
+        "popularity": 74,
+        "followers": 4136811
       }
     },
     "1274847231": {
@@ -26057,7 +26041,7 @@
       "keywords": [],
       "comments": "Gm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847263__Aaliyah__Back & Forth.mp3",
-      "dateAdded": "2026-10-23",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "2563",
@@ -26651,7 +26635,7 @@
       "keywords": [],
       "comments": "G#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847279__Cassie__Me & U.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "7521",
@@ -26664,8 +26648,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH",
         "spotifyId": "27FGXRNruFoOdf1vP8dqcH",
         "musicBrainzId": "4a8ac23a-e27a-44db-814a-f8c31beb68e6",
-        "popularity": 68,
-        "followers": 1827199
+        "popularity": 71,
+        "followers": 2131664
       }
     },
     "1274847280": {
@@ -27424,7 +27408,7 @@
       "keywords": [],
       "comments": "Gm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847299__Cherish__Unappreciated.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "698",
@@ -27768,7 +27752,7 @@
       "keywords": [],
       "comments": "D#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847310__Diddy, Loon, USHER__I Need a Girl (Pt. 1) [feat. Usher & Loon].mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "2567",
@@ -56219,11 +56203,11 @@
       "keywords": [],
       "comments": "Em - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274847000-1274847999\\1274847653__LL COOL J__Loungin (Who Do Ya Luv) - Remix.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "3016",
-        "name": "LL Cool J",
+        "name": "LL COOL J",
         "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfdfbad2b88a64e661a6e6400",
         "genres": [
           "boom bap",
@@ -56240,7 +56224,7 @@
         "spotifyId": "1P8IfcNKwrkQP5xJWuhaOC",
         "musicBrainzId": "a4dd0e77-83b8-4e92-89b7-effb0e47fd8c",
         "popularity": 65,
-        "followers": 1845337
+        "followers": 2028219
       }
     },
     "1274847655": {
@@ -159984,19 +159968,27 @@
       "keywords": [],
       "comments": "Gm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854382__DJ Jazzy Jeff__Summertime.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
-        "artistId": "3923",
-        "name": "Jazzy Jeff",
+        "artistId": "5184",
+        "name": "DJ Jazzy Jeff & the Fresh Prince",
         "imageUrl": "https://i.scdn.co/image/3194246bd54b76c376e2be5a21a61dd7b93aeeb9",
         "genres": [
-          "old school hip hop"
+          "90's hip hop",
+          "boom bap",
+          "comedy rap",
+          "east coast hip hop",
+          "hip hop",
+          "old school hip hop",
+          "pop rap",
+          "rap",
+          "soul and reggae"
         ],
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh",
         "spotifyId": "1mG23iQeR29Ojhq89D5gbh",
-        "musicBrainzId": "87628382-c3be-49e0-94e2-60f2aa5f6ac2",
+        "musicBrainzId": "a663d7d0-754b-40e2-9ea3-3c6c39fd5937",
         "popularity": 53,
         "followers": 416347
       }
@@ -160049,7 +160041,7 @@
       "keywords": [],
       "comments": "G#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854384__B2K__Bump, Bump, Bump.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "4276",
@@ -160182,11 +160174,11 @@
       "camelot": "2A",
       "overallVolume": "-8.2",
       "cuePoints": "6",
-      "clippedPeaks": 7235,
+      "clippedPeaks": 7234,
       "keywords": [],
-      "comments": "D#m - Energy 7",
+      "comments": "D#m - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854387__Destiny's Child__Bootylicious.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "896",
@@ -160207,7 +160199,7 @@
         "spotifyId": "1Y8cdNmUJH7yBTd9yOvr5i",
         "musicBrainzId": "a796b92e-c137-4895-9c89-10f900617a4f",
         "popularity": 74,
-        "followers": 8748043
+        "followers": 8816820
       }
     },
     "1274854388": {
@@ -160681,12 +160673,12 @@
       "keywords": [],
       "comments": "G#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1267000-1267999\\1267046__Brandy__Top of the World.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "3931",
         "name": "Brandy",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb39417aaafb9c373e78594ef",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb80f1892455aa69437185ab0d",
         "genres": [
           "american",
           "contemporary r&b",
@@ -160700,8 +160692,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee",
         "spotifyId": "05oH07COxkXKIMt6mIPRee",
         "musicBrainzId": "01e60eba-52df-4694-8f09-39f43abe54e9",
-        "popularity": 68,
-        "followers": 3966497
+        "popularity": 70,
+        "followers": 4476966
       }
     },
     "1274854398": {
@@ -160717,12 +160709,12 @@
       "keywords": [],
       "comments": "Bm - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854398__Brandy__I Wanna Be Down - Remix.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "3931",
         "name": "Brandy",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb39417aaafb9c373e78594ef",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb80f1892455aa69437185ab0d",
         "genres": [
           "american",
           "contemporary r&b",
@@ -160736,8 +160728,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee",
         "spotifyId": "05oH07COxkXKIMt6mIPRee",
         "musicBrainzId": "01e60eba-52df-4694-8f09-39f43abe54e9",
-        "popularity": 68,
-        "followers": 3966497
+        "popularity": 70,
+        "followers": 4476966
       }
     },
     "1274854399": {
@@ -160788,7 +160780,7 @@
       "album": "King",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d5fa46459e5489190606f47f",
       "genre": "southern hip hop",
-      "country": "US",
+      "country": null,
       "spotifyUrl": "https://open.spotify.com/track/1g0oI97rPdYuWDIpkbtQdv",
       "camelot": "12A",
       "overallVolume": "-10.6",
@@ -160800,32 +160792,21 @@
       ],
       "comments": "C#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274828000-1274828999\\1274828085__Why You Wanna__T.I.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
-        "artistId": "1347",
+        "artistId": "103617",
         "name": "T.I.",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b3bad3e0ea0a2f0f0544a34b",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12057d342f33c61b3768f2bc",
         "genres": [
-          "canzone napoletana",
-          "dirty south",
-          "gangsta rap",
-          "hardcore hip hop",
-          "hip hop",
-          "hip hop rnb and dance hall",
-          "pop rap",
-          "rap",
-          "relic inn",
-          "southern hip hop",
-          "trap",
-          "trap rap"
+          "southern hip hop"
         ],
-        "country": "US",
-        "spotifyUrl": "https://open.spotify.com/artist/5XPrniVXXXD0021qH0ed6b",
-        "spotifyId": "5XPrniVXXXD0021qH0ed6b",
-        "musicBrainzId": "f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62",
-        "popularity": 19,
-        "followers": 3537
+        "country": null,
+        "spotifyUrl": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT",
+        "spotifyId": "4OBJLual30L7gRl5UkeRcT",
+        "musicBrainzId": null,
+        "popularity": 80,
+        "followers": 5539527
       }
     },
     "1274828050": {
@@ -160918,7 +160899,7 @@
       "keywords": [],
       "comments": "G#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854401__Mýa__Best Of Me, Part 2.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "2975",
@@ -160999,7 +160980,7 @@
       "keywords": [],
       "comments": "Em - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854403__Charli Baltimore__Down 4 U.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "37511",
@@ -161179,12 +161160,12 @@
       "keywords": [],
       "comments": "Cm - Energy 4",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854408__Tamia__Into You.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "5473",
         "name": "Tamia",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebcf35587ec242fd403b683687",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2c6c5bc5de22e302c605703b",
         "genres": [
           "contemporary r&b",
           "r&b"
@@ -161193,8 +161174,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in",
         "spotifyId": "0le01dl1WllSHhjEXRl4in",
         "musicBrainzId": "2de9f057-67d8-429d-b899-759be13131a9",
-        "popularity": 65,
-        "followers": 1979020
+        "popularity": 67,
+        "followers": 2263696
       }
     },
     "1274854409": {
@@ -161243,7 +161224,7 @@
       "keywords": [],
       "comments": "A#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274817000-1274817999\\1274817999__50 Cent__Best Friend - Remix.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "407",
@@ -161272,8 +161253,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh",
         "spotifyId": "3q7HBObVc0L8jNeTe5Gofh",
         "musicBrainzId": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
-        "popularity": 85,
-        "followers": 17786306
+        "popularity": 86,
+        "followers": 22014943
       }
     },
     "1274847607": {
@@ -161328,7 +161309,7 @@
       "keywords": [],
       "comments": "G#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854410__Ja Rule__Down Ass Bitch.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "3013",
@@ -161347,7 +161328,7 @@
         "spotifyId": "1J2VVASYAamtQ3Bt8wGgA6",
         "musicBrainzId": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
         "popularity": 73,
-        "followers": 2074197
+        "followers": 2367277
       }
     },
     "1274854411": {
@@ -161574,35 +161555,43 @@
       "album": "Just Like You",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273911ef35f75422d0482cec8bf",
       "genre": "R&B",
-      "country": "US",
+      "country": "GB",
       "spotifyUrl": "https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES",
       "camelot": "2A",
-      "overallVolume": "-10.8",
-      "cuePoints": "5",
-      "clippedPeaks": 223,
+      "overallVolume": "-10.3",
+      "cuePoints": "8",
+      "clippedPeaks": 862,
       "keywords": [],
-      "comments": "D#m - Energy 7",
+      "comments": "D#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854412__Keyshia Cole__Let It Go.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
-        "artistId": "501",
+        "artistId": "89964",
         "name": "Keyshia Cole",
         "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb432cb55e0b82419302f7cc5a",
         "genres": [
-          "contemporary r&b",
-          "hip hop",
-          "hip hop rnb and dance hall",
-          "hip hop soul",
-          "pop soul",
+          "terf",
+          "queerphobe",
+          "fascist",
+          "has german audiobooks",
+          "uk",
+          "deu",
+          "english",
+          "british",
+          "author",
+          "non-musician",
+          "transphobe",
+          "audiobook",
+          "fantasy",
           "r&b"
         ],
-        "country": "US",
+        "country": "GB",
         "spotifyUrl": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3",
         "spotifyId": "1vfezMIyCr4XUdYRaKIKi3",
         "musicBrainzId": "ef73e6ed-9096-4ddb-9799-b94874d0ce33",
-        "popularity": 72,
-        "followers": 4202245
+        "popularity": 77,
+        "followers": 4689648
       }
     },
     "1274854413": {
@@ -161686,7 +161675,7 @@
       "keywords": [],
       "comments": "Cm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854416__Erykah Badu__Bag Lady - Cheeba Sac Radio Edit.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "2738",
@@ -161981,13 +161970,13 @@
       "country": "US",
       "spotifyUrl": "https://open.spotify.com/track/1F1XjwRzMh8KT2BvH6ISkG",
       "camelot": "2A",
-      "overallVolume": "-11.8",
+      "overallVolume": "-11.5",
       "cuePoints": "7",
-      "clippedPeaks": 732,
+      "clippedPeaks": 1205,
       "keywords": [],
       "comments": "D#m - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854422__Mary J. Blige__Rainy Dayz.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "897",
@@ -162012,8 +162001,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr",
         "spotifyId": "1XkoF8ryArs86LZvFOkbyr",
         "musicBrainzId": "db76c5ca-d555-4f09-b1db-baa1b713d875",
-        "popularity": 73,
-        "followers": 4226911
+        "popularity": 75,
+        "followers": 4910271
       }
     },
     "1274828325": {
@@ -162201,7 +162190,7 @@
       "album": "BAD BOY CELEBRATES DIDDY: The Executive",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ff2a44bc39b2960bb1f100d0",
       "genre": "Rap/Hip Hop",
-      "country": null,
+      "country": "US",
       "spotifyUrl": "https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v",
       "camelot": "1A",
       "overallVolume": "-14.3",
@@ -162210,22 +162199,26 @@
       "keywords": [],
       "comments": "G#m - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854425__Total__Can't You See.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
-        "artistId": "36245",
-        "name": "TOTA",
+        "artistId": "50313",
+        "name": "Total",
         "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebcb8b049018f1140fec3e066c",
         "genres": [
+          "galicia",
           "new jack swing",
-          "r&b"
+          "punk",
+          "r&b",
+          "rock",
+          "spain"
         ],
-        "country": null,
+        "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7",
         "spotifyId": "1urjDGTd4iBze91Z1W1gu7",
-        "musicBrainzId": "9d61ec69-1b13-4522-a41a-ee04777d0b65",
-        "popularity": 57,
-        "followers": 600109
+        "musicBrainzId": "2ac0f4e0-ce3c-454b-b734-89d549c3b387",
+        "popularity": 58,
+        "followers": 605084
       }
     },
     "1274854426": {
@@ -162258,7 +162251,7 @@
       "keywords": [],
       "comments": "Dm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854427__3LW__No More (Baby I'ma Do Right).mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "13348",
@@ -162370,7 +162363,7 @@
       "keywords": [],
       "comments": "G - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854430__Musiq Soulchild__Just Friends (Sunny).mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "4757",
@@ -162515,7 +162508,7 @@
       "album": "2rude Rudimental 2k (Remastered 2024)",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27354e48973b9a3bb1abe78a686",
       "genre": "R&B",
-      "country": null,
+      "country": "CA",
       "spotifyUrl": "https://open.spotify.com/track/4iJSjiMNkpwZNbBD4BPDGo",
       "camelot": "10A",
       "overallVolume": "-10.9",
@@ -162524,9 +162517,39 @@
       "keywords": [],
       "comments": "Bm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854433__2rude__Bout Your Love ( Remaster 2024).mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
-      "artistDetails": null
+      "artistDetails": {
+        "artistId": "14657",
+        "name": "Glenn Lewis",
+        "imageUrl": "https://i.scdn.co/image/f7073b6ae6cb09ae1f06adc1e697096f4b3390dc",
+        "genres": [
+          "2008 universal fire victim",
+          "[r12065312]",
+          "american",
+          "blues",
+          "classic pop and rock",
+          "country",
+          "country gospel",
+          "honky tonk",
+          "jerry lee lewis",
+          "neo soul",
+          "pop",
+          "rock",
+          "rock & roll",
+          "rock and roll",
+          "rockabilly",
+          "singer-songwriter",
+          "sun box",
+          "the best of jerry lee lewis"
+        ],
+        "country": "CA",
+        "spotifyUrl": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV",
+        "spotifyId": "28821fRwpAWk44HfJ96PGV",
+        "musicBrainzId": "f4294502-5009-4ac6-b051-8f849523b1d3",
+        "popularity": 41,
+        "followers": 153304
+      }
     },
     "1274854434": {
       "album": "World Outside My Window",
@@ -162764,7 +162787,7 @@
       "keywords": [],
       "comments": "Cm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854438__Lloyd__Get It Shawty.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "1771",
@@ -162783,8 +162806,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9",
         "spotifyId": "1Xfmvd48oOhEWkscWyEbh9",
         "musicBrainzId": "980ee2d8-2ee9-407b-b48e-48360fbc7437",
-        "popularity": 73,
-        "followers": 2660546
+        "popularity": 74,
+        "followers": 3119887
       }
     },
     "1274854439": {
@@ -164853,12 +164876,12 @@
       "keywords": [],
       "comments": "Em - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854504__Busta Rhymes__Make It Clap - Remix Album Version.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "1769",
         "name": "Busta Rhymes",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb649ab26ed0fa2f60b3a9ed51",
         "genres": [
           "2008 universal fire victim",
           "east coast hip hop",
@@ -164871,8 +164894,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK",
         "spotifyId": "1YfEcTuGvBQ8xSD1f53UnK",
         "musicBrainzId": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
-        "popularity": 73,
-        "followers": 3056253
+        "popularity": 75,
+        "followers": 3523244
       }
     },
     "1274854505": {
@@ -165918,42 +165941,34 @@
       "album": "Only Hits",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27392961f55d588aefd950657ad",
       "genre": "Pop",
-      "country": "JM",
+      "country": "ES",
       "spotifyUrl": "https://open.spotify.com/track/6k8uthjEbttfWXcGaNTQGD",
       "camelot": "5A",
       "overallVolume": "-8.0",
       "cuePoints": "8",
       "clippedPeaks": 4707,
       "keywords": [],
-      "comments": "Cm - Energy 7",
+      "comments": "Cm - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854523__Sean Paul__(When You Gonna) Give It Up to Me - Radio Version.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
-        "artistId": "445",
+        "artistId": "98995",
         "name": "Sean Paul",
         "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22",
         "genres": [
-          "dance-pop",
-          "dancehall",
-          "electropop",
-          "gg",
-          "hip hop",
-          "hip hop rnb and dance hall",
-          "pop",
-          "pop reggae",
-          "r&b",
-          "ragga",
-          "reggae",
-          "reggaeton",
-          "rnb"
+          "cello",
+          "spanish cellist",
+          "cellist",
+          "composer",
+          "dancehall"
         ],
-        "country": "JM",
+        "country": "ES",
         "spotifyUrl": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9",
         "spotifyId": "3Isy6kedDrgPYoTS1dazA9",
         "musicBrainzId": "c3da3346-2643-48a7-93cd-011f6834b3d7",
-        "popularity": 84,
-        "followers": 5144181
+        "popularity": 86,
+        "followers": 6073230
       }
     },
     "1274854524": {
@@ -165969,7 +165984,7 @@
       "keywords": [],
       "comments": "Gm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854524__Cherish__Do It To It.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "698",
@@ -166477,7 +166492,7 @@
       "keywords": [],
       "comments": "A#m - Energy 8",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\0-999\\322__Nelly Furtado__Promiscuous.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "217",
@@ -166503,8 +166518,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc",
         "spotifyId": "2jw70GZXlAI8QzWeY2bgRc",
         "musicBrainzId": "13655113-cd16-4b43-9dca-cadbbf26ee05",
-        "popularity": 79,
-        "followers": 4449817
+        "popularity": 80,
+        "followers": 5634990
       }
     },
     "1137": {
@@ -166604,12 +166619,12 @@
       "keywords": [],
       "comments": "Fm - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854536__Omarion__Entourage.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "2404",
         "name": "Omarion",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8b09a264a0e22193f0786c1b",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9020730faab3ef6ebd31012a",
         "genres": [
           "contemporary r&b",
           "hip hop",
@@ -166621,8 +166636,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT",
         "spotifyId": "0f5nVCcR06GX8Qikz0COtT",
         "musicBrainzId": "3ca09fae-fdee-4771-bab9-244708515a98",
-        "popularity": 63,
-        "followers": 3174630
+        "popularity": 64,
+        "followers": 3579909
       }
     },
     "1005": {
@@ -167933,7 +167948,7 @@
       "keywords": [],
       "comments": "F#m - Energy 5",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\130000-130999\\130913__My Boo - Hitman's Club Mix__Ghost Town DJs.mp3",
-      "dateAdded": "2026-10-23",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "6344",
@@ -167963,7 +167978,7 @@
       "keywords": [],
       "comments": "Em - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854570__Pretty Ricky__Your Body.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "3523",
@@ -167979,8 +167994,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju",
         "spotifyId": "6XwcepfAsPhrvwziGxhwju",
         "musicBrainzId": "b79247ee-9870-4a26-8cbc-88d13044d7f6",
-        "popularity": 58,
-        "followers": 1737725
+        "popularity": 61,
+        "followers": 1886418
       }
     },
     "1899": {
@@ -170301,12 +170316,12 @@
       "keywords": [],
       "comments": "Bm - Energy 6",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854637__Mariah Carey__We Belong Together Remix - Remix.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "98",
         "name": "Mariah Carey",
-        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9de8967e3f792c7954f69695",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb21453384a10b1f8e18877f63",
         "genres": [
           "1990s",
           "2000s",
@@ -170335,8 +170350,8 @@
         "spotifyUrl": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ",
         "spotifyId": "4iHNK0tOyZPYnBU7nGAgpQ",
         "musicBrainzId": "494e8d09-f85b-4543-892f-a5096aed1cd4",
-        "popularity": 80,
-        "followers": 11445825
+        "popularity": 81,
+        "followers": 13323418
       }
     },
     "1274854640": {
@@ -170579,36 +170594,34 @@
     "1274854646": {
       "album": "Finally",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27361486c8b19844101f00b3e4b",
-      "genre": "R&B",
-      "country": "US",
+      "genre": "Pop",
+      "country": "GB",
       "spotifyUrl": "https://open.spotify.com/track/3PPWLupdDmyZnTu0eRd90P",
-      "camelot": "8B",
-      "overallVolume": "-11.0",
+      "camelot": "8A",
+      "overallVolume": "-10.5",
       "cuePoints": "8",
-      "clippedPeaks": 4946,
+      "clippedPeaks": 2845,
       "keywords": [],
-      "comments": "C - Energy 6",
+      "comments": "Am - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854646__Blackstreet__Take Me There - Remix.mp3",
-      "dateAdded": "2026-09-14",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
-        "artistId": "822",
+        "artistId": "36402",
         "name": "Blackstreet",
         "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf6fc18d6914f00397161ba3a",
         "genres": [
-          "2008 universal fire victim",
-          "contemporary r&b",
-          "hip hop",
-          "hip hop rnb and dance hall",
+          "grime",
+          "mc",
           "new jack swing",
-          "r&b"
+          "uk"
         ],
-        "country": "US",
+        "country": "GB",
         "spotifyUrl": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA",
         "spotifyId": "2P3cjUru4H3fhSXXNxE9kA",
         "musicBrainzId": "d72d000b-b860-44f4-9ac1-5d82e3fff9a9",
-        "popularity": 66,
-        "followers": 937422
+        "popularity": 67,
+        "followers": 1196897
       }
     },
     "1274854647": {
@@ -170746,7 +170759,7 @@
       "keywords": [],
       "comments": "A#m - Energy 7",
       "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854651__R. Kelly__She's Got That Vibe.mp3",
-      "dateAdded": "2026-10-23",
+      "dateAdded": "2026-10-24",
       "rating": null,
       "artistDetails": {
         "artistId": "102353",
@@ -250815,6 +250828,190 @@
         "musicBrainzId": "43670151-f762-4c71-b560-d279d389eb44",
         "popularity": 33,
         "followers": 27582
+      }
+    },
+    "1274854545": {
+      "album": "Bluestars",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27355fb7a0fff974447da73d148",
+      "genre": "R&B",
+      "country": "US",
+      "spotifyUrl": "https://open.spotify.com/track/1ILtQzEsKALgFVVlbeqCGS",
+      "camelot": "2A",
+      "overallVolume": "-9.8",
+      "cuePoints": "8",
+      "clippedPeaks": 2840,
+      "keywords": [],
+      "comments": "D#m - Energy 6",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854545__Pretty Ricky__Grind With Me.mp3",
+      "dateAdded": "2026-10-24",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "3523",
+        "name": "Pretty Ricky",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbe775c460b5cb46870921795",
+        "genres": [
+          "hip hop",
+          "hip hop rnb and dance hall",
+          "r&b",
+          "rap"
+        ],
+        "country": "US",
+        "spotifyUrl": "https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju",
+        "spotifyId": "6XwcepfAsPhrvwziGxhwju",
+        "musicBrainzId": "b79247ee-9870-4a26-8cbc-88d13044d7f6",
+        "popularity": 61,
+        "followers": 1886418
+      }
+    },
+    "1274854506": {
+      "album": "Pain Is Love",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734e351086ebd36cebf0e5afc7",
+      "genre": "R&B",
+      "country": "US",
+      "spotifyUrl": "https://open.spotify.com/track/39w4Xgs8FvY2SJmZsHKn2K",
+      "camelot": "5A",
+      "overallVolume": "-10.4",
+      "cuePoints": "8",
+      "clippedPeaks": 358,
+      "keywords": [],
+      "comments": "Cm - Energy 7",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854506__Ja Rule__Always On Time.mp3",
+      "dateAdded": "2026-10-24",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "3013",
+        "name": "Ja Rule",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb47b549b590b63e52c68b89b",
+        "genres": [
+          "east coast hip hop",
+          "gangsta rap",
+          "hardcore hip hop",
+          "hip hop",
+          "hip hop rnb and dance hall",
+          "pop rap"
+        ],
+        "country": "US",
+        "spotifyUrl": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6",
+        "spotifyId": "1J2VVASYAamtQ3Bt8wGgA6",
+        "musicBrainzId": "b504f625-4ef6-4a5a-81e8-870a61e8dc9c",
+        "popularity": 73,
+        "followers": 2367277
+      }
+    },
+    "1274854619": {
+      "album": "Rappa Ternt Sanga",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bfe8c2950592fbe9dd9d75c3",
+      "genre": "Rap/Hip Hop",
+      "country": "US",
+      "spotifyUrl": "https://open.spotify.com/track/0F7rEdewJ6cSLylOZZpDu7",
+      "camelot": "5A",
+      "overallVolume": "-11.8",
+      "cuePoints": "8",
+      "clippedPeaks": 47,
+      "keywords": [],
+      "comments": "Cm - Energy 5",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854619__T-Pain__I'm Sprung.mp3",
+      "dateAdded": "2026-10-24",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "49523",
+        "name": "T-Pain",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb23981d9ba3b853b4534b80a9",
+        "genres": [
+          "contemporary r&b",
+          "electropop",
+          "hip hop",
+          "pop",
+          "pop rap",
+          "rap",
+          "soul and reggae",
+          "southern hip hop"
+        ],
+        "country": "US",
+        "spotifyUrl": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy",
+        "spotifyId": "3aQeKQSyrW4qWr35idm0cy",
+        "musicBrainzId": "ce55e49a-32f4-4757-9849-bf04d06d5fcc",
+        "popularity": 82,
+        "followers": 6634631
+      }
+    },
+    "1274854615": {
+      "album": "Konvicted",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733ad505200e799d6cf2b09b0a",
+      "genre": "Rap/Hip Hop",
+      "country": "US",
+      "spotifyUrl": "https://open.spotify.com/track/3qKGvSu1inEZKwYQnMavNA",
+      "camelot": "4A",
+      "overallVolume": "-10.6",
+      "cuePoints": "8",
+      "clippedPeaks": 1081,
+      "keywords": [],
+      "comments": "Fm - Energy 4",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274854000-1274854999\\1274854615__Akon__Smack That.mp3",
+      "dateAdded": "2026-10-24",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "413",
+        "name": "Akon",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3adb5ae14cf81ab05cf3a9e5",
+        "genres": [
+          "2000s",
+          "reggae-pop",
+          "dangerous",
+          "senegalese-american",
+          "contemporary r&b",
+          "dance-pop",
+          "american",
+          "hip hop rnb and dance hall",
+          "electropop",
+          "hip hop",
+          "r&b",
+          "pop rap",
+          "pop"
+        ],
+        "country": "US",
+        "spotifyUrl": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV",
+        "spotifyId": "0z4gvV4rjIZ9wHck67ucSV",
+        "musicBrainzId": "1138a764-2212-4d0a-b02d-0dc14df91e08",
+        "popularity": 86,
+        "followers": 7113191
+      }
+    },
+    "1274824270": {
+      "album": "Shock Value",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273755a9f1e89ad8e8cf91d4956",
+      "genre": "Rap/Hip Hop",
+      "country": "US",
+      "spotifyUrl": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx",
+      "camelot": "1A",
+      "overallVolume": "-9.5",
+      "cuePoints": "8",
+      "clippedPeaks": 79,
+      "keywords": [],
+      "comments": "G#m - Energy 6",
+      "folder": "C:\\Users\\fbrav\\Music\\FLAMINGO_LIBRARY\\1274824000-1274824999\\1274824270__Timbaland__Give It To Me.mp3",
+      "dateAdded": "2026-10-24",
+      "rating": null,
+      "artistDetails": {
+        "artistId": "218",
+        "name": "Timbaland",
+        "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb713079a55dcf937d241dd2b",
+        "genres": [
+          "contemporary r&b",
+          "dance-pop",
+          "electropop",
+          "hip hop",
+          "hip hop rnb and dance hall",
+          "pop",
+          "pop rap",
+          "pop rock"
+        ],
+        "country": "US",
+        "spotifyUrl": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ",
+        "spotifyId": "5Y5TRrQiqgUO4S36tzjIRZ",
+        "musicBrainzId": "daa09819-5da5-4c7a-8bef-eb372bb27ff1",
+        "popularity": 83,
+        "followers": 4153218
       }
     }
   }
