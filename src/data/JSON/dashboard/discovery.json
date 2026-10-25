@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T22:05:41",
+  "generatedAt": "2026-10-25T15:48:25",
   "currentWeek": "2026-W40",
   "rules": {
     "popularityMin": 30,
@@ -22,8 +22,8 @@
   "summary": {
     "currentRelevant": 3034,
     "newThisWeek": 0,
-    "alreadyDjComplete": 90,
-    "needsDjProcessing": 2944,
+    "alreadyDjComplete": 93,
+    "needsDjProcessing": 2941,
     "newDownloadCandidates": 0
   },
   "spotifyPlaylist": {
@@ -9482,14 +9482,12 @@
       "firstSeenWeek": "2026-W36",
       "currentWeek": "2026-W40",
       "inDjLibrary": true,
-      "djComplete": false,
-      "djReasons": [
-        "AUDIO_FILE_MISSING"
-      ],
-      "tempo": 84.0,
+      "djComplete": true,
+      "djReasons": [],
+      "tempo": 81.0,
       "musicalKey": "D",
-      "camelot": null,
-      "energy": "6",
+      "camelot": "10B",
+      "energy": "7.0",
       "source": "MASTER_DISCOVERY"
     },
     {
@@ -23065,10 +23063,13 @@
       "isNewDiscovery": false,
       "firstSeenWeek": "2026-W36",
       "currentWeek": "2026-W40",
-      "inDjLibrary": false,
+      "inDjLibrary": true,
       "djComplete": false,
       "djReasons": [
-        "NO_DJ_RECORD"
+        "NO_BPM",
+        "NO_KEY",
+        "NO_ENERGY",
+        "NO_AUDIO"
       ],
       "tempo": null,
       "musicalKey": null,
@@ -24096,7 +24097,7 @@
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735372d4d54da5b2da80aedf4d",
       "spotifyUrl": "https://open.spotify.com/track/45PA78s76MINw5hjGxkD2b",
       "spotifyTrackId": "45PA78s76MINw5hjGxkD2b",
-      "spotifyPopularity": 60,
+      "spotifyPopularity": 55,
       "releaseDate": "2026-07-03",
       "genre": null,
       "trend": "STABLE",
@@ -29940,7 +29941,7 @@
       "spotifyTrackId": "04nwoRnWqFYhFLaRNWuNw5",
       "spotifyPopularity": 71,
       "releaseDate": "2026-06-18",
-      "genre": null,
+      "genre": "t-pop, thai pop",
       "trend": "STABLE",
       "trendScore": 52.6063,
       "dailyScore": 56.4885,
@@ -63665,7 +63666,7 @@
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c0bdb02260c96de037a86672",
       "spotifyUrl": "https://open.spotify.com/track/6MkilFydC2FJUQiRMONKX4",
       "spotifyTrackId": "6MkilFydC2FJUQiRMONKX4",
-      "spotifyPopularity": 44,
+      "spotifyPopularity": 43,
       "releaseDate": "2026-06-10",
       "genre": null,
       "trend": "STABLE",
@@ -80801,7 +80802,7 @@
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735372d4d54da5b2da80aedf4d",
       "spotifyUrl": "https://open.spotify.com/track/69IzEaype98TIVSN2Y4115",
       "spotifyTrackId": "69IzEaype98TIVSN2Y4115",
-      "spotifyPopularity": 57,
+      "spotifyPopularity": 51,
       "releaseDate": "2026-07-03",
       "genre": null,
       "trend": "STABLE",
@@ -81581,7 +81582,7 @@
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27369b59400ca0cb9c8573603bd",
       "spotifyUrl": "https://open.spotify.com/track/4Xff1aOYbDEJLTkNDqhSH6",
       "spotifyTrackId": "4Xff1aOYbDEJLTkNDqhSH6",
-      "spotifyPopularity": 71,
+      "spotifyPopularity": 66,
       "releaseDate": "2026-07-03",
       "genre": null,
       "trend": "STABLE",
@@ -82712,9 +82713,9 @@
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273aad1be30383fda9ef988f2c2",
       "spotifyUrl": "https://open.spotify.com/track/4Op40bAwmKRdi07SW3MeQA",
       "spotifyTrackId": "4Op40bAwmKRdi07SW3MeQA",
-      "spotifyPopularity": 65,
+      "spotifyPopularity": 61,
       "releaseDate": "2026-06-29",
-      "genre": null,
+      "genre": "khaleeji, egyptian pop, arabic hip hop",
       "trend": "STABLE",
       "trendScore": 47.5191,
       "dailyScore": 51.895,
@@ -88596,7 +88597,7 @@
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27369b59400ca0cb9c8573603bd",
       "spotifyUrl": "https://open.spotify.com/track/2oi6HlddsRMm3QceAN85Fw",
       "spotifyTrackId": "2oi6HlddsRMm3QceAN85Fw",
-      "spotifyPopularity": 65,
+      "spotifyPopularity": 63,
       "releaseDate": "2026-07-03",
       "genre": null,
       "trend": "STABLE",
@@ -90682,14 +90683,12 @@
       "firstSeenWeek": "2026-W39",
       "currentWeek": "2026-W40",
       "inDjLibrary": true,
-      "djComplete": false,
-      "djReasons": [
-        "AUDIO_FILE_MISSING"
-      ],
+      "djComplete": true,
+      "djReasons": [],
       "tempo": 84.0,
       "musicalKey": "A",
-      "camelot": null,
-      "energy": "7",
+      "camelot": "11B",
+      "energy": "7.0",
       "source": "MASTER_DISCOVERY"
     },
     {
@@ -91462,14 +91461,12 @@
       "firstSeenWeek": "2026-W36",
       "currentWeek": "2026-W40",
       "inDjLibrary": true,
-      "djComplete": false,
-      "djReasons": [
-        "AUDIO_FILE_MISSING"
-      ],
+      "djComplete": true,
+      "djReasons": [],
       "tempo": 122.0,
       "musicalKey": "Em",
-      "camelot": null,
-      "energy": "7",
+      "camelot": "9A",
+      "energy": "6.0",
       "source": "MASTER_DISCOVERY"
     },
     {
@@ -115360,7 +115357,7 @@
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735372d4d54da5b2da80aedf4d",
       "spotifyUrl": "https://open.spotify.com/track/6Td1SOr7BEqZ7Uv5aTWuE8",
       "spotifyTrackId": "6Td1SOr7BEqZ7Uv5aTWuE8",
-      "spotifyPopularity": 56,
+      "spotifyPopularity": 49,
       "releaseDate": "2026-07-03",
       "genre": null,
       "trend": "STABLE",
@@ -116023,7 +116020,7 @@
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735372d4d54da5b2da80aedf4d",
       "spotifyUrl": "https://open.spotify.com/track/2fesWCggJg6yDKPJteWiXa",
       "spotifyTrackId": "2fesWCggJg6yDKPJteWiXa",
-      "spotifyPopularity": 57,
+      "spotifyPopularity": 51,
       "releaseDate": "2026-07-03",
       "genre": null,
       "trend": "STABLE",
