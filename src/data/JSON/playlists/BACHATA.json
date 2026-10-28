@@ -6,7 +6,7 @@
   "totalTracks": 626,
   "batchCompletedTracks": 626,
   "excludedIncompleteTracks": 101,
-  "generatedAt": "2026-10-27T23:01:56",
+  "generatedAt": "2026-10-28T12:49:05",
   "filters": {
     "genres_any": [],
     "genres_exclude": [],
@@ -10276,7 +10276,7 @@
         "country": "Kingdom of Italy",
         "spotifyUrl": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4",
         "spotifyId": "0qKIWMnkTnpE06eoKG7Pf4",
-        "musicBrainzId": null,
+        "musicBrainzId": "8c7a9b2d-90fd-44a8-bd78-68fb9fd78a9c",
         "popularity": 51,
         "followers": 13723
       }
@@ -12813,7 +12813,7 @@
         "country": "DO",
         "spotifyUrl": "https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd",
         "spotifyId": "1PruL3P8slDEQAjSuOjuPd",
-        "musicBrainzId": null,
+        "musicBrainzId": "43ad227f-40f6-48df-8ef5-83e54080fbd3",
         "popularity": 59,
         "followers": 73226
       }
@@ -13089,7 +13089,7 @@
         "country": "ES",
         "spotifyUrl": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8",
         "spotifyId": "6UelqIK8qwhWFc2f6nSEh8",
-        "musicBrainzId": null,
+        "musicBrainzId": "3d6470bc-3929-4997-8ef0-56859fd0ab8a",
         "popularity": 60,
         "followers": 843340
       }
@@ -15739,7 +15739,7 @@
         "country": "Kingdom of Italy",
         "spotifyUrl": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4",
         "spotifyId": "0qKIWMnkTnpE06eoKG7Pf4",
-        "musicBrainzId": null,
+        "musicBrainzId": "8c7a9b2d-90fd-44a8-bd78-68fb9fd78a9c",
         "popularity": 51,
         "followers": 13723
       }
@@ -21744,7 +21744,7 @@
         "country": "US",
         "spotifyUrl": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx",
         "spotifyId": "7i0Z1tzWVamskO8eLnZ3Kx",
-        "musicBrainzId": null,
+        "musicBrainzId": "3e7d3eac-7789-493f-940d-8a4b8c14e72b",
         "popularity": 57,
         "followers": 16288
       }
@@ -24409,7 +24409,7 @@
         "country": "CL",
         "spotifyUrl": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq",
         "spotifyId": "5GRoRrY3Ug35hVuX3z5Rvq",
-        "musicBrainzId": null,
+        "musicBrainzId": "01c29ca8-50c1-4a75-9495-e110bc643a84",
         "popularity": 36,
         "followers": 13698
       }
