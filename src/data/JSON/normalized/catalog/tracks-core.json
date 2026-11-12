@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
   "catalogType": "core",
-  "updatedAt": "2026-10-31T09:21:26",
+  "updatedAt": "2026-11-12T10:06:48",
   "tracks": {
     "53": {
       "id": "53",
@@ -129468,7 +129468,7 @@
       "spotifyPopularity": 56,
       "tempo": 101.0,
       "musicalKey": "A#m",
-      "energy": "8.0"
+      "energy": "7.0"
     },
     "1274822610": {
       "id": "1274822610",
@@ -130168,9 +130168,9 @@
       "durationDisplay": "04:19",
       "releaseDate": "2006-01-01",
       "spotifyPopularity": 87,
-      "tempo": 153.0,
-      "musicalKey": "Cm",
-      "energy": "6.0"
+      "tempo": 133.0,
+      "musicalKey": "A#m",
+      "energy": "7.0"
     },
     "1274866686": {
       "id": "1274866686",
@@ -130742,7 +130742,7 @@
       "spotifyPopularity": 84,
       "tempo": 99.0,
       "musicalKey": "Dm",
-      "energy": "7.0"
+      "energy": "8.0"
     },
     "1274866716": {
       "id": "1274866716",
@@ -134681,7 +134681,7 @@
       "spotifyPopularity": 93,
       "tempo": 128.0,
       "musicalKey": "C",
-      "energy": "7.0"
+      "energy": "8.0"
     },
     "1288574": {
       "id": "1288574",
@@ -135487,7 +135487,7 @@
       "spotifyPopularity": 82,
       "tempo": 81.0,
       "musicalKey": "A",
-      "energy": "7.0"
+      "energy": "6.0"
     },
     "1274866946": {
       "id": "1274866946",
@@ -135747,7 +135747,7 @@
       "spotifyPopularity": 90,
       "tempo": 108.0,
       "musicalKey": "C#",
-      "energy": "4.0"
+      "energy": "6.0"
     },
     "1274828151": {
       "id": "1274828151",
@@ -137047,7 +137047,7 @@
       "spotifyPopularity": 74,
       "tempo": 150.0,
       "musicalKey": "D",
-      "energy": "6.0"
+      "energy": "5.0"
     },
     "1274867013": {
       "id": "1274867013",
@@ -137552,7 +137552,7 @@
       "durationDisplay": "03:51",
       "releaseDate": "2014-09-02",
       "spotifyPopularity": 86,
-      "tempo": 95.0,
+      "tempo": 127.0,
       "musicalKey": "Em",
       "energy": "8.0"
     },
@@ -142221,7 +142221,7 @@
       "spotifyPopularity": 71,
       "tempo": 123.0,
       "musicalKey": "Cm",
-      "energy": "8.0"
+      "energy": "7.0"
     },
     "1274867210": {
       "id": "1274867210",
@@ -142260,7 +142260,7 @@
       "spotifyPopularity": 59,
       "tempo": 90.0,
       "musicalKey": "G#m",
-      "energy": "7.0"
+      "energy": "6.0"
     },
     "1274867212": {
       "id": "1274867212",
@@ -143193,7 +143193,7 @@
       "durationSeconds": 211,
       "durationDisplay": "03:31",
       "releaseDate": "2017-11-10",
-      "spotifyPopularity": 79,
+      "spotifyPopularity": 80,
       "tempo": 128.0,
       "musicalKey": "Am",
       "energy": "7.0"
@@ -146693,7 +146693,7 @@
       "spotifyPopularity": 88,
       "tempo": 128.0,
       "musicalKey": "G#m",
-      "energy": "8.0"
+      "energy": "7.0"
     },
     "1274867323": {
       "id": "1274867323",
@@ -146771,7 +146771,7 @@
       "spotifyPopularity": 72,
       "tempo": 98.0,
       "musicalKey": "D#",
-      "energy": "4.0"
+      "energy": "5.0"
     },
     "535043": {
       "id": "535043",
@@ -148279,7 +148279,7 @@
       "spotifyPopularity": 82,
       "tempo": 153.0,
       "musicalKey": "Fm",
-      "energy": "7.0"
+      "energy": "6.0"
     },
     "1228582": {
       "id": "1228582",
@@ -148292,7 +148292,7 @@
       "spotifyPopularity": 94,
       "tempo": 130.0,
       "musicalKey": "Dm",
-      "energy": "8.0"
+      "energy": "7.0"
     },
     "728834": {
       "id": "728834",
@@ -151282,7 +151282,7 @@
       "spotifyPopularity": 71,
       "tempo": 82.0,
       "musicalKey": "D#m",
-      "energy": "6.0"
+      "energy": "5.0"
     },
     "1274867503": {
       "id": "1274867503",
@@ -156444,6 +156444,188 @@
       "tempo": 130.0,
       "musicalKey": "Dm",
       "energy": "8.0"
+    },
+    "796": {
+      "id": "796",
+      "externalSongId": "796",
+      "title": "Bejeweled",
+      "artist": "Taylor Swift",
+      "durationSeconds": 194,
+      "durationDisplay": "03:14",
+      "releaseDate": "2022-10-21",
+      "spotifyPopularity": 74,
+      "tempo": 82.0,
+      "musicalKey": "C",
+      "energy": "6.0"
+    },
+    "12453": {
+      "id": "12453",
+      "externalSongId": "12453",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "durationSeconds": 251,
+      "durationDisplay": "04:11",
+      "releaseDate": "2024-08-19",
+      "spotifyPopularity": 81,
+      "tempo": 117.0,
+      "musicalKey": "Gm",
+      "energy": "7.0"
+    },
+    "548": {
+      "id": "548",
+      "externalSongId": "548",
+      "title": "...Ready For It?",
+      "artist": "Taylor Swift",
+      "durationSeconds": 208,
+      "durationDisplay": "03:28",
+      "releaseDate": "2017-11-10",
+      "spotifyPopularity": 79,
+      "tempo": 80.0,
+      "musicalKey": "Em",
+      "energy": "7.0"
+    },
+    "679": {
+      "id": "679",
+      "externalSongId": "679",
+      "title": "Dog Days Are Over",
+      "artist": "Florence + The Machine",
+      "durationSeconds": 251,
+      "durationDisplay": "04:11",
+      "releaseDate": "2009",
+      "spotifyPopularity": 79,
+      "tempo": 150.0,
+      "musicalKey": "G",
+      "energy": "7.0"
+    },
+    "2214": {
+      "id": "2214",
+      "externalSongId": "2214",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "durationSeconds": 244,
+      "durationDisplay": "04:04",
+      "releaseDate": "2011-01-01",
+      "spotifyPopularity": 72,
+      "tempo": 100.0,
+      "musicalKey": "Am",
+      "energy": "7.0"
+    },
+    "1240492": {
+      "id": "1240492",
+      "externalSongId": "1240492",
+      "title": "Von dutch",
+      "artist": "Charli xcx",
+      "durationSeconds": 164,
+      "durationDisplay": "02:44",
+      "releaseDate": "2024-06-07",
+      "spotifyPopularity": 81,
+      "tempo": 130.0,
+      "musicalKey": "Fm",
+      "energy": "7.0"
+    },
+    "13137": {
+      "id": "13137",
+      "externalSongId": "13137",
+      "title": "I Can Do It With a Broken Heart",
+      "artist": "Taylor Swift",
+      "durationSeconds": 218,
+      "durationDisplay": "03:38",
+      "releaseDate": "2024-04-18",
+      "spotifyPopularity": 78,
+      "tempo": 130.0,
+      "musicalKey": "C",
+      "energy": "6.0"
+    },
+    "1295906": {
+      "id": "1295906",
+      "externalSongId": "1295906",
+      "title": "Northern Attitude",
+      "artist": "Noah Kahan",
+      "durationSeconds": 267,
+      "durationDisplay": "04:27",
+      "releaseDate": "2022-10-14",
+      "spotifyPopularity": 83,
+      "tempo": 123.0,
+      "musicalKey": "D#",
+      "energy": "4.0"
+    },
+    "13584": {
+      "id": "13584",
+      "externalSongId": "13584",
+      "title": "Stick Season",
+      "artist": "Noah Kahan",
+      "durationSeconds": 182,
+      "durationDisplay": "03:02",
+      "releaseDate": "2022-10-14",
+      "spotifyPopularity": 88,
+      "tempo": 114.0,
+      "musicalKey": "A",
+      "energy": "5.0"
+    },
+    "1353": {
+      "id": "1353",
+      "externalSongId": "1353",
+      "title": "brutal",
+      "artist": "Olivia Rodrigo",
+      "durationSeconds": 143,
+      "durationDisplay": "02:23",
+      "releaseDate": "2021-05-21",
+      "spotifyPopularity": 80,
+      "tempo": 124.0,
+      "musicalKey": "Bm",
+      "energy": "8.0"
+    },
+    "1274867833": {
+      "id": "1274867833",
+      "externalSongId": "1274867833",
+      "title": "But Daddy I Love Him",
+      "artist": "Taylor Swift",
+      "durationSeconds": 340,
+      "durationDisplay": "05:40",
+      "releaseDate": "2024-04-18",
+      "spotifyPopularity": 69,
+      "tempo": 80.0,
+      "musicalKey": "E",
+      "energy": "6.0"
+    },
+    "1274867834": {
+      "id": "1274867834",
+      "externalSongId": "1274867834",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "durationSeconds": 232,
+      "durationDisplay": "03:52",
+      "releaseDate": "2014-10-27",
+      "spotifyPopularity": 78,
+      "tempo": 96.0,
+      "musicalKey": "F",
+      "energy": "6.0"
+    },
+    "1274867835": {
+      "id": "1274867835",
+      "externalSongId": "1274867835",
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "durationSeconds": 219,
+      "durationDisplay": "03:39",
+      "releaseDate": "2014-10-27",
+      "spotifyPopularity": 76,
+      "tempo": 80.0,
+      "musicalKey": "G",
+      "energy": "8.0"
+    },
+    "544081": {
+      "id": "544081",
+      "externalSongId": "544081",
+      "title": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "durationSeconds": 213,
+      "durationDisplay": "03:33",
+      "releaseDate": "2023-06-09",
+      "spotifyPopularity": 71,
+      "tempo": 112.0,
+      "musicalKey": "G#",
+      "energy": "6.0"
     }
   }
 }
