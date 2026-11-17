@@ -3,8 +3,8 @@
   "playlistId": "latin house",
   "playlistName": "LATIN HOUSE",
   "description": "Incremental Flamingo DJ playlist. Existing complete tracks are preserved; current MIXNKEY batch is merged by unique SongID.",
-  "totalTracks": 837,
-  "generatedAt": "2026-11-16T18:58:40",
+  "totalTracks": 836,
+  "generatedAt": "2026-11-16T19:30:49",
   "trackIds": [
     "1274846809",
     "1274846810",
@@ -613,7 +613,6 @@
     "35495",
     "1274868917",
     "1274868919",
-    "1081",
     "1274868921",
     "1274868922",
     "1274868923",
@@ -853,5 +852,5 @@
   },
   "curationSpotifyPlaylistId": "3J0CLJU8zd4xiuL6TkQ1Sn",
   "curationSpotifyPlaylistName": "FG Latin House",
-  "curationSpotifySnapshotId": "AAABWpCw28qepN4P0k9At6w6u6TpjOgi"
+  "curationSpotifySnapshotId": "AAABW34lrrvFW//ORxtnupvyFKja/uWo"
 }
