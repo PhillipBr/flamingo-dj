@@ -192,6 +192,16 @@ export default function HarmonicWheelPanel({
     };
   }, []);
 
+  // Keep the wheel's selected key synchronized when Search/Match changes it.
+  useEffect(() => {
+    const handleExternalFilter = (event: Event) => {
+      const detail = (event as CustomEvent<{ key?: string | null }>).detail;
+      setFilterKey(normalizeHarmonicKey(detail?.key));
+    };
+    window.addEventListener("flamingo-dj-harmonic-filter", handleExternalFilter);
+    return () => window.removeEventListener("flamingo-dj-harmonic-filter", handleExternalFilter);
+  }, []);
+
   useEffect(() => {
     /*
      * Re-apply a persisted filter when the component mounts.

@@ -53,6 +53,7 @@ export type TrackSortField =
 export type TrackSortDirection = "asc" | "desc";
 type TracksTableProps = {
   tracks: Track[];
+  suspendHarmonicFilter?: boolean;
   requestedActiveTrackId?: string | null;
   onChooseSearchResult?: (trackId: string) => void;
   playedTrackIds?: string[];
@@ -599,6 +600,7 @@ function renderCell(
 export default function TracksTable({
   tracks,
   requestedActiveTrackId,
+  suspendHarmonicFilter = false,
   onChooseSearchResult,
   playedTrackIds = [],
   onTogglePlayed,
@@ -671,7 +673,7 @@ export default function TracksTable({
   }, []);
   const harmonicVisibleTracks =
     useMemo(() => {
-      if (!harmonicFilterKey) {
+      if (!harmonicFilterKey || suspendHarmonicFilter) {
         return tracks;
       }
       return tracks.filter(
@@ -684,6 +686,7 @@ export default function TracksTable({
     }, [
       tracks,
       harmonicFilterKey,
+      suspendHarmonicFilter,
     ]);
   useEffect(() => {
     /*
@@ -1102,6 +1105,7 @@ export default function TracksTable({
   }
   if (
     harmonicFilterKey &&
+    !suspendHarmonicFilter &&
     harmonicVisibleTracks.length === 0
   ) {
     return (
