@@ -12,8 +12,8 @@ import {
 
 type BulkActionsBarProps = {
   selectedCount: number;
-  selectedIsPlayed: boolean;
-  onTogglePlayedSelected: () => void;
+  selectedIsPlayed?: boolean;
+  onTogglePlayedSelected?: () => void;
 
   onMatchSelected: () => void;
   onEditSelected: () => void;
@@ -78,6 +78,7 @@ export default function BulkActionsBar({
           MATCH
         </button>
 
+        {onTogglePlayedSelected && (
         <button
           className="bulk-actions__button bulk-actions__button--played"
           type="button"
@@ -89,6 +90,7 @@ export default function BulkActionsBar({
           {selectedIsPlayed ? <RotateCcw size={15} /> : <CheckCircle2 size={15} />}
           {selectedIsPlayed ? "Unplay" : "Played"}
         </button>
+        )}
 
         <button
           className="bulk-actions__button"

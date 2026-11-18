@@ -958,7 +958,6 @@ export default function PlaylistDetailPage() {
           .trim()
           .toLowerCase();
 
-      const searchIsActive = normalizedSearch.length > 0;
       const filteredTracks =
         playlistOrderedTracks.filter(
           (track) => {
