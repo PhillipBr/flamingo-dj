@@ -121,7 +121,6 @@ const FILTER_STORAGE_KEY =
   "flamingo-dj-advanced-track-filters";
 
 // Visual-only default: all SongIDs remain in the playlist, Match and Search.
-const DEFAULT_MIN_POPULARITY = 30;
 
 function isTrackColumnId(
   value: unknown,
@@ -299,13 +298,6 @@ export default function PlaylistDetailPage() {
     searchInputRef.current?.blur();
   }
 
-  const [showAllPopularity, setShowAllPopularity] = useState(false);
-  const [minimumPopularity, setMinimumPopularity] = useState(DEFAULT_MIN_POPULARITY);
-
-  // Reset the temporary visibility override when switching playlists.
-  useEffect(() => {
-    setShowAllPopularity(false);
-  }, [playlistId]);
 
   const [
     genreFilter,
@@ -970,15 +962,6 @@ export default function PlaylistDetailPage() {
       const filteredTracks =
         playlistOrderedTracks.filter(
           (track) => {
-            // Searching bypasses the popularity threshold, but still
-            // respects genre and advanced filters selected by the DJ.
-            if (!searchIsActive && !showAllPopularity &&
-                track.id !== focusTrackId &&
-                (track.spotifyPopularity == null ||
-                 track.spotifyPopularity < minimumPopularity)) {
-              return false;
-            }
-
             const matchesSearch =
               normalizedSearch
                 .length === 0 ||
@@ -1064,9 +1047,6 @@ export default function PlaylistDetailPage() {
       genreFilter,
       playlistOrderedTracks,
       searchTerm,
-      showAllPopularity,
-      minimumPopularity,
-      focusTrackId,
       sortDirection,
       sortField,
     ]);
@@ -2674,35 +2654,6 @@ export default function PlaylistDetailPage() {
             />
           </div>
 
-          <div className="tracks-toolbar__popularity" style={{display: "flex", alignItems: "center", gap: 8, flexWrap: "wrap"}}>
-            <label htmlFor="playlist-min-popularity">POP ≥</label>
-            <select
-              id="playlist-min-popularity"
-              aria-label="Minimum Spotify popularity"
-              value={minimumPopularity}
-              disabled={showAllPopularity}
-              onChange={(event) => setMinimumPopularity(Number(event.target.value))}
-            >
-              {[0, 20, 30, 40, 50, 60, 70].map((value) => (
-                <option key={value} value={value}>{value}</option>
-              ))}
-            </select>
-            <label style={{display: "inline-flex", alignItems: "center", gap: 5}}>
-              <input
-                type="checkbox"
-                checked={showAllPopularity}
-                onChange={(event) => setShowAllPopularity(event.target.checked)}
-              />
-              Show All
-            </label>
-            <small title="Search includes low-popularity tracks; Match uses the complete playlist">
-              {searchTerm.trim() ? "Searching all popularity levels" :
-                showAllPopularity ? "All popularity levels" :
-                `Showing POP ≥ ${minimumPopularity}`}
-              {` · ${playlistOrderedTracks.length} total`}
-            </small>
-          </div>
-
           <div className="tracks-toolbar__actions">
             <label className="tracks-toolbar__select">
               <Filter size={16} />
@@ -2822,6 +2773,12 @@ export default function PlaylistDetailPage() {
           selectedCount={
             selectedTrackIds.length
           }
+          selectedIsPlayed={selectedTrackIds.length === 1 && played.playedIds.includes(selectedTrackIds[0])}
+          onTogglePlayedSelected={() => {
+            if (selectedTrackIds.length !== 1) return;
+            const selected = playlistOrderedTracks.find((track) => track.id === selectedTrackIds[0]);
+            if (selected) togglePlayedForTrack(selected);
+          }}
           onMatchSelected={
             handleOpenMatchPanel
           }

@@ -4,12 +4,16 @@ import {
   ListPlus,
   Pencil,
   Sparkles,
+  CheckCircle2,
+  RotateCcw,
   Trash2,
   X,
 } from "lucide-react";
 
 type BulkActionsBarProps = {
   selectedCount: number;
+  selectedIsPlayed: boolean;
+  onTogglePlayedSelected: () => void;
 
   onMatchSelected: () => void;
   onEditSelected: () => void;
@@ -25,6 +29,8 @@ type BulkActionsBarProps = {
 
 export default function BulkActionsBar({
   selectedCount,
+  selectedIsPlayed,
+  onTogglePlayedSelected,
   onMatchSelected,
   onEditSelected,
   onMoveSelected,
@@ -70,6 +76,18 @@ export default function BulkActionsBar({
         >
           <Sparkles size={15} />
           MATCH
+        </button>
+
+        <button
+          className="bulk-actions__button bulk-actions__button--played"
+          type="button"
+          disabled={!hasSingleSelection}
+          aria-pressed={hasSingleSelection ? selectedIsPlayed : false}
+          title={hasSingleSelection ? (selectedIsPlayed ? "Remove Played mark" : "Mark track as Played") : "Select exactly one track"}
+          onClick={onTogglePlayedSelected}
+        >
+          {selectedIsPlayed ? <RotateCcw size={15} /> : <CheckCircle2 size={15} />}
+          {selectedIsPlayed ? "Unplay" : "Played"}
         </button>
 
         <button
