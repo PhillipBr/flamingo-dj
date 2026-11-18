@@ -290,12 +290,26 @@ export default function PlaylistDetailPage() {
     setSearchTerm,
   ] = useState("");
 
-  function chooseTrackFromSearch(trackId: string) {
+  // Search and Match confirmations use the same navigation behavior.
+  // The harmonic filter follows the confirmed track only when already active.
+  function confirmTrackNavigation(trackId: string) {
+    const chosenTrack = playlistTracks.find((track) => track.id === trackId);
+    if (chosenTrack?.musicalKey) {
+      setAdvancedFilters((current) =>
+        current.musicalKey === "all"
+          ? current
+          : { ...current, musicalKey: chosenTrack.musicalKey! },
+      );
+    }
     setSelectedTrackIds([trackId]);
     setLastSelectedTrackId(trackId);
     setFocusTrackId(trackId);
     setSearchTerm("");
     searchInputRef.current?.blur();
+  }
+
+  function chooseTrackFromSearch(trackId: string) {
+    confirmTrackNavigation(trackId);
   }
 
 
@@ -1021,11 +1035,14 @@ export default function PlaylistDetailPage() {
               );
 
 
-            return (
-              matchesSearch &&
-              matchesGenre &&
-              matchesAdvancedFilters
-            );
+            // While searching, ignore every other filter but keep their settings.
+            if (normalizedSearch.length > 0) return Boolean(matchesSearch);
+
+            // Keep the confirmed Search/Match track reachable even when a
+            // different active filter (BPM, genre, popularity...) excludes it.
+            if (track.id === focusTrackId) return true;
+
+            return matchesGenre && matchesAdvancedFilters;
           },
         );
 
@@ -1043,6 +1060,7 @@ export default function PlaylistDetailPage() {
       );
     }, [
       advancedFilters,
+      focusTrackId,
       genreFilter,
       playlistOrderedTracks,
       searchTerm,
@@ -2884,10 +2902,7 @@ export default function PlaylistDetailPage() {
         }
         onChooseTrack={(trackId) => {
           setMatchTrackId(null);
-          setSearchTerm("");
-          setSelectedTrackIds([trackId]);
-          setLastSelectedTrackId(trackId);
-          setFocusTrackId(trackId);
+          confirmTrackNavigation(trackId);
         }}
         currentSetTrackIds={
           currentSet.items.map(
