@@ -1,3 +1,4 @@
+import { normalizeHarmonicKey } from "../components/harmonic/harmonicUtils";
 import {
   ArrowLeft,
   Filter,
@@ -290,16 +291,24 @@ export default function PlaylistDetailPage() {
     setSearchTerm,
   ] = useState("");
 
-  // Search and Match confirmations use the same navigation behavior.
-  // The harmonic filter follows the confirmed track only when already active.
+  // Confirming a track follows the harmonic filter only if the wheel
+  // already has an active key. The wheel and table own this separate filter.
   function confirmTrackNavigation(trackId: string) {
-    const chosenTrack = playlistTracks.find((track) => track.id === trackId);
+    const chosenTrack = playlistOrderedTracks.find((track) => track.id === trackId);
     if (chosenTrack?.musicalKey) {
-      setAdvancedFilters((current) =>
-        current.musicalKey === "all"
-          ? current
-          : { ...current, musicalKey: chosenTrack.musicalKey! },
-      );
+      const storedKey = (() => {
+        try { return window.localStorage.getItem("flamingo-dj-harmonic-filter-v1"); }
+        catch { return null; }
+      })();
+      if (storedKey) {
+        const nextKey = normalizeHarmonicKey(chosenTrack.musicalKey);
+        if (nextKey) {
+          try { window.localStorage.setItem("flamingo-dj-harmonic-filter-v1", nextKey); }
+          catch { /* storage may be unavailable */ }
+          window.dispatchEvent(new CustomEvent("flamingo-dj-harmonic-filter", { detail: { key: nextKey } }));
+          setAdvancedFilters((current) => current.musicalKey === "all" ? current : { ...current, musicalKey: chosenTrack.musicalKey! });
+        }
+      }
     }
     setSelectedTrackIds([trackId]);
     setLastSelectedTrackId(trackId);
@@ -1035,13 +1044,10 @@ export default function PlaylistDetailPage() {
               );
 
 
-            // While searching, ignore every other filter but keep their settings.
+            // Search overrides all page-level filters, without resetting them.
             if (normalizedSearch.length > 0) return Boolean(matchesSearch);
-
-            // Keep the confirmed Search/Match track reachable even when a
-            // different active filter (BPM, genre, popularity...) excludes it.
+            // Keep a confirmed result visible even if BPM/genre filters exclude it.
             if (track.id === focusTrackId) return true;
-
             return matchesGenre && matchesAdvancedFilters;
           },
         );
@@ -2793,6 +2799,7 @@ export default function PlaylistDetailPage() {
           selectedIsPlayed={selectedTrackIds.length === 1 && played.playedIds.includes(selectedTrackIds[0])}
           onTogglePlayedSelected={() => {
             if (selectedTrackIds.length !== 1) return;
+            // Resolve by SongID from the original playlist, never by filtered index.
             const selected = playlistOrderedTracks.find((track) => track.id === selectedTrackIds[0]);
             if (selected) togglePlayedForTrack(selected);
           }}
@@ -2825,6 +2832,7 @@ export default function PlaylistDetailPage() {
 
         <TracksTable
           tracks={visibleTracks}
+          suspendHarmonicFilter={Boolean(searchTerm.trim())}
           requestedActiveTrackId={focusTrackId}
           onChooseSearchResult={searchTerm.trim() ? chooseTrackFromSearch : undefined}
           playedTrackIds={played.playedIds}

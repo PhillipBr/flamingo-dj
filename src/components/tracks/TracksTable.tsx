@@ -949,12 +949,14 @@ export default function TracksTable({
   ]);
   // Keep hooks above the empty-table returns.
   useEffect(() => {
-    setActiveTrackId((current) =>
-      harmonicVisibleTracks.some((track) => track.id === current)
-        ? current
-        : harmonicVisibleTracks[0]?.id ?? null,
-    );
-  }, [harmonicVisibleTracks]);
+    setActiveTrackId((current) => {
+      if (harmonicVisibleTracks.some((track) => track.id === current)) return current;
+      const selectedVisible = selectedTrackIds.length === 1
+        ? harmonicVisibleTracks.find((track) => track.id === selectedTrackIds[0])
+        : undefined;
+      return selectedVisible?.id ?? harmonicVisibleTracks[0]?.id ?? null;
+    });
+  }, [harmonicVisibleTracks, selectedTrackIds]);
 
   const keyboardColumns = useMemo(() =>
     orderedVisibleColumns.filter((id) => Boolean(getColumnDefinition(id).sortField)),
@@ -1040,11 +1042,20 @@ export default function TracksTable({
         }
         return;
       }
-      if (key === "p" && activeTrackId && onTogglePlayed) {
+      if (key === "p" && onTogglePlayed) {
         event.preventDefault();
         if (!event.repeat) {
-          const active = harmonicVisibleTracks.find((track) => track.id === activeTrackId);
-          if (active) onTogglePlayed(active);
+          // A selected row is the DJ's intended track, even after sorting or
+          // changing the harmonic key. Never resolve P by row index.
+          const selectedVisible = selectedTrackIds.length === 1
+            ? harmonicVisibleTracks.find((track) => track.id === selectedTrackIds[0])
+            : undefined;
+          const focusedVisible = harmonicVisibleTracks.find((track) => track.id === activeTrackId);
+          const target = selectedVisible ?? focusedVisible;
+          if (target) {
+            setActiveTrackId(target.id);
+            onTogglePlayed(target);
+          }
         }
         return;
       }
