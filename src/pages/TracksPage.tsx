@@ -1680,6 +1680,12 @@ export default function TracksPage() {
       />
 
       <MatchSongsPanel
+        selectedTrackIds={selectedTrackIds}
+        onChooseTrack={(trackId) => {
+          setSelectedTrackIds([trackId]);
+          setLastSelectedTrackId(trackId);
+          setMatchTrackId(null);
+        }}
         track={
           selectedMatchTrack
         }

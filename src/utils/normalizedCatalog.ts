@@ -65,10 +65,14 @@ function coreTrack(songId: string, raw: JsonRecord): Track {
   } as Track;
 }
 
+let cachedCoreTracks: Track[] | null = null;
+
 export function loadCoreTracks(): Track[] {
-  return Object.entries(corePayload().tracks ?? {}).map(([songId, raw]) =>
-    coreTrack(String(songId), raw),
+  if (cachedCoreTracks) return cachedCoreTracks;
+  cachedCoreTracks = Object.entries(corePayload().tracks ?? {}).map(
+    ([songId, raw]) => coreTrack(String(songId), raw),
   );
+  return cachedCoreTracks;
 }
 
 async function loadExtraCatalog(): Promise<Record<string, JsonRecord>> {
@@ -115,6 +119,7 @@ export async function hydrateTrackExtras(
 
   const extras = await loadExtraCatalog();
   let matches = 0;
+  let changed = false;
 
   const result = tracks.map((track) => {
     if (!wanted.has(track.id)) return track;
@@ -127,6 +132,7 @@ export async function hydrateTrackExtras(
     }
 
     matches += 1;
+    changed = true;
 
     return {
       ...track,
@@ -155,5 +161,5 @@ export async function hydrateTrackExtras(
     matched: matches,
   });
 
-  return result;
+  return changed ? result : tracks;
 }

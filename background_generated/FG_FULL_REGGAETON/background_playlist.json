@@ -1,0 +1,2019 @@
+{
+  "playlistName": "FG FULL REGGAETON",
+  "spotifyUrl": "https://open.spotify.com/playlist/4kvgncuPQuSFG14yYT9YXW",
+  "years": [
+    2010,
+    2026
+  ],
+  "sourcePlaylists": [
+    "REGGAETON 2010-2019",
+    "REGGAETON 2020-2024",
+    "REGGAETON 2025-2026",
+    "REGGAETON OLD SCHOOL"
+  ],
+  "minEnergy": 4.0,
+  "requestedCount": 200,
+  "tracks": [
+    {
+      "spotifyId": "6A844n6sWp3ziSN1eeoNy1",
+      "title": "Para No Molestar",
+      "artist": "Carlitos Rossy, Winpino",
+      "year": 2026,
+      "popularity": 45,
+      "energy": 5.0,
+      "durationSeconds": 164,
+      "band": 0
+    },
+    {
+      "spotifyId": "5aVHwG3dLQVOGEt77hm27c",
+      "title": "Nanae",
+      "artist": "Jay Menez",
+      "year": 2021,
+      "popularity": 53,
+      "energy": 6.0,
+      "durationSeconds": 193,
+      "band": 1
+    },
+    {
+      "spotifyId": "7HDOS7qOhBxmcsWTv29PSK",
+      "title": "Pretextos",
+      "artist": "Maluma",
+      "year": 2015,
+      "popularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 228,
+      "band": 1
+    },
+    {
+      "spotifyId": "2FSGUA0gFgGeQdprjtGM2M",
+      "title": "EL MAKINON",
+      "artist": "KAROL G",
+      "year": 2021,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 209,
+      "band": 1
+    },
+    {
+      "spotifyId": "3IAfUEeaXRX9s9UdKOJrFI",
+      "title": "Envolver",
+      "artist": "Anitta",
+      "year": 2021,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 193,
+      "band": 1
+    },
+    {
+      "spotifyId": "6n5hSi8Mdyee0XvsmIffeV",
+      "title": "Tumba La Casa (Remix)",
+      "artist": "Alexio",
+      "year": 2015,
+      "popularity": 67,
+      "energy": 7.0,
+      "durationSeconds": 477,
+      "band": 1
+    },
+    {
+      "spotifyId": "669yKzDjTWdKyB2KnTbhxG",
+      "title": "NI DE TI NI DE NADIE",
+      "artist": "Becky G",
+      "year": 2019,
+      "popularity": 42,
+      "energy": 6.0,
+      "durationSeconds": 181,
+      "band": 0
+    },
+    {
+      "spotifyId": "6xNVBgIRbb9cHKR1ipzIfm",
+      "title": "After",
+      "artist": "Conep",
+      "year": 2026,
+      "popularity": 79,
+      "energy": 6.0,
+      "durationSeconds": 167,
+      "band": 2
+    },
+    {
+      "spotifyId": "1MiziXJvC6HhBSJZHp0a2h",
+      "title": "Dandole Remix - with Gocho & Jowell",
+      "artist": "Omega, Gocho, Jowell",
+      "year": 2011,
+      "popularity": 44,
+      "energy": 8.0,
+      "durationSeconds": 242,
+      "band": 0
+    },
+    {
+      "spotifyId": "33Xd0gRmLMzStrrWccKwuH",
+      "title": "Pensando en Ti",
+      "artist": "Anuel AA, Wisin",
+      "year": 2018,
+      "popularity": 65,
+      "energy": 6.0,
+      "durationSeconds": 180,
+      "band": 1
+    },
+    {
+      "spotifyId": "12Mv7msTPLQbDdkpJ68ifR",
+      "title": "Feliz Navidad 4",
+      "artist": "Arcángel",
+      "year": 2015,
+      "popularity": 49,
+      "energy": 6.0,
+      "durationSeconds": 352,
+      "band": 0
+    },
+    {
+      "spotifyId": "7oCGD6Ccuw8JmYWw6IrI8z",
+      "title": "Coméntale",
+      "artist": "Ozuna",
+      "year": 2018,
+      "popularity": 54,
+      "energy": 4.0,
+      "durationSeconds": 214,
+      "band": 1
+    },
+    {
+      "spotifyId": "4zK05ecddIq3vfd08Aqi8y",
+      "title": "La Vida Es Así",
+      "artist": "Ivy Queen",
+      "year": 2010,
+      "popularity": 41,
+      "energy": 7.0,
+      "durationSeconds": 192,
+      "band": 0
+    },
+    {
+      "spotifyId": "38QmUDpkoYlNbMKvpvAsrE",
+      "title": "Mi Cama - Remix",
+      "artist": "KAROL G, J Balvin, Nicky Jam",
+      "year": 2018,
+      "popularity": 55,
+      "energy": 6.0,
+      "durationSeconds": 196,
+      "band": 1
+    },
+    {
+      "spotifyId": "5ZjJT7BB8OoVjyRZRYGen8",
+      "title": "Tonta",
+      "artist": "R.K.M & Ken-Y",
+      "year": 2018,
+      "popularity": 59,
+      "energy": 6.0,
+      "durationSeconds": 240,
+      "band": 1
+    },
+    {
+      "spotifyId": "3sK8wGT43QFpWrvNQsrQya",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "year": 2025,
+      "popularity": 93,
+      "energy": 5.0,
+      "durationSeconds": 237,
+      "band": 3
+    },
+    {
+      "spotifyId": "2BJjPYOppW8uRZlL5DZnkT",
+      "title": "Loba (feat. J Alvarez)",
+      "artist": "Carnal, J Alvarez",
+      "year": 2013,
+      "popularity": 60,
+      "energy": 7.0,
+      "durationSeconds": 229,
+      "band": 1
+    },
+    {
+      "spotifyId": "2v6PViOFJFPCVC7Yahulqh",
+      "title": "De Mentira",
+      "artist": "Alleh",
+      "year": 2022,
+      "popularity": 57,
+      "energy": 5.0,
+      "durationSeconds": 187,
+      "band": 1
+    },
+    {
+      "spotifyId": "6u0EAxf1OJTLS7CvInuNd7",
+      "title": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
+      "artist": "Anitta",
+      "year": 2017,
+      "popularity": 67,
+      "energy": 5.0,
+      "durationSeconds": 201,
+      "band": 1
+    },
+    {
+      "spotifyId": "3gT7PmnAnGV08uHVcEwONA",
+      "title": "Miel",
+      "artist": "Rawayana",
+      "year": 2023,
+      "popularity": 50,
+      "energy": 4.0,
+      "durationSeconds": 172,
+      "band": 0
+    },
+    {
+      "spotifyId": "0tJCo71s7HT9Mu5Z4juuLw",
+      "title": "Solita",
+      "artist": "Sech",
+      "year": 2019,
+      "popularity": 66,
+      "energy": 6.0,
+      "durationSeconds": 219,
+      "band": 1
+    },
+    {
+      "spotifyId": "2LvXnbzWZNpKKJXnP7BS0L",
+      "title": "Na Na Na Na Na",
+      "artist": "Baby Rasta y Gringo",
+      "year": 2017,
+      "popularity": 64,
+      "energy": 7.0,
+      "durationSeconds": 265,
+      "band": 1
+    },
+    {
+      "spotifyId": "2IA8cFA46DkjgbsRG7kKbp",
+      "title": "Baby",
+      "artist": "Amenazzy",
+      "year": 2018,
+      "popularity": 63,
+      "energy": 6.0,
+      "durationSeconds": 235,
+      "band": 1
+    },
+    {
+      "spotifyId": "6NQQJRKTJeCuSnvNZ4J7xA",
+      "title": "Enchule",
+      "artist": "ICON",
+      "year": 2022,
+      "popularity": 63,
+      "energy": 6.0,
+      "durationSeconds": 149,
+      "band": 1
+    },
+    {
+      "spotifyId": "2hlifRYLYFRiPN9XmRkCFz",
+      "title": "Llégale (feat. Zion & Lennox)",
+      "artist": "Yandel",
+      "year": 2017,
+      "popularity": 40,
+      "energy": 6.0,
+      "durationSeconds": 213,
+      "band": 0
+    },
+    {
+      "spotifyId": "2uPMsTEKx79gJ8rB3AcT0v",
+      "title": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "artist": "Bizarrap, Daddy Yankee",
+      "year": 2025,
+      "popularity": 77,
+      "energy": 7.0,
+      "durationSeconds": 151,
+      "band": 2
+    },
+    {
+      "spotifyId": "75EveQXAVJzwuEO9gjfyGZ",
+      "title": "Bailando - Spanish Version",
+      "artist": "Enrique Iglesias, Descemer Bueno, Gente De Zona",
+      "year": 2015,
+      "popularity": 83,
+      "energy": 7.0,
+      "durationSeconds": 243,
+      "band": 2
+    },
+    {
+      "spotifyId": "1Mej30kFOYBVtr5fkaLdHx",
+      "title": "Miss Independent",
+      "artist": "Maluma",
+      "year": 2012,
+      "popularity": 48,
+      "energy": 7.0,
+      "durationSeconds": 175,
+      "band": 0
+    },
+    {
+      "spotifyId": "2ksOAxtIxY8yElEWw8RhgK",
+      "title": "China",
+      "artist": "Anuel AA",
+      "year": 2019,
+      "popularity": 81,
+      "energy": 6.0,
+      "durationSeconds": 301,
+      "band": 2
+    },
+    {
+      "spotifyId": "3CU1qWV0h0PvWXQg71YUoo",
+      "title": "HOUSE OF LUX",
+      "artist": "DannyLux",
+      "year": 2023,
+      "popularity": 69,
+      "energy": 6.0,
+      "durationSeconds": 140,
+      "band": 1
+    },
+    {
+      "spotifyId": "5uxIvoAHL2QOnRP2olOxzb",
+      "title": "Cafe Malibú",
+      "artist": "Sech",
+      "year": 2023,
+      "popularity": 49,
+      "energy": 7.0,
+      "durationSeconds": 260,
+      "band": 0
+    },
+    {
+      "spotifyId": "3u2jlo9kygiIAq7SPVuw6S",
+      "title": "Dile a Tu Amiga",
+      "artist": "Dalmata",
+      "year": 2011,
+      "popularity": 72,
+      "energy": 7.0,
+      "durationSeconds": 214,
+      "band": 2
+    },
+    {
+      "spotifyId": "5Y9fnynLlIvqtM710MHzfz",
+      "title": "Síguelo Bailando",
+      "artist": "Ozuna",
+      "year": 2017,
+      "popularity": 75,
+      "energy": 6.0,
+      "durationSeconds": 226,
+      "band": 2
+    },
+    {
+      "spotifyId": "0vHfVsEe6Ps0d8cZ9PGzSw",
+      "title": "Loco Por Perrearte - Remix",
+      "artist": "De La Ghetto",
+      "year": 2022,
+      "popularity": 60,
+      "energy": 5.0,
+      "durationSeconds": 199,
+      "band": 1
+    },
+    {
+      "spotifyId": "2TXMeI7KTu9cRhw6IUAbqm",
+      "title": "Domingo Familiar",
+      "artist": "Rawayana, Jowell & Randy",
+      "year": 2025,
+      "popularity": 69,
+      "energy": 7.0,
+      "durationSeconds": 158,
+      "band": 1
+    },
+    {
+      "spotifyId": "4UGqAW9i7NtE5mW9xzm6yk",
+      "title": "PUNTO 40",
+      "artist": "Rauw Alejandro, Baby Rasta",
+      "year": 2023,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 190,
+      "band": 1
+    },
+    {
+      "spotifyId": "2K1CQMoG2Dy5nmeOYnhoi8",
+      "title": "Poblado - Remix",
+      "artist": "J Balvin, KAROL G, Nicky Jam, Crissin, Totoy El Frio, Natan & Shander",
+      "year": 2021,
+      "popularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 393,
+      "band": 1
+    },
+    {
+      "spotifyId": "6pD0ufEQq0xdHSsRbg9LBK",
+      "title": "un x100to",
+      "artist": "Grupo Frontera, Bad Bunny",
+      "year": 2023,
+      "popularity": 82,
+      "energy": 4.0,
+      "durationSeconds": 194,
+      "band": 2
+    },
+    {
+      "spotifyId": "3dWpRjCmaHbroNahuSeX11",
+      "title": "Rebota - Remix",
+      "artist": "Guaynaa",
+      "year": 2019,
+      "popularity": 58,
+      "energy": 7.0,
+      "durationSeconds": 262,
+      "band": 1
+    },
+    {
+      "spotifyId": "7cxxLMhV6XyM3pOHXZig22",
+      "title": "Chaparrita",
+      "artist": "Standly, Yeri Mua",
+      "year": 2025,
+      "popularity": 69,
+      "energy": 6.0,
+      "durationSeconds": 158,
+      "band": 1
+    },
+    {
+      "spotifyId": "0z6KHx2Ct34Fs084y0WZRz",
+      "title": "Me Dañas La Mente",
+      "artist": "Arcángel, Austin San",
+      "year": 2026,
+      "popularity": 49,
+      "energy": 5.0,
+      "durationSeconds": 160,
+      "band": 0
+    },
+    {
+      "spotifyId": "6VjagyaPDsRal64aHXNIUY",
+      "title": "La_Original.mp3",
+      "artist": "Emilia, TINI",
+      "year": 2023,
+      "popularity": 68,
+      "energy": 8.0,
+      "durationSeconds": 141,
+      "band": 1
+    },
+    {
+      "spotifyId": "3cdecPxEdxk99munEMVQ01",
+      "title": "Si Te Dejas Llevar",
+      "artist": "Ozuna, Juanka",
+      "year": 2015,
+      "popularity": 75,
+      "energy": 7.0,
+      "durationSeconds": 228,
+      "band": 2
+    },
+    {
+      "spotifyId": "2TQTZ2TSAO5eGgkCtjxjrt",
+      "title": "Ahora Dice - Real Hasta La Muerte Remix",
+      "artist": "Chris Jedi, J Balvin, Ozuna, Cardi B, Offset, Anuel, Arcángel",
+      "year": 2018,
+      "popularity": 63,
+      "energy": 6.0,
+      "durationSeconds": 276,
+      "band": 1
+    },
+    {
+      "spotifyId": "7AD5wlhpOKjWStxlrUvH1K",
+      "title": "me late",
+      "artist": "Alleh, Yorghaki",
+      "year": 2024,
+      "popularity": 65,
+      "energy": 6.0,
+      "durationSeconds": 180,
+      "band": 1
+    },
+    {
+      "spotifyId": "0dpV9WOqhZJqoFQDD9d9Eu",
+      "title": "PROVÓCATE",
+      "artist": "Blessd, Cris MJ, SOG",
+      "year": 2026,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 186,
+      "band": 1
+    },
+    {
+      "spotifyId": "6wi29u90nvJ9fe6xswa2KC",
+      "title": "Me Quede con Las Ganas",
+      "artist": "Santana the Golden Boy, Tito \"El Bambino\"",
+      "year": 2018,
+      "popularity": 41,
+      "energy": 6.0,
+      "durationSeconds": 236,
+      "band": 0
+    },
+    {
+      "spotifyId": "3wsF7hEjnnht0Zw2RhrKUN",
+      "title": "Show Yourself",
+      "artist": "Konshens, Birchill",
+      "year": 2013,
+      "popularity": 49,
+      "energy": 7.0,
+      "durationSeconds": 148,
+      "band": 0
+    },
+    {
+      "spotifyId": "5JeyUC9G9KWAYfmeokMleg",
+      "title": "Trepate - Prod. by El Bandolero",
+      "artist": "L Maldito 13, Nany La Kbra, El Bandolero",
+      "year": 2026,
+      "popularity": 47,
+      "energy": 6.0,
+      "durationSeconds": 140,
+      "band": 0
+    },
+    {
+      "spotifyId": "1nocRtwyNPVtGcIJqfgdzZ",
+      "title": "Tutu",
+      "artist": "Camilo",
+      "year": 2020,
+      "popularity": 70,
+      "energy": 7.0,
+      "durationSeconds": 179,
+      "band": 1
+    },
+    {
+      "spotifyId": "4XRqSc6PQXZrkhzZHkfRb2",
+      "title": "Dale Pal Piso (feat. Jowell y Randy & Ñengo Flow)",
+      "artist": "Watussi, Jowell & Randy, Ñengo Flow",
+      "year": 2013,
+      "popularity": 62,
+      "energy": 6.0,
+      "durationSeconds": 237,
+      "band": 1
+    },
+    {
+      "spotifyId": "7sQKy5vlPQllr0k9IjYJv3",
+      "title": "Sigues Con El",
+      "artist": "Arcángel",
+      "year": 2019,
+      "popularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 226,
+      "band": 1
+    },
+    {
+      "spotifyId": "3h5T5JypYU7huFiVYhv1dr",
+      "title": "BbY WOW",
+      "artist": "KAROL G, Judeline, rusowsky",
+      "year": 2026,
+      "popularity": 100,
+      "energy": 5.0,
+      "durationSeconds": 225,
+      "band": 3
+    },
+    {
+      "spotifyId": "0OoqRZXnSrgIUAha3iLKG1",
+      "title": "La Cama",
+      "artist": "Lunay",
+      "year": 2019,
+      "popularity": 62,
+      "energy": 6.0,
+      "durationSeconds": 189,
+      "band": 1
+    },
+    {
+      "spotifyId": "0eQlwA2WwatBNPTMFKcs2X",
+      "title": "Si no le contesto",
+      "artist": "Yandel",
+      "year": 2026,
+      "popularity": 64,
+      "energy": 7.0,
+      "durationSeconds": 221,
+      "band": 1
+    },
+    {
+      "spotifyId": "5lr877wwUsB8inLGywHKxa",
+      "title": "Caile",
+      "artist": "Bad Bunny",
+      "year": 2016,
+      "popularity": 76,
+      "energy": 6.0,
+      "durationSeconds": 300,
+      "band": 2
+    },
+    {
+      "spotifyId": "7JNh1cfm0eXjqFVOzKLyau",
+      "title": "Mayores",
+      "artist": "Becky G",
+      "year": 2019,
+      "popularity": 80,
+      "energy": 7.0,
+      "durationSeconds": 203,
+      "band": 2
+    },
+    {
+      "spotifyId": "0iVEujJcafOBnxa654fJYu",
+      "title": "Cosas Pendientes",
+      "artist": "Maluma",
+      "year": 2024,
+      "popularity": 73,
+      "energy": 5.0,
+      "durationSeconds": 184,
+      "band": 2
+    },
+    {
+      "spotifyId": "3Z5MavMSf3XIuqOMy2Tz2Y",
+      "title": "Tiki Tiki",
+      "artist": "Bad Milk, TURY",
+      "year": 2026,
+      "popularity": 47,
+      "energy": 6.0,
+      "durationSeconds": 169,
+      "band": 0
+    },
+    {
+      "spotifyId": "5q2JbCNi4FcnglgPfxcV65",
+      "title": "Sola",
+      "artist": "Anuel AA",
+      "year": 2016,
+      "popularity": 68,
+      "energy": 8.0,
+      "durationSeconds": 307,
+      "band": 1
+    },
+    {
+      "spotifyId": "2kQ02VDNb7R4UejipqQ5pN",
+      "title": "El Matadero (feat. Alexis Y Fido)",
+      "artist": "Plan B, Alexis y Fido",
+      "year": 2014,
+      "popularity": 57,
+      "energy": 6.0,
+      "durationSeconds": 235,
+      "band": 1
+    },
+    {
+      "spotifyId": "1ga4PztXOIw1yBbdUt2X8v",
+      "title": "GATÚBELA",
+      "artist": "KAROL G, Maldy",
+      "year": 2022,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 209,
+      "band": 1
+    },
+    {
+      "spotifyId": "0hDE81j4N2DPLbEY4tiCDs",
+      "title": "LA BABY",
+      "artist": "Tainy",
+      "year": 2023,
+      "popularity": 60,
+      "energy": 6.0,
+      "durationSeconds": 182,
+      "band": 1
+    },
+    {
+      "spotifyId": "1XxmTx7ZzI2xLvS8SqlXs9",
+      "title": "Sigues Con El",
+      "artist": "Arcángel, Sech, Dímelo Flow",
+      "year": 2019,
+      "popularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 227,
+      "band": 1
+    },
+    {
+      "spotifyId": "0MXQSPLDOI3rbi1Am8il1t",
+      "title": "Diosa de los Corazones",
+      "artist": "Ken-Y, Zion, Lobo, Lennox, Arcángel, R.K.M & Ken-Y",
+      "year": 2012,
+      "popularity": 53,
+      "energy": 7.0,
+      "durationSeconds": 244,
+      "band": 1
+    },
+    {
+      "spotifyId": "2a4xiwEChjGcdbRbeaDAmG",
+      "title": "LOKiTA",
+      "artist": "Fuerza Regida",
+      "year": 2025,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 209,
+      "band": 1
+    },
+    {
+      "spotifyId": "5SoD0boUrXxx7YBYF2TA5P",
+      "title": "Rulay & Pica Pollo",
+      "artist": "El Alfa, EL PERROTE WZ, Wander Love",
+      "year": 2023,
+      "popularity": 42,
+      "energy": 5.0,
+      "durationSeconds": 264,
+      "band": 0
+    },
+    {
+      "spotifyId": "0zFovPWFnGtfsTfOH5mPFp",
+      "title": "Pensándote",
+      "artist": "Arcángel, DJ Luian, Nicky Jam",
+      "year": 2015,
+      "popularity": 46,
+      "energy": 7.0,
+      "durationSeconds": 238,
+      "band": 0
+    },
+    {
+      "spotifyId": "2qhUEvAQS3Ovqlv2mMsNtm",
+      "title": "Juegas Con Mi Mente (feat. J Alvarez)",
+      "artist": "Plan B, J Alvarez",
+      "year": 2014,
+      "popularity": 52,
+      "energy": 7.0,
+      "durationSeconds": 198,
+      "band": 1
+    },
+    {
+      "spotifyId": "6Q4foUefrAyCt8VxJFML56",
+      "title": "Olha a Explosão",
+      "artist": "MC Kevinho",
+      "year": 2016,
+      "popularity": 76,
+      "energy": 4.0,
+      "durationSeconds": 162,
+      "band": 2
+    },
+    {
+      "spotifyId": "7dnOGJWp5Mspq4drP0oaxZ",
+      "title": "Pierdo la Cabeza (Remix)",
+      "artist": "Zion & Lennox",
+      "year": 2015,
+      "popularity": 64,
+      "energy": 6.0,
+      "durationSeconds": 287,
+      "band": 1
+    },
+    {
+      "spotifyId": "5wzcy08N7Fgudw5paAiF7u",
+      "title": "Web Cam",
+      "artist": "Farruko",
+      "year": 2010,
+      "popularity": 66,
+      "energy": 6.0,
+      "durationSeconds": 206,
+      "band": 1
+    },
+    {
+      "spotifyId": "7bQ07mj6miFKG7VSBCi7ZE",
+      "title": "El Klavo",
+      "artist": "Jombriel, Kris R., Jøtta",
+      "year": 2026,
+      "popularity": 65,
+      "energy": 6.0,
+      "durationSeconds": 165,
+      "band": 1
+    },
+    {
+      "spotifyId": "48AJSd42lXpicsGqcgopof",
+      "title": "X ÚLTIMA VEZ",
+      "artist": "Daddy Yankee",
+      "year": 2022,
+      "popularity": 70,
+      "energy": 5.0,
+      "durationSeconds": 192,
+      "band": 1
+    },
+    {
+      "spotifyId": "25gYVYIjIdB4RCzvK63VLL",
+      "title": "Hoy",
+      "artist": "Farruko",
+      "year": 2011,
+      "popularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 209,
+      "band": 1
+    },
+    {
+      "spotifyId": "17jcYtUYRhpPL19fDedfTD",
+      "title": "Wasa Wasa",
+      "artist": "Ryan Castro",
+      "year": 2021,
+      "popularity": 64,
+      "energy": 6.0,
+      "durationSeconds": 145,
+      "band": 1
+    },
+    {
+      "spotifyId": "7sormsdEi2yxGsUn7bUjyx",
+      "title": "Ojos Que No Ven",
+      "artist": "Maluma",
+      "year": 2018,
+      "popularity": 50,
+      "energy": 5.0,
+      "durationSeconds": 220,
+      "band": 0
+    },
+    {
+      "spotifyId": "5O3cRP4ZHC9vvVIHtET1f0",
+      "title": "Qué Más Pues",
+      "artist": "Sech",
+      "year": 2019,
+      "popularity": 62,
+      "energy": 6.0,
+      "durationSeconds": 305,
+      "band": 1
+    },
+    {
+      "spotifyId": "6hrmfboLnZc36Mf5u1B6kE",
+      "title": "El Ritmo No Perdona",
+      "artist": "Daddy Yankee",
+      "year": 2010,
+      "popularity": 65,
+      "energy": 7.0,
+      "durationSeconds": 185,
+      "band": 1
+    },
+    {
+      "spotifyId": "2dYXrWkNO40NXy2Q3IYLRc",
+      "title": "Puntería",
+      "artist": "Shakira",
+      "year": 2024,
+      "popularity": 64,
+      "energy": 7.0,
+      "durationSeconds": 181,
+      "band": 1
+    },
+    {
+      "spotifyId": "1HEwEN64NjgTaHmo7LfkX8",
+      "title": "no tiene sentido",
+      "artist": "Beéle",
+      "year": 2025,
+      "popularity": 84,
+      "energy": 8.0,
+      "durationSeconds": 158,
+      "band": 2
+    },
+    {
+      "spotifyId": "0pTCrfLVfRWShpW9dzqnol",
+      "title": "Candela",
+      "artist": "LA EQUIS",
+      "year": 2026,
+      "popularity": 40,
+      "energy": 7.0,
+      "durationSeconds": 129,
+      "band": 0
+    },
+    {
+      "spotifyId": "1mckV7ATJb5ji2IWSLw5Ci",
+      "title": "Soltera",
+      "artist": "KEVIN ROLDAN, Alexio",
+      "year": 2017,
+      "popularity": 47,
+      "energy": 5.0,
+      "durationSeconds": 267,
+      "band": 0
+    },
+    {
+      "spotifyId": "4X7D1GaB0LdsBjznjBXseG",
+      "title": "Morena",
+      "artist": "Hamilton",
+      "year": 2019,
+      "popularity": 57,
+      "energy": 5.0,
+      "durationSeconds": 218,
+      "band": 1
+    },
+    {
+      "spotifyId": "3pm4XtcsRIFFtH2UErk62R",
+      "title": "CANCIÓN CON YANDEL",
+      "artist": "Yandel",
+      "year": 2020,
+      "popularity": 71,
+      "energy": 6.0,
+      "durationSeconds": 209,
+      "band": 2
+    },
+    {
+      "spotifyId": "4GZOxR1IuvoRiUz0gpmASl",
+      "title": "sobelove",
+      "artist": "Beéle",
+      "year": 2025,
+      "popularity": 70,
+      "energy": 7.0,
+      "durationSeconds": 131,
+      "band": 1
+    },
+    {
+      "spotifyId": "5iwz1NiezX7WWjnCgY5TH4",
+      "title": "Calma",
+      "artist": "Pedro Capo, Farruko",
+      "year": 2018,
+      "popularity": 60,
+      "energy": 5.0,
+      "durationSeconds": 238,
+      "band": 1
+    },
+    {
+      "spotifyId": "78mpFgPXtqFccYQpSTNRX6",
+      "title": "La Dama",
+      "artist": "KAROL G, Cosculluela",
+      "year": 2017,
+      "popularity": 51,
+      "energy": 5.0,
+      "durationSeconds": 208,
+      "band": 1
+    },
+    {
+      "spotifyId": "3BccBzVmd2t5xxktYhzYjR",
+      "title": "Amantes de una Noche",
+      "artist": "NATTI NATASHA, Bad Bunny",
+      "year": 2018,
+      "popularity": 71,
+      "energy": 6.0,
+      "durationSeconds": 225,
+      "band": 2
+    },
+    {
+      "spotifyId": "2lTm559tuIvatlT1u0JYG2",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "year": 2025,
+      "popularity": 92,
+      "energy": 5.0,
+      "durationSeconds": 367,
+      "band": 3
+    },
+    {
+      "spotifyId": "3pQr8EhSzvKN3ZZlaL4Pae",
+      "title": "PÓLVORA",
+      "artist": "Mora",
+      "year": 2023,
+      "popularity": 57,
+      "energy": 5.0,
+      "durationSeconds": 185,
+      "band": 1
+    },
+    {
+      "spotifyId": "0jicrrstuAzf6GLIUdwAQk",
+      "title": "Loco",
+      "artist": "Jowell & Randy",
+      "year": 2010,
+      "popularity": 50,
+      "energy": 6.0,
+      "durationSeconds": 231,
+      "band": 0
+    },
+    {
+      "spotifyId": "41i7NlbHryL4wBXnVCc4vL",
+      "title": "No Se Si Fue",
+      "artist": "Arcángel",
+      "year": 2013,
+      "popularity": 65,
+      "energy": 5.0,
+      "durationSeconds": 213,
+      "band": 1
+    },
+    {
+      "spotifyId": "1oEmDYZRseAVzKWQiwaElV",
+      "title": "Singamo",
+      "artist": "Tokischa, Yomel El Meloso, Paulus Music, Leo RD",
+      "year": 2021,
+      "popularity": 58,
+      "energy": 6.0,
+      "durationSeconds": 137,
+      "band": 1
+    },
+    {
+      "spotifyId": "5FVVmDTScyTNlzC1sUILsc",
+      "title": "Ella Fuma",
+      "artist": "Plan B, Chencho Corleone, Farruko, Darell, Brytiago",
+      "year": 2018,
+      "popularity": 65,
+      "energy": 6.0,
+      "durationSeconds": 272,
+      "band": 1
+    },
+    {
+      "spotifyId": "49GqFZVmD8sADXL5kchEa3",
+      "title": "Me Gusta - Remix",
+      "artist": "Alkilados, Maluma",
+      "year": 2017,
+      "popularity": 41,
+      "energy": 7.0,
+      "durationSeconds": 222,
+      "band": 0
+    },
+    {
+      "spotifyId": "7jNIfTV83ZxdldW1cY8PXc",
+      "title": "voltaje",
+      "artist": "Mau y Ricky",
+      "year": 2025,
+      "popularity": 50,
+      "energy": 6.0,
+      "durationSeconds": 172,
+      "band": 0
+    },
+    {
+      "spotifyId": "6Xj014IHwbLVjiVT6H89on",
+      "title": "Malas Decisiones",
+      "artist": "Kenia Os",
+      "year": 2022,
+      "popularity": 72,
+      "energy": 7.0,
+      "durationSeconds": 139,
+      "band": 2
+    },
+    {
+      "spotifyId": "79HZAZNnOE97rb2hnI0XQr",
+      "title": "LOKERA",
+      "artist": "Rauw Alejandro, Lyanno, Brray",
+      "year": 2022,
+      "popularity": 80,
+      "energy": 6.0,
+      "durationSeconds": 197,
+      "band": 2
+    },
+    {
+      "spotifyId": "6VciS3dRMpZhJiDxT8ArFi",
+      "title": "Young Miko: Bzrp Music Sessions, Vol. 58",
+      "artist": "Bizarrap",
+      "year": 2024,
+      "popularity": 71,
+      "energy": 5.0,
+      "durationSeconds": 187,
+      "band": 2
+    },
+    {
+      "spotifyId": "2JPLbjOn0wPCngEot2STUS",
+      "title": "Yonaguni",
+      "artist": "Bad Bunny",
+      "year": 2021,
+      "popularity": 81,
+      "energy": 6.0,
+      "durationSeconds": 206,
+      "band": 2
+    },
+    {
+      "spotifyId": "1GBLO0NFODuL31A5fgw0uR",
+      "title": "No Se Me Quita",
+      "artist": "Maluma",
+      "year": 2019,
+      "popularity": 62,
+      "energy": 7.0,
+      "durationSeconds": 219,
+      "band": 1
+    },
+    {
+      "spotifyId": "4l3xGFwoTinvYxsePytOOf",
+      "title": "Báilame - Remix",
+      "artist": "Nacho, Yandel, Bad Bunny, Mambo Kingz, DJ Luian",
+      "year": 2018,
+      "popularity": 74,
+      "energy": 6.0,
+      "durationSeconds": 217,
+      "band": 2
+    },
+    {
+      "spotifyId": "4D9GvHpNSbKlNGPKvKrtUO",
+      "title": "Lo de Nosotros (feat. Arcangel)",
+      "artist": "Gotay \"El Autentiko\"",
+      "year": 2012,
+      "popularity": 59,
+      "energy": 6.0,
+      "durationSeconds": 208,
+      "band": 1
+    },
+    {
+      "spotifyId": "3jlm4PFYTr8ct4HcZU0O5M",
+      "title": "PARARA",
+      "artist": "El Alfa",
+      "year": 2024,
+      "popularity": 45,
+      "energy": 6.0,
+      "durationSeconds": 196,
+      "band": 0
+    },
+    {
+      "spotifyId": "3RyZEdTyJlARGByMo3cUiQ",
+      "title": "Bailame Despacio",
+      "artist": "Xantos",
+      "year": 2015,
+      "popularity": 63,
+      "energy": 7.0,
+      "durationSeconds": 240,
+      "band": 1
+    },
+    {
+      "spotifyId": "3YmFH8V7TUtLAYhnlswkdQ",
+      "title": "LOVE",
+      "artist": "Clarent",
+      "year": 2025,
+      "popularity": 73,
+      "energy": 6.0,
+      "durationSeconds": 172,
+      "band": 2
+    },
+    {
+      "spotifyId": "3pXm6bUCR2US1QN0XGYNvp",
+      "title": "Ahi Ahi Ahi",
+      "artist": "De La Ghetto",
+      "year": 2013,
+      "popularity": 60,
+      "energy": 7.0,
+      "durationSeconds": 233,
+      "band": 1
+    },
+    {
+      "spotifyId": "44BZWegR2TBYtgZdAHwaGH",
+      "title": "Noción",
+      "artist": "Super Yei",
+      "year": 2017,
+      "popularity": 67,
+      "energy": 5.0,
+      "durationSeconds": 260,
+      "band": 1
+    },
+    {
+      "spotifyId": "71XBAAd0QPBq3vTgARLh8O",
+      "title": "Orgullo - Remix",
+      "artist": "Justin Quiles, J Balvin",
+      "year": 2014,
+      "popularity": 58,
+      "energy": 5.0,
+      "durationSeconds": 214,
+      "band": 1
+    },
+    {
+      "spotifyId": "35c09ozBnigRl7XpOf38yT",
+      "title": "Te Acuerdas de Mí",
+      "artist": "Plan B",
+      "year": 2017,
+      "popularity": 64,
+      "energy": 6.0,
+      "durationSeconds": 214,
+      "band": 1
+    },
+    {
+      "spotifyId": "0RWOYfuVbroVmHuPJRgthd",
+      "title": "Nos Acabamos De Dejar",
+      "artist": "Javiielo, Loyaltty, Nekxum",
+      "year": 2026,
+      "popularity": 49,
+      "energy": 4.0,
+      "durationSeconds": 182,
+      "band": 0
+    },
+    {
+      "spotifyId": "0fAS39HM9P65ZQKbT9sOwB",
+      "title": "Feliz Navidad 5",
+      "artist": "Arcángel",
+      "year": 2013,
+      "popularity": 42,
+      "energy": 7.0,
+      "durationSeconds": 443,
+      "band": 0
+    },
+    {
+      "spotifyId": "0ERbK7qVqveCaBWIiYCrl3",
+      "title": "Bella y Sensual",
+      "artist": "Romeo Santos",
+      "year": 2017,
+      "popularity": 74,
+      "energy": 6.0,
+      "durationSeconds": 204,
+      "band": 2
+    },
+    {
+      "spotifyId": "6qVxcpqKeVDxcT0eMMWtyN",
+      "title": "Guaya",
+      "artist": "Arcángel, Daddy Yankee",
+      "year": 2013,
+      "popularity": 58,
+      "energy": 7.0,
+      "durationSeconds": 193,
+      "band": 1
+    },
+    {
+      "spotifyId": "6NfrH0ANGmgBXyxgV2PeXt",
+      "title": "La Difícil",
+      "artist": "Bad Bunny",
+      "year": 2020,
+      "popularity": 74,
+      "energy": 6.0,
+      "durationSeconds": 163,
+      "band": 2
+    },
+    {
+      "spotifyId": "0sFyqFZE8YkkOMA9IFZ3S6",
+      "title": "BAD BOY",
+      "artist": "Chris Jedi",
+      "year": 2024,
+      "popularity": 59,
+      "energy": 6.0,
+      "durationSeconds": 235,
+      "band": 1
+    },
+    {
+      "spotifyId": "3BXJLpI9AdeZ6SfNC6YoUa",
+      "title": "Zapatito Roto (feat. Tego Calderon)",
+      "artist": "Plan B",
+      "year": 2014,
+      "popularity": 55,
+      "energy": 7.0,
+      "durationSeconds": 246,
+      "band": 1
+    },
+    {
+      "spotifyId": "2FCK2nyKq0QXzIuWC88hVj",
+      "title": "Pasarla Bien",
+      "artist": "Maluma",
+      "year": 2012,
+      "popularity": 49,
+      "energy": 7.0,
+      "durationSeconds": 214,
+      "band": 0
+    },
+    {
+      "spotifyId": "2FsyaLJcDObAVLmT2hDfWP",
+      "title": "No me dejes ir",
+      "artist": "David Appleton, Ernesto Losa",
+      "year": 2026,
+      "popularity": 44,
+      "energy": 5.0,
+      "durationSeconds": 152,
+      "band": 0
+    },
+    {
+      "spotifyId": "51yjkR9blUWtAphR7lZl5y",
+      "title": "Ley Seca",
+      "artist": "JHAYCO, Anuel AA",
+      "year": 2021,
+      "popularity": 75,
+      "energy": 6.0,
+      "durationSeconds": 264,
+      "band": 2
+    },
+    {
+      "spotifyId": "3grxgV6Ot8KqtysApjYLs1",
+      "title": "Sorry - Latino Remix",
+      "artist": "Justin Bieber, J Balvin",
+      "year": 2015,
+      "popularity": 58,
+      "energy": 6.0,
+      "durationSeconds": 219,
+      "band": 1
+    },
+    {
+      "spotifyId": "2fOjendzUzepHwR9QrVyYF",
+      "title": "La Respuesta",
+      "artist": "Becky G",
+      "year": 2019,
+      "popularity": 58,
+      "energy": 6.0,
+      "durationSeconds": 182,
+      "band": 1
+    },
+    {
+      "spotifyId": "1Du2rsAGiX1LcCegMomlFH",
+      "title": "Chaparrita (Remix)",
+      "artist": "Standly, Yeri Mua, Oscar Maydon, Cachirula",
+      "year": 2026,
+      "popularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 266,
+      "band": 1
+    },
+    {
+      "spotifyId": "3ylCAyLobk4Gdf1jTjzVWH",
+      "title": "Me Gustas",
+      "artist": "Maluma",
+      "year": 2015,
+      "popularity": 52,
+      "energy": 7.0,
+      "durationSeconds": 216,
+      "band": 1
+    },
+    {
+      "spotifyId": "1YIvYm5d9GnVXR0Q9SUER7",
+      "title": "Tucu",
+      "artist": "Ozuna",
+      "year": 2023,
+      "popularity": 50,
+      "energy": 6.0,
+      "durationSeconds": 186,
+      "band": 0
+    },
+    {
+      "spotifyId": "65ASzYgkRO6YIhoFbZvEBc",
+      "title": "Tal Para Cual",
+      "artist": "Reykon",
+      "year": 2026,
+      "popularity": 49,
+      "energy": 6.0,
+      "durationSeconds": 158,
+      "band": 0
+    },
+    {
+      "spotifyId": "4ilZV1WNjL7IxwE81OnaRY",
+      "title": "Gatita",
+      "artist": "Bellakath",
+      "year": 2023,
+      "popularity": 58,
+      "energy": 5.0,
+      "durationSeconds": 153,
+      "band": 1
+    },
+    {
+      "spotifyId": "6kOHug1s9Nd5gsHrX8irs2",
+      "title": "Mi Mala - Remix",
+      "artist": "Mau y Ricky",
+      "year": 2019,
+      "popularity": 60,
+      "energy": 6.0,
+      "durationSeconds": 255,
+      "band": 1
+    },
+    {
+      "spotifyId": "75wp9tpODmy4gnI6WFR5ma",
+      "title": "Como Si Nada",
+      "artist": "Sebastian Yatra, cali",
+      "year": 2018,
+      "popularity": 43,
+      "energy": 8.0,
+      "durationSeconds": 210,
+      "band": 0
+    },
+    {
+      "spotifyId": "6NdKkfo7o6IH1Op0jsBDjN",
+      "title": "Si No Le Contesto",
+      "artist": "Plan B",
+      "year": 2010,
+      "popularity": 81,
+      "energy": 7.0,
+      "durationSeconds": 221,
+      "band": 2
+    },
+    {
+      "spotifyId": "4XCIp44SX79A7spTo4O40y",
+      "title": "CORLEONE",
+      "artist": "SAIKO, Yandel",
+      "year": 2023,
+      "popularity": 43,
+      "energy": 7.0,
+      "durationSeconds": 192,
+      "band": 0
+    },
+    {
+      "spotifyId": "2KNd7fRO9aYlshtEtwFg4h",
+      "title": "El Chisme",
+      "artist": "Reykon",
+      "year": 2018,
+      "popularity": 54,
+      "energy": 7.0,
+      "durationSeconds": 179,
+      "band": 1
+    },
+    {
+      "spotifyId": "51VkDFjQNGDZtJRzdPZbZw",
+      "title": "Ella No Es Fácil",
+      "artist": "Farruko",
+      "year": 2010,
+      "popularity": 64,
+      "energy": 6.0,
+      "durationSeconds": 231,
+      "band": 1
+    },
+    {
+      "spotifyId": "0uRHot8ml8U8cYVwwzMwNT",
+      "title": "Corazon De Seda",
+      "artist": "Klasico",
+      "year": 2016,
+      "popularity": 80,
+      "energy": 6.0,
+      "durationSeconds": 186,
+      "band": 2
+    },
+    {
+      "spotifyId": "7ysCfnjog9LNWtENgtoj5N",
+      "title": "Como Yo Le Doy - Remix",
+      "artist": "Don Miguelo",
+      "year": 2014,
+      "popularity": 52,
+      "energy": 6.0,
+      "durationSeconds": 255,
+      "band": 1
+    },
+    {
+      "spotifyId": "4imQXtuvCIwBdhxsZnGOHq",
+      "title": "Agresivo (feat. Arcangel)",
+      "artist": "Jowell & Randy, Arcángel",
+      "year": 2015,
+      "popularity": 56,
+      "energy": 7.0,
+      "durationSeconds": 230,
+      "band": 1
+    },
+    {
+      "spotifyId": "5m3jpKkgkfoMcym1qjToFg",
+      "title": "Jangueo",
+      "artist": "Alex Rose",
+      "year": 2019,
+      "popularity": 68,
+      "energy": 5.0,
+      "durationSeconds": 259,
+      "band": 1
+    },
+    {
+      "spotifyId": "2Shu0lEl31HDdP76VSMiuZ",
+      "title": "Piensas en Mí",
+      "artist": "Nicky Jam",
+      "year": 2014,
+      "popularity": 70,
+      "energy": 7.0,
+      "durationSeconds": 256,
+      "band": 1
+    },
+    {
+      "spotifyId": "4vCAzANUWDE24URV6wQ4ra",
+      "title": "Otra Noche en Miami",
+      "artist": "Bad Bunny",
+      "year": 2018,
+      "popularity": 79,
+      "energy": 5.0,
+      "durationSeconds": 233,
+      "band": 2
+    },
+    {
+      "spotifyId": "5gCNf9wMVrYuM2fvfgLTlF",
+      "title": "LA COMBI VERSACE",
+      "artist": "ROSALÍA",
+      "year": 2022,
+      "popularity": 66,
+      "energy": 4.0,
+      "durationSeconds": 161,
+      "band": 1
+    },
+    {
+      "spotifyId": "6mAN61JH0dzyZpWslS11jy",
+      "title": "Fantasias",
+      "artist": "Rauw Alejandro",
+      "year": 2019,
+      "popularity": 74,
+      "energy": 6.0,
+      "durationSeconds": 199,
+      "band": 2
+    },
+    {
+      "spotifyId": "2xVcCDRgG3TrH69TatsUxp",
+      "title": "Cupido",
+      "artist": "TINI",
+      "year": 2023,
+      "popularity": 69,
+      "energy": 6.0,
+      "durationSeconds": 174,
+      "band": 1
+    },
+    {
+      "spotifyId": "1CwRFMS5BYudsGXaY0k48M",
+      "title": "Como No (feat. Becky G)",
+      "artist": "Akon, Becky G",
+      "year": 2019,
+      "popularity": 43,
+      "energy": 5.0,
+      "durationSeconds": 193,
+      "band": 0
+    },
+    {
+      "spotifyId": "4JM4fdztyftpx1hytOqAUB",
+      "title": "Detras De Ti (feat. Farruko & Jory Boy)",
+      "artist": "Musicologo Y Menes, Farruko, Jory Boy",
+      "year": 2014,
+      "popularity": 44,
+      "energy": 6.0,
+      "durationSeconds": 162,
+      "band": 0
+    },
+    {
+      "spotifyId": "7yoTLJ4DdQ62CtTEIMJuRM",
+      "title": "Tal Vez Mañana",
+      "artist": "LAGOS, Yorghaki",
+      "year": 2026,
+      "popularity": 65,
+      "energy": 5.0,
+      "durationSeconds": 208,
+      "band": 1
+    },
+    {
+      "spotifyId": "2mzDRrBn6M6rWX4bGzd1uQ",
+      "title": "Feliz",
+      "artist": "Chimbala",
+      "year": 2022,
+      "popularity": 65,
+      "energy": 6.0,
+      "durationSeconds": 177,
+      "band": 1
+    },
+    {
+      "spotifyId": "4EQOGfssbSpTlV6EZRtrSv",
+      "title": "ULALA (OOH LA LA)",
+      "artist": "Myke Towers",
+      "year": 2022,
+      "popularity": 55,
+      "energy": 6.0,
+      "durationSeconds": 188,
+      "band": 1
+    },
+    {
+      "spotifyId": "6xJkbMQVRO1ltOickY12bl",
+      "title": "Mangú",
+      "artist": "Becky G",
+      "year": 2016,
+      "popularity": 43,
+      "energy": 7.0,
+      "durationSeconds": 180,
+      "band": 0
+    },
+    {
+      "spotifyId": "505v13epFXodT9fVAJ6h8k",
+      "title": "See You Again",
+      "artist": "Tyler, The Creator, Kali Uchis",
+      "year": 2017,
+      "popularity": 91,
+      "energy": 5.0,
+      "durationSeconds": 180,
+      "band": 3
+    },
+    {
+      "spotifyId": "2mnqIjaciToIErlxJDFNle",
+      "title": "Inglés En Miami",
+      "artist": "Rawayana, Manuel Turizo",
+      "year": 2025,
+      "popularity": 75,
+      "energy": 6.0,
+      "durationSeconds": 202,
+      "band": 2
+    },
+    {
+      "spotifyId": "3kmWIej9tXjSWWYc9tPjJk",
+      "title": "COCO LOCO",
+      "artist": "Maluma",
+      "year": 2023,
+      "popularity": 63,
+      "energy": 7.0,
+      "durationSeconds": 167,
+      "band": 1
+    },
+    {
+      "spotifyId": "25GRgMoXezppQjLjSDLKf5",
+      "title": "Voy a Beber",
+      "artist": "Nicky Jam",
+      "year": 2014,
+      "popularity": 72,
+      "energy": 6.0,
+      "durationSeconds": 212,
+      "band": 2
+    },
+    {
+      "spotifyId": "1qLeX26IEu3kPWxPfyBMGd",
+      "title": "RX",
+      "artist": "Don Omar, Kendo Kapponi",
+      "year": 2010,
+      "popularity": 56,
+      "energy": 7.0,
+      "durationSeconds": 225,
+      "band": 1
+    },
+    {
+      "spotifyId": "20RGQHWvqyyacpuxMBeLsZ",
+      "title": "La Historia",
+      "artist": "El Taiger",
+      "year": 2020,
+      "popularity": 65,
+      "energy": 7.0,
+      "durationSeconds": 237,
+      "band": 1
+    },
+    {
+      "spotifyId": "0z5zwqnaqnZBQzMopcoUfG",
+      "title": "Roleta",
+      "artist": "D'Markuz",
+      "year": 2026,
+      "popularity": 40,
+      "energy": 6.0,
+      "durationSeconds": 149,
+      "band": 0
+    },
+    {
+      "spotifyId": "0SCO8PWjkv8ppR2QVAOphv",
+      "title": "RUFF",
+      "artist": "Kapo",
+      "year": 2025,
+      "popularity": 73,
+      "energy": 5.0,
+      "durationSeconds": 147,
+      "band": 2
+    },
+    {
+      "spotifyId": "0QN1rkBy3D6j9Yw3Czlcsc",
+      "title": "Ella Quiere Hmm... Haa... Hmm... - Yayo Remix",
+      "artist": "Leka el Poeta",
+      "year": 2016,
+      "popularity": 70,
+      "energy": 7.0,
+      "durationSeconds": 212,
+      "band": 1
+    },
+    {
+      "spotifyId": "6k5wiT5l9DK8iZmhvEvoqo",
+      "title": "Corazón Roto - Remix",
+      "artist": "Brray",
+      "year": 2023,
+      "popularity": 69,
+      "energy": 6.0,
+      "durationSeconds": 275,
+      "band": 1
+    },
+    {
+      "spotifyId": "5eJzhf1GNetcuzUmF8cTiv",
+      "title": "Quizas",
+      "artist": "Tony Dize",
+      "year": 2025,
+      "popularity": 70,
+      "energy": 5.0,
+      "durationSeconds": 186,
+      "band": 1
+    },
+    {
+      "spotifyId": "32lexhcz93AinKK0qLTZaZ",
+      "title": "Ni Gucci Ni Prada",
+      "artist": "Kenny Man",
+      "year": 2018,
+      "popularity": 66,
+      "energy": 6.0,
+      "durationSeconds": 175,
+      "band": 1
+    },
+    {
+      "spotifyId": "4n50mw8se8gx9W2Mq67ucr",
+      "title": "Autoestima",
+      "artist": "Ciscoh",
+      "year": 2025,
+      "popularity": 40,
+      "energy": 6.0,
+      "durationSeconds": 191,
+      "band": 0
+    },
+    {
+      "spotifyId": "0A7uLa2SqVK5s5Y2V3kCyW",
+      "title": "Good Looking",
+      "artist": "Don Omar",
+      "year": 2010,
+      "popularity": 71,
+      "energy": 7.0,
+      "durationSeconds": 258,
+      "band": 2
+    },
+    {
+      "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
+      "title": "One Dance",
+      "artist": "Drake, Wizkid, Kyla",
+      "year": 2016,
+      "popularity": 92,
+      "energy": 6.0,
+      "durationSeconds": 173,
+      "band": 3
+    },
+    {
+      "spotifyId": "53qRbGU51JPsd2EtWs2W6A",
+      "title": "Addicted",
+      "artist": "Maluma",
+      "year": 2015,
+      "popularity": 59,
+      "energy": 7.0,
+      "durationSeconds": 215,
+      "band": 1
+    },
+    {
+      "spotifyId": "3uFyOOu4CYRdDi8cdF39gS",
+      "title": "Hasta Verla Sin Na (feat. Arcangel)",
+      "artist": "Tony Dize, Arcángel",
+      "year": 2014,
+      "popularity": 44,
+      "energy": 7.0,
+      "durationSeconds": 214,
+      "band": 0
+    },
+    {
+      "spotifyId": "5aXJvQ4visjPE6tTcyrf6I",
+      "title": "Corazón Acelerao",
+      "artist": "Wisin",
+      "year": 2015,
+      "popularity": 50,
+      "energy": 7.0,
+      "durationSeconds": 226,
+      "band": 0
+    },
+    {
+      "spotifyId": "7KfaBqVsLdG6AtqHTtX36g",
+      "title": "MATCHA",
+      "artist": "Los Dareyes De La Sierra",
+      "year": 2026,
+      "popularity": 78,
+      "energy": 6.0,
+      "durationSeconds": 156,
+      "band": 2
+    },
+    {
+      "spotifyId": "4zqFA9MOG86u7uugR8QFDU",
+      "title": "DÓNDE",
+      "artist": "Kapo & Ryan Castro",
+      "year": 2025,
+      "popularity": 74,
+      "energy": 6.0,
+      "durationSeconds": 193,
+      "band": 2
+    },
+    {
+      "spotifyId": "6DUdDIRgLqCGq1DwkNWQTN",
+      "title": "Borró Cassette",
+      "artist": "Maluma",
+      "year": 2015,
+      "popularity": 87,
+      "energy": 7.0,
+      "durationSeconds": 207,
+      "band": 2
+    },
+    {
+      "spotifyId": "6NOEC8iVItnGmq2g8wwDYd",
+      "title": "Guadalupe",
+      "artist": "Jowell & Randy",
+      "year": 2016,
+      "popularity": 54,
+      "energy": 7.0,
+      "durationSeconds": 243,
+      "band": 1
+    },
+    {
+      "spotifyId": "7BFa8ACKFI2vvbn6Su16JY",
+      "title": "Na Na Na - Remix",
+      "artist": "Pailita",
+      "year": 2022,
+      "popularity": 55,
+      "energy": 6.0,
+      "durationSeconds": 272,
+      "band": 1
+    },
+    {
+      "spotifyId": "6J5kc12BW5HuP3d7C3vvx8",
+      "title": "EoO",
+      "artist": "Bad Bunny",
+      "year": 2025,
+      "popularity": 91,
+      "energy": 6.0,
+      "durationSeconds": 204,
+      "band": 3
+    },
+    {
+      "spotifyId": "4eo11GQla5DlqMHQ76ym3l",
+      "title": "FRIKI",
+      "artist": "Gonzy",
+      "year": 2024,
+      "popularity": 66,
+      "energy": 5.0,
+      "durationSeconds": 189,
+      "band": 1
+    },
+    {
+      "spotifyId": "1dFvzd0wivuzxU2BLcEynb",
+      "title": "No Me Acostumbro",
+      "artist": "Wisin",
+      "year": 2020,
+      "popularity": 46,
+      "energy": 5.0,
+      "durationSeconds": 242,
+      "band": 0
+    },
+    {
+      "spotifyId": "7ESqP17DjGLx7j8fm0Gp2L",
+      "title": "Che Che",
+      "artist": "Chimbala",
+      "year": 2024,
+      "popularity": 67,
+      "energy": 6.0,
+      "durationSeconds": 140,
+      "band": 1
+    },
+    {
+      "spotifyId": "0idc92fwQNsgeIDRk3muMP",
+      "title": "Qué Prefieres?",
+      "artist": "Boza, Beéle",
+      "year": 2023,
+      "popularity": 54,
+      "energy": 5.0,
+      "durationSeconds": 203,
+      "band": 1
+    },
+    {
+      "spotifyId": "5WdSPcKgxWirPXVM7f6xXZ",
+      "title": "El Tiki",
+      "artist": "Maluma",
+      "year": 2015,
+      "popularity": 54,
+      "energy": 6.0,
+      "durationSeconds": 179,
+      "band": 1
+    },
+    {
+      "spotifyId": "3GJgf5VJTnuFwh1YUFJGic",
+      "title": "Relojito Cartier",
+      "artist": "Luis R Conriquez",
+      "year": 2025,
+      "popularity": 56,
+      "energy": 6.0,
+      "durationSeconds": 161,
+      "band": 1
+    },
+    {
+      "spotifyId": "5J7teKIJGtqVypgYI6sqXj",
+      "title": "Una Vez",
+      "artist": "Bad Bunny, Mora",
+      "year": 2020,
+      "popularity": 77,
+      "energy": 6.0,
+      "durationSeconds": 232,
+      "band": 2
+    },
+    {
+      "spotifyId": "0cNYtcg6UygT5riclB38ax",
+      "title": "sOLA",
+      "artist": "Montano, Beéle, Totoy El Frio",
+      "year": 2019,
+      "popularity": 51,
+      "energy": 6.0,
+      "durationSeconds": 201,
+      "band": 1
+    },
+    {
+      "spotifyId": "3w1D8eAOBDZdb8RP5wbV65",
+      "title": "Hasta Que Se Seque el Malecón",
+      "artist": "Jacob Forever",
+      "year": 2016,
+      "popularity": 59,
+      "energy": 7.0,
+      "durationSeconds": 187,
+      "band": 1
+    },
+    {
+      "spotifyId": "0kosUz0jePvjiz4ctmR6wL",
+      "title": "Dai Dai",
+      "artist": "Shakira, Burna Boy",
+      "year": 2026,
+      "popularity": 95,
+      "energy": 6.0,
+      "durationSeconds": 223,
+      "band": 3
+    },
+    {
+      "spotifyId": "4RPeZbmVON5ZKT5HC9wALt",
+      "title": "Morena",
+      "artist": "Beele",
+      "year": 2023,
+      "popularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 188,
+      "band": 1
+    },
+    {
+      "spotifyId": "6bQsFck5fRznOrCfJMxF1c",
+      "title": "CARITA FELIZ",
+      "artist": "Myke Towers",
+      "year": 2026,
+      "popularity": 84,
+      "energy": 6.0,
+      "durationSeconds": 193,
+      "band": 2
+    },
+    {
+      "spotifyId": "0s3JGOUVkEBDSD4oBGUHSv",
+      "title": "¿Dónde Estás? (feat. Farruko)",
+      "artist": "Maluma",
+      "year": 2015,
+      "popularity": 52,
+      "energy": 5.0,
+      "durationSeconds": 197,
+      "band": 1
+    },
+    {
+      "spotifyId": "7viFLxLgJbTE1L2L0AfFW4",
+      "title": "Inolvidable",
+      "artist": "Farruko",
+      "year": 2019,
+      "popularity": 42,
+      "energy": 6.0,
+      "durationSeconds": 219,
+      "band": 0
+    },
+    {
+      "spotifyId": "5BKD5Rf931trnpbMVz9ns7",
+      "title": "Vacío",
+      "artist": "Justin Quiles",
+      "year": 2017,
+      "popularity": 54,
+      "energy": 4.0,
+      "durationSeconds": 180,
+      "band": 1
+    },
+    {
+      "spotifyId": "2z9YkcLojiOE7Eu2p9lPZR",
+      "title": "Normal",
+      "artist": "Feid",
+      "year": 2022,
+      "popularity": 67,
+      "energy": 6.0,
+      "durationSeconds": 172,
+      "band": 1
+    },
+    {
+      "spotifyId": "35Np5UtB6qYNOvM0c3I9Ow",
+      "title": "Como Tiene Que Ser",
+      "artist": "Arcángel",
+      "year": 2013,
+      "popularity": 63,
+      "energy": 7.0,
+      "durationSeconds": 244,
+      "band": 1
+    },
+    {
+      "spotifyId": "0EuTbYpWuCP7MAkotMUuP9",
+      "title": "One and Only",
+      "artist": "Ozuna, Beéle",
+      "year": 2025,
+      "popularity": 55,
+      "energy": 5.0,
+      "durationSeconds": 228,
+      "band": 1
+    },
+    {
+      "spotifyId": "1dr45qQSi6lA1USh1Sk7HP",
+      "title": "MARTILLANDO",
+      "artist": "El Alfa, Noriel",
+      "year": 2023,
+      "popularity": 61,
+      "energy": 5.0,
+      "durationSeconds": 203,
+      "band": 1
+    },
+    {
+      "spotifyId": "4sCSUQnWQ6HJsOMjfPicdn",
+      "title": "Danza Kuduro",
+      "artist": "Don Omar, Lucenzo",
+      "year": 2011,
+      "popularity": 85,
+      "energy": 8.0,
+      "durationSeconds": 198,
+      "band": 2
+    },
+    {
+      "spotifyId": "2rDZhKnPaPG054ExZ6nXUS",
+      "title": "Jordan",
+      "artist": "Ryan Castro",
+      "year": 2022,
+      "popularity": 69,
+      "energy": 6.0,
+      "durationSeconds": 176,
+      "band": 1
+    },
+    {
+      "spotifyId": "6IqbQelrOB6nTORNj4q2Ma",
+      "title": "Que Viva la Vida",
+      "artist": "Wisin",
+      "year": 2014,
+      "popularity": 58,
+      "energy": 7.0,
+      "durationSeconds": 203,
+      "band": 1
+    },
+    {
+      "spotifyId": "6URNgz911jj10KXTFtevcS",
+      "title": "¿Por Que Te Demoras?",
+      "artist": "Plan B",
+      "year": 2010,
+      "popularity": 80,
+      "energy": 7.0,
+      "durationSeconds": 191,
+      "band": 2
+    },
+    {
+      "spotifyId": "0KkIkfsLEJbrcIhYsCL7L5",
+      "title": "China",
+      "artist": "Anuel AA, Daddy Yankee, Karol G, Ozuna, J Balvin",
+      "year": 2020,
+      "popularity": 81,
+      "energy": 6.0,
+      "durationSeconds": 301,
+      "band": 2
+    },
+    {
+      "spotifyId": "7bXlUbUvMs1kKr6ynIISCd",
+      "title": "Sola",
+      "artist": "Becky G",
+      "year": 2016,
+      "popularity": 54,
+      "energy": 6.0,
+      "durationSeconds": 235,
+      "band": 1
+    },
+    {
+      "spotifyId": "3xEozpt8pAptvpH69iJhOw",
+      "title": "Amor Genuino",
+      "artist": "Ozuna",
+      "year": 2019,
+      "popularity": 56,
+      "energy": 4.0,
+      "durationSeconds": 178,
+      "band": 1
+    },
+    {
+      "spotifyId": "5TFD2bmFKGhoCRbX61nXY5",
+      "title": "NUEVAYoL",
+      "artist": "Bad Bunny",
+      "year": 2025,
+      "popularity": 91,
+      "energy": 7.0,
+      "durationSeconds": 183,
+      "band": 3
+    }
+  ],
+  "generatedAt": "2026-10-31T17:21:12"
+}

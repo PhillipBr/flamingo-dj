@@ -133,9 +133,16 @@ export function useLazyTrackExtras({
           if (wanted.has(track.id)) hydratedById.set(track.id, track);
         });
 
-        setTracks((currentTracks) =>
-          currentTracks.map((track) => hydratedById.get(track.id) ?? track),
-        );
+        setTracks((currentTracks) => {
+          let changed = false;
+          const nextTracks = currentTracks.map((track) => {
+            const hydrated = hydratedById.get(track.id);
+            if (!hydrated || hydrated === track) return track;
+            changed = true;
+            return hydrated;
+          });
+          return changed ? nextTracks : currentTracks;
+        });
 
         missingIds.forEach((id) => {
           hydratedIdsRef.current.add(id);

@@ -1,0 +1,26 @@
+Playlist: FG REGGAETON BACKGROUND
+Canciones: 69
+Duración: 3.99 horas
+Objetivo: 4.00 horas
+Años: 2010-2026
+ENERGY mínimo: 4
+
+Popularidad (objetivo -> real):
+  40-50: 20% -> 14 (20.3%)
+  51-70: 55% -> 38 (55.1%)
+  71-89: 20% -> 14 (20.3%)
+  90-100: 5% -> 3 (4.3%)
+
+Exclusiones / duplicados:
+  below_min_energy: 17
+  duplicate_spotify: 344
+  out_of_pop: 299
+  out_of_year: 296
+
+Fuentes:
+  REGGAETON 2010-2019: C:\Users\fbrav\OneDrive\Desktop\__DB_FILES\FLAMINGOAPP_DJ_REACT\src\data\JSON\normalized\playlists\REGGAETON 2010-2019.json
+  REGGAETON 2020-2024: C:\Users\fbrav\OneDrive\Desktop\__DB_FILES\FLAMINGOAPP_DJ_REACT\src\data\JSON\normalized\playlists\REGGAETON 2020-2024.json
+  REGGAETON 2025-2026: C:\Users\fbrav\OneDrive\Desktop\__DB_FILES\FLAMINGOAPP_DJ_REACT\src\data\JSON\normalized\playlists\REGGAETON 2025-2026.json
+  REGGAETON COLOMBIANO: C:\Users\fbrav\OneDrive\Desktop\__DB_FILES\FLAMINGOAPP_DJ_REACT\src\data\JSON\normalized\playlists\REGGAETON COLOMBIANO.json
+  REGGAETON OLD SCHOOL: C:\Users\fbrav\OneDrive\Desktop\__DB_FILES\FLAMINGOAPP_DJ_REACT\src\data\JSON\normalized\playlists\REGGAETON OLD SCHOOL.json
+NOTA: no se modificó ninguna playlist original y NO se publicó en Spotify.

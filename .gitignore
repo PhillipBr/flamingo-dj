@@ -48,3 +48,6 @@ backups/
 
 # Optional local Supabase CLI folders
 .supabase/
+
+/src - Copy/
+/python/MAIN CODES/MAIN CODES.rar

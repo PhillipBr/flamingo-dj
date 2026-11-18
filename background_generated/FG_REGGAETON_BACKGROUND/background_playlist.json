@@ -1,0 +1,1090 @@
+{
+  "schemaVersion": 1,
+  "playlistName": "FG REGGAETON BACKGROUND",
+  "generatedAt": "2026-10-31T16:48:15",
+  "parameters": {
+    "sources": [
+      "REGGAETON 2010-2019",
+      "REGGAETON 2020-2024",
+      "REGGAETON 2025-2026",
+      "REGGAETON COLOMBIANO",
+      "REGGAETON OLD SCHOOL"
+    ],
+    "yearFrom": 2010,
+    "yearTo": 2026,
+    "hours": 4.0,
+    "minEnergy": 4.0,
+    "popularityBands": [
+      [
+        40,
+        50
+      ],
+      [
+        51,
+        70
+      ],
+      [
+        71,
+        89
+      ],
+      [
+        90,
+        100
+      ]
+    ],
+    "popularityWeights": [
+      20,
+      55,
+      20,
+      5
+    ],
+    "seed": null
+  },
+  "totalTracks": 69,
+  "durationSeconds": 14380,
+  "tracks": [
+    {
+      "position": 1,
+      "id": "7036",
+      "title": "Chillax",
+      "artist": "Farruko",
+      "releaseYear": 2015,
+      "spotifyPopularity": 73,
+      "energy": 6.0,
+      "durationSeconds": 197,
+      "spotifyTrackId": "1lxswgIpzV6HhENRvkflES",
+      "spotifyUrl": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 2,
+      "id": "6844",
+      "title": "CANCIÓN CON YANDEL",
+      "artist": "Yandel",
+      "releaseYear": 2020,
+      "spotifyPopularity": 71,
+      "energy": 6.0,
+      "durationSeconds": 209,
+      "spotifyTrackId": "3pm4XtcsRIFFtH2UErk62R",
+      "spotifyUrl": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 3,
+      "id": "1274852329",
+      "title": "Regalame Una Noche",
+      "artist": "J Alvarez, Arcángel",
+      "releaseYear": 2010,
+      "spotifyPopularity": 69,
+      "energy": 7.0,
+      "durationSeconds": 249,
+      "spotifyTrackId": "7dDMaJ0yaGUhyF6WR4XJLr",
+      "spotifyUrl": "https://open.spotify.com/track/7dDMaJ0yaGUhyF6WR4XJLr",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 4,
+      "id": "3740",
+      "title": "Shut Down",
+      "artist": "BLACKPINK",
+      "releaseYear": 2022,
+      "spotifyPopularity": 72,
+      "energy": 7.0,
+      "durationSeconds": 175,
+      "spotifyTrackId": "0ARKW62l9uWIDYMZTUmJHF",
+      "spotifyUrl": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 5,
+      "id": "62713",
+      "title": "En Lo Oscuro",
+      "artist": "Don Omar",
+      "releaseYear": 2015,
+      "spotifyPopularity": 44,
+      "energy": 7.0,
+      "durationSeconds": 258,
+      "spotifyTrackId": "03eqlziOWq8JcWtGlKdpGz",
+      "spotifyUrl": "https://open.spotify.com/track/03eqlziOWq8JcWtGlKdpGz",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 6,
+      "id": "1274866580",
+      "title": "KELOIDE",
+      "artist": "Feid",
+      "releaseYear": 2025,
+      "spotifyPopularity": 56,
+      "energy": 6.0,
+      "durationSeconds": 180,
+      "spotifyTrackId": "5GYpJoY8ZCA4OADVH8Cwrf",
+      "spotifyUrl": "https://open.spotify.com/track/5GYpJoY8ZCA4OADVH8Cwrf",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 7,
+      "id": "1274852726",
+      "title": "LOS POBRES Y LOS RICOS",
+      "artist": "El Alfa, Rochy RD, Chael Produciendo",
+      "releaseYear": 2023,
+      "spotifyPopularity": 45,
+      "energy": 7.0,
+      "durationSeconds": 199,
+      "spotifyTrackId": "4RZnfeTGkJT251Ib4ikAjz",
+      "spotifyUrl": "https://open.spotify.com/track/4RZnfeTGkJT251Ib4ikAjz",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 8,
+      "id": "1227954",
+      "title": "CHICA ATRACTIVA",
+      "artist": "FloyyMenor",
+      "releaseYear": 2025,
+      "spotifyPopularity": 71,
+      "energy": 5.0,
+      "durationSeconds": 165,
+      "spotifyTrackId": "0mw3zId9qOGkWlBogptIB1",
+      "spotifyUrl": "https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 9,
+      "id": "118874",
+      "title": "HOY COBRÉ",
+      "artist": "Bad Bunny",
+      "releaseYear": 2020,
+      "spotifyPopularity": 68,
+      "energy": 4.0,
+      "durationSeconds": 162,
+      "spotifyTrackId": "0tjZv2hChdHZCW1zFXpy1J",
+      "spotifyUrl": "https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 10,
+      "id": "1531",
+      "title": "RÁPIDO",
+      "artist": "Mora",
+      "releaseYear": 2023,
+      "spotifyPopularity": 68,
+      "energy": 5.0,
+      "durationSeconds": 182,
+      "spotifyTrackId": "6peVAUzSxDlTigQw5T99O5",
+      "spotifyUrl": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 11,
+      "id": "1274852883",
+      "title": "Después De Las 12",
+      "artist": "Plex, MM503",
+      "releaseYear": 2024,
+      "spotifyPopularity": 43,
+      "energy": 6.0,
+      "durationSeconds": 188,
+      "spotifyTrackId": "4rDQRcS21iUBMCv4pJUuQ4",
+      "spotifyUrl": "https://open.spotify.com/track/4rDQRcS21iUBMCv4pJUuQ4",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026",
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 12,
+      "id": "1274852365",
+      "title": "Amor en Práctica",
+      "artist": "J Alvarez",
+      "releaseYear": 2014,
+      "spotifyPopularity": 40,
+      "energy": 6.0,
+      "durationSeconds": 168,
+      "spotifyTrackId": "1jBpNosbJ6Y0eN2jIfKJO7",
+      "spotifyUrl": "https://open.spotify.com/track/1jBpNosbJ6Y0eN2jIfKJO7",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 13,
+      "id": "1274826752",
+      "title": "Despacito",
+      "artist": "Luis Fonsi, Daddy Yankee",
+      "releaseYear": 2019,
+      "spotifyPopularity": 84,
+      "energy": 7.0,
+      "durationSeconds": 229,
+      "spotifyTrackId": "6habFhsOp2NvshLv26DqMb",
+      "spotifyUrl": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019",
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 14,
+      "id": "1164664",
+      "title": "mad koknut",
+      "artist": "Beéle",
+      "releaseYear": 2025,
+      "spotifyPopularity": 60,
+      "energy": 6.0,
+      "durationSeconds": 129,
+      "spotifyTrackId": "62do2KJoJLf6wEpHkPGXTu",
+      "spotifyUrl": "https://open.spotify.com/track/62do2KJoJLf6wEpHkPGXTu",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 15,
+      "id": "1259554",
+      "title": "Solo Es Mejor",
+      "artist": "Yandar & Yostin",
+      "releaseYear": 2016,
+      "spotifyPopularity": 55,
+      "energy": 6.0,
+      "durationSeconds": 197,
+      "spotifyTrackId": "3nV7QGv51syv5DoXKeo27C",
+      "spotifyUrl": "https://open.spotify.com/track/3nV7QGv51syv5DoXKeo27C",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 16,
+      "id": "1164689",
+      "title": "si mañana me muero",
+      "artist": "Beéle",
+      "releaseYear": 2025,
+      "spotifyPopularity": 55,
+      "energy": 7.0,
+      "durationSeconds": 199,
+      "spotifyTrackId": "0h1DSQbLoW58G3DDxmhxKx",
+      "spotifyUrl": "https://open.spotify.com/track/0h1DSQbLoW58G3DDxmhxKx",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 17,
+      "id": "5949",
+      "title": "EL CUARTO DE FERXXO",
+      "artist": "Feid",
+      "releaseYear": 2020,
+      "spotifyPopularity": 66,
+      "energy": 6.0,
+      "durationSeconds": 151,
+      "spotifyTrackId": "1WBwck9KqWfe6mr2j06UEM",
+      "spotifyUrl": "https://open.spotify.com/track/1WBwck9KqWfe6mr2j06UEM",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 18,
+      "id": "1274836725",
+      "title": "Dai Dai",
+      "artist": "Shakira, Burna Boy",
+      "releaseYear": 2026,
+      "spotifyPopularity": 95,
+      "energy": 6.0,
+      "durationSeconds": 223,
+      "spotifyTrackId": "0kosUz0jePvjiz4ctmR6wL",
+      "spotifyUrl": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 19,
+      "id": "21",
+      "title": "HARLEY QUINN",
+      "artist": "Fuerza Regida",
+      "releaseYear": 2023,
+      "spotifyPopularity": 80,
+      "energy": 7.0,
+      "durationSeconds": 143,
+      "spotifyTrackId": "6CvTEtGagmzQvkUzzyKR9k",
+      "spotifyUrl": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 20,
+      "id": "1161964",
+      "title": "Nota",
+      "artist": "Jay Wheeler",
+      "releaseYear": 2025,
+      "spotifyPopularity": 69,
+      "energy": 5.0,
+      "durationSeconds": 275,
+      "spotifyTrackId": "3HPaGfBzwJGMKv6fPxWgPi",
+      "spotifyUrl": "https://open.spotify.com/track/3HPaGfBzwJGMKv6fPxWgPi",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 21,
+      "id": "972447",
+      "title": "LA REINA - REMIX",
+      "artist": "Lola Indigo",
+      "releaseYear": 2025,
+      "spotifyPopularity": 54,
+      "energy": 7.0,
+      "durationSeconds": 205,
+      "spotifyTrackId": "1LX9Kq7JFcEINO2a04WI2M",
+      "spotifyUrl": "https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 22,
+      "id": "113591",
+      "title": "Tusa",
+      "artist": "KAROL G, Nicki Minaj",
+      "releaseYear": 2019,
+      "spotifyPopularity": 76,
+      "energy": 6.0,
+      "durationSeconds": 200,
+      "spotifyTrackId": "7k4t7uLgtOxPwTpFmtJNTY",
+      "spotifyUrl": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019",
+        "REGGAETON 2020-2024",
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 23,
+      "id": "17185",
+      "title": "MERCHO REMIX",
+      "artist": "LiL CaKe",
+      "releaseYear": 2023,
+      "spotifyPopularity": 50,
+      "energy": 7.0,
+      "durationSeconds": 201,
+      "spotifyTrackId": "1vRkS74lAQEucagUBmUryC",
+      "spotifyUrl": "https://open.spotify.com/track/1vRkS74lAQEucagUBmUryC",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 24,
+      "id": "21492",
+      "title": "La Cama",
+      "artist": "Lunay",
+      "releaseYear": 2019,
+      "spotifyPopularity": 62,
+      "energy": 6.0,
+      "durationSeconds": 189,
+      "spotifyTrackId": "0OoqRZXnSrgIUAha3iLKG1",
+      "spotifyUrl": "https://open.spotify.com/track/0OoqRZXnSrgIUAha3iLKG1",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 25,
+      "id": "30613",
+      "title": "Plakito (feat. El General Gadiel & Farruko) - Remix",
+      "artist": "Yandel",
+      "releaseYear": 2015,
+      "spotifyPopularity": 54,
+      "energy": 7.0,
+      "durationSeconds": 206,
+      "spotifyTrackId": "1WmiclR92NBBRbgqS4hXsQ",
+      "spotifyUrl": "https://open.spotify.com/track/1WmiclR92NBBRbgqS4hXsQ",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 26,
+      "id": "1274866553",
+      "title": "DÉJALO EN VISTO",
+      "artist": "Piso 21, Nicky Jam",
+      "releaseYear": 2023,
+      "spotifyPopularity": 44,
+      "energy": 6.0,
+      "durationSeconds": 190,
+      "spotifyTrackId": "5phSp1VmzYJTvu1qZYdQS0",
+      "spotifyUrl": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 27,
+      "id": "1246556",
+      "title": "Besito en la Frente",
+      "artist": "Rauw Alejandro",
+      "releaseYear": 2025,
+      "spotifyPopularity": 57,
+      "energy": 5.0,
+      "durationSeconds": 161,
+      "spotifyTrackId": "2b7Si9I7PtpgGOnUE8Qogd",
+      "spotifyUrl": "https://open.spotify.com/track/2b7Si9I7PtpgGOnUE8Qogd",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 28,
+      "id": "125494",
+      "title": "Me Niegas",
+      "artist": "Baby Rasta & Gringo",
+      "releaseYear": 2015,
+      "spotifyPopularity": 76,
+      "energy": 7.0,
+      "durationSeconds": 201,
+      "spotifyTrackId": "1o6DL0otgQMsUebziSC7kA",
+      "spotifyUrl": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019",
+        "REGGAETON 2020-2024",
+        "REGGAETON OLD SCHOOL"
+      ]
+    },
+    {
+      "position": 29,
+      "id": "1274852728",
+      "title": "Panamá",
+      "artist": "El Alfa, T.Y.S, Chael Produciendo",
+      "releaseYear": 2022,
+      "spotifyPopularity": 44,
+      "energy": 6.0,
+      "durationSeconds": 209,
+      "spotifyTrackId": "3CfTnTEdKqIYADbgTdpNdM",
+      "spotifyUrl": "https://open.spotify.com/track/3CfTnTEdKqIYADbgTdpNdM",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 30,
+      "id": "1164605",
+      "title": "MIL VIDAS",
+      "artist": "Mora",
+      "releaseYear": 2025,
+      "spotifyPopularity": 69,
+      "energy": 7.0,
+      "durationSeconds": 269,
+      "spotifyTrackId": "3bn6CxnWxuvYZz3i9vE2dc",
+      "spotifyUrl": "https://open.spotify.com/track/3bn6CxnWxuvYZz3i9vE2dc",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 31,
+      "id": "1274852622",
+      "title": "Fiel",
+      "artist": "Los Legendarios, Wisin, JHAYCO",
+      "releaseYear": 2021,
+      "spotifyPopularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 262,
+      "spotifyTrackId": "56KhDgM8O8rHxBI7CIEGCw",
+      "spotifyUrl": "https://open.spotify.com/track/56KhDgM8O8rHxBI7CIEGCw",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 32,
+      "id": "9396",
+      "title": "Ay, DiOs Mío!",
+      "artist": "KAROL G",
+      "releaseYear": 2020,
+      "spotifyPopularity": 66,
+      "energy": 4.0,
+      "durationSeconds": 189,
+      "spotifyTrackId": "7x4ASXYEKfQBCewcZhK776",
+      "spotifyUrl": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 33,
+      "id": "6473",
+      "title": "Gafas Negras",
+      "artist": "Maluma",
+      "releaseYear": 2024,
+      "spotifyPopularity": 43,
+      "energy": 6.0,
+      "durationSeconds": 186,
+      "spotifyTrackId": "38m7600PiALyT9FvH1lYun",
+      "spotifyUrl": "https://open.spotify.com/track/38m7600PiALyT9FvH1lYun",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 34,
+      "id": "1166234",
+      "title": "Bésame",
+      "artist": "Alejandro Sanz & Shakira",
+      "releaseYear": 2025,
+      "spotifyPopularity": 60,
+      "energy": 7.0,
+      "durationSeconds": 202,
+      "spotifyTrackId": "0TsqrYn4ta8Xkvez2oHx7B",
+      "spotifyUrl": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 35,
+      "id": "17642",
+      "title": "Na Na Na - Remix",
+      "artist": "Pailita",
+      "releaseYear": 2022,
+      "spotifyPopularity": 55,
+      "energy": 6.0,
+      "durationSeconds": 272,
+      "spotifyTrackId": "7BFa8ACKFI2vvbn6Su16JY",
+      "spotifyUrl": "https://open.spotify.com/track/7BFa8ACKFI2vvbn6Su16JY",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 36,
+      "id": "1274852820",
+      "title": "TALISMAN",
+      "artist": "Sasha",
+      "releaseYear": 2026,
+      "spotifyPopularity": 54,
+      "energy": 6.0,
+      "durationSeconds": 164,
+      "spotifyTrackId": "16xJ2yfRAJkJrgpmli0x9t",
+      "spotifyUrl": "https://open.spotify.com/track/16xJ2yfRAJkJrgpmli0x9t",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 37,
+      "id": "6033",
+      "title": "Me Acostumbre (feat. Bad Bunny)",
+      "artist": "Arcángel",
+      "releaseYear": 2017,
+      "spotifyPopularity": 73,
+      "energy": 6.0,
+      "durationSeconds": 263,
+      "spotifyTrackId": "2FIm6YsSGL5acOqSuJDh5s",
+      "spotifyUrl": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 38,
+      "id": "1274852536",
+      "title": "No Me Conoce - Remix",
+      "artist": "JHAYCO, J Balvin, Bad Bunny",
+      "releaseYear": 2019,
+      "spotifyPopularity": 85,
+      "energy": 6.0,
+      "durationSeconds": 308,
+      "spotifyTrackId": "7rknFhrVDyxzTJkPSf7LoW",
+      "spotifyUrl": "https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 39,
+      "id": "1252157",
+      "title": "Portate Bonito",
+      "artist": "Anuel AA",
+      "releaseYear": 2025,
+      "spotifyPopularity": 63,
+      "energy": 5.0,
+      "durationSeconds": 209,
+      "spotifyTrackId": "4XGFya44QyFTbB1pBT1TLi",
+      "spotifyUrl": "https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 40,
+      "id": "1274866546",
+      "title": "Señorita",
+      "artist": "Reykon, Daddy Yankee",
+      "releaseYear": 2012,
+      "spotifyPopularity": 55,
+      "energy": 7.0,
+      "durationSeconds": 172,
+      "spotifyTrackId": "4xkovek0Q8EJ7M5Ey5LZys",
+      "spotifyUrl": "https://open.spotify.com/track/4xkovek0Q8EJ7M5Ey5LZys",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 41,
+      "id": "1274799275",
+      "title": "Sensualidad",
+      "artist": "Bad Bunny, Prince Royce, J Balvin, Mambo Kingz, DJ Luian",
+      "releaseYear": 2017,
+      "spotifyPopularity": 74,
+      "energy": 6.0,
+      "durationSeconds": 297,
+      "spotifyTrackId": "5hcisvFMidkMJlElTO9Qmw",
+      "spotifyUrl": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019",
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 42,
+      "id": "1274866456",
+      "title": "Ella Me Decía",
+      "artist": "KEVIN ROLDAN, Sammy & Falsetto",
+      "releaseYear": 2016,
+      "spotifyPopularity": 49,
+      "energy": 6.0,
+      "durationSeconds": 247,
+      "spotifyTrackId": "1LTN1t6rKpwFDDtcy71A75",
+      "spotifyUrl": "https://open.spotify.com/track/1LTN1t6rKpwFDDtcy71A75",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 43,
+      "id": "1274814097",
+      "title": "One Dance",
+      "artist": "Drake, Wizkid, Kyla",
+      "releaseYear": 2016,
+      "spotifyPopularity": 92,
+      "energy": 6.0,
+      "durationSeconds": 173,
+      "spotifyTrackId": "1zi7xx7UVEFkmKfv06H8x0",
+      "spotifyUrl": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 44,
+      "id": "605257",
+      "title": "Hoy Lo Siento",
+      "artist": "Zion",
+      "releaseYear": 2010,
+      "spotifyPopularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 226,
+      "spotifyTrackId": "0zOTCXeKyojEa4kNkUqrQK",
+      "spotifyUrl": "https://open.spotify.com/track/0zOTCXeKyojEa4kNkUqrQK",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019",
+        "REGGAETON OLD SCHOOL"
+      ]
+    },
+    {
+      "position": 45,
+      "id": "1274852571",
+      "title": "Pineapple",
+      "artist": "KAROL G",
+      "releaseYear": 2018,
+      "spotifyPopularity": 69,
+      "energy": 5.0,
+      "durationSeconds": 178,
+      "spotifyTrackId": "2RXzzOxmBlffT81fjwBSVh",
+      "spotifyUrl": "https://open.spotify.com/track/2RXzzOxmBlffT81fjwBSVh",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 46,
+      "id": "1274852391",
+      "title": "50 Sombras de Austin",
+      "artist": "Arcángel, DJ Luian",
+      "releaseYear": 2015,
+      "spotifyPopularity": 54,
+      "energy": 8.0,
+      "durationSeconds": 195,
+      "spotifyTrackId": "1bbe3DdV3LBSP0grOtG91I",
+      "spotifyUrl": "https://open.spotify.com/track/1bbe3DdV3LBSP0grOtG91I",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 47,
+      "id": "1274826016",
+      "title": "Demasiado",
+      "artist": "Asmed, Millonario",
+      "releaseYear": 2026,
+      "spotifyPopularity": 73,
+      "energy": 6.0,
+      "durationSeconds": 168,
+      "spotifyTrackId": "29bjrg0oCg69lUOVN7NLLT",
+      "spotifyUrl": "https://open.spotify.com/track/29bjrg0oCg69lUOVN7NLLT",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 48,
+      "id": "12189",
+      "title": "No Se Me Quita",
+      "artist": "Maluma",
+      "releaseYear": 2019,
+      "spotifyPopularity": 62,
+      "energy": 7.0,
+      "durationSeconds": 219,
+      "spotifyTrackId": "1GBLO0NFODuL31A5fgw0uR",
+      "spotifyUrl": "https://open.spotify.com/track/1GBLO0NFODuL31A5fgw0uR",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 49,
+      "id": "569878",
+      "title": "Web Cam",
+      "artist": "Farruko",
+      "releaseYear": 2010,
+      "spotifyPopularity": 66,
+      "energy": 5.0,
+      "durationSeconds": 206,
+      "spotifyTrackId": "5FvBm21bpgoTjq6GQi4mu9",
+      "spotifyUrl": "https://open.spotify.com/track/5FvBm21bpgoTjq6GQi4mu9",
+      "sourcePlaylists": [
+        "REGGAETON OLD SCHOOL"
+      ]
+    },
+    {
+      "position": 50,
+      "id": "1274866480",
+      "title": "Bichote",
+      "artist": "Juhn, Luar La L",
+      "releaseYear": 2023,
+      "spotifyPopularity": 44,
+      "energy": 5.0,
+      "durationSeconds": 242,
+      "spotifyTrackId": "0OxozClU9H0OWKQ4C4gNv5",
+      "spotifyUrl": "https://open.spotify.com/track/0OxozClU9H0OWKQ4C4gNv5",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 51,
+      "id": "30230",
+      "title": "PERREOXOXO",
+      "artist": "Feid",
+      "releaseYear": 2020,
+      "spotifyPopularity": 49,
+      "energy": 6.0,
+      "durationSeconds": 91,
+      "spotifyTrackId": "31bsf9JZWITAir5Uzjtsp5",
+      "spotifyUrl": "https://open.spotify.com/track/31bsf9JZWITAir5Uzjtsp5",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 52,
+      "id": "1274837891",
+      "title": "Tu recuerdo",
+      "artist": "Maluma",
+      "releaseYear": 2026,
+      "spotifyPopularity": 63,
+      "energy": 6.0,
+      "durationSeconds": 235,
+      "spotifyTrackId": "1RqUyxhNCRqfXOzA2Z2NEf",
+      "spotifyUrl": "https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 53,
+      "id": "1274852413",
+      "title": "La Venganza",
+      "artist": "J Balvin",
+      "releaseYear": 2013,
+      "spotifyPopularity": 47,
+      "energy": 6.0,
+      "durationSeconds": 206,
+      "spotifyTrackId": "6Q0YxsP9Rne0Tn2xQCRE5W",
+      "spotifyUrl": "https://open.spotify.com/track/6Q0YxsP9Rne0Tn2xQCRE5W",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 54,
+      "id": "122641",
+      "title": "Lejanía",
+      "artist": "Ryan Castro",
+      "releaseYear": 2020,
+      "spotifyPopularity": 62,
+      "energy": 5.0,
+      "durationSeconds": 234,
+      "spotifyTrackId": "1QcVACki0Jfgi22KqobAFX",
+      "spotifyUrl": "https://open.spotify.com/track/1QcVACki0Jfgi22KqobAFX",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 55,
+      "id": "1274811650",
+      "title": "Ojalá",
+      "artist": "Lunay",
+      "releaseYear": 2026,
+      "spotifyPopularity": 50,
+      "energy": 5.0,
+      "durationSeconds": 251,
+      "spotifyTrackId": "6Crk5GPplILAw0vUiEILuD",
+      "spotifyUrl": "https://open.spotify.com/track/6Crk5GPplILAw0vUiEILuD",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 56,
+      "id": "1274866581",
+      "title": "LOKENECESITAS",
+      "artist": "SAIKO, Omar Courtz",
+      "releaseYear": 2025,
+      "spotifyPopularity": 63,
+      "energy": 7.0,
+      "durationSeconds": 201,
+      "spotifyTrackId": "58DGexVv1NdVbkiudUNi1Z",
+      "spotifyUrl": "https://open.spotify.com/track/58DGexVv1NdVbkiudUNi1Z",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 57,
+      "id": "4818",
+      "title": "Hasta el Amanecer",
+      "artist": "Nicky Jam",
+      "releaseYear": 2017,
+      "spotifyPopularity": 82,
+      "energy": 6.0,
+      "durationSeconds": 198,
+      "spotifyTrackId": "5Fim1gaXBgsiFfsQAfQSDS",
+      "spotifyUrl": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 58,
+      "id": "112625",
+      "title": "Runaway",
+      "artist": "Sebastian Yatra",
+      "releaseYear": 2019,
+      "spotifyPopularity": 60,
+      "energy": 7.0,
+      "durationSeconds": 200,
+      "spotifyTrackId": "7BuSE9uTIw931wtZYzvZcQ",
+      "spotifyUrl": "https://open.spotify.com/track/7BuSE9uTIw931wtZYzvZcQ",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 59,
+      "id": "1272713",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "releaseYear": 2025,
+      "spotifyPopularity": 92,
+      "energy": 5.0,
+      "durationSeconds": 367,
+      "spotifyTrackId": "2lTm559tuIvatlT1u0JYG2",
+      "spotifyUrl": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 60,
+      "id": "1274810903",
+      "title": "UNA NOCHE EN MEDELLÍN - REMIX",
+      "artist": "KAROL G, Cris MJ, Ryan Castro",
+      "releaseYear": 2023,
+      "spotifyPopularity": 62,
+      "energy": 6.0,
+      "durationSeconds": 205,
+      "spotifyTrackId": "6ejks4eS7DOoYW8hrpRcDV",
+      "spotifyUrl": "https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV",
+      "sourcePlaylists": [
+        "REGGAETON COLOMBIANO"
+      ]
+    },
+    {
+      "position": 61,
+      "id": "1274852680",
+      "title": "No Sé Como Se Llama",
+      "artist": "Golpe a Golpe",
+      "releaseYear": 2011,
+      "spotifyPopularity": 62,
+      "energy": 7.0,
+      "durationSeconds": 209,
+      "spotifyTrackId": "02S3OzC2roebiiMWLJt0uO",
+      "spotifyUrl": "https://open.spotify.com/track/02S3OzC2roebiiMWLJt0uO",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 62,
+      "id": "1274848908",
+      "title": "Diablote",
+      "artist": "Lleflight",
+      "releaseYear": 2026,
+      "spotifyPopularity": 67,
+      "energy": 6.0,
+      "durationSeconds": 150,
+      "spotifyTrackId": "09m5wlL1QNpTBSPxHBSEFr",
+      "spotifyUrl": "https://open.spotify.com/track/09m5wlL1QNpTBSPxHBSEFr",
+      "sourcePlaylists": [
+        "REGGAETON 2025-2026"
+      ]
+    },
+    {
+      "position": 63,
+      "id": "1274852749",
+      "title": "Se Ve",
+      "artist": "Ozuna, Beéle",
+      "releaseYear": 2025,
+      "spotifyPopularity": 50,
+      "energy": 5.0,
+      "durationSeconds": 241,
+      "spotifyTrackId": "3YUFf5qfWEpridxVgjyEvH",
+      "spotifyUrl": "https://open.spotify.com/track/3YUFf5qfWEpridxVgjyEvH",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 64,
+      "id": "1274852405",
+      "title": "Tranquila",
+      "artist": "J Balvin",
+      "releaseYear": 2013,
+      "spotifyPopularity": 64,
+      "energy": 6.0,
+      "durationSeconds": 200,
+      "spotifyTrackId": "2biG396b4oY4gHJJRtjUIo",
+      "spotifyUrl": "https://open.spotify.com/track/2biG396b4oY4gHJJRtjUIo",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 65,
+      "id": "122738",
+      "title": "Mil Lágrimas",
+      "artist": "Nicky Jam",
+      "releaseYear": 2017,
+      "spotifyPopularity": 66,
+      "energy": 5.0,
+      "durationSeconds": 208,
+      "spotifyTrackId": "5EFAloMY9VlEKrjllKoXjL",
+      "spotifyUrl": "https://open.spotify.com/track/5EFAloMY9VlEKrjllKoXjL",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 66,
+      "id": "1274852620",
+      "title": "Sobrio",
+      "artist": "Maluma",
+      "releaseYear": 2021,
+      "spotifyPopularity": 76,
+      "energy": 6.0,
+      "durationSeconds": 201,
+      "spotifyTrackId": "4HzqWEdAbzcVFDv0pvxV4w",
+      "spotifyUrl": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 67,
+      "id": "9041",
+      "title": "Nota de Amor",
+      "artist": "Wisin",
+      "releaseYear": 2015,
+      "spotifyPopularity": 68,
+      "energy": 7.0,
+      "durationSeconds": 232,
+      "spotifyTrackId": "4YW2Fr25fHwUt6qgvM1iE1",
+      "spotifyUrl": "https://open.spotify.com/track/4YW2Fr25fHwUt6qgvM1iE1",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    },
+    {
+      "position": 68,
+      "id": "373",
+      "title": "Buenas",
+      "artist": "Quevedo",
+      "releaseYear": 2023,
+      "spotifyPopularity": 66,
+      "energy": 6.0,
+      "durationSeconds": 192,
+      "spotifyTrackId": "4sDpxaulErbJ9NBaJDC7cJ",
+      "spotifyUrl": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ",
+      "sourcePlaylists": [
+        "REGGAETON 2020-2024"
+      ]
+    },
+    {
+      "position": 69,
+      "id": "1274852477",
+      "title": "Ella Fuma",
+      "artist": "Plan B, Chencho Corleone, Farruko, Darell, Brytiago",
+      "releaseYear": 2018,
+      "spotifyPopularity": 65,
+      "energy": 6.0,
+      "durationSeconds": 272,
+      "spotifyTrackId": "5FVVmDTScyTNlzC1sUILsc",
+      "spotifyUrl": "https://open.spotify.com/track/5FVVmDTScyTNlzC1sUILsc",
+      "sourcePlaylists": [
+        "REGGAETON 2010-2019"
+      ]
+    }
+  ]
+}

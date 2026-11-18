@@ -1,983 +1,530 @@
 import {
-  ArrowLeftRight,
-  Gauge,
-  History,
-  ListPlus,
-  Music2,
-  RefreshCw,
-  Sparkles,
-  X,
-  Zap,
-} from "lucide-react";
-
-import {
+  useEffect,
+  useRef,
   useMemo,
   useState,
 } from "react";
 
+import type { Playlist } from "../../types/playlist";
 import type { Track } from "../../types/track";
+import type {
+  MatchEnergyDirection,
+  MatchFeedbackRecord,
+  MatchHarmonicPriority,
+  MatchHumanRating,
+} from "../../types/matchV2";
 
 import {
-  getTrackCamelot,
-  getTrackGenres,
-  matchCrossStyle,
-  matchSameStyle,
-  normalizeGenre,
-  type MatchMode,
-  type SongMatch,
-} from "../../utils/matchSongs";
+  buildMatchCandidates,
+} from "../../utils/matchV2";
 
 import {
-  applyHistoricalCrowdScore,
-  buildTrackPerformanceMap,
-} from "../../utils/historicalCrowdMatch";
-
-import {
-  loadLivePerformanceHistory,
-} from "../../utils/livePerformanceStorage";
-
-import {
-  loadEventProfileState,
-} from "../../utils/eventProfileStorage";
-
-import {
-  filterPerformanceHistoryByProfile,
-} from "../../utils/eventProfilePerformance";
-
-import {
-  buildTrackPerformance,
-} from "../../utils/trackPerformanceEngine";
+  loadMatchFeedback,
+  loadMatchFeedbackLocal,
+  saveMatchRating,
+} from "../../utils/matchFeedbackStorage";
 
 import "./MatchSongsPanel.css";
 
-type MatchSongsPanelProps = {
+type Props = {
   track: Track | null;
   tracks: Track[];
+  allTracks?: Track[];
+  playlists?: Playlist[];
+  currentPlaylistId?: string | null;
   onClose: () => void;
-  onOpenTrackDetails?: (
-    trackId: string,
-  ) => void;
-  onAddToSet: (
-    trackId: string,
-  ) => void;
+  onChooseTrack: (trackId: string) => void;
+  selectedTrackIds?: string[];
+  playedTrackIds?: string[];
+  onOpenTrackDetails: (trackId: string) => void;
+  onAddToSet: (trackId: string) => void;
   currentSetTrackIds: string[];
 };
 
-type MatchTab =
-  | "same-style"
-  | "cross-style";
+type SearchMode = "current" | "other" | "all";
 
-type HistoricalSongMatch =
-  SongMatch<Track> & {
-    basePercentage: number;
-    historicalCrowdScore:
-      number | null;
-    historicalCrowdResponses:
-      number;
-    historicalConfidence:
-      number;
-    historicalEffectiveWeight:
-      number;
-  };
-
-type CrossStyleSection = {
-  style: string;
-  results: HistoricalSongMatch[];
-  bestScore: number;
-};
-
-function formatScore(
-  value: number,
-): string {
-  return `${Math.round(value * 100)}%`;
+function popularityTier(value: number | null | undefined): string {
+  if (value == null || !Number.isFinite(value)) return "neutral";
+  if (value >= 90) return "very-high";
+  if (value >= 79) return "high";
+  if (value >= 60) return "medium";
+  return "neutral";
 }
 
-function formatTempo(
-  value: number | null,
-): string {
-  return value === null
-    ? "—"
-    : `${Math.round(value)} BPM`;
-}
-
-function formatEnergy(
-  value: number | null,
-): string {
-  return value === null
-    ? "—"
-    : String(value);
-}
-
-function getArtworkUrl(
-  track: Track,
-): string | null {
-  return track.artworkUrl ?? null;
-}
-
-function getMatchModeLabel(
-  mode: MatchMode,
-): string {
-  return mode === "same-style"
-    ? "Same Style"
-    : "Cross Style";
-}
-
-function formatStyleLabel(
-  value: string,
-): string {
-  return value
-    .split(/[\s_-]+/)
-    .filter(Boolean)
-    .map(
-      (word) =>
-        word.charAt(0)
-          .toUpperCase() +
-        word.slice(1),
-    )
-    .join(" ");
-}
-
-function getCrossStyleName(
-  result: HistoricalSongMatch,
-): string {
-  const matchedPair =
-    result.explanation
-      .matchedGenrePair;
-
-  if (matchedPair?.[1]) {
-    return normalizeGenre(
-      matchedPair[1],
-    );
-  }
-
-  const candidateGenres =
-    getTrackGenres(
-      result.track,
-    );
-
-  if (candidateGenres[0]) {
-    return normalizeGenre(
-      candidateGenres[0],
-    );
-  }
-
-  return "other";
-}
-
-function buildCrossStyleSections(
-  results: HistoricalSongMatch[],
-): CrossStyleSection[] {
-  const grouped =
-    new Map<
-      string,
-      HistoricalSongMatch[]
-    >();
-
-  results.forEach(
-    (result) => {
-      const style =
-        getCrossStyleName(
-          result,
-        );
-
-      const current =
-        grouped.get(style) ?? [];
-
-      current.push(result);
-      grouped.set(
-        style,
-        current,
-      );
-    },
-  );
-
-  return [
-    ...grouped.entries(),
-  ]
-    .map(
-      ([
-        style,
-        styleResults,
-      ]) => {
-        const sorted =
-          [...styleResults]
-            .sort(
-              (
-                left,
-                right,
-              ) =>
-                right.score -
-                left.score,
-            )
-            .slice(0, 5);
-
-        return {
-          style,
-          results: sorted,
-          bestScore:
-            sorted[0]?.score ??
-            0,
-        };
-      },
-    )
-    .filter(
-      (section) =>
-        section.results.length >
-        0,
-    )
-    .sort(
-      (
-        left,
-        right,
-      ) => {
-        if (
-          right.results.length !==
-          left.results.length
-        ) {
-          return (
-            right.results.length -
-            left.results.length
-          );
-        }
-
-        return (
-          right.bestScore -
-          left.bestScore
-        );
-      },
-    )
-    .slice(0, 3);
-}
-
-type MatchCardProps = {
-  result: HistoricalSongMatch;
-  rank: number;
-  currentSetTrackIds: string[];
-  onAddToSet: (
-    trackId: string,
-  ) => void;
-  onOpenTrackDetails?: (
-    trackId: string,
-  ) => void;
-};
-
-function MatchCard({
-  result,
-  rank,
-  currentSetTrackIds,
-  onAddToSet,
-  onOpenTrackDetails,
-}: MatchCardProps) {
-  const candidate =
-    result.track;
-
-  const artwork =
-    getArtworkUrl(candidate);
-
-  const isInSet =
-    currentSetTrackIds.includes(
-      candidate.id,
-    );
-
-  return (
-    <article className="match-card">
-      <div className="match-card__rank">
-        {rank}
-      </div>
-
-      <div className="match-card__artwork">
-        {artwork ? (
-          <img
-            src={artwork}
-            alt=""
-            loading="lazy"
-            draggable={false}
-          />
-        ) : (
-          <Music2 size={18} />
-        )}
-      </div>
-
-      <div className="match-card__main">
-        <div className="match-card__title-row">
-          <div>
-            <strong title={candidate.title}>
-              {candidate.title}
-            </strong>
-
-            <p title={candidate.artist}>
-              {candidate.artist}
-            </p>
-          </div>
-
-          <span className="match-card__score">
-            {result.percentage}%
-          </span>
-        </div>
-
-        <div className="match-card__facts">
-          <span>
-            <Gauge size={13} />
-            {formatTempo(
-              candidate.tempo,
-            )}
-          </span>
-
-          <span>
-            <Zap size={13} />
-            {formatEnergy(
-              candidate.energy,
-            )}
-          </span>
-
-          <span
-            className={
-              result.historicalCrowdScore ===
-              null
-                ? "match-card__history match-card__history--empty"
-                : "match-card__history"
-            }
-            title={
-              result.historicalCrowdScore ===
-              null
-                ? "No recorded crowd history for this track."
-                : `Historical crowd score ${result.historicalCrowdScore}/100 from ${result.historicalCrowdResponses} response${
-                    result.historicalCrowdResponses ===
-                    1
-                      ? ""
-                      : "s"
-                  }. Effective Match weight: ${Math.round(
-                    result.historicalEffectiveWeight *
-                      100,
-                  )}%.`
-            }
-          >
-            <History
-              size={13}
-            />
-
-            {result.historicalCrowdScore ===
-            null
-              ? "Crowd —"
-              : `Crowd ${result.historicalCrowdScore}`}
-          </span>
-
-          <span>
-            <Music2 size={13} />
-            Key{" "}
-            {candidate.musicalKey ??
-              "—"}
-          </span>
-
-          <span>
-            Camelot{" "}
-            {getTrackCamelot(
-              candidate,
-            ) ?? "—"}
-          </span>
-        </div>
-
-        <div className="match-card__genre">
-          {candidate.genre ??
-            "Unknown genre"}
-        </div>
-
-        <div className="match-card__breakdown">
-          <span>
-            Genre{" "}
-            {formatScore(
-              result.breakdown
-                .genre,
-            )}
-          </span>
-
-          <span>
-            BPM{" "}
-            {formatScore(
-              result.breakdown
-                .bpm,
-            )}
-          </span>
-
-          <span>
-            Energy{" "}
-            {formatScore(
-              result.breakdown
-                .energy,
-            )}
-          </span>
-
-          <span>
-            Camelot{" "}
-            {formatScore(
-              result.breakdown
-                .camelot,
-            )}
-          </span>
-        </div>
-
-        {result.historicalCrowdScore !==
-          null && (
-          <div className="match-card__historical-note">
-            <History size={11} />
-
-            <span>
-              Musical match{" "}
-              {result.basePercentage}%{" "}
-              → historical-adjusted{" "}
-              {result.percentage}%{" "}
-              · confidence{" "}
-              {Math.round(
-                result.historicalConfidence *
-                  100,
-              )}
-              %
-            </span>
-          </div>
-        )}
-
-        <button
-          className="match-card__add-to-set"
-          type="button"
-          disabled={isInSet}
-          onClick={() =>
-            onAddToSet(
-              candidate.id,
-            )
-          }
-        >
-          <ListPlus size={13} />
-          {isInSet
-            ? "In set"
-            : "Add to set"}
-        </button>
-
-        {onOpenTrackDetails && (
-          <button
-            className="match-card__details"
-            type="button"
-            onClick={() =>
-              onOpenTrackDetails(
-                candidate.id,
-              )
-            }
-          >
-            Open track
-          </button>
-        )}
-      </div>
-    </article>
-  );
-}
-
-function applyHistoricalWeightToResults(
-  results:
-    SongMatch<Track>[],
-  performanceByTrackId:
-    ReadonlyMap<
-      string,
-      ReturnType<
-        typeof buildTrackPerformance
-      >[number]
-    >,
-): HistoricalSongMatch[] {
-  return results
-    .map(
-      (
-        result,
-      ): HistoricalSongMatch => {
-        const weighted =
-          applyHistoricalCrowdScore(
-            result.score,
-            performanceByTrackId.get(
-              result.track.id,
-            ) ??
-              null,
-          );
-
-        return {
-          ...result,
-
-          score:
-            weighted.adjustedScore,
-
-          percentage:
-            Math.round(
-              weighted.adjustedScore *
-                100,
-            ),
-
-          basePercentage:
-            result.percentage,
-
-          historicalCrowdScore:
-            weighted.signal
-              .crowdScore,
-
-          historicalCrowdResponses:
-            weighted.signal
-              .crowdResponses,
-
-          historicalConfidence:
-            weighted.signal
-              .confidence,
-
-          historicalEffectiveWeight:
-            weighted.signal
-              .effectiveWeight,
-        };
-      },
-    )
-    .sort(
-      (
-        left,
-        right,
-      ) =>
-        right.score -
-        left.score,
-    );
+function displayNumber(value: unknown): string {
+  const number = Number(value);
+  return Number.isFinite(number) ? String(Math.round(number)) : "—";
 }
 
 export default function MatchSongsPanel({
   track,
   tracks,
+  allTracks,
+  playlists,
+  currentPlaylistId,
   onClose,
+  onChooseTrack,
+  selectedTrackIds = [],
+  playedTrackIds = [],
   onOpenTrackDetails,
   onAddToSet,
   currentSetTrackIds,
-}: MatchSongsPanelProps) {
-  const [
-    activeTab,
-    setActiveTab,
-  ] =
-    useState<MatchTab>(
-      "same-style",
-    );
+}: Props) {
+  const [activeMatchIndex, setActiveMatchIndex] = useState(0);
+  const [resultLimit, setResultLimit] = useState(10);
+  const panelRef = useRef<HTMLElement | null>(null);
+  const resultsRef = useRef<HTMLDivElement | null>(null);
+  const [searchMode, setSearchMode] =
+    useState<SearchMode>("current");
 
-  const [
-    minimumScore,
-    setMinimumScore,
-  ] = useState(35);
+  const [targetPlaylistId, setTargetPlaylistId] =
+    useState("");
 
-  const activeEventProfile =
-    useMemo(() => {
-      const profileState =
-        loadEventProfileState();
+  const [energyDirection, setEnergyDirection] =
+    useState<MatchEnergyDirection>("maintain");
 
-      return (
-        profileState.profiles.find(
-          (profile) =>
-            profile.id ===
-            profileState.activeProfileId,
-        ) ??
-        null
-      );
-    }, [
+  const [harmonicPriority, setHarmonicPriority] =
+    useState<MatchHarmonicPriority>("high");
+
+  const [allowHalfDouble, setAllowHalfDouble] =
+    useState(true);
+
+  const [feedback, setFeedback] =
+    useState<MatchFeedbackRecord[]>(loadMatchFeedbackLocal);
+
+  const [savingKey, setSavingKey] =
+    useState<string | null>(null);
+
+  const libraryTracks = allTracks ?? tracks;
+  const libraryPlaylists = playlists ?? [];
+
+  const currentPlaylist =
+    libraryPlaylists.find(
+      (playlist) => playlist.id === currentPlaylistId,
+    ) ?? null;
+
+  const otherPlaylists = useMemo(
+    () =>
+      libraryPlaylists
+        .filter((playlist) => playlist.id !== currentPlaylistId)
+        .slice()
+        .sort((a, b) => a.name.localeCompare(b.name)),
+    [libraryPlaylists, currentPlaylistId],
+  );
+
+  useEffect(() => {
+    if (
+      searchMode === "other" &&
+      !targetPlaylistId &&
+      otherPlaylists.length > 0
+    ) {
+      setTargetPlaylistId(otherPlaylists[0].id);
+    }
+  }, [searchMode, targetPlaylistId, otherPlaylists]);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    void loadMatchFeedback().then((records) => {
+      if (!cancelled) setFeedback(records);
+    });
+
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const trackById = useMemo(
+    () => new Map(libraryTracks.map((item) => [item.id, item])),
+    [libraryTracks],
+  );
+
+  const targetPlaylist =
+    libraryPlaylists.find(
+      (playlist) => playlist.id === targetPlaylistId,
+    ) ?? null;
+
+  const candidateTracks = useMemo(() => {
+    if (searchMode === "current") return tracks;
+    if (searchMode === "all") return libraryTracks;
+    if (!targetPlaylist) return [];
+
+    return targetPlaylist.trackIds
+      .map((id) => trackById.get(id) ?? null)
+      .filter((item): item is Track => item !== null);
+  }, [
+    searchMode,
+    tracks,
+    libraryTracks,
+    targetPlaylist,
+    trackById,
+  ]);
+
+  // P-marked tracks are excluded before scoring, regardless of recording state.
+  const playedSet = useMemo(() => new Set(playedTrackIds), [playedTrackIds]);
+  const unplayedCandidates = useMemo(
+    () => candidateTracks.filter((candidate) => !playedSet.has(candidate.id) && candidate.id !== track?.id),
+    [candidateTracks, playedSet, track?.id],
+  );
+
+  const matches = useMemo(
+    () =>
+      track
+        ? buildMatchCandidates({
+            sourceTrack: track,
+            candidates: unplayedCandidates,
+            feedback,
+            energyDirection,
+            harmonicPriority,
+            allowHalfDouble,
+            limit: resultLimit,
+          })
+        : [],
+    [
       track,
-    ]);
+      unplayedCandidates,
+      resultLimit,
+      feedback,
+      energyDirection,
+      harmonicPriority,
+      allowHalfDouble,
+    ],
+  );
 
-  const performanceByTrackId =
-    useMemo(() => {
-      const history =
-        loadLivePerformanceHistory();
-
-      const profileState =
-        loadEventProfileState();
-
-      const contextHistory =
-        filterPerformanceHistoryByProfile(
-          history,
-          profileState.activeProfileId,
-        );
-
-      const performance =
-        buildTrackPerformance(
-          contextHistory,
-        );
-
-      return buildTrackPerformanceMap(
-        performance,
-      );
-    }, [
-      track,
-    ]);
-
-  const sameStyleResults =
-    useMemo<
-      HistoricalSongMatch[]
-    >(() => {
-      if (
-        !track ||
-        activeTab !==
-          "same-style"
-      ) {
-        return [];
+  useEffect(() => { setActiveMatchIndex(0); setResultLimit(10); }, [track?.id, searchMode, targetPlaylistId, energyDirection, harmonicPriority, allowHalfDouble]);
+  // The PANEL scrolls; results is only a grid (not a scroll container).
+  // Move only the panel's scrollTop, never the underlying playlist or page.
+  useEffect(() => {
+    if (!track) return;
+    const panel = panelRef.current;
+    const card = resultsRef.current?.querySelector<HTMLElement>(`[data-match-index="${activeMatchIndex}"]`);
+    if (!panel || !card) return;
+    const viewport = panel.getBoundingClientRect();
+    const item = card.getBoundingClientRect();
+    const padding = 12;
+    if (item.bottom > viewport.bottom - padding) {
+      panel.scrollTop += item.bottom - viewport.bottom + padding;
+    } else if (item.top < viewport.top + padding) {
+      panel.scrollTop += item.top - viewport.top - padding;
+    }
+  }, [activeMatchIndex, matches, track]);
+  useEffect(() => {
+    if (!track) return;
+    const onKey = (event: KeyboardEvent) => {
+      const target = event.target;
+      if (target instanceof HTMLElement && target.closest("input, textarea, select, [contenteditable='true']")) return;
+      if (event.key === "Escape") { event.preventDefault(); event.stopImmediatePropagation(); onClose(); return; }
+      if (event.key === "ArrowDown" || event.key === "ArrowUp") {
+        event.preventDefault(); event.stopImmediatePropagation();
+        setActiveMatchIndex((index) => Math.max(0, Math.min(matches.length - 1, index + (event.key === "ArrowDown" ? 1 : -1))));
       }
-
-      const results =
-        matchSameStyle(
-          track,
-          tracks,
-          {
-            limit: 60,
-            minimumScore:
-              minimumScore / 100,
-            requireGenreMatch:
-              false,
-          },
-        );
-
-      return applyHistoricalWeightToResults(
-        results,
-        performanceByTrackId,
-      ).slice(
-        0,
-        30,
-      );
-    }, [
-      activeTab,
-      minimumScore,
-      performanceByTrackId,
-      track,
-      tracks,
-    ]);
-
-  const crossStyleResults =
-    useMemo<
-      HistoricalSongMatch[]
-    >(() => {
-      if (
-        !track ||
-        activeTab !==
-          "cross-style"
-      ) {
-        return [];
+      if (event.key === "Enter" && matches[activeMatchIndex]) {
+        event.preventDefault(); event.stopImmediatePropagation();
+        onChooseTrack(matches[activeMatchIndex].track.id);
       }
+    };
+    window.addEventListener("keydown", onKey, true);
+    return () => window.removeEventListener("keydown", onKey, true);
+  }, [track, matches, activeMatchIndex, onClose, onChooseTrack]);
 
-      const results =
-        matchCrossStyle(
-          track,
-          tracks,
-          {
-            limit: 180,
-            minimumScore:
-              minimumScore / 100,
-            requireGenreMatch:
-              false,
-          },
-        );
+  if (!track) return null;
 
-      return applyHistoricalWeightToResults(
-        results,
-        performanceByTrackId,
-      ).slice(
-        0,
-        120,
-      );
-    }, [
-      activeTab,
-      minimumScore,
-      performanceByTrackId,
-      track,
-      tracks,
-    ]);
+  const sourcePlaylistId = currentPlaylistId ?? null;
 
-  const crossStyleSections =
-    useMemo(
-      () =>
-        buildCrossStyleSections(
-          crossStyleResults,
-        ),
-      [crossStyleResults],
-    );
+  const resolvedTargetPlaylistId =
+    searchMode === "current"
+      ? sourcePlaylistId
+      : searchMode === "other"
+        ? targetPlaylistId || null
+        : null;
 
-  if (!track) {
-    return null;
+  async function rate(
+    targetTrackId: string,
+    rating: MatchHumanRating,
+    technicalScore: number,
+    bpmScore: number,
+    keyScore: number,
+    energyScore: number,
+  ) {
+    if (!track) {
+      return;
+    }
+
+    const sourceTrackId = track.id;
+    const key = `${sourceTrackId}::${targetTrackId}`;
+    setSavingKey(key);
+
+    try {
+      const next = await saveMatchRating({
+        sourceTrackId,
+        targetTrackId,
+        sourcePlaylistId,
+        targetPlaylistId: resolvedTargetPlaylistId,
+        rating,
+        technicalScore,
+        bpmScore,
+        keyScore,
+        energyScore,
+      });
+
+      setFeedback(next);
+    } finally {
+      setSavingKey(null);
+    }
   }
 
-  const sourceArtwork =
-    getArtworkUrl(track);
-
-  const visibleMatchCount =
-    activeTab === "same-style"
-      ? sameStyleResults.length
-      : crossStyleSections.reduce(
-          (
-            total,
-            section,
-          ) =>
-            total +
-            section.results.length,
-          0,
-        );
-
   return (
-    <aside
-      className="match-songs-panel"
-      aria-label="Match songs panel"
+    <div
+      className="match-v2-backdrop"
+      onMouseDown={onClose}
     >
-      <header className="match-songs-panel__header">
-        <div>
-          <p className="match-songs-panel__eyebrow">
-            <Sparkles size={14} />
-            Match Songs
-          </p>
-
-          <h2>
-            Recommendations
-          </h2>
-
-          <small className="match-songs-panel__profile-context">
-            Crowd context:{" "}
-            {activeEventProfile?.name ??
-              "Global / No Venue"}
-          </small>
-        </div>
-
-        <button
-          className="match-songs-panel__close"
-          type="button"
-          aria-label="Close match songs"
-          onClick={onClose}
-        >
-          <X size={18} />
-        </button>
-      </header>
-
-      <section className="match-songs-panel__source">
-        <div className="match-songs-panel__source-artwork">
-          {sourceArtwork ? (
-            <img
-              src={sourceArtwork}
-              alt=""
-              draggable={false}
-            />
-          ) : (
-            <Music2 size={24} />
-          )}
-        </div>
-
-        <div className="match-songs-panel__source-copy">
-          <span>
-            Matching from
-          </span>
-
-          <strong title={track.title}>
-            {track.title}
-          </strong>
-
-          <p title={track.artist}>
-            {track.artist}
-          </p>
-        </div>
-      </section>
-
-      <div
-        className="match-songs-panel__tabs"
-        role="tablist"
-        aria-label="Match mode"
+      <section
+        className="match-v2-panel"
+        ref={panelRef}
+        onMouseDown={(event) => event.stopPropagation()}
       >
-        <button
-          className={
-            activeTab ===
-            "same-style"
-              ? "match-songs-panel__tab match-songs-panel__tab--active"
-              : "match-songs-panel__tab"
-          }
-          type="button"
-          role="tab"
-          aria-selected={
-            activeTab ===
-            "same-style"
-          }
-          onClick={() =>
-            setActiveTab(
-              "same-style",
-            )
-          }
-        >
-          <RefreshCw size={15} />
-          Same Style
-        </button>
-
-        <button
-          className={
-            activeTab ===
-            "cross-style"
-              ? "match-songs-panel__tab match-songs-panel__tab--active"
-              : "match-songs-panel__tab"
-          }
-          type="button"
-          role="tab"
-          aria-selected={
-            activeTab ===
-            "cross-style"
-          }
-          onClick={() =>
-            setActiveTab(
-              "cross-style",
-            )
-          }
-        >
-          <ArrowLeftRight size={15} />
-          Cross Style
-        </button>
-      </div>
-
-      <div className="match-songs-panel__controls">
-        <label>
-          <span>
-            Minimum score
-          </span>
-
-          <strong>
-            {minimumScore}%
-          </strong>
-        </label>
-
-        <input
-          type="range"
-          min="20"
-          max="80"
-          step="5"
-          value={minimumScore}
-          onChange={(event) =>
-            setMinimumScore(
-              Number(
-                event.target.value,
-              ),
-            )
-          }
-        />
-      </div>
-
-      <div className="match-songs-panel__result-summary">
-        <span>
-          {getMatchModeLabel(
-            activeTab,
-          )}
-        </span>
-
-        <strong>
-          {visibleMatchCount}{" "}
-          {visibleMatchCount === 1
-            ? "match"
-            : "matches"}
-        </strong>
-      </div>
-
-      <div className="match-songs-panel__results">
-        {activeTab ===
-        "same-style" ? (
-          sameStyleResults.length ===
-          0 ? (
-            <div className="match-songs-panel__empty">
-              <Music2 size={28} />
-              <strong>
-                No matches found
-              </strong>
-              <p>
-                Lower the minimum
-                score or try Cross
-                Style.
-              </p>
-            </div>
-          ) : (
-            sameStyleResults.map(
-              (
-                result,
-                index,
-              ) => (
-                <MatchCard
-                  key={
-                    result.track.id
-                  }
-                  result={result}
-                  rank={index + 1}
-                  currentSetTrackIds={
-                    currentSetTrackIds
-                  }
-                  onAddToSet={
-                    onAddToSet
-                  }
-                  onOpenTrackDetails={
-                    onOpenTrackDetails
-                  }
-                />
-              ),
-            )
-          )
-        ) : crossStyleSections.length ===
-          0 ? (
-          <div className="match-songs-panel__empty">
-            <Music2 size={28} />
-            <strong>
-              No cross-style routes
-            </strong>
+        <header className="match-v2-header">
+          <div>
+            <div className="match-v2-eyebrow">MATCH V2</div>
+            <h2>{track.title}</h2>
             <p>
-              Lower the minimum
-              score to discover
-              more transition
-              styles.
+              {track.artist}
+              {" · "}
+              {displayNumber(track.tempo)} BPM
+              {" · "}
+              {track.musicalKey ?? "—"}
+              {" · E"}
+              {displayNumber(track.energy)}
             </p>
           </div>
-        ) : (
-          crossStyleSections.map(
-            (section) => (
-              <section
-                className="cross-style-section"
-                key={
-                  section.style
+
+          <button
+            type="button"
+            className="match-v2-close"
+            onClick={onClose}
+            aria-label="Close Match"
+          >
+            ×
+          </button>
+        </header>
+
+        <div className="match-v2-controls">
+          <label>
+            Search in
+            <select
+              value={searchMode}
+              onChange={(event) =>
+                setSearchMode(event.target.value as SearchMode)
+              }
+            >
+              <option value="current">Current playlist</option>
+              <option value="other">Other playlist</option>
+              <option value="all">All DJ Library</option>
+            </select>
+          </label>
+
+          {searchMode === "other" && (
+            <label>
+              Target playlist
+              <select
+                value={targetPlaylistId}
+                onChange={(event) =>
+                  setTargetPlaylistId(event.target.value)
                 }
               >
-                <header className="cross-style-section__header">
-                  <div>
-                    <span>
-                      Switch to
-                    </span>
-                    <strong>
-                      {formatStyleLabel(
-                        section.style,
+                {otherPlaylists.map((playlist) => (
+                  <option key={playlist.id} value={playlist.id}>
+                    {playlist.name}
+                  </option>
+                ))}
+              </select>
+            </label>
+          )}
+
+          <label>
+            Energy
+            <select
+              value={energyDirection}
+              onChange={(event) =>
+                setEnergyDirection(
+                  event.target.value as MatchEnergyDirection,
+                )
+              }
+            >
+              <option value="maintain">Maintain</option>
+              <option value="build">Build</option>
+              <option value="drop">Drop / Reset</option>
+              <option value="any">Any</option>
+            </select>
+          </label>
+
+          <label>
+            Harmonic
+            <select
+              value={harmonicPriority}
+              onChange={(event) =>
+                setHarmonicPriority(
+                  event.target.value as MatchHarmonicPriority,
+                )
+              }
+            >
+              <option value="high">High</option>
+              <option value="medium">Medium</option>
+              <option value="low">Low</option>
+            </select>
+          </label>
+
+          <label className="match-v2-check">
+            <input
+              type="checkbox"
+              checked={allowHalfDouble}
+              onChange={(event) =>
+                setAllowHalfDouble(event.target.checked)
+              }
+            />
+            Half / Double BPM
+          </label>
+        </div>
+
+        <div className="match-v2-context">
+          <strong>Source:</strong>{" "}
+          {currentPlaylist?.name ?? "Current playlist"}
+          {" → "}
+          <strong>Target:</strong>{" "}
+          {searchMode === "current"
+            ? currentPlaylist?.name ?? "Current playlist"
+            : searchMode === "other"
+              ? targetPlaylist?.name ?? "Select playlist"
+              : "All DJ Library"}
+          {" · "}
+          {unplayedCandidates.length} unplayed candidates ({candidateTracks.length - unplayedCandidates.length} excluded)
+        </div>
+
+        <div style={{display:"flex",justifyContent:"space-between",alignItems:"center",gap:12,margin:"8px 0"}}>
+          <span>{matches.length} recommendations · Played excluded</span>
+          {matches.length >= resultLimit && unplayedCandidates.length > resultLimit && (
+            <button type="button" onClick={() => setResultLimit((limit) => limit + 10)}>
+              Show 10 more
+            </button>
+          )}
+        </div>
+        <div className="match-v2-results" ref={resultsRef}>
+          {matches.length === 0 ? (
+            <div className="match-v2-empty">
+              No candidates available for this target.
+            </div>
+          ) : (
+            matches.map((match, index) => {
+              const inSet = currentSetTrackIds.includes(match.track.id);
+              const saveKey = `${track.id}::${match.track.id}`;
+
+              return (
+                <article
+                  key={match.track.id}
+                  className={`match-v2-card ${index === activeMatchIndex ? "match-v2-card--active" : ""} ${selectedTrackIds.includes(match.track.id) ? "match-v2-card--selected" : ""} ${playedTrackIds.includes(match.track.id) ? "match-v2-card--played" : ""}`}
+                  data-match-index={index}
+                  onClick={() => setActiveMatchIndex(index)}
+                  aria-selected={index === activeMatchIndex}
+                >
+                  <div className="match-v2-rank">{index + 1}</div>
+
+                  <div className="match-v2-main">
+                    <div className="match-v2-title-row">
+                      <div>
+                        <strong>{match.track.title}</strong>
+                        {playedTrackIds.includes(match.track.id) && <span className="match-v2-played-label">✓ Played</span>}
+                        {selectedTrackIds.includes(match.track.id) && <span className="match-v2-selected-label">✓ Selected</span>}
+                        <span>{match.track.artist}</span>
+                      </div>
+
+                      <div className="match-v2-score">
+                        {match.finalScore}%
+                      </div>
+                    </div>
+
+                    <div className="match-v2-meta">
+                      <span>{displayNumber(match.track.tempo)} BPM</span>
+                      <span>KEY {match.track.musicalKey || "—"}</span>
+                      <span>ENERGY {match.track.energy == null ? "—" : displayNumber(match.track.energy)}</span>
+                      <span className={`match-v2-popularity match-v2-popularity--${popularityTier(match.track.spotifyPopularity)}`} title="Spotify popularity (0–100)">POP {match.track.spotifyPopularity ?? "—"}</span>
+
+                      {match.bpmMode === "half-double" && (
+                        <span className="match-v2-double">
+                          HALF/DOUBLE
+                        </span>
                       )}
-                    </strong>
+                    </div>
+
+                    {match.humanBoost !== 0 && (
+                      <div className="match-v2-human">DJ feedback: {match.humanBoost > 0 ? "+" : ""}{match.humanBoost}</div>
+                    )}
+
+                    <div className="match-v2-actions">
+                      <button type="button" onClick={() => onChooseTrack(match.track.id)}>Select · Enter</button>
+                      <button
+                        type="button"
+                        onClick={() =>
+                          onOpenTrackDetails(match.track.id)
+                        }
+                      >
+                        Details
+                      </button>
+
+                      <button
+                        type="button"
+                        disabled={inSet}
+                        onClick={() =>
+                          onAddToSet(match.track.id)
+                        }
+                      >
+                        {inSet ? "In Set" : "Add to Set"}
+                      </button>
+
+                      <div className="match-v2-rating">
+                        <span>Rate transition:</span>
+
+                        {([0, 1, 2, 3] as const).map((rating) => (
+                          <button
+                            key={rating}
+                            type="button"
+                            className={
+                              match.humanRating === rating
+                                ? "is-active"
+                                : ""
+                            }
+                            disabled={savingKey === saveKey}
+                            title={
+                              rating === 0
+                                ? "Not a match"
+                                : rating === 1
+                                  ? "Technical only"
+                                  : rating === 2
+                                    ? "Good transition"
+                                    : "Strong real DJ transition"
+                            }
+                            onClick={() =>
+                              void rate(
+                                match.track.id,
+                                rating,
+                                match.technicalScore,
+                                match.bpmScore,
+                                match.keyScore,
+                                match.energyScore,
+                              )
+                            }
+                          >
+                            {rating === 0 ? "✕" : rating}
+                          </button>
+                        ))}
+                      </div>
+                    </div>
                   </div>
-
-                  <span>
-                    {
-                      section.results
-                        .length
-                    } suggestions
-                  </span>
-                </header>
-
-                {section.results.map(
-                  (
-                    result,
-                    index,
-                  ) => (
-                    <MatchCard
-                      key={
-                        result.track.id
-                      }
-                      result={result}
-                      rank={index + 1}
-                      currentSetTrackIds={
-                        currentSetTrackIds
-                      }
-                      onAddToSet={
-                        onAddToSet
-                      }
-                      onOpenTrackDetails={
-                        onOpenTrackDetails
-                      }
-                    />
-                  ),
-                )}
-              </section>
-            ),
-          )
-        )}
-      </div>
-    </aside>
+                </article>
+              );
+            })
+          )}
+        </div>
+      </section>
+    </div>
   );
 }

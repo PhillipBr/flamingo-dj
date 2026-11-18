@@ -7,7 +7,6 @@ import {
   RotateCcw,
   Star,
 } from "lucide-react";
-
 import {
   useEffect,
   useMemo,
@@ -18,7 +17,6 @@ import {
   type MouseEvent,
   type PointerEvent as ReactPointerEvent,
 } from "react";
-
 import type { Track } from "../../types/track";
 import type { TrackColumnId } from "../../types/trackColumn";
 import { getCamelotKey } from "../../utils/camelot";
@@ -35,7 +33,6 @@ import "./TracksTable.css";
 import "./styles/mobilePortraitFinal.css";
 import "./styles/mobileLandscapeFinal.css";
 import "./styles/mobileActionsFinal.css";
-
 export type TrackSortField =
   | "title"
   | "artist"
@@ -53,48 +50,43 @@ export type TrackSortField =
   | "rating"
   | "folder"
   | "dateAdded";
-
 export type TrackSortDirection = "asc" | "desc";
-
 type TracksTableProps = {
   tracks: Track[];
+  requestedActiveTrackId?: string | null;
+  onChooseSearchResult?: (trackId: string) => void;
+  playedTrackIds?: string[];
+  onTogglePlayed?: (track: Track) => void;
+  onActiveTrackChange?: (trackId: string | null) => void;
+  onQuickMatch?: (trackId: string) => void;
   visibleColumns: TrackColumnId[];
   selectedTrackIds: string[];
   sortField: TrackSortField | null;
   sortDirection: TrackSortDirection | null;
-
   onTrackDoubleClick: (
     event: MouseEvent<HTMLTableRowElement>,
     trackId: string,
   ) => void;
-
   onToggleTrackSelection: (
     trackId: string,
     checked: boolean,
   ) => void;
-
   onToggleAllVisible: (
     checked: boolean,
   ) => void;
-
   onOpenTrackDetails: (
     trackId: string,
   ) => void;
-
   onSort: (
     field: TrackSortField,
   ) => void;
-
   showPlayOrderReset?: boolean;
-
   onResetPlayOrder?: () => void;
-
   onOpenContextMenu: (
     event: MouseEvent<HTMLTableRowElement>,
     track: Track,
   ) => void;
 };
-
 type SortableHeaderProps = {
   label: string;
   field: TrackSortField;
@@ -104,7 +96,6 @@ type SortableHeaderProps = {
     field: TrackSortField,
   ) => void;
 };
-
 type SelectAllCheckboxProps = {
   checked: boolean;
   indeterminate: boolean;
@@ -112,7 +103,6 @@ type SelectAllCheckboxProps = {
     checked: boolean,
   ) => void;
 };
-
 type ColumnDefinition = {
   id: TrackColumnId;
   label: string;
@@ -120,17 +110,13 @@ type ColumnDefinition = {
   minWidth: number;
   sortField?: TrackSortField;
 };
-
 type ColumnWidths = Partial<
   Record<TrackColumnId, number>
 >;
-
 const COLUMN_ORDER_STORAGE_KEY =
   "flamingo-dj-track-column-order-v8";
-
 const COLUMN_WIDTH_STORAGE_KEY =
   "flamingo-dj-track-column-widths-v8";
-
 const COLUMN_DEFINITIONS: ColumnDefinition[] = [
   {
     id: "artwork",
@@ -251,11 +237,9 @@ const COLUMN_DEFINITIONS: ColumnDefinition[] = [
     sortField: "dateAdded",
   },
 ];
-
 const DEFAULT_COLUMN_ORDER = COLUMN_DEFINITIONS.map(
   (column) => column.id,
 );
-
 function isKnownColumnId(
   value: unknown,
 ): value is TrackColumnId {
@@ -266,23 +250,18 @@ function isKnownColumnId(
     )
   );
 }
-
 function loadColumnOrder(): TrackColumnId[] {
   try {
     const stored = localStorage.getItem(
       COLUMN_ORDER_STORAGE_KEY,
     );
-
     if (!stored) {
       return [...DEFAULT_COLUMN_ORDER];
     }
-
     const parsed: unknown = JSON.parse(stored);
-
     if (!Array.isArray(parsed)) {
       return [...DEFAULT_COLUMN_ORDER];
     }
-
     return Array.from(
       new Set([
         ...parsed.filter(isKnownColumnId),
@@ -293,19 +272,15 @@ function loadColumnOrder(): TrackColumnId[] {
     return [...DEFAULT_COLUMN_ORDER];
   }
 }
-
 function loadColumnWidths(): ColumnWidths {
   try {
     const stored = localStorage.getItem(
       COLUMN_WIDTH_STORAGE_KEY,
     );
-
     if (!stored) {
       return {};
     }
-
     const parsed: unknown = JSON.parse(stored);
-
     if (
       !parsed ||
       typeof parsed !== "object" ||
@@ -313,14 +288,11 @@ function loadColumnWidths(): ColumnWidths {
     ) {
       return {};
     }
-
     const widths: ColumnWidths = {};
-
     for (const column of COLUMN_DEFINITIONS) {
       const value = (
         parsed as Record<string, unknown>
       )[column.id];
-
       if (
         typeof value === "number" &&
         Number.isFinite(value)
@@ -331,13 +303,11 @@ function loadColumnWidths(): ColumnWidths {
         );
       }
     }
-
     return widths;
   } catch {
     return {};
   }
 }
-
 function SortableHeader({
   label,
   field,
@@ -346,7 +316,6 @@ function SortableHeader({
   onSort,
 }: SortableHeaderProps) {
   const active = field === activeField;
-
   return (
     <button
       className={`tracks-table__sort ${
@@ -359,7 +328,6 @@ function SortableHeader({
       }}
     >
       <span>{label}</span>
-
       {!active && <ArrowUpDown size={13} />}
       {active && direction === "asc" && (
         <ArrowUp size={13} />
@@ -370,7 +338,6 @@ function SortableHeader({
     </button>
   );
 }
-
 function SelectAllCheckbox({
   checked,
   indeterminate,
@@ -378,14 +345,12 @@ function SelectAllCheckbox({
 }: SelectAllCheckboxProps) {
   const checkboxRef =
     useRef<HTMLInputElement | null>(null);
-
   useEffect(() => {
     if (checkboxRef.current) {
       checkboxRef.current.indeterminate =
         indeterminate;
     }
   }, [indeterminate]);
-
   return (
     <input
       ref={checkboxRef}
@@ -399,46 +364,37 @@ function SelectAllCheckbox({
     />
   );
 }
-
 function getPopularityClass(
   popularity: number | null,
 ): string {
   if (popularity === null) {
     return "popularity-badge--neutral";
   }
-
   if (popularity >= 90) {
     return "popularity-badge--very-high";
   }
-
   if (popularity >= 79) {
     return "popularity-badge--high";
   }
-
   if (popularity >= 60) {
     return "popularity-badge--medium";
   }
-
   return "popularity-badge--neutral";
 }
-
 function getTrackInitial(track: Track): string {
   const initial = track.title.trim().charAt(0);
   return initial ? initial.toUpperCase() : "♪";
 }
-
 function renderRating(rating: number | null) {
   if (rating === null) {
     return (
       <span className="tracks-table__empty">—</span>
     );
   }
-
   const normalized = Math.min(
     Math.max(Math.round(rating), 0),
     5,
   );
-
   return (
     <div
       className="track-rating"
@@ -449,23 +405,19 @@ function renderRating(rating: number | null) {
     </div>
   );
 }
-
 function getColumnDefinition(
   columnId: TrackColumnId,
 ): ColumnDefinition {
   const definition = COLUMN_DEFINITIONS.find(
     (column) => column.id === columnId,
   );
-
   if (!definition) {
     throw new Error(
       `Unknown track column: ${columnId}`,
     );
   }
-
   return definition;
 }
-
 function renderArtwork(track: Track) {
   const artworkContent = track.artworkUrl ? (
     <img
@@ -480,7 +432,6 @@ function renderArtwork(track: Track) {
       {getTrackInitial(track)}
     </span>
   );
-
   if (!track.spotifyUrl) {
     return (
       <div className="tracks-table__artwork-wrapper">
@@ -488,7 +439,6 @@ function renderArtwork(track: Track) {
       </div>
     );
   }
-
   return (
     <div className="tracks-table__artwork-wrapper">
       <a
@@ -520,7 +470,6 @@ function renderArtwork(track: Track) {
     </div>
   );
 }
-
 function renderCell(
   track: Track,
   columnId: TrackColumnId,
@@ -530,18 +479,15 @@ function renderCell(
     Math.max(track.energy ?? 0, 0),
     10,
   );
-
   switch (columnId) {
     case "artwork":
       return renderArtwork(track);
-
     case "title":
       return (
         <div className="track-title-cell__text">
           <strong title={track.title}>
             {track.title}
           </strong>
-
           <span
             className="track-title-cell__mobile-artist"
             title={track.artist}
@@ -550,43 +496,36 @@ function renderCell(
           </span>
         </div>
       );
-
     case "artist":
       return (
         <span title={track.artist}>
           {track.artist}
         </span>
       );
-
     case "album":
       return (
         <span title={track.album ?? undefined}>
           {track.album ?? "—"}
         </span>
       );
-
     case "tempo":
       return formatTempo(track.tempo);
-
     case "musicalKey":
       return (
         <span className="key-badge">
           {track.musicalKey ?? "—"}
         </span>
       );
-
     case "camelot":
       return (
         <span className="camelot-badge">
           {getCamelotKey(track.musicalKey)}
         </span>
       );
-
     case "energy":
       return (
         <div className="energy-cell">
           <span>{track.energy ?? "—"}</span>
-
           <div
             className="energy-bar"
             aria-label={`Energy ${track.energy ?? "unknown"}`}
@@ -600,7 +539,6 @@ function renderCell(
           </div>
         </div>
       );
-
     case "spotifyPopularity":
       return (
         <span
@@ -611,14 +549,12 @@ function renderCell(
           {track.spotifyPopularity ?? "—"}
         </span>
       );
-
     case "genre":
       return (
         <span title={track.genre ?? undefined}>
           {track.genre ?? "—"}
         </span>
       );
-
     case "country":
       return (
         <span
@@ -635,10 +571,8 @@ function renderCell(
           )}
         </span>
       );
-
     case "durationSeconds":
       return formatDuration(track.durationSeconds);
-
     case "releaseDate": {
       if (compactMobile && track.releaseDate) {
         const match = String(track.releaseDate).match(/\b(19|20)\d{2}\b/);
@@ -646,30 +580,30 @@ function renderCell(
       }
       return formatDate(track.releaseDate);
     }
-
     case "overallVolume":
       return formatOverallVolume(track.overallVolume);
-
     case "rating":
       return renderRating(track.rating);
-
     case "folder":
       return (
         <span title={track.folder ?? undefined}>
           {track.folder ?? "—"}
         </span>
       );
-
     case "dateAdded":
       return formatDate(track.dateAdded);
-
     default:
       return "—";
   }
 }
-
 export default function TracksTable({
   tracks,
+  requestedActiveTrackId,
+  onChooseSearchResult,
+  playedTrackIds = [],
+  onTogglePlayed,
+  onActiveTrackChange,
+  onQuickMatch,
   visibleColumns,
   selectedTrackIds,
   sortField,
@@ -682,6 +616,19 @@ export default function TracksTable({
 }: TracksTableProps) {
   const { isMobile, orientation } =
     useMobileOrientation();
+  const [activeTrackId, setActiveTrackId] = useState<string | null>(null);
+  const tableWrapperRef = useRef<HTMLDivElement | null>(null);
+  useEffect(() => {
+    if (!requestedActiveTrackId) return;
+    setActiveTrackId(requestedActiveTrackId);
+    window.requestAnimationFrame(() => tableWrapperRef.current?.focus({ preventScroll: true }));
+  }, [requestedActiveTrackId]);
+  const playedTrackIdSet = useMemo(() => new Set(playedTrackIds), [playedTrackIds]);
+  useEffect(() => { onActiveTrackChange?.(activeTrackId); }, [activeTrackId, onActiveTrackChange]);
+  const [keyboardMode, setKeyboardMode] = useState<"rows" | "headers">("rows");
+  const [activeHeaderId, setActiveHeaderId] = useState<TrackColumnId | null>(null);
+  const [resetSortRequested, setResetSortRequested] = useState(false);
+  const resetSortStepRef = useRef<string | null>(null);
 
   const [
     harmonicFilterKey,
@@ -697,7 +644,6 @@ export default function TracksTable({
       return null;
     }
   });
-
   useEffect(() => {
     function handleHarmonicFilter(
       event: Event,
@@ -706,19 +652,16 @@ export default function TracksTable({
         event as CustomEvent<{
           key?: string | null;
         }>;
-
       setHarmonicFilterKey(
         normalizeHarmonicKey(
           customEvent.detail?.key,
         ),
       );
     }
-
     window.addEventListener(
       "flamingo-dj-harmonic-filter",
       handleHarmonicFilter,
     );
-
     return () => {
       window.removeEventListener(
         "flamingo-dj-harmonic-filter",
@@ -726,13 +669,11 @@ export default function TracksTable({
       );
     };
   }, []);
-
   const harmonicVisibleTracks =
     useMemo(() => {
       if (!harmonicFilterKey) {
         return tracks;
       }
-
       return tracks.filter(
         (track) =>
           normalizeHarmonicKey(
@@ -744,8 +685,6 @@ export default function TracksTable({
       tracks,
       harmonicFilterKey,
     ]);
-
-
   useEffect(() => {
     /*
      * Harmonic reference for the desktop sidebar.
@@ -758,20 +697,17 @@ export default function TracksTable({
     ) {
       return;
     }
-
     const selectedTrack =
       tracks.find(
         (track) =>
           track.id ===
           selectedTrackIds[0],
       );
-
     if (
       !selectedTrack?.musicalKey
     ) {
       return;
     }
-
     window.dispatchEvent(
       new CustomEvent(
         "flamingo-dj-harmonic-key",
@@ -779,10 +715,8 @@ export default function TracksTable({
           detail: {
             key:
               selectedTrack.musicalKey,
-
             title:
               selectedTrack.title,
-
             artist:
               selectedTrack.artist,
           },
@@ -793,17 +727,13 @@ export default function TracksTable({
     selectedTrackIds,
     tracks,
   ]);
-
-
   const mobileLongPressTimerRef =
     useRef<number | null>(null);
-
   const mobileLongPressStartRef =
     useRef<{
       x: number;
       y: number;
     } | null>(null);
-
   function cancelMobileLongPress() {
     if (mobileLongPressTimerRef.current !== null) {
       window.clearTimeout(
@@ -811,10 +741,8 @@ export default function TracksTable({
       );
       mobileLongPressTimerRef.current = null;
     }
-
     mobileLongPressStartRef.current = null;
   }
-
   function handleMobileLongPressStart(
     event: ReactPointerEvent<HTMLTableRowElement>,
     track: Track,
@@ -825,10 +753,8 @@ export default function TracksTable({
     ) {
       return;
     }
-
     const target =
       event.target as HTMLElement;
-
     // Preserve native controls and Artwork -> Spotify.
     if (
       target.closest(
@@ -837,23 +763,18 @@ export default function TracksTable({
     ) {
       return;
     }
-
     cancelMobileLongPress();
-
     const row = event.currentTarget;
     const clientX = event.clientX;
     const clientY = event.clientY;
-
     mobileLongPressStartRef.current = {
       x: clientX,
       y: clientY,
     };
-
     mobileLongPressTimerRef.current =
       window.setTimeout(() => {
         mobileLongPressTimerRef.current = null;
         mobileLongPressStartRef.current = null;
-
         const mobileContextEvent = {
           preventDefault: () => undefined,
           clientX,
@@ -861,36 +782,29 @@ export default function TracksTable({
           currentTarget: row,
           target: row,
         } as unknown as MouseEvent<HTMLTableRowElement>;
-
         onOpenContextMenu(
           mobileContextEvent,
           track,
         );
-
         navigator.vibrate?.(20);
       }, 500);
   }
-
   function handleMobileLongPressMove(
     event: ReactPointerEvent<HTMLTableRowElement>,
   ) {
     const start =
       mobileLongPressStartRef.current;
-
     if (!start) {
       return;
     }
-
     const deltaX =
       Math.abs(
         event.clientX - start.x,
       );
-
     const deltaY =
       Math.abs(
         event.clientY - start.y,
       );
-
     if (
       deltaX > 10 ||
       deltaY > 10
@@ -898,108 +812,87 @@ export default function TracksTable({
       cancelMobileLongPress();
     }
   }
-
   useEffect(() => {
     return () => {
       cancelMobileLongPress();
     };
   }, []);
-
-
   const [columnOrder, setColumnOrder] =
     useState<TrackColumnId[]>(loadColumnOrder);
-
   const [columnWidths, setColumnWidths] =
     useState<ColumnWidths>(loadColumnWidths);
-
   const [draggedColumnId, setDraggedColumnId] =
     useState<TrackColumnId | null>(null);
-
   const [dragOverColumnId, setDragOverColumnId] =
     useState<TrackColumnId | null>(null);
-
   const resizeStateRef = useRef<{
     columnId: TrackColumnId;
     startX: number;
     startWidth: number;
     minWidth: number;
   } | null>(null);
-
   useEffect(() => {
     localStorage.setItem(
       COLUMN_ORDER_STORAGE_KEY,
       JSON.stringify(columnOrder),
     );
   }, [columnOrder]);
-
   useEffect(() => {
     localStorage.setItem(
       COLUMN_WIDTH_STORAGE_KEY,
       JSON.stringify(columnWidths),
     );
   }, [columnWidths]);
-
   useEffect(() => {
     function handleMouseMove(
       event: globalThis.MouseEvent,
     ) {
       const state = resizeStateRef.current;
-
       if (!state) {
         return;
       }
-
       const nextWidth = Math.max(
         state.minWidth,
         state.startWidth +
           event.clientX -
           state.startX,
       );
-
       setColumnWidths((current) => ({
         ...current,
         [state.columnId]: Math.round(nextWidth),
       }));
     }
-
     function handleMouseUp() {
       if (!resizeStateRef.current) {
         return;
       }
-
       resizeStateRef.current = null;
       document.body.classList.remove(
         "tracks-table--resizing",
       );
     }
-
     window.addEventListener(
       "mousemove",
       handleMouseMove,
     );
-
     window.addEventListener(
       "mouseup",
       handleMouseUp,
     );
-
     return () => {
       window.removeEventListener(
         "mousemove",
         handleMouseMove,
       );
-
       window.removeEventListener(
         "mouseup",
         handleMouseUp,
       );
-
       document.body.classList.remove(
         "tracks-table--resizing",
       );
     };
   }, []);
-
   useEffect(() => {
     setColumnOrder((current) =>
       Array.from(
@@ -1010,21 +903,18 @@ export default function TracksTable({
       ),
     );
   }, [visibleColumns]);
-
   const orderedVisibleColumns = useMemo(() => {
     if (!isMobile) {
       return columnOrder.filter((columnId) =>
         visibleColumns.includes(columnId),
       );
     }
-
     const portraitColumns: TrackColumnId[] = [
       "title",
       "tempo",
       "spotifyPopularity",
       "musicalKey",
     ];
-
     const landscapeColumns: TrackColumnId[] = [
       "title",
       "tempo",
@@ -1034,13 +924,11 @@ export default function TracksTable({
       "durationSeconds",
       "releaseDate",
     ];
-
     // Portrait is intentionally strict: it must always fit the
     // essential DJ information without inheriting desktop columns.
     if (orientation === "portrait") {
       return portraitColumns;
     }
-
     // Landscape starts with the wider DJ preset. Extra columns selected
     // in Columns may continue to the right with horizontal scrolling.
     const additionalColumns = columnOrder.filter(
@@ -1049,7 +937,6 @@ export default function TracksTable({
         columnId !== "artist" &&
         !landscapeColumns.includes(columnId),
     );
-
     return [...landscapeColumns, ...additionalColumns];
   }, [
     columnOrder,
@@ -1057,6 +944,150 @@ export default function TracksTable({
     isMobile,
     orientation,
   ]);
+  // Keep hooks above the empty-table returns.
+  useEffect(() => {
+    setActiveTrackId((current) =>
+      harmonicVisibleTracks.some((track) => track.id === current)
+        ? current
+        : harmonicVisibleTracks[0]?.id ?? null,
+    );
+  }, [harmonicVisibleTracks]);
+
+  const keyboardColumns = useMemo(() =>
+    orderedVisibleColumns.filter((id) => Boolean(getColumnDefinition(id).sortField)),
+    [orderedVisibleColumns],
+  );
+
+  useEffect(() => {
+    setActiveHeaderId((current) => current && keyboardColumns.includes(current)
+      ? current : keyboardColumns[0] ?? null);
+  }, [keyboardColumns]);
+
+  // Reuse the parent's existing asc -> desc -> original cycle.
+  // Wait for each prop update rather than calling onSort twice in one event.
+  useEffect(() => {
+    if (!resetSortRequested) return;
+    if (!sortField || !sortDirection) {
+      resetSortStepRef.current = null;
+      setResetSortRequested(false);
+      return;
+    }
+    const step = `${sortField}:${sortDirection}`;
+    if (resetSortStepRef.current === step) return;
+    resetSortStepRef.current = step;
+    onSort(sortField);
+  }, [resetSortRequested, sortField, sortDirection, onSort]);
+
+  useEffect(() => {
+    const handleNavigation = (event: KeyboardEvent) => {
+      if (event.defaultPrevented || event.isComposing || event.altKey ||
+          event.ctrlKey || event.metaKey || event.shiftKey) return;
+      const target = event.target;
+      if (!(target instanceof HTMLElement)) return;
+      const wrapper = tableWrapperRef.current;
+      if (!wrapper || !wrapper.contains(target)) return;
+      if (target.closest("input, textarea, select, button, a, [contenteditable]:not([contenteditable='false']), [role='dialog'], [role='menu']")) return;
+      const key = event.key.toLowerCase();
+      if (key === "h") {
+        if (event.repeat) return;
+        event.preventDefault();
+        if (keyboardMode === "rows") {
+          setActiveHeaderId(keyboardColumns.find((id) =>
+            getColumnDefinition(id).sortField === sortField) ?? keyboardColumns[0] ?? null);
+          setKeyboardMode("headers");
+        } else setKeyboardMode("rows");
+        return;
+      }
+      if (key === "r") {
+        event.preventDefault();
+        if (!event.repeat && sortField && sortDirection) {
+          resetSortStepRef.current = null;
+          setResetSortRequested(true);
+        }
+        return;
+      }
+      if (keyboardMode === "headers") {
+        if (key === "escape") {
+          event.preventDefault();
+          setKeyboardMode("rows");
+        } else if (key === "arrowleft" || key === "arrowright") {
+          event.preventDefault();
+          if (!keyboardColumns.length) return;
+          setActiveHeaderId((current) => {
+            const index = keyboardColumns.indexOf(current as TrackColumnId);
+            const next = index < 0 ? 0 : Math.max(0, Math.min(keyboardColumns.length - 1,
+              index + (key === "arrowright" ? 1 : -1)));
+            return keyboardColumns[next];
+          });
+        } else if (key === "enter") {
+          event.preventDefault();
+          if (event.repeat || resetSortRequested || !activeHeaderId) return;
+          const field = getColumnDefinition(activeHeaderId).sortField;
+          if (field) onSort(field);
+        } else if (key === "arrowup" || key === "arrowdown") {
+          event.preventDefault();
+        }
+        return;
+      }
+      if (key === "enter") {
+        if (!event.repeat && activeTrackId) {
+          event.preventDefault();
+          if (onChooseSearchResult) onChooseSearchResult(activeTrackId);
+          else onToggleTrackSelection(activeTrackId, !selectedTrackIds.includes(activeTrackId));
+        }
+        return;
+      }
+      if (key === "p" && activeTrackId && onTogglePlayed) {
+        event.preventDefault();
+        if (!event.repeat) {
+          const active = harmonicVisibleTracks.find((track) => track.id === activeTrackId);
+          if (active) onTogglePlayed(active);
+        }
+        return;
+      }
+      if (key === "m" && activeTrackId && onQuickMatch) {
+        event.preventDefault();
+        if (!event.repeat) onQuickMatch(activeTrackId);
+        return;
+      }
+      if (key === "c" && activeTrackId) {
+        const active = harmonicVisibleTracks.find((track) => track.id === activeTrackId);
+        if (active) { event.preventDefault(); void navigator.clipboard?.writeText(active.title); }
+        return;
+      }
+      if (key === "s" && activeTrackId) {
+        const active = harmonicVisibleTracks.find((track) => track.id === activeTrackId);
+        if (active?.spotifyUrl) { event.preventDefault(); window.open(active.spotifyUrl, "_blank", "noopener,noreferrer"); }
+        return;
+      }
+      if (key !== "arrowup" && key !== "arrowdown") return;
+      if (!harmonicVisibleTracks.length) return;
+      event.preventDefault();
+      setActiveTrackId((current) => {
+        const index = harmonicVisibleTracks.findIndex((track) => track.id === current);
+        const next = index < 0 ? 0 : Math.max(0, Math.min(harmonicVisibleTracks.length - 1,
+          index + (key === "arrowdown" ? 1 : -1)));
+        return harmonicVisibleTracks[next].id;
+      });
+    };
+    window.addEventListener("keydown", handleNavigation);
+    return () => window.removeEventListener("keydown", handleNavigation);
+  }, [harmonicVisibleTracks, keyboardMode, keyboardColumns, activeHeaderId,
+      sortField, sortDirection, onSort, resetSortRequested, selectedTrackIds, onToggleTrackSelection, onTogglePlayed, onQuickMatch, onChooseSearchResult]);
+
+  useEffect(() => {
+    const wrapper = tableWrapperRef.current;
+    if (!wrapper) return;
+    if (keyboardMode === "headers") {
+      const header = Array.from(wrapper.querySelectorAll<HTMLTableCellElement>("thead th[data-column]"))
+        .find((element) => element.dataset.column === activeHeaderId);
+      header?.scrollIntoView({ block: "nearest", inline: "nearest" });
+    } else {
+      const row = Array.from(wrapper.querySelectorAll<HTMLTableRowElement>("tbody tr[data-track-id]"))
+        .find((element) => element.dataset.trackId === activeTrackId);
+      row?.scrollIntoView({ block: "nearest", inline: "nearest" });
+    }
+  }, [keyboardMode, activeHeaderId, activeTrackId, harmonicVisibleTracks]);
 
   if (tracks.length === 0) {
     return (
@@ -1069,7 +1100,6 @@ export default function TracksTable({
       </div>
     );
   }
-
   if (
     harmonicFilterKey &&
     harmonicVisibleTracks.length === 0
@@ -1086,11 +1116,9 @@ export default function TracksTable({
       </div>
     );
   }
-
   const selectedTrackIdSet = new Set(
     selectedTrackIds,
   );
-
   const selectedVisibleCount =
     harmonicVisibleTracks.reduce(
       (count, track) =>
@@ -1099,17 +1127,14 @@ export default function TracksTable({
           : count,
       0,
     );
-
   const areAllVisibleSelected =
     harmonicVisibleTracks.length > 0 &&
     selectedVisibleCount ===
       harmonicVisibleTracks.length;
-
   const areSomeVisibleSelected =
     selectedVisibleCount > 0 &&
     selectedVisibleCount <
       harmonicVisibleTracks.length;
-
   function handleToggleAllRendered(
     checked: boolean,
   ) {
@@ -1119,7 +1144,6 @@ export default function TracksTable({
       );
       return;
     }
-
     /*
      * When Harmonic filter is active, "select all" must affect only
      * the rows actually rendered by that harmonic filter.
@@ -1131,19 +1155,16 @@ export default function TracksTable({
       );
     }
   }
-
   function getColumnWidth(
     columnId: TrackColumnId,
   ): number {
     const definition =
       getColumnDefinition(columnId);
-
     return (
       columnWidths[columnId] ??
       definition.defaultWidth
     );
   }
-
   /*
    * Desktop continues using the user's persisted widths.
    * Mobile portrait is automatic and intentionally ignores
@@ -1166,7 +1187,6 @@ export default function TracksTable({
           return { width: 88, minWidth: 64, maxWidth: 96 };
       }
     }
-
     if (isMobile && orientation === "landscape") {
       switch (columnId) {
         case "title":
@@ -1187,11 +1207,9 @@ export default function TracksTable({
           return { width: 96, minWidth: 68, maxWidth: 110 };
       }
     }
-
     const width = getColumnWidth(columnId);
     return { width, minWidth: width, maxWidth: width };
   }
-
   function handleColumnDragStart(
     event: DragEvent<HTMLTableCellElement>,
     columnId: TrackColumnId,
@@ -1200,7 +1218,6 @@ export default function TracksTable({
       event.preventDefault();
       return;
     }
-
     setDraggedColumnId(columnId);
     event.dataTransfer.effectAllowed = "move";
     event.dataTransfer.setData(
@@ -1208,7 +1225,6 @@ export default function TracksTable({
       columnId,
     );
   }
-
   function handleColumnDragOver(
     event: DragEvent<HTMLTableCellElement>,
     columnId: TrackColumnId,
@@ -1216,17 +1232,13 @@ export default function TracksTable({
     if (isMobile) {
       return;
     }
-
     event.preventDefault();
-
     if (draggedColumnId === columnId) {
       return;
     }
-
     event.dataTransfer.dropEffect = "move";
     setDragOverColumnId(columnId);
   }
-
   function handleColumnDrop(
     event: DragEvent<HTMLTableCellElement>,
     targetColumnId: TrackColumnId,
@@ -1234,13 +1246,10 @@ export default function TracksTable({
     if (isMobile) {
       return;
     }
-
     event.preventDefault();
-
     const sourceColumnId =
       draggedColumnId ??
       event.dataTransfer.getData("text/plain");
-
     if (
       !isKnownColumnId(sourceColumnId) ||
       sourceColumnId === targetColumnId
@@ -1249,41 +1258,33 @@ export default function TracksTable({
       setDragOverColumnId(null);
       return;
     }
-
     setColumnOrder((current) => {
       const sourceIndex =
         current.indexOf(sourceColumnId);
       const targetIndex =
         current.indexOf(targetColumnId);
-
       if (
         sourceIndex === -1 ||
         targetIndex === -1
       ) {
         return current;
       }
-
       const next = [...current];
       next.splice(sourceIndex, 1);
-
       const adjustedTarget =
         sourceIndex < targetIndex
           ? targetIndex - 1
           : targetIndex;
-
       next.splice(
         adjustedTarget,
         0,
         sourceColumnId,
       );
-
       return next;
     });
-
     setDraggedColumnId(null);
     setDragOverColumnId(null);
   }
-
   function handleResizeStart(
     event: MouseEvent<HTMLSpanElement>,
     columnId: TrackColumnId,
@@ -1291,37 +1292,35 @@ export default function TracksTable({
     if (isMobile) {
       return;
     }
-
     event.preventDefault();
     event.stopPropagation();
-
     const definition =
       getColumnDefinition(columnId);
-
     resizeStateRef.current = {
       columnId,
       startX: event.clientX,
       startWidth: getColumnWidth(columnId),
       minWidth: definition.minWidth,
     };
-
     document.body.classList.add(
       "tracks-table--resizing",
     );
   }
-
   function handleResetColumnLayout() {
     setColumnOrder([...DEFAULT_COLUMN_ORDER]);
     setColumnWidths({});
   }
-
   return (
     <div className="tracks-table-section">
       <div className="tracks-table-layout-toolbar">
         <span>
           Drag headers to reorder. Drag their right edge to resize.
+          <span className="tracks-table__keyboard-hint" aria-live="polite">
+            {keyboardMode === "headers"
+              ? "Header: ← → column · Enter sort · R original · Esc rows"
+              : "Rows: ↑ ↓ navigate · H headers · R original"}
+          </span>
         </span>
-
         <button
           type="button"
           onClick={handleResetColumnLayout}
@@ -1330,8 +1329,18 @@ export default function TracksTable({
           Reset layout
         </button>
       </div>
-
-      <div className="tracks-table-wrapper">
+      <div
+        ref={tableWrapperRef}
+        className="tracks-table-wrapper"
+        tabIndex={0}
+        aria-label="Tracks. Up and down navigate rows. H switches to headers. R restores original order."
+        onMouseDownCapture={(event) => {
+          if (event.target instanceof HTMLElement &&
+              !event.target.closest("input, textarea, select, button, a, [contenteditable]:not([contenteditable='false'])")) {
+            tableWrapperRef.current?.focus({ preventScroll: true });
+          }
+        }}
+      >
         <table className="tracks-table">
           <thead>
             <tr>
@@ -1342,22 +1351,17 @@ export default function TracksTable({
                   onChange={handleToggleAllRendered}
                 />
               </th>
-
               <th className="tracks-table__index tracks-table__fixed-column">
                 #
               </th>
-
               {orderedVisibleColumns.map(
                 (columnId) => {
                   const definition =
                     getColumnDefinition(columnId);
-
                   const isDragging =
                     draggedColumnId === columnId;
-
                   const isTarget =
                     dragOverColumnId === columnId;
-
                   return (
                     <th
                       key={columnId}
@@ -1365,6 +1369,9 @@ export default function TracksTable({
                       draggable={!isMobile}
                       className={[
                         "tracks-table__draggable-header",
+                        keyboardMode === "headers" && activeHeaderId === columnId
+                          ? "tracks-table__header--keyboard-active"
+                          : "",
                         isDragging
                           ? "tracks-table__draggable-header--dragging"
                           : "",
@@ -1403,7 +1410,6 @@ export default function TracksTable({
                           className="tracks-table__drag-handle"
                           size={14}
                         />
-
                         {definition.sortField ? (
                           <SortableHeader
                             label={definition.label}
@@ -1418,7 +1424,6 @@ export default function TracksTable({
                           </span>
                         )}
                       </div>
-
                       {!isMobile && (
                         <span
                           className="tracks-table__resize-handle"
@@ -1434,7 +1439,6 @@ export default function TracksTable({
                           onDoubleClick={(event) => {
                             event.preventDefault();
                             event.stopPropagation();
-
                             setColumnWidths((current) => {
                               const next = { ...current };
                               delete next[columnId];
@@ -1449,21 +1453,27 @@ export default function TracksTable({
               )}
             </tr>
           </thead>
-
           <tbody>
             {harmonicVisibleTracks.map((track, index) => {
               const isSelected =
                 selectedTrackIdSet.has(track.id);
-
               return (
                 <tr
                   key={track.id}
                   data-track-id={track.id}
-                  className={
-                    isSelected
-                      ? "tracks-table__row--selected"
-                      : ""
-                  }
+                  className={[
+                    isSelected ? "tracks-table__row--selected" : "",
+                    activeTrackId === track.id ? "tracks-table__row--active" : "",
+                    playedTrackIdSet.has(track.id) ? "tracks-table__row--played" : "",
+                  ].filter(Boolean).join(" ")}
+                  onClick={(event) => {
+                    if (event.target instanceof HTMLElement &&
+                        !event.target.closest("input, textarea, select, button, a, [contenteditable]:not([contenteditable='false'])")) {
+                      setKeyboardMode("rows");
+                      setActiveTrackId(track.id);
+                      onChooseSearchResult?.(track.id);
+                    }
+                  }}
                   onDoubleClick={(event) =>
                     onTrackDoubleClick(
                       event,
@@ -1507,19 +1517,18 @@ export default function TracksTable({
                       onDoubleClick={(event) =>
                         event.stopPropagation()
                       }
-                      onChange={(event) =>
-                        onToggleTrackSelection(
-                          track.id,
-                          event.target.checked,
-                        )
-                      }
+                      onChange={(event) => {
+                        if (onChooseSearchResult && event.target.checked) {
+                          onChooseSearchResult(track.id);
+                        } else {
+                          onToggleTrackSelection(track.id, event.target.checked);
+                        }
+                      }}
                     />
                   </td>
-
                   <td className="tracks-table__index tracks-table__fixed-column">
-                    {index + 1}
+                    {playedTrackIdSet.has(track.id) ? "✓ " : ""}{index + 1}
                   </td>
-
                   {orderedVisibleColumns.map(
                     (columnId) => {
                       const numeric = [
@@ -1527,7 +1536,6 @@ export default function TracksTable({
                         "durationSeconds",
                         "overallVolume",
                       ].includes(columnId);
-
                       return (
                         <td
                           key={columnId}

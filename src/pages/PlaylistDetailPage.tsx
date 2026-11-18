@@ -6,6 +6,8 @@ import {
 } from "lucide-react";
 
 import {
+  lazy,
+  Suspense,
   useEffect,
   useMemo,
   useRef,
@@ -22,7 +24,7 @@ import CopyMoveTracksModal, {
   type TransferMode,
 } from "../components/playlists/CopyMoveTracksModal";
 
-import SpotifyPlaylistSyncPanel from "../components/spotify/SpotifyPlaylistSyncPanel";
+const SpotifyPlaylistSyncPanel = lazy(() => import("../components/spotify/SpotifyPlaylistSyncPanel"));
 
 import playlistSpotifyLinks from "../data/JSON/config/playlist-spotify-links.json";
 
@@ -37,7 +39,7 @@ import CurrentSetPanel from "../components/tracks/CurrentSetPanel";
 import SaveCurrentSetModal from "../components/tracks/SaveCurrentSetModal";
 import SetTrackPickerModal from "../components/tracks/SetTrackPickerModal";
 import SetAnalysisPanel from "../components/tracks/SetAnalysisPanel";
-import PlaylistRepairPanel from "../components/tracks/PlaylistRepairPanel";
+const PlaylistRepairPanel = lazy(() => import("../components/tracks/PlaylistRepairPanel"));
 import SetJourneyPanel from "../components/tracks/SetJourneyPanel";
 import MatchSongsPanel from "../components/tracks/MatchSongsPanel";
 import SetlistGeneratorModal from "../components/tracks/SetlistGeneratorModal";
@@ -45,6 +47,8 @@ import TrackContextMenu from "../components/tracks/TrackContextMenu";
 import TrackDetailsPanel from "../components/tracks/TrackDetailsPanel";
 import TrackFiltersPanel from "../components/tracks/TrackFiltersPanel";
 
+import { usePlayedTracks } from "../hooks/usePlayedTracks";
+import { exportPlayedSessionExcel } from "../utils/sessionExcel";
 import TracksTable, {
   type TrackSortDirection,
   type TrackSortField,
@@ -115,6 +119,9 @@ const COLUMN_STORAGE_KEY =
 
 const FILTER_STORAGE_KEY =
   "flamingo-dj-advanced-track-filters";
+
+// Visual-only default: all SongIDs remain in the playlist, Match and Search.
+const DEFAULT_MIN_POPULARITY = 30;
 
 function isTrackColumnId(
   value: unknown,
@@ -225,10 +232,80 @@ export default function PlaylistDetailPage() {
     loadTracks,
   );
 
+  const played = usePlayedTracks();
+  const [liveSessionOpen, setLiveSessionOpen] = useState(false);
+  const [spotifyPanelOpen, setSpotifyPanelOpen] = useState(false);
+  const [activeLiveTrackId, setActiveLiveTrackId] = useState<string | null>(null);
+  const [liveMessage, setLiveMessage] = useState("");
+
+  const togglePlayedForTrack = (track: Track) => {
+    const origin = playlists.find((candidate) => candidate.trackIds.includes(track.id));
+    played.togglePlayed(track, playlist?.name ?? origin?.name ?? "Unknown Playlist");
+  };
+  const handleSavePlayedExcel = async () => {
+    if (!played.entries.length) { setLiveMessage("No played tracks to export."); return; }
+    try {
+      await exportPlayedSessionExcel(played.entries, played.startedAt);
+      setLiveMessage(`Exported ${played.entries.length} played tracks.`);
+    } catch (error) {
+      setLiveMessage(`Excel export failed: ${error instanceof Error ? error.message : String(error)}`);
+    }
+  };
+  const handleLogAgain = () => {
+    const track = playlistTracks.find((item) => item.id === activeLiveTrackId)
+      ?? playlistTracks.find((item) => selectedTrackIds.includes(item.id));
+    if (!played.active) { setLiveMessage("Open Live Session and start recording first."); return; }
+    if (track) played.logAgain(track, playlist?.name ?? "Unknown Playlist");
+    else setLiveMessage("Select a track first.");
+  };
+
+  const handleSaveLivePlaylist = () => {
+    if (!played.entries.length) { setLiveMessage("No recorded tracks to save."); return; }
+    const trackById = new Map(tracks.map((track) => [track.id, track]));
+    const bySongId = new Map(tracks.map((track) => [track.externalSongId || track.id, track.id]));
+    const ids = Array.from(new Set(played.entries.map((entry) => {
+      if (entry.trackId && trackById.has(entry.trackId)) return entry.trackId;
+      return bySongId.get(entry.songId) ?? null;
+    }).filter((id): id is string => Boolean(id))));
+    if (!ids.length) { setLiveMessage("No recorded SongIDs could be resolved in the catalog."); return; }
+    const suggestedName = `LIVE SESSION ${new Date().toISOString().slice(0, 10)}`;
+    const name = window.prompt("Playlist name for this Live Session:", suggestedName)?.trim();
+    if (!name) return;
+    const existing = playlists.find((item) => item.name.toLowerCase() === name.toLowerCase());
+    if (existing && !window.confirm(`Replace existing playlist "${existing.name}" with ${ids.length} tracks?`)) return;
+    const nextPlaylist: Playlist = {
+      id: existing?.id ?? `live-session-${Date.now()}`,
+      name, description: "Recorded Live Session playlist", category: "DJ LIVE SESSION",
+      trackIds: ids, updatedAt: "Today",
+    };
+    setPlaylists((current) => existing
+      ? current.map((item) => item.id === existing.id ? nextPlaylist : item)
+      : [nextPlaylist, ...current]);
+    setLiveMessage(`Saved playlist "${name}" with ${ids.length} unique tracks.`);
+  };
+
+  const searchInputRef = useRef<HTMLInputElement | null>(null);
+  const [focusTrackId, setFocusTrackId] = useState<string | null>(null);
   const [
     searchTerm,
     setSearchTerm,
   ] = useState("");
+
+  function chooseTrackFromSearch(trackId: string) {
+    setSelectedTrackIds([trackId]);
+    setLastSelectedTrackId(trackId);
+    setFocusTrackId(trackId);
+    setSearchTerm("");
+    searchInputRef.current?.blur();
+  }
+
+  const [showAllPopularity, setShowAllPopularity] = useState(false);
+  const [minimumPopularity, setMinimumPopularity] = useState(DEFAULT_MIN_POPULARITY);
+
+  // Reset the temporary visibility override when switching playlists.
+  useEffect(() => {
+    setShowAllPopularity(false);
+  }, [playlistId]);
 
   const [
     genreFilter,
@@ -275,6 +352,23 @@ export default function PlaylistDetailPage() {
   ] = useState<string | null>(
     null,
   );
+
+  // F opens Search. Escape restores the playlist; Enter selects a result.
+  useEffect(() => {
+    const handleSearchShortcut = (event: KeyboardEvent) => {
+      if (event.defaultPrevented || event.ctrlKey || event.altKey || event.metaKey) return;
+      if (matchTrackId || detailsTrackId || spotifyTrackId) return;
+      const target = event.target;
+      if (!(target instanceof HTMLElement)) return;
+      if (target.closest("input, textarea, select, [contenteditable='true'], [role='dialog']")) return;
+      if (event.key.toLowerCase() !== "f") return;
+      event.preventDefault();
+      searchInputRef.current?.focus();
+      searchInputRef.current?.select();
+    };
+    window.addEventListener("keydown", handleSearchShortcut);
+    return () => window.removeEventListener("keydown", handleSearchShortcut);
+  }, [matchTrackId, detailsTrackId, spotifyTrackId]);
 
   const spotifyWindowRef =
     useRef<Window | null>(
@@ -573,58 +667,26 @@ export default function PlaylistDetailPage() {
     searchTerm,
   });
 
-  const playlistTracks =
-    useMemo(() => {
-      if (!playlist) {
-        return [];
-      }
+  // Build one catalog index per catalog revision, instead of rebuilding it
+  // separately for Play Order and Current Set on every render.
+  const trackById = useMemo(
+    () => new Map(tracks.map((track) => [track.id, track] as const)),
+    [tracks],
+  );
 
-      const playlistTrackIdSet =
-        new Set(
-          playlist.trackIds,
-        );
+  const playlistOrderedTracks = useMemo(() => {
+    if (!playlist) return [];
+    return playlist.trackIds
+      .map((id) => trackById.get(id))
+      .filter((track): track is Track => track !== undefined);
+  }, [playlist, trackById]);
 
-      return tracks.filter(
-        (track) =>
-          playlistTrackIdSet.has(
-            track.id,
-          ),
-      );
-    }, [playlist, tracks]);
-
-  const playlistOrderedTracks =
-    useMemo(() => {
-      if (!playlist) {
-        return [];
-      }
-
-      const trackById =
-        new Map(
-          tracks.map(
-            (track) => [
-              track.id,
-              track,
-            ],
-          ),
-        );
-
-      return playlist.trackIds
-        .map(
-          (trackId) =>
-            trackById.get(
-              trackId,
-            ) ?? null,
-        )
-        .filter(
-          (
-            track,
-          ): track is Track =>
-            track !== null,
-        );
-    }, [
-      playlist,
-      tracks,
-    ]);
+  // Same membership as the previous implementation, in catalog order.
+  const playlistTracks = useMemo(() => {
+    if (!playlist) return [];
+    const ids = new Set(playlist.trackIds);
+    return tracks.filter((track) => ids.has(track.id));
+  }, [playlist, tracks]);
 
   const selectedDetailsTrack =
     playlistTracks.find(
@@ -688,35 +750,12 @@ export default function PlaylistDetailPage() {
   ]);
 
 
-  const currentSetTracks =
-    useMemo(() => {
-      const trackById =
-        new Map(
-          tracks.map(
-            (track) => [
-              track.id,
-              track,
-            ],
-          ),
-        );
-
-      return currentSet.items
-        .map(
-          (item) =>
-            trackById.get(
-              item.trackId,
-            ) ?? null,
-        )
-        .filter(
-          (
-            track,
-          ): track is Track =>
-            track !== null,
-        );
-    }, [
-      currentSet.items,
-      tracks,
-    ]);
+  const currentSetTracks = useMemo(() =>
+    currentSet.items
+      .map((item) => trackById.get(item.trackId))
+      .filter((track): track is Track => track !== undefined),
+    [currentSet.items, trackById],
+  );
 
   const selectedTrackIdSet =
     useMemo(
@@ -927,9 +966,19 @@ export default function PlaylistDetailPage() {
           .trim()
           .toLowerCase();
 
+      const searchIsActive = normalizedSearch.length > 0;
       const filteredTracks =
         playlistOrderedTracks.filter(
           (track) => {
+            // Searching bypasses the popularity threshold, but still
+            // respects genre and advanced filters selected by the DJ.
+            if (!searchIsActive && !showAllPopularity &&
+                track.id !== focusTrackId &&
+                (track.spotifyPopularity == null ||
+                 track.spotifyPopularity < minimumPopularity)) {
+              return false;
+            }
+
             const matchesSearch =
               normalizedSearch
                 .length === 0 ||
@@ -1015,6 +1064,9 @@ export default function PlaylistDetailPage() {
       genreFilter,
       playlistOrderedTracks,
       searchTerm,
+      showAllPopularity,
+      minimumPopularity,
+      focusTrackId,
       sortDirection,
       sortField,
     ]);
@@ -2564,21 +2616,91 @@ export default function PlaylistDetailPage() {
           </div>
         </header>
 
+        <div className="flamingo-live-session" aria-label="DJ live session controls"
+          style={{ display: "flex", alignItems: "center", flexWrap: "wrap", gap: 8, marginBottom: 12 }}>
+          <button type="button" onClick={() => setLiveSessionOpen((open) => !open)}>
+            {liveSessionOpen ? "Hide Live Session" : "Open Live Session"}
+          </button>
+          <span>P: {played.playedIds.length} marked · {played.active ? "Recording" : "Mark only"}</span>
+          {liveSessionOpen && (
+            <>
+              <span>{played.entries.length} recorded</span>
+              <button type="button" onClick={() => {
+                if (played.entries.length && !window.confirm("Start a new session? Previous recorded entries will be cleared; P marks remain.")) return;
+                played.startSession(); setLiveMessage("New Live Session recording started.");
+              }}>Start New Session</button>
+              <button type="button" onClick={played.toggleActive}>{played.active ? "Pause Recording" : "Resume Recording"}</button>
+              <button type="button" disabled={!played.active} onClick={handleLogAgain}>Log Again</button>
+              <button type="button" onClick={handleSaveLivePlaylist}>Save Live Playlist</button>
+              <button type="button" onClick={() => { void handleSavePlayedExcel(); }}>Save Session · Excel</button>
+              <button type="button" onClick={() => {
+                if (window.confirm("Clear all P marks AND the session log?")) played.reset();
+              }}>Reset Played</button>
+            </>
+          )}
+          {liveMessage && <small role="status">{liveMessage}</small>}
+        </div>
         <div className="tracks-toolbar">
           <div className="tracks-toolbar__search">
             <Search size={17} />
 
             <input
+              ref={searchInputRef}
               type="search"
+              onKeyDown={(event) => {
+                if (event.key === "Escape") {
+                  event.preventDefault();
+                  setSearchTerm("");
+                  event.currentTarget.blur();
+                } else if (event.key === "Enter") {
+                  event.preventDefault();
+                  const chosen = visibleTracks.find((track) => track.id === focusTrackId) ?? visibleTracks[0];
+                  if (chosen) chooseTrackFromSearch(chosen.id);
+                } else if (event.key === "ArrowDown" || event.key === "ArrowUp") {
+                  event.preventDefault();
+                  if (!visibleTracks.length) return;
+                  const index = visibleTracks.findIndex((track) => track.id === focusTrackId);
+                  const next = index < 0 ? 0 : Math.max(0, Math.min(visibleTracks.length - 1, index + (event.key === "ArrowDown" ? 1 : -1)));
+                  setFocusTrackId(visibleTracks[next].id);
+                }
+              }}
               placeholder="Search title, artist, album, genre, country or keyword..."
               aria-label="Search tracks"
               value={searchTerm}
-              onChange={(event) =>
-                setSearchTerm(
-                  event.target.value,
-                )
-              }
+              onChange={(event) => {
+                setFocusTrackId(null);
+                setSearchTerm(event.target.value);
+              }}
             />
+          </div>
+
+          <div className="tracks-toolbar__popularity" style={{display: "flex", alignItems: "center", gap: 8, flexWrap: "wrap"}}>
+            <label htmlFor="playlist-min-popularity">POP ≥</label>
+            <select
+              id="playlist-min-popularity"
+              aria-label="Minimum Spotify popularity"
+              value={minimumPopularity}
+              disabled={showAllPopularity}
+              onChange={(event) => setMinimumPopularity(Number(event.target.value))}
+            >
+              {[0, 20, 30, 40, 50, 60, 70].map((value) => (
+                <option key={value} value={value}>{value}</option>
+              ))}
+            </select>
+            <label style={{display: "inline-flex", alignItems: "center", gap: 5}}>
+              <input
+                type="checkbox"
+                checked={showAllPopularity}
+                onChange={(event) => setShowAllPopularity(event.target.checked)}
+              />
+              Show All
+            </label>
+            <small title="Search includes low-popularity tracks; Match uses the complete playlist">
+              {searchTerm.trim() ? "Searching all popularity levels" :
+                showAllPopularity ? "All popularity levels" :
+                `Showing POP ≥ ${minimumPopularity}`}
+              {` · ${playlistOrderedTracks.length} total`}
+            </small>
           </div>
 
           <div className="tracks-toolbar__actions">
@@ -2662,6 +2784,13 @@ export default function PlaylistDetailPage() {
           </div>
         </div>
 
+        <div style={{ margin: "12px 0" }}>
+          <button type="button" onClick={() => setSpotifyPanelOpen((open) => !open)}>
+            {spotifyPanelOpen ? "Hide Spotify / Party Flow" : "Open Spotify / Party Flow"}
+          </button>
+        </div>
+        {spotifyPanelOpen && (
+          <Suspense fallback={<p>Loading Spotify / Party Flow...</p>}>
         <SpotifyPlaylistSyncPanel
           playlistId={
             playlist.id
@@ -2685,6 +2814,9 @@ export default function PlaylistDetailPage() {
             handleApplySyncedOrder
           }
         />
+
+          </Suspense>
+        )}
 
         <BulkActionsBar
           selectedCount={
@@ -2719,6 +2851,12 @@ export default function PlaylistDetailPage() {
 
         <TracksTable
           tracks={visibleTracks}
+          requestedActiveTrackId={focusTrackId}
+          onChooseSearchResult={searchTerm.trim() ? chooseTrackFromSearch : undefined}
+          playedTrackIds={played.playedIds}
+          onTogglePlayed={togglePlayedForTrack}
+          onActiveTrackChange={setActiveLiveTrackId}
+          onQuickMatch={(trackId) => { setDetailsTrackId(null); setMatchTrackId(trackId); }}
           visibleColumns={
             visibleColumns
           }
@@ -2769,6 +2907,8 @@ export default function PlaylistDetailPage() {
       />
 
       <MatchSongsPanel
+        selectedTrackIds={selectedTrackIds}
+        playedTrackIds={played.playedIds}
         track={
           selectedMatchTrack
         }
@@ -2786,6 +2926,13 @@ export default function PlaylistDetailPage() {
         onAddToSet={
           handleAddTrackToCurrentSet
         }
+        onChooseTrack={(trackId) => {
+          setMatchTrackId(null);
+          setSearchTerm("");
+          setSelectedTrackIds([trackId]);
+          setLastSelectedTrackId(trackId);
+          setFocusTrackId(trackId);
+        }}
         currentSetTrackIds={
           currentSet.items.map(
             (item) =>
@@ -2949,7 +3096,9 @@ export default function PlaylistDetailPage() {
         }
       />
 
-      <PlaylistRepairPanel
+      {isPlaylistRepairOpen && (
+        <Suspense fallback={<p role="status">Loading Playlist Repair...</p>}>
+          <PlaylistRepairPanel
         isOpen={
           isPlaylistRepairOpen
         }
@@ -2977,6 +3126,9 @@ export default function PlaylistDetailPage() {
           handleRepairApplyOrder
         }
       />
+
+        </Suspense>
+      )}
 
       <SetAnalysisPanel
         isOpen={

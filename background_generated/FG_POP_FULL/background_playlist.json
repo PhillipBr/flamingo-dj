@@ -1,0 +1,2519 @@
+{
+  "playlistName": "FG POP FULL",
+  "spotifyUrl": "https://open.spotify.com/playlist/2Pd7dKYrwuXEjuMGiMrBpt",
+  "years": [
+    1990,
+    2026
+  ],
+  "sourcePlaylists": [
+    "POP 90-2000",
+    "POP HITS",
+    "POP TRENDS",
+    "R&B CLUB"
+  ],
+  "minEnergy": 4.0,
+  "requestedCount": 250,
+  "tracks": [
+    {
+      "spotifyId": "52K4Nl7eVNqUpUeJeWJlwT",
+      "title": "Break the Ice",
+      "artist": "Britney Spears",
+      "year": 2007,
+      "popularity": 67,
+      "energy": 6.0,
+      "durationSeconds": 196,
+      "band": 1
+    },
+    {
+      "spotifyId": "7r77HtzOYwh8e2diiRzVeT",
+      "title": "Neon Hong Kong",
+      "artist": "Riff Raff, Ku$h Drifter, YNG BNZO",
+      "year": 2025,
+      "popularity": 45,
+      "energy": 5.0,
+      "durationSeconds": 182,
+      "band": 0
+    },
+    {
+      "spotifyId": "6qqrTXSdwiJaq8SO0X2lSe",
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "year": 2024,
+      "popularity": 91,
+      "energy": 5.0,
+      "durationSeconds": 186,
+      "band": 3
+    },
+    {
+      "spotifyId": "09heXV6LYqcZ476eBU9mRQ",
+      "title": "The Trouble With Love Is",
+      "artist": "Kelly Clarkson",
+      "year": 2003,
+      "popularity": 43,
+      "energy": 4.0,
+      "durationSeconds": 221,
+      "band": 0
+    },
+    {
+      "spotifyId": "3A75q8tL5epCY3IA95zbvp",
+      "title": "Ay Chico (Lengua Afuera)",
+      "artist": "Pitbull",
+      "year": 2006,
+      "popularity": 45,
+      "energy": 8.0,
+      "durationSeconds": 206,
+      "band": 0
+    },
+    {
+      "spotifyId": "1zB0kXKLQr7tYifth69jlG",
+      "title": "Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke)",
+      "artist": "2Pac, Big Syke, C-PO, Danny Boy",
+      "year": 1996,
+      "popularity": 64,
+      "energy": 6.0,
+      "durationSeconds": 314,
+      "band": 1
+    },
+    {
+      "spotifyId": "4kOTDj4SiZPkW1p96WMDNv",
+      "title": "We Be Burnin'",
+      "artist": "Sean Paul",
+      "year": 2005,
+      "popularity": 72,
+      "energy": 8.0,
+      "durationSeconds": 215,
+      "band": 2
+    },
+    {
+      "spotifyId": "464Q6gFqBPItwWNZF8WbjR",
+      "title": "Feel the Beat",
+      "artist": "Darude",
+      "year": 2000,
+      "popularity": 60,
+      "energy": 7.0,
+      "durationSeconds": 259,
+      "band": 1
+    },
+    {
+      "spotifyId": "0j0n5CUS1g3QSwDWg8r5qq",
+      "title": "Keeps Gettin' Better",
+      "artist": "Christina Aguilera",
+      "year": 2008,
+      "popularity": 43,
+      "energy": 7.0,
+      "durationSeconds": 182,
+      "band": 0
+    },
+    {
+      "spotifyId": "4PRB8Cs2ONx4VcVv0rFSwj",
+      "title": "Baby Come On Over",
+      "artist": "Samantha Mumba",
+      "year": 2006,
+      "popularity": 50,
+      "energy": 7.0,
+      "durationSeconds": 184,
+      "band": 0
+    },
+    {
+      "spotifyId": "7pNJ1T9TGbVbNHKaLhhPri",
+      "title": "With You",
+      "artist": "Jessica Simpson",
+      "year": 2003,
+      "popularity": 56,
+      "energy": 7.0,
+      "durationSeconds": 192,
+      "band": 1
+    },
+    {
+      "spotifyId": "01ntRF69a8c76ZFBxw1i71",
+      "title": "Liquid Gold",
+      "artist": "Ilona",
+      "year": 2026,
+      "popularity": 42,
+      "energy": 7.0,
+      "durationSeconds": 172,
+      "band": 0
+    },
+    {
+      "spotifyId": "2aMZEJZwWouRzOw2aSfKV9",
+      "title": "Deeply Still",
+      "artist": "Xander Ward",
+      "year": 2025,
+      "popularity": 40,
+      "energy": 7.0,
+      "durationSeconds": 175,
+      "band": 0
+    },
+    {
+      "spotifyId": "2x5qF66rFO6DERBMNkQAqn",
+      "title": "(There's Gotta Be) More To Life",
+      "artist": "Stacie Orrico",
+      "year": 2003,
+      "popularity": 64,
+      "energy": 7.0,
+      "durationSeconds": 200,
+      "band": 1
+    },
+    {
+      "spotifyId": "4ka1FkKAMde6dQAFFMXKac",
+      "title": "i hope ur miserable until ur dead",
+      "artist": "Nessa Barrett",
+      "year": 2021,
+      "popularity": 69,
+      "energy": 7.0,
+      "durationSeconds": 177,
+      "band": 1
+    },
+    {
+      "spotifyId": "7AYmToZ5y67fBjq4RLFbuq",
+      "title": "TEXAS HOLD 'EM",
+      "artist": "Beyoncé",
+      "year": 2024,
+      "popularity": 57,
+      "energy": 4.0,
+      "durationSeconds": 233,
+      "band": 1
+    },
+    {
+      "spotifyId": "6NIlYycjhvtKGKtiABymF3",
+      "title": "White Glove",
+      "artist": "Dove Cameron",
+      "year": 2023,
+      "popularity": 47,
+      "energy": 7.0,
+      "durationSeconds": 150,
+      "band": 0
+    },
+    {
+      "spotifyId": "1AbP5ktWe2uQh8AG2ONGlD",
+      "title": "Sexbomb - Peppermint Disco Radio Edit",
+      "artist": "Tom Jones, Mousse T.",
+      "year": 1999,
+      "popularity": 52,
+      "energy": 7.0,
+      "durationSeconds": 233,
+      "band": 1
+    },
+    {
+      "spotifyId": "0DBIL8arX0Zo6eAuxNIpik",
+      "title": "Bump n' Grind",
+      "artist": "R. Kelly",
+      "year": 1993,
+      "popularity": 61,
+      "energy": 6.0,
+      "durationSeconds": 256,
+      "band": 1
+    },
+    {
+      "spotifyId": "5zdUc1JRCImBYcDWgvFNpE",
+      "title": "Caught Up",
+      "artist": "USHER",
+      "year": 2004,
+      "popularity": 69,
+      "energy": 6.0,
+      "durationSeconds": 224,
+      "band": 1
+    },
+    {
+      "spotifyId": "2ZSp1BC7agz2TkgSATdi9U",
+      "title": "Badaboom",
+      "artist": "B2K",
+      "year": 2000,
+      "popularity": 50,
+      "energy": 6.0,
+      "durationSeconds": 221,
+      "band": 0
+    },
+    {
+      "spotifyId": "33I3oS8UkebR3KRvqxD9X0",
+      "title": "Close To You",
+      "artist": "Maxi Priest",
+      "year": 1990,
+      "popularity": 63,
+      "energy": 5.0,
+      "durationSeconds": 326,
+      "band": 1
+    },
+    {
+      "spotifyId": "4ocbH5ZJqajZIpUrqRUoue",
+      "title": "Meet Virginia",
+      "artist": "Train",
+      "year": 1998,
+      "popularity": 66,
+      "energy": 5.0,
+      "durationSeconds": 240,
+      "band": 1
+    },
+    {
+      "spotifyId": "7q587HLz90L2PFrhKZjIYa",
+      "title": "Bye Bye",
+      "artist": "Mariah Carey",
+      "year": 2008,
+      "popularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 266,
+      "band": 1
+    },
+    {
+      "spotifyId": "2jZESuj23z92RqbooSsMqV",
+      "title": "Bootylicious",
+      "artist": "Destiny's Child",
+      "year": 2005,
+      "popularity": 64,
+      "energy": 8.0,
+      "durationSeconds": 208,
+      "band": 1
+    },
+    {
+      "spotifyId": "7EJfZZhDSoDPo7lPRls7j8",
+      "title": "Interstellar With You",
+      "artist": "Besomorph",
+      "year": 2026,
+      "popularity": 41,
+      "energy": 6.0,
+      "durationSeconds": 171,
+      "band": 0
+    },
+    {
+      "spotifyId": "2VjXGuPVVxyhMgER3Uz2Fe",
+      "title": "Ex-Factor",
+      "artist": "Ms. Lauryn Hill",
+      "year": 1998,
+      "popularity": 78,
+      "energy": 6.0,
+      "durationSeconds": 326,
+      "band": 2
+    },
+    {
+      "spotifyId": "2VyvDGdcVY04cNYou9MFVX",
+      "title": "Dirty Cash (Money Talks)",
+      "artist": "PAWSA",
+      "year": 2024,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 221,
+      "band": 1
+    },
+    {
+      "spotifyId": "02HyFYmpzt02VJ8k0CqxKj",
+      "title": "Ain't In LA",
+      "artist": "ADÉLA",
+      "year": 2026,
+      "popularity": 93,
+      "energy": 7.0,
+      "durationSeconds": 184,
+      "band": 3
+    },
+    {
+      "spotifyId": "1c2AFg2WpURtpsOTMr6ZBX",
+      "title": "Fame is a Gun",
+      "artist": "Addison Rae",
+      "year": 2025,
+      "popularity": 73,
+      "energy": 6.0,
+      "durationSeconds": 183,
+      "band": 2
+    },
+    {
+      "spotifyId": "5FMXrphygZ4z3gVDHGWxgl",
+      "title": "Copacabana (At the Copa) - Short Version",
+      "artist": "Barry Manilow",
+      "year": 2006,
+      "popularity": 71,
+      "energy": 6.0,
+      "durationSeconds": 237,
+      "band": 2
+    },
+    {
+      "spotifyId": "3Be7CLdHZpyzsVijme39cW",
+      "title": "What's Love Got to Do with It",
+      "artist": "Kygo",
+      "year": 2020,
+      "popularity": 66,
+      "energy": 7.0,
+      "durationSeconds": 208,
+      "band": 1
+    },
+    {
+      "spotifyId": "24tO365YW6lcZr1hN4Ukzj",
+      "title": "Tomorrow - Remastered",
+      "artist": "Silverchair",
+      "year": 1995,
+      "popularity": 61,
+      "energy": 6.0,
+      "durationSeconds": 266,
+      "band": 1
+    },
+    {
+      "spotifyId": "6zGtMWfVeLUuwgknjO6ibH",
+      "title": "My Humps - Lil Jon Remix",
+      "artist": "Black Eyed Peas, Lil Jon",
+      "year": 2005,
+      "popularity": 44,
+      "energy": 7.0,
+      "durationSeconds": 224,
+      "band": 0
+    },
+    {
+      "spotifyId": "1V6gIisPpYqgFeWbMLI0bA",
+      "title": "Heart Attack",
+      "artist": "Demi Lovato",
+      "year": 2013,
+      "popularity": 84,
+      "energy": 6.0,
+      "durationSeconds": 210,
+      "band": 2
+    },
+    {
+      "spotifyId": "3YqH26H4kyG3usFtOc8v4P",
+      "title": "She's Got That Vibe",
+      "artist": "R. Kelly, Public Announcement",
+      "year": 1992,
+      "popularity": 48,
+      "energy": 7.0,
+      "durationSeconds": 274,
+      "band": 0
+    },
+    {
+      "spotifyId": "2SsY5k7UWFqgye3PUMG3Oq",
+      "title": "The Subway",
+      "artist": "Chappell Roan",
+      "year": 2025,
+      "popularity": 86,
+      "energy": 5.0,
+      "durationSeconds": 252,
+      "band": 2
+    },
+    {
+      "spotifyId": "2jAn0rAOyLW6hIEuIDNcoT",
+      "title": "Appletree",
+      "artist": "Erykah Badu",
+      "year": 1997,
+      "popularity": 63,
+      "energy": 6.0,
+      "durationSeconds": 265,
+      "band": 1
+    },
+    {
+      "spotifyId": "7i7UIbm5E0DD7aSOYvwp2v",
+      "title": "Oh (feat. Ludacris)",
+      "artist": "Ciara, Ludacris",
+      "year": 2004,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 256,
+      "band": 1
+    },
+    {
+      "spotifyId": "3Zt5W0zMNim50PWLfdQOey",
+      "title": "Love Like That",
+      "artist": "Jordana Bryant",
+      "year": 2026,
+      "popularity": 43,
+      "energy": 7.0,
+      "durationSeconds": 201,
+      "band": 0
+    },
+    {
+      "spotifyId": "2Pxzfzd1jaZT2F2uqLkZUr",
+      "title": "Liquid Dreams",
+      "artist": "O-Town",
+      "year": 2001,
+      "popularity": 53,
+      "energy": 6.0,
+      "durationSeconds": 210,
+      "band": 1
+    },
+    {
+      "spotifyId": "2kjaf793qQ1kvKMix4FmEj",
+      "title": "Maneater",
+      "artist": "Nelly Furtado",
+      "year": 2006,
+      "popularity": 87,
+      "energy": 7.0,
+      "durationSeconds": 259,
+      "band": 2
+    },
+    {
+      "spotifyId": "2NBQmPrOEEjA8VbeWOQGxO",
+      "title": "Drop It Like It's Hot (feat. Pharrell Williams)",
+      "artist": "Snoop Dogg",
+      "year": 2004,
+      "popularity": 79,
+      "energy": 6.0,
+      "durationSeconds": 266,
+      "band": 2
+    },
+    {
+      "spotifyId": "1mnqraQ8oV8MX92rdOFLWW",
+      "title": "1 Thing",
+      "artist": "Amerie",
+      "year": 2005,
+      "popularity": 69,
+      "energy": 7.0,
+      "durationSeconds": 239,
+      "band": 1
+    },
+    {
+      "spotifyId": "27mhCGdAA8gM7b33KIiB3k",
+      "title": "Cyclone (feat. T-Pain)",
+      "artist": "Baby Bash, T-Pain",
+      "year": 2007,
+      "popularity": 61,
+      "energy": 7.0,
+      "durationSeconds": 222,
+      "band": 1
+    },
+    {
+      "spotifyId": "1oNToERLIN71YCPLbRIQGQ",
+      "title": "Let Me Hold You",
+      "artist": "Bow Wow",
+      "year": 2005,
+      "popularity": 66,
+      "energy": 6.0,
+      "durationSeconds": 248,
+      "band": 1
+    },
+    {
+      "spotifyId": "1058fW9H3fZA6QjYCdOBad",
+      "title": "Don't Go Yet",
+      "artist": "Camila Cabello",
+      "year": 2021,
+      "popularity": 67,
+      "energy": 7.0,
+      "durationSeconds": 164,
+      "band": 1
+    },
+    {
+      "spotifyId": "7dyluIqv7QYVTXXZiMWPHW",
+      "title": "Numb / Encore",
+      "artist": "JAŸ-Z, Linkin Park",
+      "year": 2004,
+      "popularity": 69,
+      "energy": 7.0,
+      "durationSeconds": 205,
+      "band": 1
+    },
+    {
+      "spotifyId": "3e9HZxeyfWwjeyPAMmWSSQ",
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "year": 2019,
+      "popularity": 86,
+      "energy": 7.0,
+      "durationSeconds": 207,
+      "band": 2
+    },
+    {
+      "spotifyId": "4ZOyH6KjomjlqCz3oFqglr",
+      "title": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
+      "artist": "Jennifer Lopez, Jadakiss, Styles P",
+      "year": 2002,
+      "popularity": 63,
+      "energy": 7.0,
+      "durationSeconds": 188,
+      "band": 1
+    },
+    {
+      "spotifyId": "5yPpCPB5D4RLFpCvaK3n0f",
+      "title": "Bitch Betta Have My Money",
+      "artist": "Tyga, YG, Kurupt",
+      "year": 2014,
+      "popularity": 47,
+      "energy": 7.0,
+      "durationSeconds": 192,
+      "band": 0
+    },
+    {
+      "spotifyId": "4G1qRhOk1YY0kewtMaCrMC",
+      "title": "Rain",
+      "artist": "SWV",
+      "year": 1997,
+      "popularity": 67,
+      "energy": 6.0,
+      "durationSeconds": 265,
+      "band": 1
+    },
+    {
+      "spotifyId": "24y3tSyLdRbpVsKhQrR2oj",
+      "title": "Never Again",
+      "artist": "Kelly Clarkson",
+      "year": 2007,
+      "popularity": 49,
+      "energy": 7.0,
+      "durationSeconds": 217,
+      "band": 0
+    },
+    {
+      "spotifyId": "3sK8wGT43QFpWrvNQsrQya",
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "year": 2025,
+      "popularity": 93,
+      "energy": 5.0,
+      "durationSeconds": 237,
+      "band": 3
+    },
+    {
+      "spotifyId": "7xHWNBFm6ObGEQPaUxHuKO",
+      "title": "The Greatest (feat. Kendrick Lamar)",
+      "artist": "Sia, Kendrick Lamar",
+      "year": 2016,
+      "popularity": 68,
+      "energy": 8.0,
+      "durationSeconds": 210,
+      "band": 1
+    },
+    {
+      "spotifyId": "1dHJETCn2X1R1YwVlMvSza",
+      "title": "Wanna Get To Know You",
+      "artist": "G-Unit, Joe",
+      "year": 2003,
+      "popularity": 66,
+      "energy": 7.0,
+      "durationSeconds": 265,
+      "band": 1
+    },
+    {
+      "spotifyId": "751gBcu62kORDelX7FV0mM",
+      "title": "Thank You",
+      "artist": "Dido",
+      "year": 1999,
+      "popularity": 61,
+      "energy": 4.0,
+      "durationSeconds": 218,
+      "band": 1
+    },
+    {
+      "spotifyId": "3dj4wgM3cPeuLwMNHDuBon",
+      "title": "The Door",
+      "artist": "Teddy Swims",
+      "year": 2023,
+      "popularity": 88,
+      "energy": 8.0,
+      "durationSeconds": 212,
+      "band": 2
+    },
+    {
+      "spotifyId": "2Lss5tezmIkgZA3GFfptI2",
+      "title": "Killing Me",
+      "artist": "Conan Gray",
+      "year": 2023,
+      "popularity": 56,
+      "energy": 6.0,
+      "durationSeconds": 205,
+      "band": 1
+    },
+    {
+      "spotifyId": "5z6a02FGoVsXTrJ4GiVNxE",
+      "title": "The Horses",
+      "artist": "Daryl Braithwaite",
+      "year": 1990,
+      "popularity": 62,
+      "energy": 6.0,
+      "durationSeconds": 256,
+      "band": 1
+    },
+    {
+      "spotifyId": "6uRH1qMz30ZBwwUG0IYE5s",
+      "title": "Dance With Me",
+      "artist": "112",
+      "year": 2001,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 231,
+      "band": 1
+    },
+    {
+      "spotifyId": "4DJwdQDai9DLYBL9TNrEDo",
+      "title": "Girl On TV",
+      "artist": "LFO",
+      "year": 1999,
+      "popularity": 53,
+      "energy": 5.0,
+      "durationSeconds": 248,
+      "band": 1
+    },
+    {
+      "spotifyId": "4t0UsYzmmmZRMTWn77jiGF",
+      "title": "Show Me Love",
+      "artist": "Robin S",
+      "year": 1993,
+      "popularity": 82,
+      "energy": 6.0,
+      "durationSeconds": 252,
+      "band": 2
+    },
+    {
+      "spotifyId": "1kHaxYnHGbhp8BX6XPGh9I",
+      "title": "September - Eric Kupper Radio Mix",
+      "artist": "Earth, Wind & Fire, Eric Kupper",
+      "year": 2020,
+      "popularity": 48,
+      "energy": 7.0,
+      "durationSeconds": 213,
+      "band": 0
+    },
+    {
+      "spotifyId": "0SLtqCrXBRrnkxSOMA3X4W",
+      "title": "Let Me Entertain You",
+      "artist": "Robbie Williams",
+      "year": 1997,
+      "popularity": 63,
+      "energy": 7.0,
+      "durationSeconds": 262,
+      "band": 1
+    },
+    {
+      "spotifyId": "7vKYuqKAySUizIkcAl4Oal",
+      "title": "Don't You Forget It",
+      "artist": "Glenn Lewis",
+      "year": 2002,
+      "popularity": 53,
+      "energy": 4.0,
+      "durationSeconds": 249,
+      "band": 1
+    },
+    {
+      "spotifyId": "3B7i9OKRRmIsSBHEbJz58Y",
+      "title": "Grind With Me",
+      "artist": "Pretty Ricky",
+      "year": 2005,
+      "popularity": 70,
+      "energy": 7.0,
+      "durationSeconds": 238,
+      "band": 1
+    },
+    {
+      "spotifyId": "5bJ796cOnGBzSN5bm4mwMj",
+      "title": "You're Makin' Me High",
+      "artist": "Toni Braxton",
+      "year": 1996,
+      "popularity": 66,
+      "energy": 6.0,
+      "durationSeconds": 267,
+      "band": 1
+    },
+    {
+      "spotifyId": "6r9uMZ7NBaMO1ovylcJZI4",
+      "title": "Shut It Down (feat. Akon)",
+      "artist": "Pitbull, Akon",
+      "year": 2009,
+      "popularity": 47,
+      "energy": 7.0,
+      "durationSeconds": 226,
+      "band": 0
+    },
+    {
+      "spotifyId": "2pnVBPcDJ2WFMnnVxkQCB5",
+      "title": "Pop, Lock & Drop It - Video Edit",
+      "artist": "Huey",
+      "year": 2007,
+      "popularity": 61,
+      "energy": 7.0,
+      "durationSeconds": 261,
+      "band": 1
+    },
+    {
+      "spotifyId": "6Wnlq1Pu3I0BajLvxn05Vr",
+      "title": "Try Again",
+      "artist": "Aaliyah",
+      "year": 2001,
+      "popularity": 73,
+      "energy": 6.0,
+      "durationSeconds": 285,
+      "band": 2
+    },
+    {
+      "spotifyId": "20McUFi8KCIVdNDLrkTDuZ",
+      "title": "Goosebumps",
+      "artist": "HVME",
+      "year": 2020,
+      "popularity": 68,
+      "energy": 7.0,
+      "durationSeconds": 163,
+      "band": 1
+    },
+    {
+      "spotifyId": "6Xo9osN1HErsEJoqwj4eDg",
+      "title": "Get Me Home",
+      "artist": "Foxy Brown, Blackstreet",
+      "year": 1996,
+      "popularity": 61,
+      "energy": 5.0,
+      "durationSeconds": 229,
+      "band": 1
+    },
+    {
+      "spotifyId": "3ZqjDpr3qCZnZBPcd0Hpj2",
+      "title": "Hold On",
+      "artist": "En Vogue",
+      "year": 1990,
+      "popularity": 58,
+      "energy": 6.0,
+      "durationSeconds": 304,
+      "band": 1
+    },
+    {
+      "spotifyId": "4vjpLMyL3ZO6aphdYr8XYw",
+      "title": "i'm so tired...",
+      "artist": "Lauv, Troye Sivan",
+      "year": 2020,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 163,
+      "band": 1
+    },
+    {
+      "spotifyId": "51UtgWS4z1eMPuLQOzPtNH",
+      "title": "Amber",
+      "artist": "311",
+      "year": 2004,
+      "popularity": 69,
+      "energy": 6.0,
+      "durationSeconds": 211,
+      "band": 1
+    },
+    {
+      "spotifyId": "4pdLZsxq0y5oJDb6Cxlokw",
+      "title": "You Got Me",
+      "artist": "The Roots, Tariq Trotter, Erykah Badu, Eve",
+      "year": 1999,
+      "popularity": 69,
+      "energy": 5.0,
+      "durationSeconds": 259,
+      "band": 1
+    },
+    {
+      "spotifyId": "79w0LgtORjHKr621y6dcPh",
+      "title": "What'chu Like (Explicit Version)",
+      "artist": "Da Brat",
+      "year": 2001,
+      "popularity": 46,
+      "energy": 6.0,
+      "durationSeconds": 285,
+      "band": 0
+    },
+    {
+      "spotifyId": "4c9VuqkKaey9u0IihbUKTt",
+      "title": "Never Leave You (Uh Oooh, Uh Oooh)",
+      "artist": "Lumidee",
+      "year": 2003,
+      "popularity": 49,
+      "energy": 6.0,
+      "durationSeconds": 185,
+      "band": 0
+    },
+    {
+      "spotifyId": "174rZBKJAqD10VBnOjlQQ3",
+      "title": "How Do I Breathe",
+      "artist": "Mario",
+      "year": 2007,
+      "popularity": 73,
+      "energy": 6.0,
+      "durationSeconds": 216,
+      "band": 2
+    },
+    {
+      "spotifyId": "79TFhBofOArJSoyuVbB68L",
+      "title": "Lean Wit It, Rock Wit It",
+      "artist": "Dem Franchize Boyz, Peanut, Charlay",
+      "year": 2006,
+      "popularity": 63,
+      "energy": 7.0,
+      "durationSeconds": 228,
+      "band": 1
+    },
+    {
+      "spotifyId": "0qc4QlcCxVTGyShurEv1UU",
+      "title": "Post Malone (feat. RANI)",
+      "artist": "Sam Feldt, RANI",
+      "year": 2019,
+      "popularity": 64,
+      "energy": 6.0,
+      "durationSeconds": 174,
+      "band": 1
+    },
+    {
+      "spotifyId": "7gwrQnM8AEJaRmsByvTlrM",
+      "title": "good girl",
+      "artist": "aniia",
+      "year": 2025,
+      "popularity": 46,
+      "energy": 7.0,
+      "durationSeconds": 197,
+      "band": 0
+    },
+    {
+      "spotifyId": "6BIcjFZIVDZxNAcofRFPx4",
+      "title": "So Gone",
+      "artist": "Monica",
+      "year": 2003,
+      "popularity": 64,
+      "energy": 6.0,
+      "durationSeconds": 243,
+      "band": 1
+    },
+    {
+      "spotifyId": "55MzgLFlIz9I5s5CwAWXeE",
+      "title": "Ante Up (Robbin Hoodz Theory)",
+      "artist": "M.O.P.",
+      "year": 2000,
+      "popularity": 56,
+      "energy": 8.0,
+      "durationSeconds": 233,
+      "band": 1
+    },
+    {
+      "spotifyId": "2OALaHcDdKkjYEpAr0Qzab",
+      "title": "Lonely Together (feat. Rita Ora)",
+      "artist": "Avicii",
+      "year": 2017,
+      "popularity": 72,
+      "energy": 6.0,
+      "durationSeconds": 181,
+      "band": 2
+    },
+    {
+      "spotifyId": "5rPzPAaOUceS8HiAculegz",
+      "title": "Bad Girl",
+      "artist": "USHER",
+      "year": 2004,
+      "popularity": 67,
+      "energy": 6.0,
+      "durationSeconds": 261,
+      "band": 1
+    },
+    {
+      "spotifyId": "79HOQuvfM2rBOlbCHfNuPb",
+      "title": "P.I.M.P.",
+      "artist": "50 Cent",
+      "year": 2003,
+      "popularity": 73,
+      "energy": 6.0,
+      "durationSeconds": 249,
+      "band": 2
+    },
+    {
+      "spotifyId": "5Ohxk2dO5COHF1krpoPigN",
+      "title": "Sign of the Times",
+      "artist": "Harry Styles",
+      "year": 2017,
+      "popularity": 91,
+      "energy": 4.0,
+      "durationSeconds": 340,
+      "band": 3
+    },
+    {
+      "spotifyId": "41WQUSINanQHfhfKpFDsms",
+      "title": "Used To Be Young",
+      "artist": "Miley Cyrus",
+      "year": 2023,
+      "popularity": 70,
+      "energy": 5.0,
+      "durationSeconds": 191,
+      "band": 1
+    },
+    {
+      "spotifyId": "4uNisev7PGUAixBOagpgyY",
+      "title": "Gettin' Some",
+      "artist": "Shawnna",
+      "year": 2006,
+      "popularity": 48,
+      "energy": 7.0,
+      "durationSeconds": 203,
+      "band": 0
+    },
+    {
+      "spotifyId": "14iIF94MDYiBlefcp3qFrf",
+      "title": "Tell Me When to Go (feat. Keak da Sneak)",
+      "artist": "E-40, Keak Da Sneak",
+      "year": 2006,
+      "popularity": 60,
+      "energy": 7.0,
+      "durationSeconds": 238,
+      "band": 1
+    },
+    {
+      "spotifyId": "3R6dN42VdwivkZTMz03Rci",
+      "title": "Turnin Me On - Original Dirty",
+      "artist": "Keri Hilson, Lil Wayne",
+      "year": 2008,
+      "popularity": 45,
+      "energy": 7.0,
+      "durationSeconds": 248,
+      "band": 0
+    },
+    {
+      "spotifyId": "6Gd123r71KDdpH8JRdYvrh",
+      "title": "Gone Till November (feat. The New York Philharmonic Orchestra)",
+      "artist": "Wyclef Jean, New York Philharmonic",
+      "year": 2003,
+      "popularity": 50,
+      "energy": 5.0,
+      "durationSeconds": 208,
+      "band": 0
+    },
+    {
+      "spotifyId": "2ozJmnjqCMJavEKoHqiou0",
+      "title": "He Loves U Not",
+      "artist": "Dream",
+      "year": 2001,
+      "popularity": 56,
+      "energy": 8.0,
+      "durationSeconds": 227,
+      "band": 1
+    },
+    {
+      "spotifyId": "3KDCYRQl4O681lkYI2sCqE",
+      "title": "Hey Mama",
+      "artist": "Black Eyed Peas",
+      "year": 2003,
+      "popularity": 69,
+      "energy": 6.0,
+      "durationSeconds": 214,
+      "band": 1
+    },
+    {
+      "spotifyId": "22DH8NChecsgPxDjA4pqer",
+      "title": "Tough",
+      "artist": "Quavo",
+      "year": 2024,
+      "popularity": 84,
+      "energy": 4.0,
+      "durationSeconds": 188,
+      "band": 2
+    },
+    {
+      "spotifyId": "0azC730Exh71aQlOt9Zj3y",
+      "title": "This Is What You Came For",
+      "artist": "Calvin Harris, Rihanna",
+      "year": 2016,
+      "popularity": 84,
+      "energy": 8.0,
+      "durationSeconds": 221,
+      "band": 2
+    },
+    {
+      "spotifyId": "2ZxPLEwZ5F6DdEVh08dqrU",
+      "title": "Touch Me There",
+      "artist": "Total Touch",
+      "year": 1996,
+      "popularity": 46,
+      "energy": 7.0,
+      "durationSeconds": 238,
+      "band": 0
+    },
+    {
+      "spotifyId": "7xwFOVYwBuLvFquLyfooRp",
+      "title": "Wait a Minute (feat. Lil' Kim)",
+      "artist": "Ray J, Lil' Kim",
+      "year": 2001,
+      "popularity": 47,
+      "energy": 5.0,
+      "durationSeconds": 227,
+      "band": 0
+    },
+    {
+      "spotifyId": "1WvrDdouh6C51In1SdATbq",
+      "title": "BICHOTA",
+      "artist": "KAROL G",
+      "year": 2021,
+      "popularity": 69,
+      "energy": 5.0,
+      "durationSeconds": 179,
+      "band": 1
+    },
+    {
+      "spotifyId": "19VqFEEcQ5ZDKM10Id8RAH",
+      "title": "Make It Clap (feat. Sean Paul & Spliff Starr) - Remix Album Version",
+      "artist": "Busta Rhymes, Sean Paul, Spliff Starr",
+      "year": 2002,
+      "popularity": 49,
+      "energy": 6.0,
+      "durationSeconds": 243,
+      "band": 0
+    },
+    {
+      "spotifyId": "3HGwI9qwq5XqBDeZBV3zti",
+      "title": "World, Hold On (Radio Edit)",
+      "artist": "Bob Sinclar",
+      "year": 2006,
+      "popularity": 42,
+      "energy": 7.0,
+      "durationSeconds": 199,
+      "band": 0
+    },
+    {
+      "spotifyId": "5emD8K39MmotlCLOx9qzCH",
+      "title": "GBP (feat. 21 Savage)",
+      "artist": "Central Cee, 21 Savage",
+      "year": 2025,
+      "popularity": 64,
+      "energy": 7.0,
+      "durationSeconds": 154,
+      "band": 1
+    },
+    {
+      "spotifyId": "66x45Yh9x397PWpxMX0ZDT",
+      "title": "UN DIA (ONE DAY)",
+      "artist": "J Balvin, Dua Lipa, Bad Bunny, Tainy",
+      "year": 2021,
+      "popularity": 72,
+      "energy": 7.0,
+      "durationSeconds": 232,
+      "band": 2
+    },
+    {
+      "spotifyId": "3jDdpx9PMlfMBS5tOBHFm9",
+      "title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "year": 1996,
+      "popularity": 82,
+      "energy": 7.0,
+      "durationSeconds": 213,
+      "band": 2
+    },
+    {
+      "spotifyId": "5ovfPfFxFTr8hYmeBxvJLj",
+      "title": "Bomb Intro / Pass That Dutch",
+      "artist": "Missy Elliott",
+      "year": 2003,
+      "popularity": 64,
+      "energy": 7.0,
+      "durationSeconds": 217,
+      "band": 1
+    },
+    {
+      "spotifyId": "0cfqYhY6B8PbGF9vaVNUeG",
+      "title": "Hits from the Bong",
+      "artist": "Cypress Hill",
+      "year": 1993,
+      "popularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 161,
+      "band": 1
+    },
+    {
+      "spotifyId": "2lVDc57IMK6nypg2iuEWVR",
+      "title": "Tipsy - Radio Mix",
+      "artist": "J-Kwon",
+      "year": 2004,
+      "popularity": 56,
+      "energy": 7.0,
+      "durationSeconds": 243,
+      "band": 1
+    },
+    {
+      "spotifyId": "1Cbl3Yq8rHo7hhDQmLQagU",
+      "title": "PUSH 2 START",
+      "artist": "Tyla",
+      "year": 2024,
+      "popularity": 66,
+      "energy": 6.0,
+      "durationSeconds": 156,
+      "band": 1
+    },
+    {
+      "spotifyId": "36AWdhZIGLUTkWpJDhe7va",
+      "title": "2 Become 1",
+      "artist": "Spice Girls",
+      "year": 1996,
+      "popularity": 68,
+      "energy": 4.0,
+      "durationSeconds": 241,
+      "band": 1
+    },
+    {
+      "spotifyId": "20jYtEun4dUdYZ9foaOC48",
+      "title": "My Humps",
+      "artist": "The Black Eyed Peas",
+      "year": 2005,
+      "popularity": 80,
+      "energy": 6.0,
+      "durationSeconds": 326,
+      "band": 2
+    },
+    {
+      "spotifyId": "2gX1J5hbHs1V7gkHsNglTv",
+      "title": "Mirror Mirror",
+      "artist": "M2M",
+      "year": 2000,
+      "popularity": 60,
+      "energy": 6.0,
+      "durationSeconds": 200,
+      "band": 1
+    },
+    {
+      "spotifyId": "0LTwdL5yZ6YOTEGUQPFuSN",
+      "title": "ROSONES",
+      "artist": "Tito Double P",
+      "year": 2024,
+      "popularity": 76,
+      "energy": 4.0,
+      "durationSeconds": 177,
+      "band": 2
+    },
+    {
+      "spotifyId": "3vgFnL1k9NC9oZYdooQoHE",
+      "title": "Candy Paint",
+      "artist": "Normani",
+      "year": 2024,
+      "popularity": 46,
+      "energy": 7.0,
+      "durationSeconds": 171,
+      "band": 0
+    },
+    {
+      "spotifyId": "6HxweNytuEQdmGeVtZPZz3",
+      "title": "The Seed (2.0)",
+      "artist": "The Roots, Cody Chesnutt",
+      "year": 2002,
+      "popularity": 68,
+      "energy": 7.0,
+      "durationSeconds": 268,
+      "band": 1
+    },
+    {
+      "spotifyId": "683hRieVmYdAhVA1DkjSAk",
+      "title": "Space Jam",
+      "artist": "Quad City DJ's",
+      "year": 1996,
+      "popularity": 65,
+      "energy": 7.0,
+      "durationSeconds": 305,
+      "band": 1
+    },
+    {
+      "spotifyId": "1UI0l2L66HJ9AtoEOlHzv4",
+      "title": "Sometimes",
+      "artist": "Britney Spears",
+      "year": 1999,
+      "popularity": 74,
+      "energy": 4.0,
+      "durationSeconds": 245,
+      "band": 2
+    },
+    {
+      "spotifyId": "3V45D1XTTyVZFN3liYuik6",
+      "title": "Black & Gold",
+      "artist": "Sam Sparro",
+      "year": 2008,
+      "popularity": 62,
+      "energy": 6.0,
+      "durationSeconds": 274,
+      "band": 1
+    },
+    {
+      "spotifyId": "7mFj0LlWtEJaEigguaWqYh",
+      "title": "Sweetest Pie",
+      "artist": "Megan Thee Stallion, Dua Lipa",
+      "year": 2022,
+      "popularity": 68,
+      "energy": 8.0,
+      "durationSeconds": 201,
+      "band": 1
+    },
+    {
+      "spotifyId": "1rqqCSm0Qe4I9rUvWncaom",
+      "title": "High Hopes",
+      "artist": "Panic! At The Disco",
+      "year": 2018,
+      "popularity": 85,
+      "energy": 7.0,
+      "durationSeconds": 190,
+      "band": 2
+    },
+    {
+      "spotifyId": "3wo3d0I5H8KjkwGvnz8WbB",
+      "title": "Somedays",
+      "artist": "Sonny Fodera",
+      "year": 2024,
+      "popularity": 76,
+      "energy": 7.0,
+      "durationSeconds": 207,
+      "band": 2
+    },
+    {
+      "spotifyId": "3NZJlJemX3mzjf56MqC5ML",
+      "title": "Forever",
+      "artist": "Chris Brown",
+      "year": 2008,
+      "popularity": 84,
+      "energy": 7.0,
+      "durationSeconds": 278,
+      "band": 2
+    },
+    {
+      "spotifyId": "7fXhkARAtS66kxexMIAx8O",
+      "title": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+      "artist": "The Notorious B.I.G.",
+      "year": 2007,
+      "popularity": 70,
+      "energy": 5.0,
+      "durationSeconds": 269,
+      "band": 1
+    },
+    {
+      "spotifyId": "7tUEDtHchueeUJTfEFEhii",
+      "title": "Right Here - Human Nature Radio Mix",
+      "artist": "SWV",
+      "year": 1992,
+      "popularity": 65,
+      "energy": 5.0,
+      "durationSeconds": 226,
+      "band": 1
+    },
+    {
+      "spotifyId": "2eoWtOuJA38Cs2EvtRqToy",
+      "title": "Regrets Over Coffee",
+      "artist": "Retrofile",
+      "year": 2026,
+      "popularity": 49,
+      "energy": 6.0,
+      "durationSeconds": 250,
+      "band": 0
+    },
+    {
+      "spotifyId": "04a44cx2PJthIbN2aLMXhl",
+      "title": "TIT FOR TAT",
+      "artist": "Tate McRae",
+      "year": 2025,
+      "popularity": 91,
+      "energy": 6.0,
+      "durationSeconds": 175,
+      "band": 3
+    },
+    {
+      "spotifyId": "2RCUr24WkEe2r5Vv4oDKlN",
+      "title": "Blame It on Your Love (feat. Lizzo)",
+      "artist": "Charli xcx, Lizzo",
+      "year": 2019,
+      "popularity": 50,
+      "energy": 7.0,
+      "durationSeconds": 192,
+      "band": 0
+    },
+    {
+      "spotifyId": "64IrqnZBUoCFmF8BXGOHnK",
+      "title": "4 Ever",
+      "artist": "Lil' Mo, Fabolous",
+      "year": 2003,
+      "popularity": 53,
+      "energy": 6.0,
+      "durationSeconds": 223,
+      "band": 1
+    },
+    {
+      "spotifyId": "2IyL2CyHoenwQLds5jSuqK",
+      "title": "Body On Me",
+      "artist": "Ashanti, Nelly, Akon",
+      "year": 2008,
+      "popularity": 69,
+      "energy": 6.0,
+      "durationSeconds": 201,
+      "band": 1
+    },
+    {
+      "spotifyId": "2axpXkv0LTHIWonsKVgDBl",
+      "title": "This Time",
+      "artist": "JoJo",
+      "year": 2006,
+      "popularity": 40,
+      "energy": 5.0,
+      "durationSeconds": 208,
+      "band": 0
+    },
+    {
+      "spotifyId": "2zwmugV2IbUwKq5JgOWEpv",
+      "title": "Mary Jane (All Night Long)",
+      "artist": "Mary J. Blige",
+      "year": 1994,
+      "popularity": 70,
+      "energy": 4.0,
+      "durationSeconds": 279,
+      "band": 1
+    },
+    {
+      "spotifyId": "5fKBwqSTuCbnJlCOpeRa3o",
+      "title": "Sexual",
+      "artist": "NEIKED, Dyo",
+      "year": 2016,
+      "popularity": 67,
+      "energy": 7.0,
+      "durationSeconds": 189,
+      "band": 1
+    },
+    {
+      "spotifyId": "1FHNctV68GUNLgXclG2DtR",
+      "title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "year": 2009,
+      "popularity": 65,
+      "energy": 6.0,
+      "durationSeconds": 233,
+      "band": 1
+    },
+    {
+      "spotifyId": "5BZsQlgw21vDOAjoqkNgKb",
+      "title": "DAISIES",
+      "artist": "Justin Bieber",
+      "year": 2025,
+      "popularity": 90,
+      "energy": 6.0,
+      "durationSeconds": 176,
+      "band": 3
+    },
+    {
+      "spotifyId": "3CPhCNH8rV1czzGSmXm9TH",
+      "title": "messy",
+      "artist": "Łaszewo",
+      "year": 2025,
+      "popularity": 73,
+      "energy": 7.0,
+      "durationSeconds": 207,
+      "band": 2
+    },
+    {
+      "spotifyId": "11M8c9SHQYpd8DOrmcu25k",
+      "title": "Beg for You (feat. Rina Sawayama)",
+      "artist": "Charli xcx, Rina Sawayama",
+      "year": 2022,
+      "popularity": 55,
+      "energy": 6.0,
+      "durationSeconds": 168,
+      "band": 1
+    },
+    {
+      "spotifyId": "1C3rm7SjV83iXQrL4eThEU",
+      "title": "21 Seconds",
+      "artist": "So Solid Crew",
+      "year": 2001,
+      "popularity": 57,
+      "energy": 6.0,
+      "durationSeconds": 303,
+      "band": 1
+    },
+    {
+      "spotifyId": "1gsaKZJuYe7R30yFdHo1aw",
+      "title": "La Playa",
+      "artist": "La Clinique",
+      "year": 2000,
+      "popularity": 51,
+      "energy": 6.0,
+      "durationSeconds": 292,
+      "band": 1
+    },
+    {
+      "spotifyId": "5f1joOtoMeyppIcJGZQvqJ",
+      "title": "Be Like That - feat. Swae Lee & Khalid",
+      "artist": "Kane Brown, Swae Lee, Khalid",
+      "year": 2020,
+      "popularity": 67,
+      "energy": 6.0,
+      "durationSeconds": 191,
+      "band": 1
+    },
+    {
+      "spotifyId": "5NRtdsFFlmyE8qDMgS08PE",
+      "title": "Running Out Of Time",
+      "artist": "Paramore",
+      "year": 2023,
+      "popularity": 68,
+      "energy": 7.0,
+      "durationSeconds": 192,
+      "band": 1
+    },
+    {
+      "spotifyId": "2KP2670rcQA5XRZyQcVhDK",
+      "title": "Everybody Dance (feat. Nile Rodgers)",
+      "artist": "Cedric Gervais, Franklin, Nile Rodgers",
+      "year": 2020,
+      "popularity": 44,
+      "energy": 8.0,
+      "durationSeconds": 168,
+      "band": 0
+    },
+    {
+      "spotifyId": "7in46wlBseKBTcLi6lyhF9",
+      "title": "Sexy And I Know It",
+      "artist": "LMFAO",
+      "year": 2011,
+      "popularity": 69,
+      "energy": 7.0,
+      "durationSeconds": 199,
+      "band": 1
+    },
+    {
+      "spotifyId": "2X7jfQnEMQYYmvkhr6mzS9",
+      "title": "Brother Louie Mix '98 (feat. Eric Singleton) - Radio Edit",
+      "artist": "Modern Talking, Eric Singleton",
+      "year": 1998,
+      "popularity": 77,
+      "energy": 7.0,
+      "durationSeconds": 204,
+      "band": 2
+    },
+    {
+      "spotifyId": "1f18HzFpegqvH4ibGJyeMJ",
+      "title": "2 hands",
+      "artist": "Tate McRae",
+      "year": 2024,
+      "popularity": 66,
+      "energy": 7.0,
+      "durationSeconds": 181,
+      "band": 1
+    },
+    {
+      "spotifyId": "0JDpQYEIgXGI1MFLzFNQAT",
+      "title": "Ooh La La",
+      "artist": "Coolio",
+      "year": 1997,
+      "popularity": 44,
+      "energy": 5.0,
+      "durationSeconds": 245,
+      "band": 0
+    },
+    {
+      "spotifyId": "5PYQUBXc7NYeI1obMKSJK0",
+      "title": "Never Really Over",
+      "artist": "Katy Perry",
+      "year": 2019,
+      "popularity": 68,
+      "energy": 7.0,
+      "durationSeconds": 223,
+      "band": 1
+    },
+    {
+      "spotifyId": "4FTOpNYcGxnQdGNWSxIcio",
+      "title": "Soldier (feat. T.I. & Lil' Wayne)",
+      "artist": "Destiny's Child, T.I., Lil Wayne",
+      "year": 2004,
+      "popularity": 64,
+      "energy": 5.0,
+      "durationSeconds": 326,
+      "band": 1
+    },
+    {
+      "spotifyId": "5p3ckKoVpUi51ByUmA1vfT",
+      "title": "Bleed (feat. Omar Apollo)",
+      "artist": "Malcolm Todd, Omar Apollo",
+      "year": 2025,
+      "popularity": 65,
+      "energy": 6.0,
+      "durationSeconds": 179,
+      "band": 1
+    },
+    {
+      "spotifyId": "0rKWJnmo6Q0ovoPOLoLm0t",
+      "title": "TOO MUCH",
+      "artist": "The Kid LAROI, Jung Kook, Central Cee",
+      "year": 2023,
+      "popularity": 66,
+      "energy": 6.0,
+      "durationSeconds": 203,
+      "band": 1
+    },
+    {
+      "spotifyId": "1NmfpO2QQurfE0G6D8wIgU",
+      "title": "Work It (feat. 50 Cent) - Remix",
+      "artist": "Missy Elliott, 50 Cent",
+      "year": 2002,
+      "popularity": 57,
+      "energy": 6.0,
+      "durationSeconds": 304,
+      "band": 1
+    },
+    {
+      "spotifyId": "2CYVETnhM9aytqrazYYwrK",
+      "title": "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "year": 2021,
+      "popularity": 70,
+      "energy": 7.0,
+      "durationSeconds": 277,
+      "band": 1
+    },
+    {
+      "spotifyId": "16hY7fOtnNl2expRq0MLa6",
+      "title": "Life or Death",
+      "artist": "Stakz DeVito, Albee Al, Millyz, Showly, Dave East",
+      "year": 2026,
+      "popularity": 49,
+      "energy": 7.0,
+      "durationSeconds": 338,
+      "band": 0
+    },
+    {
+      "spotifyId": "2u9S9JJ6hTZS3Vf22HOZKg",
+      "title": "NOKIA",
+      "artist": "Drake",
+      "year": 2025,
+      "popularity": 93,
+      "energy": 5.0,
+      "durationSeconds": 241,
+      "band": 3
+    },
+    {
+      "spotifyId": "1mSRYGARqsGIypsnTVOjM9",
+      "title": "boss up",
+      "artist": "Gäelle",
+      "year": 2026,
+      "popularity": 45,
+      "energy": 5.0,
+      "durationSeconds": 158,
+      "band": 0
+    },
+    {
+      "spotifyId": "5ACG7ngZo2Gq2O0clHBTMl",
+      "title": "Holidae In",
+      "artist": "Chingy, Ludacris, Snoop Dogg",
+      "year": 2003,
+      "popularity": 62,
+      "energy": 8.0,
+      "durationSeconds": 314,
+      "band": 1
+    },
+    {
+      "spotifyId": "6sIMSl1n3KDPr03Fw8mujd",
+      "title": "Next Lifetime",
+      "artist": "Erykah Badu",
+      "year": 1997,
+      "popularity": 65,
+      "energy": 4.0,
+      "durationSeconds": 387,
+      "band": 1
+    },
+    {
+      "spotifyId": "0FTmksd2dxiE5e3rWyJXs6",
+      "title": "back to friends",
+      "artist": "sombr",
+      "year": 2024,
+      "popularity": 92,
+      "energy": 6.0,
+      "durationSeconds": 199,
+      "band": 3
+    },
+    {
+      "spotifyId": "6LoHl86cjEgGpW02MNkYxq",
+      "title": "Get Buck In Here - Album Version (Edited)",
+      "artist": "DJ Felli Fel, Diddy, Akon, Ludacris, Lil Jon",
+      "year": 2007,
+      "popularity": 42,
+      "energy": 7.0,
+      "durationSeconds": 211,
+      "band": 0
+    },
+    {
+      "spotifyId": "6CCIqr8xROr3jTnXf4GI3B",
+      "title": "Rap Promoter",
+      "artist": "A Tribe Called Quest",
+      "year": 1991,
+      "popularity": 51,
+      "energy": 5.0,
+      "durationSeconds": 133,
+      "band": 1
+    },
+    {
+      "spotifyId": "7fFCnttacpotkyhTOxKv14",
+      "title": "Play",
+      "artist": "Jennifer Lopez",
+      "year": 2001,
+      "popularity": 56,
+      "energy": 6.0,
+      "durationSeconds": 211,
+      "band": 1
+    },
+    {
+      "spotifyId": "5ZrDlcxIDZyjOzHdYW1ydr",
+      "title": "Barbie Girl",
+      "artist": "Aqua",
+      "year": 1997,
+      "popularity": 78,
+      "energy": 6.0,
+      "durationSeconds": 197,
+      "band": 2
+    },
+    {
+      "spotifyId": "5JyIcktAtMpANKqCtEaX6y",
+      "title": "Somebody Else's Lover",
+      "artist": "Total Touch",
+      "year": 1996,
+      "popularity": 44,
+      "energy": 6.0,
+      "durationSeconds": 284,
+      "band": 0
+    },
+    {
+      "spotifyId": "6RWYET2RzXTCOkyxphcqB5",
+      "title": "Shake Ya Tailfeather - Radio",
+      "artist": "Murphy Lee, Nelly, Diddy",
+      "year": 2003,
+      "popularity": 40,
+      "energy": 7.0,
+      "durationSeconds": 295,
+      "band": 0
+    },
+    {
+      "spotifyId": "5TJEBoTCDbJXiKMdCN9pd3",
+      "title": "Hold Me Closer",
+      "artist": "Elton John",
+      "year": 2022,
+      "popularity": 78,
+      "energy": 6.0,
+      "durationSeconds": 202,
+      "band": 2
+    },
+    {
+      "spotifyId": "1OAh8uOEOvTDqkKFsKksCi",
+      "title": "Wild Thoughts",
+      "artist": "DJ Khaled",
+      "year": 2017,
+      "popularity": 79,
+      "energy": 6.0,
+      "durationSeconds": 204,
+      "band": 2
+    },
+    {
+      "spotifyId": "4Fpsa3pYc3gozrxHRRPvR6",
+      "title": "Ray of Light",
+      "artist": "Madonna",
+      "year": 1998,
+      "popularity": 64,
+      "energy": 7.0,
+      "durationSeconds": 322,
+      "band": 1
+    },
+    {
+      "spotifyId": "0w5Bdu51Ka25Pf3hojsKHh",
+      "title": "Hard Times",
+      "artist": "Paramore",
+      "year": 2017,
+      "popularity": 81,
+      "energy": 7.0,
+      "durationSeconds": 182,
+      "band": 2
+    },
+    {
+      "spotifyId": "2qaPgYqEShm6ZYUFXHgYWZ",
+      "title": "new friends",
+      "artist": "flowerovlove",
+      "year": 2025,
+      "popularity": 48,
+      "energy": 7.0,
+      "durationSeconds": 166,
+      "band": 0
+    },
+    {
+      "spotifyId": "6dJ2mSRaKE9ctYw9qWNGWQ",
+      "title": "There You Go",
+      "artist": "P!nk",
+      "year": 2000,
+      "popularity": 58,
+      "energy": 7.0,
+      "durationSeconds": 203,
+      "band": 1
+    },
+    {
+      "spotifyId": "3GfGTJ2xzC0rqKgdjNJLOC",
+      "title": "Mony Mony",
+      "artist": "Billy Idol",
+      "year": 2008,
+      "popularity": 70,
+      "energy": 7.0,
+      "durationSeconds": 300,
+      "band": 1
+    },
+    {
+      "spotifyId": "7oQSevUCbYs4QawXTHQVV1",
+      "title": "Rock DJ",
+      "artist": "Robbie Williams",
+      "year": 2013,
+      "popularity": 57,
+      "energy": 7.0,
+      "durationSeconds": 261,
+      "band": 1
+    },
+    {
+      "spotifyId": "7qhUtJDCu1tYrdkIMPVYRc",
+      "title": "Wake Up",
+      "artist": "Hilary Duff",
+      "year": 2005,
+      "popularity": 55,
+      "energy": 7.0,
+      "durationSeconds": 218,
+      "band": 1
+    },
+    {
+      "spotifyId": "6Sjl4KtCBxaJza3BTTXJE6",
+      "title": "Ghost Boy",
+      "artist": "Jacob Tillberg",
+      "year": 2021,
+      "popularity": 43,
+      "energy": 6.0,
+      "durationSeconds": 208,
+      "band": 0
+    },
+    {
+      "spotifyId": "4lnAN2S1fcI0SjxEbksZVr",
+      "title": "Fetish (feat. Gucci Mane)",
+      "artist": "Selena Gomez, Gucci Mane",
+      "year": 2017,
+      "popularity": 77,
+      "energy": 7.0,
+      "durationSeconds": 186,
+      "band": 2
+    },
+    {
+      "spotifyId": "0DmAvNCAK08oCi7miSZUIY",
+      "title": "Lasting Lover",
+      "artist": "Sigala",
+      "year": 2020,
+      "popularity": 69,
+      "energy": 7.0,
+      "durationSeconds": 218,
+      "band": 1
+    },
+    {
+      "spotifyId": "6t8JpJtI0PgVRSuMDGWZlH",
+      "title": "None Of Ur Friends Business",
+      "artist": "Ginuwine",
+      "year": 1999,
+      "popularity": 70,
+      "energy": 5.0,
+      "durationSeconds": 365,
+      "band": 1
+    },
+    {
+      "spotifyId": "4cxMGhkinTocPSVVKWIw0d",
+      "title": "Losin Control",
+      "artist": "Russ",
+      "year": 2017,
+      "popularity": 76,
+      "energy": 5.0,
+      "durationSeconds": 237,
+      "band": 2
+    },
+    {
+      "spotifyId": "6dgUya35uo964z7GZXM07g",
+      "title": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "year": 2022,
+      "popularity": 83,
+      "energy": 7.0,
+      "durationSeconds": 163,
+      "band": 2
+    },
+    {
+      "spotifyId": "2rtDTRFjBoqyj2rgi5mOAF",
+      "title": "We've Got It Goin' On - Radio Edit",
+      "artist": "Backstreet Boys",
+      "year": 1996,
+      "popularity": 61,
+      "energy": 7.0,
+      "durationSeconds": 219,
+      "band": 1
+    },
+    {
+      "spotifyId": "45OX2jjEw1l7lOFJfDP9fv",
+      "title": "MONEY",
+      "artist": "LISA",
+      "year": 2021,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 168,
+      "band": 1
+    },
+    {
+      "spotifyId": "1I37Zz2g3hk9eWxaNkj031",
+      "title": "Your Idol",
+      "artist": "Saja Boys",
+      "year": 2025,
+      "popularity": 91,
+      "energy": 7.0,
+      "durationSeconds": 191,
+      "band": 3
+    },
+    {
+      "spotifyId": "7EVBYpH1jCK4q1HyJi0WiU",
+      "title": "Poison",
+      "artist": "RIELL",
+      "year": 2025,
+      "popularity": 48,
+      "energy": 7.0,
+      "durationSeconds": 178,
+      "band": 0
+    },
+    {
+      "spotifyId": "7tOcPDj3vyopZ404pY6UuP",
+      "title": "Shooting Stars",
+      "artist": "Bag Raiders",
+      "year": 2009,
+      "popularity": 66,
+      "energy": 7.0,
+      "durationSeconds": 227,
+      "band": 1
+    },
+    {
+      "spotifyId": "3YUMWmx8EJq0DurfuIwoGh",
+      "title": "my future",
+      "artist": "Billie Eilish",
+      "year": 2021,
+      "popularity": 70,
+      "energy": 4.0,
+      "durationSeconds": 210,
+      "band": 1
+    },
+    {
+      "spotifyId": "70pVCVMGjmIWPbWXDwf11e",
+      "title": "petal",
+      "artist": "Ariana Grande",
+      "year": 2026,
+      "popularity": 95,
+      "energy": 6.0,
+      "durationSeconds": 184,
+      "band": 3
+    },
+    {
+      "spotifyId": "2djNsYsA71cIs4A8YaF59J",
+      "title": "WHAT JUST HAPPENED",
+      "artist": "The Kid LAROI",
+      "year": 2023,
+      "popularity": 69,
+      "energy": 7.0,
+      "durationSeconds": 162,
+      "band": 1
+    },
+    {
+      "spotifyId": "1BJJbSX6muJVF2AK7uH1x4",
+      "title": "Move (feat. Camila Cabello)",
+      "artist": "Adam Port",
+      "year": 2024,
+      "popularity": 83,
+      "energy": 6.0,
+      "durationSeconds": 180,
+      "band": 2
+    },
+    {
+      "spotifyId": "6RRNNciQGZEXnqk8SQ9yv5",
+      "title": "You Need To Calm Down",
+      "artist": "Taylor Swift",
+      "year": 2019,
+      "popularity": 77,
+      "energy": 7.0,
+      "durationSeconds": 171,
+      "band": 2
+    },
+    {
+      "spotifyId": "3OWsm3HE35S9x3fgY8tbgh",
+      "title": "Playas Gon' Play",
+      "artist": "3LW",
+      "year": 2000,
+      "popularity": 50,
+      "energy": 6.0,
+      "durationSeconds": 284,
+      "band": 0
+    },
+    {
+      "spotifyId": "5WTxbyWTpoqhdxEN2szOnl",
+      "title": "Everybody (Backstreet's Back) - Extended Version",
+      "artist": "Backstreet Boys",
+      "year": 2001,
+      "popularity": 69,
+      "energy": 7.0,
+      "durationSeconds": 286,
+      "band": 1
+    },
+    {
+      "spotifyId": "1QUyotJH8XoTEan8aZdsiV",
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "year": 2024,
+      "popularity": 85,
+      "energy": 7.0,
+      "durationSeconds": 175,
+      "band": 2
+    },
+    {
+      "spotifyId": "41jDpQ9b2VnVdsYEy2nC7z",
+      "title": "It's A Vibe",
+      "artist": "2 Chainz, Ty Dolla $ign, Trey Songz, Jhené Aiko",
+      "year": 2017,
+      "popularity": 65,
+      "energy": 5.0,
+      "durationSeconds": 210,
+      "band": 1
+    },
+    {
+      "spotifyId": "6MBEjJlXQYXr8dfxDvZuoA",
+      "title": "Do It To It",
+      "artist": "Cherish, Sean Paul",
+      "year": 2006,
+      "popularity": 70,
+      "energy": 6.0,
+      "durationSeconds": 226,
+      "band": 1
+    },
+    {
+      "spotifyId": "29Srmzqyig5Tg5EitFXsb8",
+      "title": "Radar",
+      "artist": "Britney Spears",
+      "year": 2007,
+      "popularity": 62,
+      "energy": 6.0,
+      "durationSeconds": 229,
+      "band": 1
+    },
+    {
+      "spotifyId": "0P6CPJrNJ1Zt755CQTWg3S",
+      "title": "C'est La Vie",
+      "artist": "B*Witched",
+      "year": 1998,
+      "popularity": 64,
+      "energy": 7.0,
+      "durationSeconds": 174,
+      "band": 1
+    },
+    {
+      "spotifyId": "4CcSw8wQAHYf4XNckayPoc",
+      "title": "Walking on Broken Glass",
+      "artist": "Annie Lennox",
+      "year": 1992,
+      "popularity": 67,
+      "energy": 6.0,
+      "durationSeconds": 253,
+      "band": 1
+    },
+    {
+      "spotifyId": "4Bh83s84d9YUiuLzeuF24N",
+      "title": "All Night Long (feat. Puff Daddy)",
+      "artist": "Faith Evans, Diddy",
+      "year": 1998,
+      "popularity": 50,
+      "energy": 7.0,
+      "durationSeconds": 234,
+      "band": 0
+    },
+    {
+      "spotifyId": "68vgtRHr7iZHpzGpon6Jlo",
+      "title": "My Boo",
+      "artist": "USHER",
+      "year": 2004,
+      "popularity": 83,
+      "energy": 6.0,
+      "durationSeconds": 223,
+      "band": 2
+    },
+    {
+      "spotifyId": "0mYYDj882nEd5qzldZJ39o",
+      "title": "Because Of You - Remix",
+      "artist": "Ne-Yo, Kanye West",
+      "year": 2007,
+      "popularity": 51,
+      "energy": 6.0,
+      "durationSeconds": 225,
+      "band": 1
+    },
+    {
+      "spotifyId": "2Jmo3B3MXTKddplyXDBZwY",
+      "title": "To the Moon & Back",
+      "artist": "Savage Garden",
+      "year": 1997,
+      "popularity": 68,
+      "energy": 5.0,
+      "durationSeconds": 341,
+      "band": 1
+    },
+    {
+      "spotifyId": "2grJZhuW8wzL6ThDVy7Eqs",
+      "title": "Right Thurr - Remix/Explicit",
+      "artist": "Chingy, Jermaine Dupri, Trina",
+      "year": 2003,
+      "popularity": 58,
+      "energy": 6.0,
+      "durationSeconds": 223,
+      "band": 1
+    },
+    {
+      "spotifyId": "5IZc3KIVFhjzJ0L2kiXzUl",
+      "title": "Promise",
+      "artist": "Kid Ink",
+      "year": 2015,
+      "popularity": 65,
+      "energy": 7.0,
+      "durationSeconds": 224,
+      "band": 1
+    },
+    {
+      "spotifyId": "1jI1aLmm5HTwiMtvsbwDJw",
+      "title": "Who Do You Think You Are",
+      "artist": "Spice Girls",
+      "year": 1996,
+      "popularity": 61,
+      "energy": 7.0,
+      "durationSeconds": 240,
+      "band": 1
+    },
+    {
+      "spotifyId": "6kex4EBAj0WHXDKZMEJaaF",
+      "title": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+      "artist": "Jason Derulo, Nicki Minaj, Ty Dolla $ign",
+      "year": 2017,
+      "popularity": 72,
+      "energy": 7.0,
+      "durationSeconds": 216,
+      "band": 2
+    },
+    {
+      "spotifyId": "6H7w7e8zC8QYJyqe7fZHVa",
+      "title": "Lean Back",
+      "artist": "Terror Squad",
+      "year": 2004,
+      "popularity": 73,
+      "energy": 6.0,
+      "durationSeconds": 247,
+      "band": 2
+    },
+    {
+      "spotifyId": "1q51MejmtLKEv8mABG8XRE",
+      "title": "Sexy Can I",
+      "artist": "Ray J, Yung Berg",
+      "year": 2008,
+      "popularity": 70,
+      "energy": 7.0,
+      "durationSeconds": 204,
+      "band": 1
+    },
+    {
+      "spotifyId": "4HB7ECLzrbgapiZyLlFbxz",
+      "title": "Never Walk Alone",
+      "artist": "BLOND:ISH, Stevie Appleton",
+      "year": 2024,
+      "popularity": 64,
+      "energy": 7.0,
+      "durationSeconds": 188,
+      "band": 1
+    },
+    {
+      "spotifyId": "68lbSrXDORS51pmyjZv712",
+      "title": "SWIM",
+      "artist": "BTS",
+      "year": 2026,
+      "popularity": 92,
+      "energy": 7.0,
+      "durationSeconds": 159,
+      "band": 3
+    },
+    {
+      "spotifyId": "0WgLpgUdThEpA5L5K0SKq7",
+      "title": "Gangsta Lovin'",
+      "artist": "Eve, Alicia Keys",
+      "year": 2002,
+      "popularity": 66,
+      "energy": 7.0,
+      "durationSeconds": 239,
+      "band": 1
+    },
+    {
+      "spotifyId": "3yOlyBJuViE2YSGn3nVE1K",
+      "title": "My Oh My",
+      "artist": "Camila Cabello, DaBaby",
+      "year": 2019,
+      "popularity": 76,
+      "energy": 5.0,
+      "durationSeconds": 170,
+      "band": 2
+    },
+    {
+      "spotifyId": "6CbcdeTQKj0qTaZTt0xkdk",
+      "title": "Happy",
+      "artist": "Ashanti",
+      "year": 2002,
+      "popularity": 67,
+      "energy": 6.0,
+      "durationSeconds": 262,
+      "band": 1
+    },
+    {
+      "spotifyId": "11xC6P3iKYpFThT6Ce1KdG",
+      "title": "Attention",
+      "artist": "Doja Cat",
+      "year": 2023,
+      "popularity": 61,
+      "energy": 6.0,
+      "durationSeconds": 277,
+      "band": 1
+    },
+    {
+      "spotifyId": "2Fxmhks0bxGSBdJ92vM42m",
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "year": 2019,
+      "popularity": 83,
+      "energy": 4.0,
+      "durationSeconds": 194,
+      "band": 2
+    },
+    {
+      "spotifyId": "0zRezEuKtaAXHcB4eruwi2",
+      "title": "I Don’t Think That I Like Her",
+      "artist": "Charlie Puth",
+      "year": 2022,
+      "popularity": 63,
+      "energy": 7.0,
+      "durationSeconds": 189,
+      "band": 1
+    },
+    {
+      "spotifyId": "0sPs2Nm4rPaM79v3IiG2iY",
+      "title": "Dance With Me",
+      "artist": "Besomorph, RIELL",
+      "year": 2023,
+      "popularity": 44,
+      "energy": 6.0,
+      "durationSeconds": 142,
+      "band": 0
+    },
+    {
+      "spotifyId": "1Hv1VTm8zeOeybub15mA2R",
+      "title": "Smooth Operator - Single Version",
+      "artist": "Sade",
+      "year": 1994,
+      "popularity": 80,
+      "energy": 5.0,
+      "durationSeconds": 258,
+      "band": 2
+    },
+    {
+      "spotifyId": "3AszgPDZd9q0DpDFt4HFBy",
+      "title": "Hey Ya!",
+      "artist": "Outkast",
+      "year": 2003,
+      "popularity": 60,
+      "energy": 6.0,
+      "durationSeconds": 239,
+      "band": 1
+    },
+    {
+      "spotifyId": "7xUVverKyPPPAW3sDqXhfi",
+      "title": "Truly Madly Deeply",
+      "artist": "Savage Garden",
+      "year": 2005,
+      "popularity": 51,
+      "energy": 4.0,
+      "durationSeconds": 279,
+      "band": 1
+    },
+    {
+      "spotifyId": "28pCepAdwvCSfqdoVWDw67",
+      "title": "Ain't It Funny - Murder Remix",
+      "artist": "Jennifer Lopez, Ja Rule, Cadillac Tah",
+      "year": 1999,
+      "popularity": 51,
+      "energy": 4.0,
+      "durationSeconds": 230,
+      "band": 1
+    },
+    {
+      "spotifyId": "1KGi9sZVMeszgZOWivFpxs",
+      "title": "No Scrubs",
+      "artist": "TLC",
+      "year": 1999,
+      "popularity": 90,
+      "energy": 6.0,
+      "durationSeconds": 214,
+      "band": 3
+    },
+    {
+      "spotifyId": "70SUqMnl69mui5lpfebWJk",
+      "title": "What Have I Done to Deserve This? (with Dusty Springfield)",
+      "artist": "Pet Shop Boys, Dusty Springfield",
+      "year": 1998,
+      "popularity": 67,
+      "energy": 7.0,
+      "durationSeconds": 260,
+      "band": 1
+    },
+    {
+      "spotifyId": "45hOioMDJktr86iKDHC8gr",
+      "title": "Girlfriend",
+      "artist": "Avril Lavigne",
+      "year": 2007,
+      "popularity": 81,
+      "energy": 8.0,
+      "durationSeconds": 216,
+      "band": 2
+    },
+    {
+      "spotifyId": "534uVo4uYZdzYdiLFaQutd",
+      "title": "stay",
+      "artist": "Gloria Kim",
+      "year": 2026,
+      "popularity": 46,
+      "energy": 6.0,
+      "durationSeconds": 156,
+      "band": 0
+    },
+    {
+      "spotifyId": "37UCSVSqiPGdR1DijOFyYY",
+      "title": "Midnight Sun",
+      "artist": "Zara Larsson",
+      "year": 2025,
+      "popularity": 84,
+      "energy": 6.0,
+      "durationSeconds": 189,
+      "band": 2
+    },
+    {
+      "spotifyId": "2P4OICZRVAQcYAV2JReRfj",
+      "title": "Waiting For Love",
+      "artist": "Avicii",
+      "year": 2015,
+      "popularity": 84,
+      "energy": 7.0,
+      "durationSeconds": 230,
+      "band": 2
+    },
+    {
+      "spotifyId": "5Muvh0ooAJkSgBylFyI3su",
+      "title": "Steal My Sunshine - Single Version",
+      "artist": "LEN",
+      "year": 1999,
+      "popularity": 58,
+      "energy": 6.0,
+      "durationSeconds": 211,
+      "band": 1
+    },
+    {
+      "spotifyId": "7qCIP5KHYy9HuXbEEWzmC7",
+      "title": "Pure Massacre",
+      "artist": "Silverchair",
+      "year": 1995,
+      "popularity": 55,
+      "energy": 6.0,
+      "durationSeconds": 299,
+      "band": 1
+    },
+    {
+      "spotifyId": "1GsSM1Fju5J1Fsu51jEsTg",
+      "title": "tears in the club (feat. the weeknd)",
+      "artist": "FKA twigs, The Weeknd",
+      "year": 2022,
+      "popularity": 55,
+      "energy": 6.0,
+      "durationSeconds": 197,
+      "band": 1
+    },
+    {
+      "spotifyId": "3yMC1KsTwh0ceXdIe4QQAQ",
+      "title": "Fingers Crossed",
+      "artist": "Lauren Spencer Smith",
+      "year": 2022,
+      "popularity": 60,
+      "energy": 4.0,
+      "durationSeconds": 175,
+      "band": 1
+    },
+    {
+      "spotifyId": "0uWxEqglIY3eZV3jvinn66",
+      "title": "What's Your Fantasy",
+      "artist": "Ludacris",
+      "year": 2000,
+      "popularity": 69,
+      "energy": 5.0,
+      "durationSeconds": 275,
+      "band": 1
+    },
+    {
+      "spotifyId": "0mjAU3yKR1QnXnHtjGJqTM",
+      "title": "Rescue Me",
+      "artist": "OneRepublic",
+      "year": 2019,
+      "popularity": 64,
+      "energy": 6.0,
+      "durationSeconds": 159,
+      "band": 1
+    },
+    {
+      "spotifyId": "45Z3m6yazmAi4jZuW0tzW0",
+      "title": "Aperture",
+      "artist": "Harry Styles",
+      "year": 2026,
+      "popularity": 74,
+      "energy": 6.0,
+      "durationSeconds": 312,
+      "band": 2
+    },
+    {
+      "spotifyId": "6iYxkBHyMpsgVxUgfy5fSx",
+      "title": "ALL MY LOVE",
+      "artist": "Coldplay",
+      "year": 2024,
+      "popularity": 55,
+      "energy": 5.0,
+      "durationSeconds": 222,
+      "band": 1
+    },
+    {
+      "spotifyId": "2ilGFcW82jinSytbJIyzCm",
+      "title": "Sometimes - Mix #9",
+      "artist": "Erykah Badu",
+      "year": 1997,
+      "popularity": 47,
+      "energy": 5.0,
+      "durationSeconds": 44,
+      "band": 0
+    },
+    {
+      "spotifyId": "1gDKd8tOeFqWqkyVspdFZ1",
+      "title": "All the Time in the World",
+      "artist": "Retrofile",
+      "year": 2025,
+      "popularity": 50,
+      "energy": 6.0,
+      "durationSeconds": 252,
+      "band": 0
+    },
+    {
+      "spotifyId": "3VKGJUtO3081qVFocvE6xk",
+      "title": "Archangel",
+      "artist": "Besomorph",
+      "year": 2026,
+      "popularity": 51,
+      "energy": 6.0,
+      "durationSeconds": 226,
+      "band": 1
+    },
+    {
+      "spotifyId": "0lMbuWUpfTWhEmOKxppEau",
+      "title": "Rollin (feat. Future & Khalid)",
+      "artist": "Calvin Harris",
+      "year": 2017,
+      "popularity": 64,
+      "energy": 6.0,
+      "durationSeconds": 272,
+      "band": 1
+    },
+    {
+      "spotifyId": "4GIsskMpViPkt0uzPJTJSp",
+      "title": "Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",
+      "artist": "The Notorious B.I.G., Avery Storm, Diddy, Jagged Edge, Nelly",
+      "year": 2005,
+      "popularity": 68,
+      "energy": 6.0,
+      "durationSeconds": 286,
+      "band": 1
+    },
+    {
+      "spotifyId": "2gnP10XdjvCyshnV1qODWQ",
+      "title": "The Way You Move (feat. Sleepy Brown) - Radio Mix",
+      "artist": "Outkast, Sleepy Brown",
+      "year": 2003,
+      "popularity": 49,
+      "energy": 6.0,
+      "durationSeconds": 236,
+      "band": 0
+    },
+    {
+      "spotifyId": "6BQrmjAgPfPTwILoFEK3Hd",
+      "title": "I Wish you Roses",
+      "artist": "Kali Uchis",
+      "year": 2023,
+      "popularity": 56,
+      "energy": 6.0,
+      "durationSeconds": 226,
+      "band": 1
+    },
+    {
+      "spotifyId": "2M8tI5gnzbtV2Cy4jejI7e",
+      "title": "Luxury: Cococure - Remastered 2018",
+      "artist": "Maxwell",
+      "year": 1998,
+      "popularity": 44,
+      "energy": 6.0,
+      "durationSeconds": 332,
+      "band": 0
+    },
+    {
+      "spotifyId": "1tMRh8jiYlmatpVeWWesCe",
+      "title": "On My Mind",
+      "artist": "Alex Warren, ROSÉ",
+      "year": 2025,
+      "popularity": 69,
+      "energy": 6.0,
+      "durationSeconds": 189,
+      "band": 1
+    },
+    {
+      "spotifyId": "4pMyfWdA0eo3JY5RqMotbw",
+      "title": "Perfect Day",
+      "artist": "Hoku",
+      "year": 2005,
+      "popularity": 63,
+      "energy": 8.0,
+      "durationSeconds": 209,
+      "band": 1
+    },
+    {
+      "spotifyId": "55whbebR4olz2HHcRQa2kx",
+      "title": "Sorry",
+      "artist": "Madonna",
+      "year": 2005,
+      "popularity": 71,
+      "energy": 8.0,
+      "durationSeconds": 281,
+      "band": 2
+    },
+    {
+      "spotifyId": "31AOj9sFz2gM0O3hMARRBx",
+      "title": "Losing My Religion",
+      "artist": "R.E.M.",
+      "year": 1991,
+      "popularity": 89,
+      "energy": 6.0,
+      "durationSeconds": 268,
+      "band": 2
+    },
+    {
+      "spotifyId": "5jOvmh1DYmaiBPETL6HCRY",
+      "title": "Waiting for Tonight",
+      "artist": "Jennifer Lopez",
+      "year": 2012,
+      "popularity": 68,
+      "energy": 7.0,
+      "durationSeconds": 247,
+      "band": 1
+    },
+    {
+      "spotifyId": "3tHAB8FI4rfULUHHG1d2Ct",
+      "title": "Whatever (Radio Edit)",
+      "artist": "Ideal",
+      "year": 1999,
+      "popularity": 57,
+      "energy": 5.0,
+      "durationSeconds": 228,
+      "band": 1
+    },
+    {
+      "spotifyId": "3HbDHG6oHKjc6mc9JREW7T",
+      "title": "Dr. Beat",
+      "artist": "Miami Sound Machine",
+      "year": 2010,
+      "popularity": 49,
+      "energy": 7.0,
+      "durationSeconds": 256,
+      "band": 0
+    },
+    {
+      "spotifyId": "5dNfHmqgr128gMY2tc5CeJ",
+      "title": "Ignition - Remix",
+      "artist": "R. Kelly",
+      "year": 2003,
+      "popularity": 71,
+      "energy": 6.0,
+      "durationSeconds": 186,
+      "band": 2
+    }
+  ],
+  "generatedAt": "2026-10-31T17:22:52"
+}
